@@ -1,0 +1,229 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DINOv3 Repositories",
+    "home_page_url": "https://cdekort.github.io/github-search-rss/dinov3-repos.json",
+    "feed_url": "https://cdekort.github.io/github-search-rss/dinov3-repos.json",
+    "description": "DINOv3 Repositories on GitHub",
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19968251?u=7b90548c516a875a70b037fc63dddf36b07dc8ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Dual-mode visual retrieval system with object recognition (DINOv3) and face recognition (InsightFace), CPU-optimized with ONNX Runtime 双模式视觉检索系统：DINOv3 实物识别 + InsightFace 人脸识别，ONNX Runtime CPU优化</div>",
+            "url": "https://github.com/QingHeYang/KoalaqVision",
+            "title": "QingHeYang/KoalaqVision:  Dual-mode visual retrieval system with object recognition (DINOv3) and face recognition (InsightFace), CPU-optimized with ONNX Runtime 双模式视觉检索系统：DINOv3 实物识别 + InsightFace 人脸识别，ONNX Runtime CPU优化",
+            "date_modified": "2025-10-23T09:21:19.000Z",
+            "date_published": "2025-10-23T08:41:54.000Z",
+            "author": {
+                "name": "QingHeYang",
+                "url": "https://github.com/QingHeYang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87107433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Joy2001Chen/dinov3-weather",
+            "title": "Joy2001Chen/dinov3-weather",
+            "date_modified": "2025-10-23T08:57:29.000Z",
+            "date_published": "2025-10-23T08:56:07.000Z",
+            "author": {
+                "name": "Joy2001Chen",
+                "url": "https://github.com/Joy2001Chen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3训练示例</div>",
+            "url": "https://github.com/little51/dinov3-train",
+            "title": "little51/dinov3-train: DINOv3训练示例",
+            "date_modified": "2025-10-23T08:51:42.000Z",
+            "date_published": "2025-09-26T13:47:21.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3例子</div>",
+            "url": "https://github.com/little51/dinov3-samples",
+            "title": "little51/dinov3-samples: dinov3例子",
+            "date_modified": "2025-10-23T08:51:14.000Z",
+            "date_published": "2025-09-16T04:51:48.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2025-10-23T08:37:27.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.</div>",
+            "url": "https://github.com/PINTO0309/gazelle-dinov3",
+            "title": "PINTO0309/gazelle-dinov3: Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.",
+            "date_modified": "2025-10-23T08:11:38.000Z",
+            "date_published": "2025-10-18T03:45:12.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2025-10-23T06:45:51.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>",
+            "url": "https://github.com/nam-htran/RT-DisDINOV3",
+            "title": "nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result",
+            "date_modified": "2025-10-23T06:00:26.000Z",
+            "date_published": "2025-10-22T15:53:35.000Z",
+            "author": {
+                "name": "nam-htran",
+                "url": "https://github.com/nam-htran"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26238447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Image Matching (Docker Based)</div>",
+            "url": "https://github.com/ZachNK/ImgMatching_DINOv3",
+            "title": "ZachNK/ImgMatching_DINOv3: DINOv3 Image Matching (Docker Based)",
+            "date_modified": "2025-10-23T05:43:49.000Z",
+            "date_published": "2025-10-20T08:44:10.000Z",
+            "author": {
+                "name": "ZachNK",
+                "url": "https://github.com/ZachNK"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
+            "url": "https://github.com/facebookresearch/dinov3",
+            "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
+            "date_modified": "2025-10-23T09:08:27.000Z",
+            "date_published": "2025-08-07T14:11:34.000Z",
+            "author": {
+                "name": "facebookresearch",
+                "url": "https://github.com/facebookresearch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198270932?u=63f67ddecf692f431eca925af3dd337f41d4e9b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised glomeruli detection in kidney histopathology using DINOv3 + QuPath extension</div>",
+            "url": "https://github.com/Niloofar-SecML/DINO-Hunters-Pathology",
+            "title": "Niloofar-SecML/DINO-Hunters-Pathology: Unsupervised glomeruli detection in kidney histopathology using DINOv3 + QuPath extension",
+            "date_modified": "2025-10-22T16:15:27.000Z",
+            "date_published": "2025-10-22T05:59:20.000Z",
+            "author": {
+                "name": "Niloofar-SecML",
+                "url": "https://github.com/Niloofar-SecML"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43284454?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fine Tuning Dinov3 on Large large datasets using custom training setup </div>",
+            "url": "https://github.com/apcarita/TuneADino",
+            "title": "apcarita/TuneADino: Fine Tuning Dinov3 on Large large datasets using custom training setup ",
+            "date_modified": "2025-10-22T14:08:48.000Z",
+            "date_published": "2025-10-22T14:08:43.000Z",
+            "author": {
+                "name": "apcarita",
+                "url": "https://github.com/apcarita"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57102493?u=0e453539f69ff2e7c4b53c257a87b47d7366be1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。</div>",
+            "url": "https://github.com/CSsaan/SceneRecognitionCNN",
+            "title": "CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。",
+            "date_modified": "2025-10-22T08:13:28.000Z",
+            "date_published": "2025-10-17T06:20:34.000Z",
+            "author": {
+                "name": "CSsaan",
+                "url": "https://github.com/CSsaan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93419484?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>use Dinov3 replace RF-DETR backbone</div>",
+            "url": "https://github.com/bailanlao/RF-DETR-Dinov3",
+            "title": "bailanlao/RF-DETR-Dinov3: use Dinov3 replace RF-DETR backbone",
+            "date_modified": "2025-10-22T07:24:46.000Z",
+            "date_published": "2025-09-12T12:21:58.000Z",
+            "author": {
+                "name": "bailanlao",
+                "url": "https://github.com/bailanlao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
+            "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
+            "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
+            "date_modified": "2025-10-23T08:32:12.000Z",
+            "date_published": "2025-09-19T02:27:19.000Z",
+            "author": {
+                "name": "Intellindust-AI-Lab",
+                "url": "https://github.com/Intellindust-AI-Lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Sompote/DINOV3-YOLOV12",
+            "title": "Sompote/DINOV3-YOLOV12",
+            "date_modified": "2025-10-22T04:50:39.000Z",
+            "date_published": "2025-09-14T01:06:52.000Z",
+            "author": {
+                "name": "Sompote",
+                "url": "https://github.com/Sompote"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19193291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/davidackerman/dinov3_playground",
+            "title": "davidackerman/dinov3_playground",
+            "date_modified": "2025-10-22T01:31:05.000Z",
+            "date_published": "2025-09-26T16:53:48.000Z",
+            "author": {
+                "name": "davidackerman",
+                "url": "https://github.com/davidackerman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90072939?u=e58fbcc6d2ec2d9fdf72bca5d1b5cc5ee4907883&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>We’re looking forward to models based on DINOv3. Rankings include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3</div>",
+            "url": "https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings",
+            "title": "AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. Rankings include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3",
+            "date_modified": "2025-10-21T19:47:43.000Z",
+            "date_published": "2023-09-01T21:38:33.000Z",
+            "author": {
+                "name": "AIVFI",
+                "url": "https://github.com/AIVFI"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5531865?u=493b91d27244f898058dee82ea47a78ad97d6625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/wkanashiro/fork-dinov3",
+            "title": "wkanashiro/fork-dinov3",
+            "date_modified": "2025-10-21T19:42:14.000Z",
+            "date_published": "2025-10-21T19:42:13.000Z",
+            "author": {
+                "name": "wkanashiro",
+                "url": "https://github.com/wkanashiro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ROS 2 integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks.</div>",
+            "url": "https://github.com/Raessan/dinov3_ros",
+            "title": "Raessan/dinov3_ros: ROS 2 integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks.",
+            "date_modified": "2025-10-22T03:00:53.000Z",
+            "date_published": "2025-08-24T16:23:27.000Z",
+            "author": {
+                "name": "Raessan",
+                "url": "https://github.com/Raessan"
+            }
+        }
+    ]
+}
