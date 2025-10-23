@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169932433?u=294b998782b29ae4d019624803a4a3e7a662d63c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performed image analysis on EmoryCXRv2 Chest X-Ray images to test the quality of embeddings capturing a manullay injected noise of 16 and 64 pixels across 137k images and perfoemd disease classification on Cardiomegaly, Lung Lesion and Edema. </div>",
+            "url": "https://github.com/RaajithaMuthyala/ImageAnalysis_Dinov3-RAD-DINO-EmoryCXRv2",
+            "title": "RaajithaMuthyala/ImageAnalysis_Dinov3-RAD-DINO-EmoryCXRv2: Performed image analysis on EmoryCXRv2 Chest X-Ray images to test the quality of embeddings capturing a manullay injected noise of 16 and 64 pixels across 137k images and perfoemd disease classification on Cardiomegaly, Lung Lesion and Edema. ",
+            "date_modified": "2025-10-23T12:24:55.000Z",
+            "date_published": "2025-10-23T12:23:10.000Z",
+            "author": {
+                "name": "RaajithaMuthyala",
+                "url": "https://github.com/RaajithaMuthyala"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.</div>",
             "url": "https://github.com/PINTO0309/gazelle-dinov3",
             "title": "PINTO0309/gazelle-dinov3: Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.",
-            "date_modified": "2025-10-23T11:48:58.000Z",
+            "date_modified": "2025-10-23T12:47:38.000Z",
             "date_published": "2025-10-18T03:45:12.000Z",
             "author": {
                 "name": "PINTO0309",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2025-10-23T11:20:50.000Z",
+            "date_modified": "2025-10-23T12:35:28.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
             "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
             "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2025-10-23T11:59:39.000Z",
+            "date_modified": "2025-10-23T12:51:46.000Z",
             "date_published": "2025-09-19T02:27:19.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wkanashiro",
                 "url": "https://github.com/wkanashiro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ROS 2 integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks.</div>",
-            "url": "https://github.com/Raessan/dinov3_ros",
-            "title": "Raessan/dinov3_ros: ROS 2 integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks.",
-            "date_modified": "2025-10-22T03:00:53.000Z",
-            "date_published": "2025-08-24T16:23:27.000Z",
-            "author": {
-                "name": "Raessan",
-                "url": "https://github.com/Raessan"
             }
         }
     ]
