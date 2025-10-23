@@ -11,7 +11,6 @@ const BASE_URL = "https://azu.github.io/github-search-rss";
 // TYPE references
 // https://docs.github.com/en/graphql/reference/queries#searchresultitemconnection
 export const SEARCH_ITEMS: RSSItem[] = [
-    // Issue
     {
      title: "DINOv3 Repositories",
      searchQuery: "dinov3 fork:false",
