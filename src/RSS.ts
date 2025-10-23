@@ -4,7 +4,7 @@
  **/
 import { RSSItem } from "./index";
 
-const BASE_URL = "https://azu.github.io/github-search-rss";
+const BASE_URL = "https://cdekort.github.io/github-search-rss";
 // Query references
 // https://docs.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax
 // https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
@@ -12,8 +12,9 @@ const BASE_URL = "https://azu.github.io/github-search-rss";
 // https://docs.github.com/en/graphql/reference/queries#searchresultitemconnection
 export const SEARCH_ITEMS: RSSItem[] = [
     {
-     title: "DINOv3 Repositories",
-     searchQuery: "dinov3 fork:false",
-     output: "dinov3-repos.rss"
-   }
+        title: "DINOv3 Repositories",
+        query: "dinov3 fork:false sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: 'https://cdekort.github.io/github-search-rss/dinov3-repos.json",
+    },
 ];
