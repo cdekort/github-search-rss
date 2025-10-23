@@ -12,10 +12,10 @@ const BASE_URL = "https://cdekort.github.io/github-search-rss";
 // https://docs.github.com/en/graphql/reference/queries#searchresultitemconnection
 export const SEARCH_ITEMS: RSSItem[] = [
     {
-        title: "LightWeight JavaScript repositories",
-        query: "lightweight language:javascript language:typescript sort:updated-desc",
+        title: "DINOv3 Repositories",
+        query: "dinov3 fork:false sort:updated-desc",
         TYPE: "REPOSITORY",
-        link: `${BASE_URL}/lightweight-javascript-repo.json`
+        link: `${BASE_URL}/dinov3-repos.json`,
     },
 
 ];
