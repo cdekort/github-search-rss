@@ -14,7 +14,7 @@ export const SEARCH_ITEMS: RSSItem[] = [
     {
         title: "DINOv3 Repositories",
         query: "dinov3 fork:false sort:updated-desc",
-        TYPE: "REPOSITORY",
+        TYPE: "repo",
         link: 'https://cdekort.github.io/github-search-rss/dinov3-repos.json",
     },
 ];
