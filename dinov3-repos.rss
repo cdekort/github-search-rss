@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-24T09:03:17.848Z</updated>
+    <updated>2025-10-24T10:03:15.835Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[RobvanGastel/dinov3-finetune: Testing adaptation of the DINOv2/3 encoders for vision tasks with Low-Rank Adaptation (LoRA) ]]></title>
+        <id>https://github.com/RobvanGastel/dinov3-finetune</id>
+        <link href="https://github.com/RobvanGastel/dinov3-finetune"/>
+        <updated>2025-10-24T09:31:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10989988?u=502b123d5cea37ca569f76261e89c43540380cf8&v=4" width="64" height="64" alt=""/><br/><div>Testing adaptation of the DINOv2/3 encoders for vision tasks with Low-Rank Adaptation (LoRA) </div>]]></content>
+        <author>
+            <name>RobvanGastel</name>
+            <email>RobvanGastel@noreply.github.com</email>
+            <uri>https://github.com/RobvanGastel</uri>
+        </author>
+        <published>2024-06-01T11:02:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZachNK/ImgMatching_DINOv3: DINOv3 Image Matching (Docker Based)]]></title>
+        <id>https://github.com/ZachNK/ImgMatching_DINOv3</id>
+        <link href="https://github.com/ZachNK/ImgMatching_DINOv3"/>
+        <updated>2025-10-24T09:44:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26238447?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Image Matching (Docker Based)</div>]]></content>
+        <author>
+            <name>ZachNK</name>
+            <email>ZachNK@noreply.github.com</email>
+            <uri>https://github.com/ZachNK</uri>
+        </author>
+        <published>2025-10-20T08:44:10.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
@@ -37,7 +63,7 @@
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
         <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-10-24T08:03:04.000Z</updated>
+        <updated>2025-10-24T09:04:00.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Sompote</name>
@@ -76,7 +102,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2025-10-24T08:52:10.000Z</updated>
+        <updated>2025-10-24T09:24:43.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -164,23 +190,10 @@
         <published>2025-10-22T15:53:35.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZachNK/ImgMatching_DINOv3: DINOv3 Image Matching (Docker Based)]]></title>
-        <id>https://github.com/ZachNK/ImgMatching_DINOv3</id>
-        <link href="https://github.com/ZachNK/ImgMatching_DINOv3"/>
-        <updated>2025-10-23T05:43:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26238447?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Image Matching (Docker Based)</div>]]></content>
-        <author>
-            <name>ZachNK</name>
-            <email>ZachNK@noreply.github.com</email>
-            <uri>https://github.com/ZachNK</uri>
-        </author>
-        <published>2025-10-20T08:44:10.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-10-24T09:00:17.000Z</updated>
+        <updated>2025-10-24T09:29:11.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/davidackerman</uri>
         </author>
         <published>2025-09-26T16:53:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. Rankings include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
-        <id>https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings</id>
-        <link href="https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings"/>
-        <updated>2025-10-21T19:47:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90072939?u=e58fbcc6d2ec2d9fdf72bca5d1b5cc5ee4907883&v=4" width="64" height="64" alt=""/><br/><div>We’re looking forward to models based on DINOv3. Rankings include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3</div>]]></content>
-        <author>
-            <name>AIVFI</name>
-            <email>AIVFI@noreply.github.com</email>
-            <uri>https://github.com/AIVFI</uri>
-        </author>
-        <published>2023-09-01T21:38:33.000Z</published>
     </entry>
 </feed>
