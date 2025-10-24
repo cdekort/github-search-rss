@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-24T15:03:11.963Z</updated>
+    <updated>2025-10-24T16:03:19.101Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor]]></title>
+        <id>https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3</id>
+        <link href="https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3"/>
+        <updated>2025-10-24T15:23:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89902911?v=4" width="64" height="64" alt=""/><br/><div>This repo leverage the multi-phase information of CT image to segment tumor</div>]]></content>
+        <author>
+            <name>yupu891101</name>
+            <email>yupu891101@noreply.github.com</email>
+            <uri>https://github.com/yupu891101</uri>
+        </author>
+        <published>2025-10-24T15:23:27.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-10-24T14:30:49.000Z</updated>
+        <updated>2025-10-24T15:33:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/CSsaan</uri>
         </author>
         <published>2025-10-17T06:20:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bailanlao/RF-DETR-Dinov3: use Dinov3 replace RF-DETR backbone]]></title>
-        <id>https://github.com/bailanlao/RF-DETR-Dinov3</id>
-        <link href="https://github.com/bailanlao/RF-DETR-Dinov3"/>
-        <updated>2025-10-22T07:24:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/93419484?v=4" width="64" height="64" alt=""/><br/><div>use Dinov3 replace RF-DETR backbone</div>]]></content>
-        <author>
-            <name>bailanlao</name>
-            <email>bailanlao@noreply.github.com</email>
-            <uri>https://github.com/bailanlao</uri>
-        </author>
-        <published>2025-09-12T12:21:58.000Z</published>
     </entry>
 </feed>
