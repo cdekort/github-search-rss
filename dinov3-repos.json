@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2025-10-24T14:30:49.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147618893?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Small codebase for DINOv3 exploration</div>",
             "url": "https://github.com/claganier-turing/DINOv3-exploration",
             "title": "claganier-turing/DINOv3-exploration: Small codebase for DINOv3 exploration",
@@ -17,14 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-10-24T14:01:14.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.</div>",
+            "url": "https://github.com/PINTO0309/gazelle-dinov3",
+            "title": "PINTO0309/gazelle-dinov3: Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.",
+            "date_modified": "2025-10-24T14:12:02.000Z",
+            "date_published": "2025-10-18T03:45:12.000Z",
             "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
             }
         },
         {
@@ -69,17 +80,6 @@
             "author": {
                 "name": "Sompote",
                 "url": "https://github.com/Sompote"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.</div>",
-            "url": "https://github.com/PINTO0309/gazelle-dinov3",
-            "title": "PINTO0309/gazelle-dinov3: Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.",
-            "date_modified": "2025-10-24T03:57:55.000Z",
-            "date_published": "2025-10-18T03:45:12.000Z",
-            "author": {
-                "name": "PINTO0309",
-                "url": "https://github.com/PINTO0309"
             }
         },
         {
@@ -141,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3训练示例</div>",
             "url": "https://github.com/little51/dinov3-train",
             "title": "little51/dinov3-train: DINOv3训练示例",
-            "date_modified": "2025-10-24T07:23:53.000Z",
+            "date_modified": "2025-10-24T14:26:32.000Z",
             "date_published": "2025-09-26T13:47:21.000Z",
             "author": {
                 "name": "little51",
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2025-10-24T13:35:26.000Z",
+            "date_modified": "2025-10-24T14:16:31.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
