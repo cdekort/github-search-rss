@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-25T04:03:02.295Z</updated>
+    <updated>2025-10-25T05:02:55.250Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
+        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
+        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
+        <updated>2025-10-25T04:59:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Sompote</name>
+            <email>Sompote@noreply.github.com</email>
+            <uri>https://github.com/Sompote</uri>
+        </author>
+        <published>2025-09-14T01:06:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PINTO0309/gazelle-dinov3: Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.]]></title>
         <id>https://github.com/PINTO0309/gazelle-dinov3</id>
@@ -97,19 +110,6 @@
             <uri>https://github.com/ZachNK</uri>
         </author>
         <published>2025-10-20T08:44:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
-        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
-        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-10-25T03:28:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Sompote</name>
-            <email>Sompote@noreply.github.com</email>
-            <uri>https://github.com/Sompote</uri>
-        </author>
-        <published>2025-09-14T01:06:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
