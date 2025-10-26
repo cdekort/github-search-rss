@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-26T14:02:54.278Z</updated>
+    <updated>2025-10-26T15:02:53.883Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -102,7 +102,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-10-25T17:38:50.000Z</updated>
+        <updated>2025-10-26T14:48:47.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -128,7 +128,7 @@
         <title type="html"><![CDATA[RobvanGastel/dinov3-finetune: Testing adaptation of the DINOv2/3 encoders for vision tasks with Low-Rank Adaptation (LoRA) ]]></title>
         <id>https://github.com/RobvanGastel/dinov3-finetune</id>
         <link href="https://github.com/RobvanGastel/dinov3-finetune"/>
-        <updated>2025-10-24T09:31:20.000Z</updated>
+        <updated>2025-10-26T14:58:10.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10989988?u=502b123d5cea37ca569f76261e89c43540380cf8&v=4" width="64" height="64" alt=""/><br/><div>Testing adaptation of the DINOv2/3 encoders for vision tasks with Low-Rank Adaptation (LoRA) </div>]]></content>
         <author>
             <name>RobvanGastel</name>
