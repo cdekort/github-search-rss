@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-27T08:04:20.741Z</updated>
+    <updated>2025-10-27T09:03:46.444Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[chenjs123/DINOv3-SVM: To quickly classify images using DINOv3 for feature extraction and train an SVM classifier]]></title>
+        <id>https://github.com/chenjs123/DINOv3-SVM</id>
+        <link href="https://github.com/chenjs123/DINOv3-SVM"/>
+        <updated>2025-10-27T08:41:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50955943?v=4" width="64" height="64" alt=""/><br/><div>To quickly classify images using DINOv3 for feature extraction and train an SVM classifier</div>]]></content>
+        <author>
+            <name>chenjs123</name>
+            <email>chenjs123@noreply.github.com</email>
+            <uri>https://github.com/chenjs123</uri>
+        </author>
+        <published>2025-10-27T07:43:27.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bailanlao/RF-DETR-Dinov3: use Dinov3 replace RF-DETR backbone]]></title>
         <id>https://github.com/bailanlao/RF-DETR-Dinov3</id>
@@ -21,23 +34,10 @@
         <published>2025-09-12T12:21:58.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[chenjs123/DINOv3-SVM: To quickly classify images using DINOv3 for feature extraction and train an SVM classifier]]></title>
-        <id>https://github.com/chenjs123/DINOv3-SVM</id>
-        <link href="https://github.com/chenjs123/DINOv3-SVM"/>
-        <updated>2025-10-27T07:45:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50955943?v=4" width="64" height="64" alt=""/><br/><div>To quickly classify images using DINOv3 for feature extraction and train an SVM classifier</div>]]></content>
-        <author>
-            <name>chenjs123</name>
-            <email>chenjs123@noreply.github.com</email>
-            <uri>https://github.com/chenjs123</uri>
-        </author>
-        <published>2025-10-27T07:43:27.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-10-27T07:20:37.000Z</updated>
+        <updated>2025-10-27T08:51:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -89,7 +89,7 @@
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
         <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-10-27T08:02:49.000Z</updated>
+        <updated>2025-10-27T08:20:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Sompote</name>
@@ -258,7 +258,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-10-27T07:54:07.000Z</updated>
+        <updated>2025-10-27T09:02:41.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
