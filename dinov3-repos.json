@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2025-10-27T06:51:02.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50955943?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>To quickly classify images using DINOv3 for feature extraction and train an SVM classifier</div>",
+            "url": "https://github.com/chenjs123/DINOv3-SVM",
+            "title": "chenjs123/DINOv3-SVM: To quickly classify images using DINOv3 for feature extraction and train an SVM classifier",
+            "date_modified": "2025-10-27T06:24:26.000Z",
+            "date_published": "2025-10-27T06:24:26.000Z",
+            "author": {
+                "name": "chenjs123",
+                "url": "https://github.com/chenjs123"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "little51",
                 "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-10-27T02:47:01.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
             }
         },
         {
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
             "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
             "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2025-10-27T04:16:20.000Z",
+            "date_modified": "2025-10-27T06:59:13.000Z",
             "date_published": "2025-09-19T02:27:19.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2025-10-27T06:03:30.000Z",
+            "date_modified": "2025-10-27T06:36:13.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
                 "url": "https://github.com/facebookresearch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198270932?u=63f67ddecf692f431eca925af3dd337f41d4e9b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised glomeruli detection in kidney histopathology using DINOv3 + QuPath extension</div>",
-            "url": "https://github.com/Niloofar-SecML/DINO-Hunters-Pathology",
-            "title": "Niloofar-SecML/DINO-Hunters-Pathology: Unsupervised glomeruli detection in kidney histopathology using DINOv3 + QuPath extension",
-            "date_modified": "2025-10-22T16:15:27.000Z",
-            "date_published": "2025-10-22T05:59:20.000Z",
-            "author": {
-                "name": "Niloofar-SecML",
-                "url": "https://github.com/Niloofar-SecML"
             }
         }
     ]
