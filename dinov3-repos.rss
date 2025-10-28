@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-28T06:04:11.921Z</updated>
+    <updated>2025-10-28T07:03:02.542Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[bebemdjd/DINOv3-based-Image-Classifier: A PyTorch implementation of an image classification system based on the DINOv3 (self-DIstillation with NO labels) vision transformer. This project provides a complete training pipeline with distributed data parallel (DDP) support, advanced data augmentation, and multiple loss functions including supervised contrastive learning.]]></title>
+        <id>https://github.com/bebemdjd/DINOv3-based-Image-Classifier</id>
+        <link href="https://github.com/bebemdjd/DINOv3-based-Image-Classifier"/>
+        <updated>2025-10-28T07:02:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112637309?u=e665ef89d7c2ac53511cdd54918aa4fb7d0eb173&v=4" width="64" height="64" alt=""/><br/><div>A PyTorch implementation of an image classification system based on the DINOv3 (self-DIstillation with NO labels) vision transformer. This project provides a complete training pipeline with distributed data parallel (DDP) support, advanced data augmentation, and multiple loss functions including supervised contrastive learning.</div>]]></content>
+        <author>
+            <name>bebemdjd</name>
+            <email>bebemdjd@noreply.github.com</email>
+            <uri>https://github.com/bebemdjd</uri>
+        </author>
+        <published>2025-10-28T06:48:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
+        <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
+        <updated>2025-10-28T07:02:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2025-09-19T02:27:19.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -63,7 +89,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-10-28T05:37:20.000Z</updated>
+        <updated>2025-10-28T06:50:23.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -216,19 +242,6 @@
         <published>2024-06-01T11:02:59.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
-        <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2025-10-28T05:08:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2025-09-19T02:27:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RaajithaMuthyala/ImageAnalysis_Dinov3-RAD-DINO-EmoryCXRv2: Performed image analysis on EmoryCXRv2 Chest X-Ray images to test the quality of embeddings capturing a manullay injected noise of 16 and 64 pixels across 137k images and perfoemd disease classification on Cardiomegaly, Lung Lesion and Edema. ]]></title>
         <id>https://github.com/RaajithaMuthyala/ImageAnalysis_Dinov3-RAD-DINO-EmoryCXRv2</id>
         <link href="https://github.com/RaajithaMuthyala/ImageAnalysis_Dinov3-RAD-DINO-EmoryCXRv2"/>
@@ -253,18 +266,5 @@
             <uri>https://github.com/QingHeYang</uri>
         </author>
         <published>2025-10-23T08:41:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joy2001Chen/dinov3-weather]]></title>
-        <id>https://github.com/Joy2001Chen/dinov3-weather</id>
-        <link href="https://github.com/Joy2001Chen/dinov3-weather"/>
-        <updated>2025-10-23T08:57:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87107433?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Joy2001Chen</name>
-            <email>Joy2001Chen@noreply.github.com</email>
-            <uri>https://github.com/Joy2001Chen</uri>
-        </author>
-        <published>2025-10-23T08:56:07.000Z</published>
     </entry>
 </feed>
