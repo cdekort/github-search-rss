@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-29T21:03:02.089Z</updated>
+    <updated>2025-10-29T22:02:50.644Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[quanpham3105/DINOv3-Tracking-Research-CPX-Lab-]]></title>
+        <id>https://github.com/quanpham3105/DINOv3-Tracking-Research-CPX-Lab-</id>
+        <link href="https://github.com/quanpham3105/DINOv3-Tracking-Research-CPX-Lab-"/>
+        <updated>2025-10-29T21:13:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61221633?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>quanpham3105</name>
+            <email>quanpham3105@noreply.github.com</email>
+            <uri>https://github.com/quanpham3105</uri>
+        </author>
+        <published>2025-10-29T21:11:13.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/little51</uri>
         </author>
         <published>2025-09-26T13:47:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
-        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
-        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-10-29T08:23:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Sompote</name>
-            <email>Sompote@noreply.github.com</email>
-            <uri>https://github.com/Sompote</uri>
-        </author>
-        <published>2025-09-14T01:06:52.000Z</published>
     </entry>
 </feed>
