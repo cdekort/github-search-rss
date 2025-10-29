@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-29T15:03:24.896Z</updated>
+    <updated>2025-10-29T16:03:21.382Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor]]></title>
+        <id>https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3</id>
+        <link href="https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3"/>
+        <updated>2025-10-29T15:59:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89902911?v=4" width="64" height="64" alt=""/><br/><div>This repo leverage the multi-phase information of CT image to segment tumor</div>]]></content>
+        <author>
+            <name>yupu891101</name>
+            <email>yupu891101@noreply.github.com</email>
+            <uri>https://github.com/yupu891101</uri>
+        </author>
+        <published>2025-10-24T15:23:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-10-29T15:51:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-10-29T14:49:02.000Z</updated>
+        <updated>2025-10-29T15:51:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -19,6 +45,19 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[david-love121/DINOv3-demo: A simple matplotlib app to demo the capabilities of DINOv3. Uses huggingface transformers to pull meta's pretrained model.]]></title>
+        <id>https://github.com/david-love121/DINOv3-demo</id>
+        <link href="https://github.com/david-love121/DINOv3-demo"/>
+        <updated>2025-10-29T15:28:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49353182?u=8011b83204886d258aefdafd810fde2d84e29831&v=4" width="64" height="64" alt=""/><br/><div>A simple matplotlib app to demo the capabilities of DINOv3. Uses huggingface transformers to pull meta's pretrained model.</div>]]></content>
+        <author>
+            <name>david-love121</name>
+            <email>david-love121@noreply.github.com</email>
+            <uri>https://github.com/david-love121</uri>
+        </author>
+        <published>2025-10-29T15:21:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
@@ -32,19 +71,6 @@
             <uri>https://github.com/getrichthroughcode</uri>
         </author>
         <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-10-29T11:24:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
@@ -154,7 +180,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2025-10-29T12:07:51.000Z</updated>
+        <updated>2025-10-29T15:40:24.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/Sompote</uri>
         </author>
         <published>2025-09-14T01:06:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sankaushik/dinov3_medseg]]></title>
-        <id>https://github.com/sankaushik/dinov3_medseg</id>
-        <link href="https://github.com/sankaushik/dinov3_medseg"/>
-        <updated>2025-10-25T16:20:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/534273?u=fcee834e63af7e2bf77da3d4a376e3c15d006161&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sankaushik</name>
-            <email>sankaushik@noreply.github.com</email>
-            <uri>https://github.com/sankaushik</uri>
-        </author>
-        <published>2025-10-25T16:20:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor]]></title>
-        <id>https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3</id>
-        <link href="https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3"/>
-        <updated>2025-10-25T06:19:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89902911?v=4" width="64" height="64" alt=""/><br/><div>This repo leverage the multi-phase information of CT image to segment tumor</div>]]></content>
-        <author>
-            <name>yupu891101</name>
-            <email>yupu891101@noreply.github.com</email>
-            <uri>https://github.com/yupu891101</uri>
-        </author>
-        <published>2025-10-24T15:23:27.000Z</published>
     </entry>
 </feed>
