@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-29T11:02:56.795Z</updated>
+    <updated>2025-10-29T12:04:42.619Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
+        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
+        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
+        <updated>2025-10-29T11:34:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
+        <author>
+            <name>getrichthroughcode</name>
+            <email>getrichthroughcode@noreply.github.com</email>
+            <uri>https://github.com/getrichthroughcode</uri>
+        </author>
+        <published>2025-09-24T18:53:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-10-29T11:24:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
@@ -24,7 +50,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-10-29T10:30:52.000Z</updated>
+        <updated>2025-10-29T11:45:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -32,19 +58,6 @@
             <uri>https://github.com/facebookresearch</uri>
         </author>
         <published>2025-08-07T14:11:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-10-29T07:14:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[CaedenMotley/SeeRex: Work in progress. Tools and experiments for understanding DINOv3’s internal representations.]]></title>
@@ -214,19 +227,6 @@
             <uri>https://github.com/Sompote</uri>
         </author>
         <published>2025-09-14T01:06:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
-        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
-        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
-        <updated>2025-10-25T19:26:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
-        <author>
-            <name>getrichthroughcode</name>
-            <email>getrichthroughcode@noreply.github.com</email>
-            <uri>https://github.com/getrichthroughcode</uri>
-        </author>
-        <published>2025-09-24T18:53:13.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[sankaushik/dinov3_medseg]]></title>
