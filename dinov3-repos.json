@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134373233?u=28e25f10907e080fec3b444004d9238e31da2bc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Work in progress. Tools and experiments for understanding DINOv3’s internal representations.</div>",
+            "url": "https://github.com/CaedenMotley/SeeRex",
+            "title": "CaedenMotley/SeeRex: Work in progress. Tools and experiments for understanding DINOv3’s internal representations.",
+            "date_modified": "2025-10-29T03:38:30.000Z",
+            "date_published": "2025-10-29T00:29:50.000Z",
+            "author": {
+                "name": "CaedenMotley",
+                "url": "https://github.com/CaedenMotley"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57102493?u=0e453539f69ff2e7c4b53c257a87b47d7366be1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。</div>",
+            "url": "https://github.com/CSsaan/SceneRecognitionCNN",
+            "title": "CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。",
+            "date_modified": "2025-10-29T03:38:22.000Z",
+            "date_published": "2025-10-17T06:20:34.000Z",
+            "author": {
+                "name": "CSsaan",
+                "url": "https://github.com/CSsaan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134373233?u=28e25f10907e080fec3b444004d9238e31da2bc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Work in progress. Tools and experiments for understanding DINOv3’s internal representations.</div>",
-            "url": "https://github.com/CaedenMotley/SeeRex",
-            "title": "CaedenMotley/SeeRex: Work in progress. Tools and experiments for understanding DINOv3’s internal representations.",
-            "date_modified": "2025-10-29T01:54:47.000Z",
-            "date_published": "2025-10-29T00:29:50.000Z",
-            "author": {
-                "name": "CaedenMotley",
-                "url": "https://github.com/CaedenMotley"
             }
         },
         {
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
             "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
             "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2025-10-29T03:11:47.000Z",
+            "date_modified": "2025-10-29T04:02:17.000Z",
             "date_published": "2025-09-19T02:27:19.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2025-10-29T02:35:53.000Z",
+            "date_modified": "2025-10-29T03:49:58.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -190,17 +201,6 @@
             "author": {
                 "name": "sankaushik",
                 "url": "https://github.com/sankaushik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57102493?u=0e453539f69ff2e7c4b53c257a87b47d7366be1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。</div>",
-            "url": "https://github.com/CSsaan/SceneRecognitionCNN",
-            "title": "CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。",
-            "date_modified": "2025-10-25T06:35:35.000Z",
-            "date_published": "2025-10-17T06:20:34.000Z",
-            "author": {
-                "name": "CSsaan",
-                "url": "https://github.com/CSsaan"
             }
         },
         {
