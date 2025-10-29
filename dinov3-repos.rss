@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-29T14:03:13.554Z</updated>
+    <updated>2025-10-29T15:03:24.896Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-10-29T12:13:18.000Z</updated>
+        <updated>2025-10-29T14:49:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -99,6 +99,19 @@
         <published>2025-10-06T19:35:41.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Joy2001Chen/DINOv3-Moving_MNIST]]></title>
+        <id>https://github.com/Joy2001Chen/DINOv3-Moving_MNIST</id>
+        <link href="https://github.com/Joy2001Chen/DINOv3-Moving_MNIST"/>
+        <updated>2025-10-29T14:38:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87107433?u=5c1db843c3120457aae8f56e52c14b3c82a8e09b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Joy2001Chen</name>
+            <email>Joy2001Chen@noreply.github.com</email>
+            <uri>https://github.com/Joy2001Chen</uri>
+        </author>
+        <published>2025-10-28T14:25:47.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[vfph55/DINOv3_cls: single cell classification using DINOv3. ]]></title>
         <id>https://github.com/vfph55/DINOv3_cls</id>
         <link href="https://github.com/vfph55/DINOv3_cls"/>
@@ -154,7 +167,7 @@
         <title type="html"><![CDATA[PINTO0309/gazelle-dinov3: Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.]]></title>
         <id>https://github.com/PINTO0309/gazelle-dinov3</id>
         <link href="https://github.com/PINTO0309/gazelle-dinov3"/>
-        <updated>2025-10-29T12:58:53.000Z</updated>
+        <updated>2025-10-29T14:38:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.</div>]]></content>
         <author>
             <name>PINTO0309</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/yupu891101</uri>
         </author>
         <published>2025-10-24T15:23:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[claganier-turing/DINOv3-exploration: Small codebase for DINOv3 exploration]]></title>
-        <id>https://github.com/claganier-turing/DINOv3-exploration</id>
-        <link href="https://github.com/claganier-turing/DINOv3-exploration"/>
-        <updated>2025-10-24T13:57:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/147618893?v=4" width="64" height="64" alt=""/><br/><div>Small codebase for DINOv3 exploration</div>]]></content>
-        <author>
-            <name>claganier-turing</name>
-            <email>claganier-turing@noreply.github.com</email>
-            <uri>https://github.com/claganier-turing</uri>
-        </author>
-        <published>2025-10-24T13:56:19.000Z</published>
     </entry>
 </feed>
