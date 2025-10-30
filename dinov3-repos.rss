@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-29T23:02:53.976Z</updated>
+    <updated>2025-10-30T00:10:00.058Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[ardaegrioglu/Dinov3SegmentationHead]]></title>
+        <id>https://github.com/ardaegrioglu/Dinov3SegmentationHead</id>
+        <link href="https://github.com/ardaegrioglu/Dinov3SegmentationHead"/>
+        <updated>2025-10-29T23:25:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64137196?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ardaegrioglu</name>
+            <email>ardaegrioglu@noreply.github.com</email>
+            <uri>https://github.com/ardaegrioglu</uri>
+        </author>
+        <published>2025-10-29T23:20:22.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[quanpham3105/DINOv3-Tracking-Research-CPX-Lab-]]></title>
         <id>https://github.com/quanpham3105/DINOv3-Tracking-Research-CPX-Lab-</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/bailanlao</uri>
         </author>
         <published>2025-09-12T12:21:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[little51/dinov3-train: DINOv3训练示例]]></title>
-        <id>https://github.com/little51/dinov3-train</id>
-        <link href="https://github.com/little51/dinov3-train"/>
-        <updated>2025-10-29T12:47:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>DINOv3训练示例</div>]]></content>
-        <author>
-            <name>little51</name>
-            <email>little51@noreply.github.com</email>
-            <uri>https://github.com/little51</uri>
-        </author>
-        <published>2025-09-26T13:47:21.000Z</published>
     </entry>
 </feed>
