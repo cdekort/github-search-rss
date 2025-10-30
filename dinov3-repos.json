@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-10-30T18:01:32.000Z",
+            "date_modified": "2025-10-30T22:33:02.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -36,6 +36,17 @@
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31809647?u=ab78afa2c45862f82b343ff36be4fb1e3d0bb7f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A native Swift implementation of Meta’s DINOv3 using MLX Swift</div>",
+            "url": "https://github.com/vincentamato/MLXDINOv3",
+            "title": "vincentamato/MLXDINOv3: A native Swift implementation of Meta’s DINOv3 using MLX Swift",
+            "date_modified": "2025-10-30T22:18:41.000Z",
+            "date_published": "2025-10-30T15:34:56.000Z",
+            "author": {
+                "name": "vincentamato",
+                "url": "https://github.com/vincentamato"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "adsp-polito",
                 "url": "https://github.com/adsp-polito"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112637309?u=e665ef89d7c2ac53511cdd54918aa4fb7d0eb173&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PyTorch implementation of an image classification system based on the DINOv3 (self-DIstillation with NO labels) vision transformer. This project provides a complete training pipeline with distributed data parallel (DDP) support, advanced data augmentation, and multiple loss functions including supervised contrastive learning.</div>",
-            "url": "https://github.com/bebemdjd/DINOv3-based-Image-Classifier",
-            "title": "bebemdjd/DINOv3-based-Image-Classifier: A PyTorch implementation of an image classification system based on the DINOv3 (self-DIstillation with NO labels) vision transformer. This project provides a complete training pipeline with distributed data parallel (DDP) support, advanced data augmentation, and multiple loss functions including supervised contrastive learning.",
-            "date_modified": "2025-10-28T07:38:25.000Z",
-            "date_published": "2025-10-28T06:48:07.000Z",
-            "author": {
-                "name": "bebemdjd",
-                "url": "https://github.com/bebemdjd"
             }
         }
     ]

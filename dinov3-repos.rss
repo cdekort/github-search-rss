@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-30T22:03:01.469Z</updated>
+    <updated>2025-10-30T23:02:49.832Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-10-30T18:01:32.000Z</updated>
+        <updated>2025-10-30T22:33:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -45,6 +45,19 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vincentamato/MLXDINOv3: A native Swift implementation of Meta’s DINOv3 using MLX Swift]]></title>
+        <id>https://github.com/vincentamato/MLXDINOv3</id>
+        <link href="https://github.com/vincentamato/MLXDINOv3"/>
+        <updated>2025-10-30T22:18:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31809647?u=ab78afa2c45862f82b343ff36be4fb1e3d0bb7f3&v=4" width="64" height="64" alt=""/><br/><div>A native Swift implementation of Meta’s DINOv3 using MLX Swift</div>]]></content>
+        <author>
+            <name>vincentamato</name>
+            <email>vincentamato@noreply.github.com</email>
+            <uri>https://github.com/vincentamato</uri>
+        </author>
+        <published>2025-10-30T15:34:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/adsp-polito</uri>
         </author>
         <published>2025-10-28T08:13:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bebemdjd/DINOv3-based-Image-Classifier: A PyTorch implementation of an image classification system based on the DINOv3 (self-DIstillation with NO labels) vision transformer. This project provides a complete training pipeline with distributed data parallel (DDP) support, advanced data augmentation, and multiple loss functions including supervised contrastive learning.]]></title>
-        <id>https://github.com/bebemdjd/DINOv3-based-Image-Classifier</id>
-        <link href="https://github.com/bebemdjd/DINOv3-based-Image-Classifier"/>
-        <updated>2025-10-28T07:38:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112637309?u=e665ef89d7c2ac53511cdd54918aa4fb7d0eb173&v=4" width="64" height="64" alt=""/><br/><div>A PyTorch implementation of an image classification system based on the DINOv3 (self-DIstillation with NO labels) vision transformer. This project provides a complete training pipeline with distributed data parallel (DDP) support, advanced data augmentation, and multiple loss functions including supervised contrastive learning.</div>]]></content>
-        <author>
-            <name>bebemdjd</name>
-            <email>bebemdjd@noreply.github.com</email>
-            <uri>https://github.com/bebemdjd</uri>
-        </author>
-        <published>2025-10-28T06:48:07.000Z</published>
     </entry>
 </feed>
