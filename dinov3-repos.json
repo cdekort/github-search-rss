@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113793273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>",
+            "url": "https://github.com/getrichthroughcode/dinov3-isic2018-segmentation",
+            "title": "getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone",
+            "date_modified": "2025-10-30T15:02:06.000Z",
+            "date_published": "2025-09-24T18:53:13.000Z",
+            "author": {
+                "name": "getrichthroughcode",
+                "url": "https://github.com/getrichthroughcode"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87107433?u=5c1db843c3120457aae8f56e52c14b3c82a8e09b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Joy2001Chen/DINOv3-Moving_MNIST",
             "title": "Joy2001Chen/DINOv3-Moving_MNIST",
-            "date_modified": "2025-10-30T13:54:33.000Z",
+            "date_modified": "2025-10-30T14:17:41.000Z",
             "date_published": "2025-10-28T14:25:47.000Z",
             "author": {
                 "name": "Joy2001Chen",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31809647?u=ab78afa2c45862f82b343ff36be4fb1e3d0bb7f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A native Swift implementation of Meta's DINOv3</div>",
-            "url": "https://github.com/vincentamato/MLXDINOv3",
-            "title": "vincentamato/MLXDINOv3: A native Swift implementation of Meta's DINOv3",
-            "date_modified": "2025-10-30T11:35:56.000Z",
-            "date_published": "2025-10-30T10:37:16.000Z",
-            "author": {
-                "name": "vincentamato",
-                "url": "https://github.com/vincentamato"
             }
         },
         {
@@ -149,21 +149,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113793273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>",
-            "url": "https://github.com/getrichthroughcode/dinov3-isic2018-segmentation",
-            "title": "getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone",
-            "date_modified": "2025-10-29T11:34:07.000Z",
-            "date_published": "2025-09-24T18:53:13.000Z",
-            "author": {
-                "name": "getrichthroughcode",
-                "url": "https://github.com/getrichthroughcode"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2025-10-30T13:28:06.000Z",
+            "date_modified": "2025-10-30T15:00:27.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "bebemdjd",
                 "url": "https://github.com/bebemdjd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
+            "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
+            "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
+            "date_modified": "2025-10-30T12:50:59.000Z",
+            "date_published": "2025-09-19T02:27:19.000Z",
+            "author": {
+                "name": "Intellindust-AI-Lab",
+                "url": "https://github.com/Intellindust-AI-Lab"
             }
         }
     ]
