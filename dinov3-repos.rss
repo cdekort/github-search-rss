@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-31T14:03:04.668Z</updated>
+    <updated>2025-10-31T15:03:09.697Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result]]></title>
         <id>https://github.com/nam-htran/RT-DisDINOV3</id>
         <link href="https://github.com/nam-htran/RT-DisDINOV3"/>
-        <updated>2025-10-31T13:53:37.000Z</updated>
+        <updated>2025-10-31T14:15:33.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4" width="64" height="64" alt=""/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>]]></content>
         <author>
             <name>nam-htran</name>
@@ -167,7 +167,7 @@
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
         <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-10-31T09:42:20.000Z</updated>
+        <updated>2025-10-31T14:25:24.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Sompote</name>
@@ -258,7 +258,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-10-31T13:12:50.000Z</updated>
+        <updated>2025-10-31T14:56:53.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
