@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-10-31T09:03:16.594Z</updated>
+    <updated>2025-10-31T10:03:16.120Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-10-31T09:59:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result]]></title>
         <id>https://github.com/nam-htran/RT-DisDINOV3</id>
@@ -63,7 +76,7 @@
         <title type="html"><![CDATA[little51/dinov3-samples: dinov3例子]]></title>
         <id>https://github.com/little51/dinov3-samples</id>
         <link href="https://github.com/little51/dinov3-samples"/>
-        <updated>2025-10-31T03:08:08.000Z</updated>
+        <updated>2025-10-31T09:14:24.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>dinov3例子</div>]]></content>
         <author>
             <name>little51</name>
@@ -97,19 +110,6 @@
             <uri>https://github.com/AIVFI</uri>
         </author>
         <published>2023-09-01T21:38:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-10-31T04:47:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[vincentamato/MLXDINOv3: A native Swift implementation of Meta’s DINOv3 using MLX Swift]]></title>
@@ -167,7 +167,7 @@
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
         <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-10-31T02:07:54.000Z</updated>
+        <updated>2025-10-31T09:42:20.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Sompote</name>
