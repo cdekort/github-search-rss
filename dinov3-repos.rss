@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-02T13:07:05.534Z</updated>
+    <updated>2025-11-02T14:02:46.157Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[little51/dinov3-train: DINOv3训练示例]]></title>
+        <id>https://github.com/little51/dinov3-train</id>
+        <link href="https://github.com/little51/dinov3-train"/>
+        <updated>2025-11-02T14:02:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>DINOv3训练示例</div>]]></content>
+        <author>
+            <name>little51</name>
+            <email>little51@noreply.github.com</email>
+            <uri>https://github.com/little51</uri>
+        </author>
+        <published>2025-09-26T13:47:21.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
         <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
@@ -123,19 +136,6 @@
             <uri>https://github.com/little51</uri>
         </author>
         <published>2025-09-16T04:51:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[little51/dinov3-train: DINOv3训练示例]]></title>
-        <id>https://github.com/little51/dinov3-train</id>
-        <link href="https://github.com/little51/dinov3-train"/>
-        <updated>2025-11-02T02:06:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>DINOv3训练示例</div>]]></content>
-        <author>
-            <name>little51</name>
-            <email>little51@noreply.github.com</email>
-            <uri>https://github.com/little51</uri>
-        </author>
-        <published>2025-09-26T13:47:21.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. Rankings include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
