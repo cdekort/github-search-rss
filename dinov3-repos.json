@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43284454?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fine Tuning Dinov3 on Large large datasets using custom training setup </div>",
+            "url": "https://github.com/apcarita/TuneADino",
+            "title": "apcarita/TuneADino: Fine Tuning Dinov3 on Large large datasets using custom training setup ",
+            "date_modified": "2025-11-02T21:58:26.000Z",
+            "date_published": "2025-10-22T14:08:43.000Z",
+            "author": {
+                "name": "apcarita",
+                "url": "https://github.com/apcarita"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43284454?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fine Tuning Dinov3 on Large large datasets using custom training setup </div>",
-            "url": "https://github.com/apcarita/TuneADino",
-            "title": "apcarita/TuneADino: Fine Tuning Dinov3 on Large large datasets using custom training setup ",
-            "date_modified": "2025-11-02T20:43:07.000Z",
-            "date_published": "2025-10-22T14:08:43.000Z",
-            "author": {
-                "name": "apcarita",
-                "url": "https://github.com/apcarita"
             }
         },
         {
