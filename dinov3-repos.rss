@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-03T10:03:12.418Z</updated>
+    <updated>2025-11-03T11:02:49.693Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-03T10:50:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[narcissus01/dinov3_project: 本项目尝试复现开源模型dinov3中dense feature maps与segmentation/depth estimation的相关工作]]></title>
+        <id>https://github.com/narcissus01/dinov3_project</id>
+        <link href="https://github.com/narcissus01/dinov3_project"/>
+        <updated>2025-11-03T10:46:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97780313?u=bcf94cda17764d6833c85ba7a281d5a837fd2c42&v=4" width="64" height="64" alt=""/><br/><div>本项目尝试复现开源模型dinov3中dense feature maps与segmentation/depth estimation的相关工作</div>]]></content>
+        <author>
+            <name>narcissus01</name>
+            <email>narcissus01@noreply.github.com</email>
+            <uri>https://github.com/narcissus01</uri>
+        </author>
+        <published>2025-10-07T09:53:08.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
@@ -32,19 +58,6 @@
             <uri>https://github.com/Intellindust-AI-Lab</uri>
         </author>
         <published>2025-09-19T02:27:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-03T06:10:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[CaptainLegasov/PTQ-in-DinoV3]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/ardaegrioglu</uri>
         </author>
         <published>2025-10-29T23:20:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[quanpham3105/DINOv3-Tracking-Research-CPX-Lab-]]></title>
-        <id>https://github.com/quanpham3105/DINOv3-Tracking-Research-CPX-Lab-</id>
-        <link href="https://github.com/quanpham3105/DINOv3-Tracking-Research-CPX-Lab-"/>
-        <updated>2025-10-29T21:13:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61221633?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>quanpham3105</name>
-            <email>quanpham3105@noreply.github.com</email>
-            <uri>https://github.com/quanpham3105</uri>
-        </author>
-        <published>2025-10-29T21:11:13.000Z</published>
     </entry>
 </feed>
