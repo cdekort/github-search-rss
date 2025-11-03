@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-03T09:03:54.392Z</updated>
+    <updated>2025-11-03T10:03:12.418Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-11-03T09:36:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
@@ -97,19 +110,6 @@
             <uri>https://github.com/PINTO0309</uri>
         </author>
         <published>2025-10-18T03:45:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-11-03T02:59:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[yeshushahua/DINOv3]]></title>
