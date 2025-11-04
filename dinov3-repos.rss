@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-04T21:03:01.929Z</updated>
+    <updated>2025-11-04T22:02:42.854Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[apudasm10/dinov3-plant-classification]]></title>
+        <id>https://github.com/apudasm10/dinov3-plant-classification</id>
+        <link href="https://github.com/apudasm10/dinov3-plant-classification"/>
+        <updated>2025-11-04T21:29:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42896236?u=6ebe261b89147121fc9e95587ef7d713cf67de5d&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>apudasm10</name>
+            <email>apudasm10@noreply.github.com</email>
+            <uri>https://github.com/apudasm10</uri>
+        </author>
+        <published>2025-11-01T12:39:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-04T21:27:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. Rankings include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
         <id>https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings</id>
@@ -45,19 +71,6 @@
             <uri>https://github.com/getrichthroughcode</uri>
         </author>
         <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-04T16:01:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[little51/dinov3-train: DINOv3训练示例]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/vincentamato</uri>
         </author>
         <published>2025-10-30T15:34:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joy2001Chen/DINOv3-Moving_MNIST]]></title>
-        <id>https://github.com/Joy2001Chen/DINOv3-Moving_MNIST</id>
-        <link href="https://github.com/Joy2001Chen/DINOv3-Moving_MNIST"/>
-        <updated>2025-10-30T14:17:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87107433?u=5c1db843c3120457aae8f56e52c14b3c82a8e09b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Joy2001Chen</name>
-            <email>Joy2001Chen@noreply.github.com</email>
-            <uri>https://github.com/Joy2001Chen</uri>
-        </author>
-        <published>2025-10-28T14:25:47.000Z</published>
     </entry>
 </feed>
