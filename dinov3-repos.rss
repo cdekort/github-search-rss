@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-06T08:03:25.274Z</updated>
+    <updated>2025-11-06T09:03:26.871Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Joy2001Chen/DINOv3-Moving_MNIST]]></title>
+        <id>https://github.com/Joy2001Chen/DINOv3-Moving_MNIST</id>
+        <link href="https://github.com/Joy2001Chen/DINOv3-Moving_MNIST"/>
+        <updated>2025-11-06T08:31:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87107433?u=5c1db843c3120457aae8f56e52c14b3c82a8e09b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Joy2001Chen</name>
+            <email>Joy2001Chen@noreply.github.com</email>
+            <uri>https://github.com/Joy2001Chen</uri>
+        </author>
+        <published>2025-10-28T14:25:47.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
@@ -84,19 +97,6 @@
             <uri>https://github.com/nam-htran</uri>
         </author>
         <published>2025-10-22T15:53:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joy2001Chen/DINOv3-Moving_MNIST]]></title>
-        <id>https://github.com/Joy2001Chen/DINOv3-Moving_MNIST</id>
-        <link href="https://github.com/Joy2001Chen/DINOv3-Moving_MNIST"/>
-        <updated>2025-11-06T00:18:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87107433?u=5c1db843c3120457aae8f56e52c14b3c82a8e09b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Joy2001Chen</name>
-            <email>Joy2001Chen@noreply.github.com</email>
-            <uri>https://github.com/Joy2001Chen</uri>
-        </author>
-        <published>2025-10-28T14:25:47.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[david-love121/DINOv3-demo: A simple matplotlib app to demo the capabilities of DINOv3. Uses huggingface transformers to pull meta's pretrained model.]]></title>
@@ -193,7 +193,7 @@
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
         <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-11-06T07:48:20.000Z</updated>
+        <updated>2025-11-06T08:28:23.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Sompote</name>
@@ -206,7 +206,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-11-06T07:53:23.000Z</updated>
+        <updated>2025-11-06T08:33:45.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -232,7 +232,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2025-11-06T05:57:24.000Z</updated>
+        <updated>2025-11-06T08:52:52.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
