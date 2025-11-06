@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-06T16:03:14.012Z</updated>
+    <updated>2025-11-06T17:04:39.740Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
+        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
+        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
+        <updated>2025-11-06T16:46:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
+        <author>
+            <name>getrichthroughcode</name>
+            <email>getrichthroughcode@noreply.github.com</email>
+            <uri>https://github.com/getrichthroughcode</uri>
+        </author>
+        <published>2025-09-24T18:53:13.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
@@ -175,19 +188,6 @@
             <uri>https://github.com/AIVFI</uri>
         </author>
         <published>2023-09-01T21:38:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
-        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
-        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
-        <updated>2025-11-04T19:25:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
-        <author>
-            <name>getrichthroughcode</name>
-            <email>getrichthroughcode@noreply.github.com</email>
-            <uri>https://github.com/getrichthroughcode</uri>
-        </author>
-        <published>2025-09-24T18:53:13.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[little51/dinov3-train: DINOv3训练示例]]></title>
