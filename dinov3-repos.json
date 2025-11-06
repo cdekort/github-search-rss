@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19193291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/davidackerman/dinov3_playground",
+            "title": "davidackerman/dinov3_playground",
+            "date_modified": "2025-11-06T02:56:42.000Z",
+            "date_published": "2025-09-26T16:53:48.000Z",
+            "author": {
+                "name": "davidackerman",
+                "url": "https://github.com/davidackerman"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43284454?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fine Tuning Dinov3 on Large large datasets using custom training setup </div>",
             "url": "https://github.com/apcarita/TuneADino",
             "title": "apcarita/TuneADino: Fine Tuning Dinov3 on Large large datasets using custom training setup ",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2025-11-06T01:52:09.000Z",
+            "date_modified": "2025-11-06T03:18:47.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yeshushahua",
                 "url": "https://github.com/yeshushahua"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5046671?u=c6f06d880deeeb0f2199ddae25a4401e59cfcd34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Knowledge distillation from ViT (e.g. DINOv3) to CNN.</div>",
-            "url": "https://github.com/kengboon/KD-ViT2CNN",
-            "title": "kengboon/KD-ViT2CNN: Knowledge distillation from ViT (e.g. DINOv3) to CNN.",
-            "date_modified": "2025-10-31T07:03:49.000Z",
-            "date_published": "2025-10-30T01:37:16.000Z",
-            "author": {
-                "name": "kengboon",
-                "url": "https://github.com/kengboon"
             }
         }
     ]
