@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-06T00:10:14.989Z</updated>
+    <updated>2025-11-06T01:30:46.568Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-06T00:42:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joy2001Chen/DINOv3-Moving_MNIST]]></title>
+        <id>https://github.com/Joy2001Chen/DINOv3-Moving_MNIST</id>
+        <link href="https://github.com/Joy2001Chen/DINOv3-Moving_MNIST"/>
+        <updated>2025-11-06T00:18:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87107433?u=5c1db843c3120457aae8f56e52c14b3c82a8e09b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Joy2001Chen</name>
+            <email>Joy2001Chen@noreply.github.com</email>
+            <uri>https://github.com/Joy2001Chen</uri>
+        </author>
+        <published>2025-10-28T14:25:47.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[david-love121/DINOv3-demo: A simple matplotlib app to demo the capabilities of DINOv3. Uses huggingface transformers to pull meta's pretrained model.]]></title>
         <id>https://github.com/david-love121/DINOv3-demo</id>
@@ -19,19 +45,6 @@
             <uri>https://github.com/david-love121</uri>
         </author>
         <published>2025-10-29T15:21:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-05T19:54:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
@@ -167,7 +180,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-11-05T21:27:28.000Z</updated>
+        <updated>2025-11-06T01:14:59.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -193,7 +206,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2025-11-05T20:49:15.000Z</updated>
+        <updated>2025-11-06T00:29:23.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/kengboon</uri>
         </author>
         <published>2025-10-30T01:37:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HiLab-git/DGCF: official code for paper "DINOv3-Guided Cross Fusion Framework for Semantic-aware CT generation from MRI and CBCT"]]></title>
-        <id>https://github.com/HiLab-git/DGCF</id>
-        <link href="https://github.com/HiLab-git/DGCF"/>
-        <updated>2025-10-31T05:48:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49702417?v=4" width="64" height="64" alt=""/><br/><div>official code for paper "DINOv3-Guided Cross Fusion Framework for Semantic-aware CT generation from MRI and CBCT"</div>]]></content>
-        <author>
-            <name>HiLab-git</name>
-            <email>HiLab-git@noreply.github.com</email>
-            <uri>https://github.com/HiLab-git</uri>
-        </author>
-        <published>2025-10-31T05:11:09.000Z</published>
     </entry>
 </feed>
