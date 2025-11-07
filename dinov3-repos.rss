@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-07T04:03:21.726Z</updated>
+    <updated>2025-11-07T05:03:01.736Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -151,6 +151,19 @@
         <published>2025-09-05T06:54:21.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
+        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
+        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
+        <updated>2025-11-07T04:31:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
+        <author>
+            <name>CharlesChang012</name>
+            <email>CharlesChang012@noreply.github.com</email>
+            <uri>https://github.com/CharlesChang012</uri>
+        </author>
+        <published>2025-10-25T01:11:11.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[h-OUS-e/DinoV3Demo]]></title>
         <id>https://github.com/h-OUS-e/DinoV3Demo</id>
         <link href="https://github.com/h-OUS-e/DinoV3Demo"/>
@@ -193,7 +206,7 @@
         <title type="html"><![CDATA[little51/dinov3-train: DINOv3训练示例]]></title>
         <id>https://github.com/little51/dinov3-train</id>
         <link href="https://github.com/little51/dinov3-train"/>
-        <updated>2025-11-07T01:44:18.000Z</updated>
+        <updated>2025-11-07T04:40:32.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>DINOv3训练示例</div>]]></content>
         <author>
             <name>little51</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Intellindust-AI-Lab</uri>
         </author>
         <published>2025-09-19T02:27:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CaptainLegasov/PTQ-in-DinoV3]]></title>
-        <id>https://github.com/CaptainLegasov/PTQ-in-DinoV3</id>
-        <link href="https://github.com/CaptainLegasov/PTQ-in-DinoV3"/>
-        <updated>2025-11-03T05:50:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/218242609?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>CaptainLegasov</name>
-            <email>CaptainLegasov@noreply.github.com</email>
-            <uri>https://github.com/CaptainLegasov</uri>
-        </author>
-        <published>2025-11-03T05:50:14.000Z</published>
     </entry>
 </feed>
