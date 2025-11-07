@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-07T12:04:18.792Z</updated>
+    <updated>2025-11-07T13:10:36.693Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[minhkhoa23/DINOv3-exploring]]></title>
+        <id>https://github.com/minhkhoa23/DINOv3-exploring</id>
+        <link href="https://github.com/minhkhoa23/DINOv3-exploring"/>
+        <updated>2025-11-07T12:30:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149080799?u=70403e93b6fc6e050b84f52439231d0ee1e5681f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>minhkhoa23</name>
+            <email>minhkhoa23@noreply.github.com</email>
+            <uri>https://github.com/minhkhoa23</uri>
+        </author>
+        <published>2025-11-06T11:49:41.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
@@ -58,19 +71,6 @@
             <uri>https://github.com/getrichthroughcode</uri>
         </author>
         <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[minhkhoa23/DINOv3-exploring]]></title>
-        <id>https://github.com/minhkhoa23/DINOv3-exploring</id>
-        <link href="https://github.com/minhkhoa23/DINOv3-exploring"/>
-        <updated>2025-11-06T11:49:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149080799?u=70403e93b6fc6e050b84f52439231d0ee1e5681f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>minhkhoa23</name>
-            <email>minhkhoa23@noreply.github.com</email>
-            <uri>https://github.com/minhkhoa23</uri>
-        </author>
-        <published>2025-11-06T11:49:41.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Joy2001Chen/DINOv3-Moving_MNIST]]></title>
@@ -245,7 +245,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-11-07T11:36:38.000Z</updated>
+        <updated>2025-11-07T12:39:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
