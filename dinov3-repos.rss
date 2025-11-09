@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-09T10:02:45.493Z</updated>
+    <updated>2025-11-09T11:02:29.756Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
+        <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
+        <link href="https://github.com/KostyalBalint/02456-deep-learning-final-project"/>
+        <updated>2025-11-09T10:48:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>]]></content>
+        <author>
+            <name>KostyalBalint</name>
+            <email>KostyalBalint@noreply.github.com</email>
+            <uri>https://github.com/KostyalBalint</uri>
+        </author>
+        <published>2025-11-09T10:26:28.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/apudasm10</uri>
         </author>
         <published>2025-11-01T12:39:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[little51/dinov3-train: DINOv3训练示例]]></title>
-        <id>https://github.com/little51/dinov3-train</id>
-        <link href="https://github.com/little51/dinov3-train"/>
-        <updated>2025-11-07T07:42:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>DINOv3训练示例</div>]]></content>
-        <author>
-            <name>little51</name>
-            <email>little51@noreply.github.com</email>
-            <uri>https://github.com/little51</uri>
-        </author>
-        <published>2025-09-26T13:47:21.000Z</published>
     </entry>
 </feed>
