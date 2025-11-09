@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-09T13:07:34.237Z</updated>
+    <updated>2025-11-09T14:02:33.655Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[vineeth2309/dino_downstream: Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks]]></title>
+        <id>https://github.com/vineeth2309/dino_downstream</id>
+        <link href="https://github.com/vineeth2309/dino_downstream"/>
+        <updated>2025-11-09T14:02:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19423039?v=4" width="64" height="64" alt=""/><br/><div>Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks</div>]]></content>
+        <author>
+            <name>vineeth2309</name>
+            <email>vineeth2309@noreply.github.com</email>
+            <uri>https://github.com/vineeth2309</uri>
+        </author>
+        <published>2025-11-09T13:49:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-09T13:08:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
         <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
@@ -45,19 +71,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-09T08:10:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. Rankings include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/h-OUS-e</uri>
         </author>
         <published>2025-11-04T19:48:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[apudasm10/dinov3-plant-classification]]></title>
-        <id>https://github.com/apudasm10/dinov3-plant-classification</id>
-        <link href="https://github.com/apudasm10/dinov3-plant-classification"/>
-        <updated>2025-11-04T21:29:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42896236?u=6ebe261b89147121fc9e95587ef7d713cf67de5d&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>apudasm10</name>
-            <email>apudasm10@noreply.github.com</email>
-            <uri>https://github.com/apudasm10</uri>
-        </author>
-        <published>2025-11-01T12:39:50.000Z</published>
     </entry>
 </feed>
