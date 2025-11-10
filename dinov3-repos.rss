@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-10T08:04:16.879Z</updated>
+    <updated>2025-11-10T09:04:02.606Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-11-10T09:00:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vineeth2309/dino_downstream: Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks]]></title>
+        <id>https://github.com/vineeth2309/dino_downstream</id>
+        <link href="https://github.com/vineeth2309/dino_downstream"/>
+        <updated>2025-11-10T08:54:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19423039?v=4" width="64" height="64" alt=""/><br/><div>Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks</div>]]></content>
+        <author>
+            <name>vineeth2309</name>
+            <email>vineeth2309@noreply.github.com</email>
+            <uri>https://github.com/vineeth2309</uri>
+        </author>
+        <published>2025-11-09T13:49:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lanxingh/dinov3-few-shot]]></title>
+        <id>https://github.com/lanxingh/dinov3-few-shot</id>
+        <link href="https://github.com/lanxingh/dinov3-few-shot"/>
+        <updated>2025-11-10T08:08:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/101974603?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>lanxingh</name>
+            <email>lanxingh@noreply.github.com</email>
+            <uri>https://github.com/lanxingh</uri>
+        </author>
+        <published>2025-11-10T08:08:11.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -60,19 +99,6 @@
         <published>2023-09-01T21:38:33.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vineeth2309/dino_downstream: Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks]]></title>
-        <id>https://github.com/vineeth2309/dino_downstream</id>
-        <link href="https://github.com/vineeth2309/dino_downstream"/>
-        <updated>2025-11-09T14:44:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19423039?v=4" width="64" height="64" alt=""/><br/><div>Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks</div>]]></content>
-        <author>
-            <name>vineeth2309</name>
-            <email>vineeth2309@noreply.github.com</email>
-            <uri>https://github.com/vineeth2309</uri>
-        </author>
-        <published>2025-11-09T13:49:48.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
         <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
         <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
@@ -97,19 +123,6 @@
             <uri>https://github.com/KostyalBalint</uri>
         </author>
         <published>2025-11-09T10:26:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-11-10T07:41:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[mtstudio-smtp/dinov3-prototype: dinov3-prototype]]></title>
@@ -180,7 +193,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2025-11-10T06:20:54.000Z</updated>
+        <updated>2025-11-10T08:58:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/nam-htran</uri>
         </author>
         <published>2025-10-22T15:53:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[david-love121/DINOv3-demo: A simple matplotlib app to demo the capabilities of DINOv3. Uses huggingface transformers to pull meta's pretrained model.]]></title>
-        <id>https://github.com/david-love121/DINOv3-demo</id>
-        <link href="https://github.com/david-love121/DINOv3-demo"/>
-        <updated>2025-11-05T20:16:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49353182?u=8011b83204886d258aefdafd810fde2d84e29831&v=4" width="64" height="64" alt=""/><br/><div>A simple matplotlib app to demo the capabilities of DINOv3. Uses huggingface transformers to pull meta's pretrained model.</div>]]></content>
-        <author>
-            <name>david-love121</name>
-            <email>david-love121@noreply.github.com</email>
-            <uri>https://github.com/david-love121</uri>
-        </author>
-        <published>2025-10-29T15:21:24.000Z</published>
     </entry>
 </feed>

@@ -6,6 +6,39 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2025-11-10T09:00:56.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19423039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks</div>",
+            "url": "https://github.com/vineeth2309/dino_downstream",
+            "title": "vineeth2309/dino_downstream: Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks",
+            "date_modified": "2025-11-10T08:54:20.000Z",
+            "date_published": "2025-11-09T13:49:48.000Z",
+            "author": {
+                "name": "vineeth2309",
+                "url": "https://github.com/vineeth2309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101974603?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lanxingh/dinov3-few-shot",
+            "title": "lanxingh/dinov3-few-shot",
+            "date_modified": "2025-11-10T08:08:11.000Z",
+            "date_published": "2025-11-10T08:08:11.000Z",
+            "author": {
+                "name": "lanxingh",
+                "url": "https://github.com/lanxingh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -50,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19423039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks</div>",
-            "url": "https://github.com/vineeth2309/dino_downstream",
-            "title": "vineeth2309/dino_downstream: Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks",
-            "date_modified": "2025-11-09T14:44:46.000Z",
-            "date_published": "2025-11-09T13:49:48.000Z",
-            "author": {
-                "name": "vineeth2309",
-                "url": "https://github.com/vineeth2309"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113793273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>",
             "url": "https://github.com/getrichthroughcode/dinov3-isic2018-segmentation",
             "title": "getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone",
@@ -80,17 +102,6 @@
             "author": {
                 "name": "KostyalBalint",
                 "url": "https://github.com/KostyalBalint"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-11-10T07:41:55.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
             "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
             "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2025-11-10T06:20:54.000Z",
+            "date_modified": "2025-11-10T08:58:18.000Z",
             "date_published": "2025-09-19T02:27:19.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nam-htran",
                 "url": "https://github.com/nam-htran"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49353182?u=8011b83204886d258aefdafd810fde2d84e29831&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple matplotlib app to demo the capabilities of DINOv3. Uses huggingface transformers to pull meta's pretrained model.</div>",
-            "url": "https://github.com/david-love121/DINOv3-demo",
-            "title": "david-love121/DINOv3-demo: A simple matplotlib app to demo the capabilities of DINOv3. Uses huggingface transformers to pull meta's pretrained model.",
-            "date_modified": "2025-11-05T20:16:37.000Z",
-            "date_published": "2025-10-29T15:21:24.000Z",
-            "author": {
-                "name": "david-love121",
-                "url": "https://github.com/david-love121"
             }
         }
     ]
