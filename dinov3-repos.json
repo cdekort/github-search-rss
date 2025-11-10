@@ -61,6 +61,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5046671?u=c6f06d880deeeb0f2199ddae25a4401e59cfcd34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Knowledge distillation from ViT (e.g. DINOv3) to CNN.</div>",
+            "url": "https://github.com/kengboon/KD-ViT2CNN",
+            "title": "kengboon/KD-ViT2CNN: Knowledge distillation from ViT (e.g. DINOv3) to CNN.",
+            "date_modified": "2025-11-10T17:13:49.000Z",
+            "date_published": "2025-10-30T01:37:16.000Z",
+            "author": {
+                "name": "kengboon",
+                "url": "https://github.com/kengboon"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3训练示例</div>",
             "url": "https://github.com/little51/dinov3-train",
             "title": "little51/dinov3-train: DINOv3训练示例",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "apcarita",
                 "url": "https://github.com/apcarita"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>",
-            "url": "https://github.com/nam-htran/RT-DisDINOV3",
-            "title": "nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result",
-            "date_modified": "2025-11-06T01:55:41.000Z",
-            "date_published": "2025-10-22T15:53:35.000Z",
-            "author": {
-                "name": "nam-htran",
-                "url": "https://github.com/nam-htran"
             }
         }
     ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-10T17:03:06.246Z</updated>
+    <updated>2025-11-10T18:04:12.876Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -71,6 +71,19 @@
             <uri>https://github.com/lanxingh</uri>
         </author>
         <published>2025-11-10T08:08:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kengboon/KD-ViT2CNN: Knowledge distillation from ViT (e.g. DINOv3) to CNN.]]></title>
+        <id>https://github.com/kengboon/KD-ViT2CNN</id>
+        <link href="https://github.com/kengboon/KD-ViT2CNN"/>
+        <updated>2025-11-10T17:13:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5046671?u=c6f06d880deeeb0f2199ddae25a4401e59cfcd34&v=4" width="64" height="64" alt=""/><br/><div>Knowledge distillation from ViT (e.g. DINOv3) to CNN.</div>]]></content>
+        <author>
+            <name>kengboon</name>
+            <email>kengboon@noreply.github.com</email>
+            <uri>https://github.com/kengboon</uri>
+        </author>
+        <published>2025-10-30T01:37:16.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[little51/dinov3-train: DINOv3训练示例]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/apcarita</uri>
         </author>
         <published>2025-10-22T14:08:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result]]></title>
-        <id>https://github.com/nam-htran/RT-DisDINOV3</id>
-        <link href="https://github.com/nam-htran/RT-DisDINOV3"/>
-        <updated>2025-11-06T01:55:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4" width="64" height="64" alt=""/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>]]></content>
-        <author>
-            <name>nam-htran</name>
-            <email>nam-htran@noreply.github.com</email>
-            <uri>https://github.com/nam-htran</uri>
-        </author>
-        <published>2025-10-22T15:53:35.000Z</published>
     </entry>
 </feed>
