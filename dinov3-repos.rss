@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-11T15:03:04.882Z</updated>
+    <updated>2025-11-11T16:03:11.412Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[PINTO0309/gazelle-dinov3: Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.]]></title>
+        <id>https://github.com/PINTO0309/gazelle-dinov3</id>
+        <link href="https://github.com/PINTO0309/gazelle-dinov3"/>
+        <updated>2025-11-11T15:56:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.</div>]]></content>
+        <author>
+            <name>PINTO0309</name>
+            <email>PINTO0309@noreply.github.com</email>
+            <uri>https://github.com/PINTO0309</uri>
+        </author>
+        <published>2025-10-18T03:45:12.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HiLab-git/DGCF: official code for paper "DINOv3-Guided Cross Fusion Framework for Semantic-aware CT generation from MRI and CBCT"]]></title>
         <id>https://github.com/HiLab-git/DGCF</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Rithik-A-14</uri>
         </author>
         <published>2025-11-07T15:58:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[minhkhoa23/DINOv3-exploring]]></title>
-        <id>https://github.com/minhkhoa23/DINOv3-exploring</id>
-        <link href="https://github.com/minhkhoa23/DINOv3-exploring"/>
-        <updated>2025-11-07T12:30:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149080799?u=70403e93b6fc6e050b84f52439231d0ee1e5681f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>minhkhoa23</name>
-            <email>minhkhoa23@noreply.github.com</email>
-            <uri>https://github.com/minhkhoa23</uri>
-        </author>
-        <published>2025-11-06T11:49:41.000Z</published>
     </entry>
 </feed>
