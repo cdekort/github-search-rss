@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-12T08:04:14.273Z</updated>
+    <updated>2025-11-12T09:04:14.962Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[17863216623/segdino_sdf_A: dinov3(vitb)+mamba decoder(cla)+wavelet+ugbd+sdf]]></title>
-        <id>https://github.com/17863216623/segdino_sdf_A</id>
-        <link href="https://github.com/17863216623/segdino_sdf_A"/>
-        <updated>2025-11-12T07:59:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94837476?v=4" width="64" height="64" alt=""/><br/><div>dinov3(vitb)+mamba decoder(cla)+wavelet+ugbd+sdf</div>]]></content>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-11-12T08:43:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
-            <name>17863216623</name>
-            <email>17863216623@noreply.github.com</email>
-            <uri>https://github.com/17863216623</uri>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
         </author>
-        <published>2025-11-12T07:59:27.000Z</published>
+        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
@@ -45,19 +45,6 @@
             <uri>https://github.com/Sompote</uri>
         </author>
         <published>2025-09-14T01:06:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-11-11T23:58:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dhia-naouali/dinov3-jax: unofficial JAX implementation of DINOv3, translated in full from the original Meta PyTroch reference implementation (Meta please don't sue me)]]></title>
@@ -115,7 +102,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2025-11-12T07:13:20.000Z</updated>
+        <updated>2025-11-12T08:39:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -266,5 +253,18 @@
             <uri>https://github.com/mtstudio-smtp</uri>
         </author>
         <published>2025-11-08T06:22:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xiaoyan07/SWM-DINOv3: Adapting DINOv3 for Cross-Domain Surface Water Mapping]]></title>
+        <id>https://github.com/xiaoyan07/SWM-DINOv3</id>
+        <link href="https://github.com/xiaoyan07/SWM-DINOv3"/>
+        <updated>2025-11-10T06:46:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35627108?u=f48404dfc39e12456da038201765284701369a8e&v=4" width="64" height="64" alt=""/><br/><div>Adapting DINOv3 for Cross-Domain Surface Water Mapping</div>]]></content>
+        <author>
+            <name>xiaoyan07</name>
+            <email>xiaoyan07@noreply.github.com</email>
+            <uri>https://github.com/xiaoyan07</uri>
+        </author>
+        <published>2025-11-08T06:08:22.000Z</published>
     </entry>
 </feed>
