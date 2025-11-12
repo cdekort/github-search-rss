@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-11-12T12:11:56.000Z",
+            "date_modified": "2025-11-12T16:54:33.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46640796?u=9367b0b9e40c59a610ff5cd084611473c42b7c81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An efficient image segmentation pipeline using DINOv3 and K-means, adapted from the BRIXEL methodology</div>",
+            "url": "https://github.com/MTawhid7/dinov3-brixel-image-segmentation",
+            "title": "MTawhid7/dinov3-brixel-image-segmentation: An efficient image segmentation pipeline using DINOv3 and K-means, adapted from the BRIXEL methodology",
+            "date_modified": "2025-11-12T16:15:45.000Z",
+            "date_published": "2025-11-12T16:14:30.000Z",
+            "author": {
+                "name": "MTawhid7",
+                "url": "https://github.com/MTawhid7"
             }
         },
         {
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
             "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
             "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2025-11-12T14:17:54.000Z",
+            "date_modified": "2025-11-12T16:52:05.000Z",
             "date_published": "2025-09-19T02:27:19.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mtstudio-smtp",
                 "url": "https://github.com/mtstudio-smtp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35627108?u=f48404dfc39e12456da038201765284701369a8e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adapting DINOv3 for Cross-Domain Surface Water Mapping</div>",
-            "url": "https://github.com/xiaoyan07/SWM-DINOv3",
-            "title": "xiaoyan07/SWM-DINOv3: Adapting DINOv3 for Cross-Domain Surface Water Mapping",
-            "date_modified": "2025-11-10T06:46:18.000Z",
-            "date_published": "2025-11-08T06:08:22.000Z",
-            "author": {
-                "name": "xiaoyan07",
-                "url": "https://github.com/xiaoyan07"
             }
         }
     ]

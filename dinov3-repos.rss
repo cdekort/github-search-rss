@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-12T16:03:47.137Z</updated>
+    <updated>2025-11-12T17:04:03.822Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-11-12T12:11:56.000Z</updated>
+        <updated>2025-11-12T16:54:33.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -19,6 +19,19 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MTawhid7/dinov3-brixel-image-segmentation: An efficient image segmentation pipeline using DINOv3 and K-means, adapted from the BRIXEL methodology]]></title>
+        <id>https://github.com/MTawhid7/dinov3-brixel-image-segmentation</id>
+        <link href="https://github.com/MTawhid7/dinov3-brixel-image-segmentation"/>
+        <updated>2025-11-12T16:15:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46640796?u=9367b0b9e40c59a610ff5cd084611473c42b7c81&v=4" width="64" height="64" alt=""/><br/><div>An efficient image segmentation pipeline using DINOv3 and K-means, adapted from the BRIXEL methodology</div>]]></content>
+        <author>
+            <name>MTawhid7</name>
+            <email>MTawhid7@noreply.github.com</email>
+            <uri>https://github.com/MTawhid7</uri>
+        </author>
+        <published>2025-11-12T16:14:30.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
@@ -102,7 +115,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2025-11-12T14:17:54.000Z</updated>
+        <updated>2025-11-12T16:52:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/mtstudio-smtp</uri>
         </author>
         <published>2025-11-08T06:22:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xiaoyan07/SWM-DINOv3: Adapting DINOv3 for Cross-Domain Surface Water Mapping]]></title>
-        <id>https://github.com/xiaoyan07/SWM-DINOv3</id>
-        <link href="https://github.com/xiaoyan07/SWM-DINOv3"/>
-        <updated>2025-11-10T06:46:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35627108?u=f48404dfc39e12456da038201765284701369a8e&v=4" width="64" height="64" alt=""/><br/><div>Adapting DINOv3 for Cross-Domain Surface Water Mapping</div>]]></content>
-        <author>
-            <name>xiaoyan07</name>
-            <email>xiaoyan07@noreply.github.com</email>
-            <uri>https://github.com/xiaoyan07</uri>
-        </author>
-        <published>2025-11-08T06:08:22.000Z</published>
     </entry>
 </feed>
