@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2025-11-13T10:46:59.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28389623?u=83b2e633802f99558127822604cce5f6f8537ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>使用onnxruntime部署gazelle-dinov3凝视目标估计，包含C++和Python两个版本的程序</div>",
+            "url": "https://github.com/hpc203/gazelle-dinov3-onnxrun",
+            "title": "hpc203/gazelle-dinov3-onnxrun: 使用onnxruntime部署gazelle-dinov3凝视目标估计，包含C++和Python两个版本的程序",
+            "date_modified": "2025-11-13T10:29:09.000Z",
+            "date_published": "2025-11-13T10:26:51.000Z",
+            "author": {
+                "name": "hpc203",
+                "url": "https://github.com/hpc203"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46640796?u=9367b0b9e40c59a610ff5cd084611473c42b7c81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Efficient image segmentation using BRIXEL adapter with DINOv3 backbone</div>",
             "url": "https://github.com/MTawhid7/brixel-dinov3-segmentation",
             "title": "MTawhid7/brixel-dinov3-segmentation: Efficient image segmentation using BRIXEL adapter with DINOv3 backbone",
@@ -91,17 +113,6 @@
             "author": {
                 "name": "getrichthroughcode",
                 "url": "https://github.com/getrichthroughcode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-11-13T01:05:56.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lanxingh",
                 "url": "https://github.com/lanxingh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5046671?u=c6f06d880deeeb0f2199ddae25a4401e59cfcd34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Knowledge distillation from ViT (e.g. DINOv3) to CNN.</div>",
-            "url": "https://github.com/kengboon/KD-ViT2CNN",
-            "title": "kengboon/KD-ViT2CNN: Knowledge distillation from ViT (e.g. DINOv3) to CNN.",
-            "date_modified": "2025-11-10T17:13:49.000Z",
-            "date_published": "2025-10-30T01:37:16.000Z",
-            "author": {
-                "name": "kengboon",
-                "url": "https://github.com/kengboon"
             }
         }
     ]
