@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46640796?u=9367b0b9e40c59a610ff5cd084611473c42b7c81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Efficient image segmentation using BRIXEL adapter with DINOv3 backbone</div>",
+            "url": "https://github.com/MTawhid7/brixel-dinov3-segmentation",
+            "title": "MTawhid7/brixel-dinov3-segmentation: Efficient image segmentation using BRIXEL adapter with DINOv3 backbone",
+            "date_modified": "2025-11-13T09:55:37.000Z",
+            "date_published": "2025-11-13T09:54:23.000Z",
+            "author": {
+                "name": "MTawhid7",
+                "url": "https://github.com/MTawhid7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123150435?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Leonhard111/dinov3test",
+            "title": "Leonhard111/dinov3test",
+            "date_modified": "2025-11-13T09:45:07.000Z",
+            "date_published": "2025-11-13T09:45:07.000Z",
+            "author": {
+                "name": "Leonhard111",
+                "url": "https://github.com/Leonhard111"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Sompote/DINOV3-YOLOV12",
             "title": "Sompote/DINOV3-YOLOV12",
@@ -80,17 +102,6 @@
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46640796?u=9367b0b9e40c59a610ff5cd084611473c42b7c81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An efficient image segmentation pipeline using DINOv3 and K-means, adapted from the BRIXEL methodology</div>",
-            "url": "https://github.com/MTawhid7/dinov3-brixel-image-segmentation",
-            "title": "MTawhid7/dinov3-brixel-image-segmentation: An efficient image segmentation pipeline using DINOv3 and K-means, adapted from the BRIXEL methodology",
-            "date_modified": "2025-11-12T16:15:45.000Z",
-            "date_published": "2025-11-12T16:14:30.000Z",
-            "author": {
-                "name": "MTawhid7",
-                "url": "https://github.com/MTawhid7"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kengboon",
                 "url": "https://github.com/kengboon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3训练示例</div>",
-            "url": "https://github.com/little51/dinov3-train",
-            "title": "little51/dinov3-train: DINOv3训练示例",
-            "date_modified": "2025-11-13T01:43:45.000Z",
-            "date_published": "2025-09-26T13:47:21.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
             }
         }
     ]
