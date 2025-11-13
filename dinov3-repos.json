@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48077351?u=b8a7ac007603a561d00c9cb44310eda6884e6cc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Connectomic proofreading using DINOv3 encodings</div>",
+            "url": "https://github.com/Kev-Park/dino-proofreading",
+            "title": "Kev-Park/dino-proofreading: Connectomic proofreading using DINOv3 encodings",
+            "date_modified": "2025-11-13T19:06:55.000Z",
+            "date_published": "2025-05-23T00:43:35.000Z",
+            "author": {
+                "name": "Kev-Park",
+                "url": "https://github.com/Kev-Park"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142753318?u=e4485e7065d05432aa3f4bbfaa22b33185d7bd63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>unofficial JAX implementation of DINOv3, translated in full from the original Meta PyTroch reference implementation (Meta please don't sue me)</div>",
             "url": "https://github.com/Dhia-naouali/dinov3-jax",
             "title": "Dhia-naouali/dinov3-jax: unofficial JAX implementation of DINOv3, translated in full from the original Meta PyTroch reference implementation (Meta please don't sue me)",
-            "date_modified": "2025-11-13T17:51:19.000Z",
+            "date_modified": "2025-11-13T19:44:56.000Z",
             "date_published": "2025-08-22T04:52:51.000Z",
             "author": {
                 "name": "Dhia-naouali",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lanxingh",
                 "url": "https://github.com/lanxingh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5046671?u=c6f06d880deeeb0f2199ddae25a4401e59cfcd34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Knowledge distillation from ViT (e.g. DINOv3) to CNN.</div>",
-            "url": "https://github.com/kengboon/KD-ViT2CNN",
-            "title": "kengboon/KD-ViT2CNN: Knowledge distillation from ViT (e.g. DINOv3) to CNN.",
-            "date_modified": "2025-11-10T17:13:49.000Z",
-            "date_published": "2025-10-30T01:37:16.000Z",
-            "author": {
-                "name": "kengboon",
-                "url": "https://github.com/kengboon"
             }
         }
     ]
