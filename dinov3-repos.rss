@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-12T23:03:00.946Z</updated>
+    <updated>2025-11-13T00:10:19.432Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[vincentamato/MLXDINOv3: A native Swift implementation of Meta’s DINOv3 using MLX Swift.]]></title>
+        <id>https://github.com/vincentamato/MLXDINOv3</id>
+        <link href="https://github.com/vincentamato/MLXDINOv3"/>
+        <updated>2025-11-13T00:07:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31809647?u=ab78afa2c45862f82b343ff36be4fb1e3d0bb7f3&v=4" width="64" height="64" alt=""/><br/><div>A native Swift implementation of Meta’s DINOv3 using MLX Swift.</div>]]></content>
+        <author>
+            <name>vincentamato</name>
+            <email>vincentamato@noreply.github.com</email>
+            <uri>https://github.com/vincentamato</uri>
+        </author>
+        <published>2025-11-13T00:07:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PINTO0309/reflection-removal: reflection-removal: A model for removing reflections using a single image. The goal is to significantly reduce the amount of calculation required for GAN and remove reflections in real time. The quality of the reflection removal is not important for this project. Built with DINOv3.]]></title>
+        <id>https://github.com/PINTO0309/reflection-removal</id>
+        <link href="https://github.com/PINTO0309/reflection-removal"/>
+        <updated>2025-11-13T00:02:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>reflection-removal: A model for removing reflections using a single image. The goal is to significantly reduce the amount of calculation required for GAN and remove reflections in real time. The quality of the reflection removal is not important for this project. Built with DINOv3.</div>]]></content>
+        <author>
+            <name>PINTO0309</name>
+            <email>PINTO0309@noreply.github.com</email>
+            <uri>https://github.com/PINTO0309</uri>
+        </author>
+        <published>2025-10-25T13:48:40.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
         <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
@@ -240,31 +266,5 @@
             <uri>https://github.com/little51</uri>
         </author>
         <published>2025-09-16T04:51:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
-        <id>https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings</id>
-        <link href="https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings"/>
-        <updated>2025-11-09T22:14:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90072939?u=e58fbcc6d2ec2d9fdf72bca5d1b5cc5ee4907883&v=4" width="64" height="64" alt=""/><br/><div>We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3</div>]]></content>
-        <author>
-            <name>AIVFI</name>
-            <email>AIVFI@noreply.github.com</email>
-            <uri>https://github.com/AIVFI</uri>
-        </author>
-        <published>2023-09-01T21:38:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mtstudio-smtp/dinov3-prototype: dinov3-prototype]]></title>
-        <id>https://github.com/mtstudio-smtp/dinov3-prototype</id>
-        <link href="https://github.com/mtstudio-smtp/dinov3-prototype"/>
-        <updated>2025-11-08T07:36:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/240245008?v=4" width="64" height="64" alt=""/><br/><div>dinov3-prototype</div>]]></content>
-        <author>
-            <name>mtstudio-smtp</name>
-            <email>mtstudio-smtp@noreply.github.com</email>
-            <uri>https://github.com/mtstudio-smtp</uri>
-        </author>
-        <published>2025-11-08T06:22:51.000Z</published>
     </entry>
 </feed>
