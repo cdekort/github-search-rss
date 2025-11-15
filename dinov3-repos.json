@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90072939?u=e58fbcc6d2ec2d9fdf72bca5d1b5cc5ee4907883&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3</div>",
+            "url": "https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings",
+            "title": "AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3",
+            "date_modified": "2025-11-15T21:18:50.000Z",
+            "date_published": "2023-09-01T21:38:33.000Z",
+            "author": {
+                "name": "AIVFI",
+                "url": "https://github.com/AIVFI"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48077351?u=b8a7ac007603a561d00c9cb44310eda6884e6cc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Connectomic proofreading using DINOv3 encodings</div>",
             "url": "https://github.com/Kev-Park/dino-proofreading",
             "title": "Kev-Park/dino-proofreading: Connectomic proofreading using DINOv3 encodings",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Intellindust-AI-Lab",
                 "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19423039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks</div>",
-            "url": "https://github.com/vineeth2309/dino_downstream",
-            "title": "vineeth2309/dino_downstream: Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks",
-            "date_modified": "2025-11-11T09:04:14.000Z",
-            "date_published": "2025-11-09T13:49:48.000Z",
-            "author": {
-                "name": "vineeth2309",
-                "url": "https://github.com/vineeth2309"
             }
         }
     ]

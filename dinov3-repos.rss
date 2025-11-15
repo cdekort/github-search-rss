@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-15T21:02:27.319Z</updated>
+    <updated>2025-11-15T22:05:31.366Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
+        <id>https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings</id>
+        <link href="https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings"/>
+        <updated>2025-11-15T21:18:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90072939?u=e58fbcc6d2ec2d9fdf72bca5d1b5cc5ee4907883&v=4" width="64" height="64" alt=""/><br/><div>We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3</div>]]></content>
+        <author>
+            <name>AIVFI</name>
+            <email>AIVFI@noreply.github.com</email>
+            <uri>https://github.com/AIVFI</uri>
+        </author>
+        <published>2023-09-01T21:38:33.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kev-Park/dino-proofreading: Connectomic proofreading using DINOv3 encodings]]></title>
         <id>https://github.com/Kev-Park/dino-proofreading</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Intellindust-AI-Lab</uri>
         </author>
         <published>2025-09-19T02:27:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vineeth2309/dino_downstream: Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks]]></title>
-        <id>https://github.com/vineeth2309/dino_downstream</id>
-        <link href="https://github.com/vineeth2309/dino_downstream"/>
-        <updated>2025-11-11T09:04:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19423039?v=4" width="64" height="64" alt=""/><br/><div>Wrapper for using Dinov2 and Dinov3 with adapters for downstream tasks</div>]]></content>
-        <author>
-            <name>vineeth2309</name>
-            <email>vineeth2309@noreply.github.com</email>
-            <uri>https://github.com/vineeth2309</uri>
-        </author>
-        <published>2025-11-09T13:49:48.000Z</published>
     </entry>
 </feed>
