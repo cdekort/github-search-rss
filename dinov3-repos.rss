@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-15T22:05:31.366Z</updated>
+    <updated>2025-11-15T23:02:54.564Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Kev-Park/dino-proofreading: Connectomic proofreading using DINOv3 encodings]]></title>
+        <id>https://github.com/Kev-Park/dino-proofreading</id>
+        <link href="https://github.com/Kev-Park/dino-proofreading"/>
+        <updated>2025-11-15T22:45:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48077351?u=b8a7ac007603a561d00c9cb44310eda6884e6cc4&v=4" width="64" height="64" alt=""/><br/><div>Connectomic proofreading using DINOv3 encodings</div>]]></content>
+        <author>
+            <name>Kev-Park</name>
+            <email>Kev-Park@noreply.github.com</email>
+            <uri>https://github.com/Kev-Park</uri>
+        </author>
+        <published>2025-05-23T00:43:35.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
         <id>https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings</id>
@@ -19,19 +32,6 @@
             <uri>https://github.com/AIVFI</uri>
         </author>
         <published>2023-09-01T21:38:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kev-Park/dino-proofreading: Connectomic proofreading using DINOv3 encodings]]></title>
-        <id>https://github.com/Kev-Park/dino-proofreading</id>
-        <link href="https://github.com/Kev-Park/dino-proofreading"/>
-        <updated>2025-11-15T20:01:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48077351?u=b8a7ac007603a561d00c9cb44310eda6884e6cc4&v=4" width="64" height="64" alt=""/><br/><div>Connectomic proofreading using DINOv3 encodings</div>]]></content>
-        <author>
-            <name>Kev-Park</name>
-            <email>Kev-Park@noreply.github.com</email>
-            <uri>https://github.com/Kev-Park</uri>
-        </author>
-        <published>2025-05-23T00:43:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
