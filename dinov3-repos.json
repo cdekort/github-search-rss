@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>",
+            "url": "https://github.com/nam-htran/RT-DisDINOV3",
+            "title": "nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result",
+            "date_modified": "2025-11-15T08:34:53.000Z",
+            "date_published": "2025-10-22T15:53:35.000Z",
+            "author": {
+                "name": "nam-htran",
+                "url": "https://github.com/nam-htran"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "Kev-Park",
                 "url": "https://github.com/Kev-Park"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>",
-            "url": "https://github.com/nam-htran/RT-DisDINOV3",
-            "title": "nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result",
-            "date_modified": "2025-11-15T07:40:26.000Z",
-            "date_published": "2025-10-22T15:53:35.000Z",
-            "author": {
-                "name": "nam-htran",
-                "url": "https://github.com/nam-htran"
             }
         },
         {
@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
             "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
             "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2025-11-15T04:36:32.000Z",
+            "date_modified": "2025-11-15T08:45:13.000Z",
             "date_published": "2025-09-19T02:27:19.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
