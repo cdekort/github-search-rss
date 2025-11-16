@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-16T21:02:28.896Z</updated>
+    <updated>2025-11-16T22:02:38.525Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[yberreby/dinov3-imagenet-1k-probes]]></title>
+        <id>https://github.com/yberreby/dinov3-imagenet-1k-probes</id>
+        <link href="https://github.com/yberreby/dinov3-imagenet-1k-probes"/>
+        <updated>2025-11-16T22:01:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5556521?u=e7bd319f837e3701681109674e6ac27b6e5228af&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>yberreby</name>
+            <email>yberreby@noreply.github.com</email>
+            <uri>https://github.com/yberreby</uri>
+        </author>
+        <published>2025-11-16T20:03:12.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[alexrvandam/DINOSAR: DINOv3 Species Auto-Recovery (Zero-Shot AI Enabled Morphological Species Delimitaiton) ]]></title>
         <id>https://github.com/alexrvandam/DINOSAR</id>
@@ -19,19 +32,6 @@
             <uri>https://github.com/alexrvandam</uri>
         </author>
         <published>2025-08-10T19:51:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yberreby/dinov3-imagenet-1k-probes]]></title>
-        <id>https://github.com/yberreby/dinov3-imagenet-1k-probes</id>
-        <link href="https://github.com/yberreby/dinov3-imagenet-1k-probes"/>
-        <updated>2025-11-16T20:03:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5556521?u=e7bd319f837e3701681109674e6ac27b6e5228af&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>yberreby</name>
-            <email>yberreby@noreply.github.com</email>
-            <uri>https://github.com/yberreby</uri>
-        </author>
-        <published>2025-11-16T20:03:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
