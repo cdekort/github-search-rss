@@ -2,23 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-16T22:02:38.525Z</updated>
+    <updated>2025-11-16T23:02:46.395Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[yberreby/dinov3-imagenet-1k-probes]]></title>
-        <id>https://github.com/yberreby/dinov3-imagenet-1k-probes</id>
-        <link href="https://github.com/yberreby/dinov3-imagenet-1k-probes"/>
-        <updated>2025-11-16T22:01:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5556521?u=e7bd319f837e3701681109674e6ac27b6e5228af&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[yberreby/dinov3-probes: Pretrained IN-1k linear classification heads for DINOv3.]]></title>
+        <id>https://github.com/yberreby/dinov3-probes</id>
+        <link href="https://github.com/yberreby/dinov3-probes"/>
+        <updated>2025-11-16T23:01:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5556521?u=e7bd319f837e3701681109674e6ac27b6e5228af&v=4" width="64" height="64" alt=""/><br/><div>Pretrained IN-1k linear classification heads for DINOv3.</div>]]></content>
         <author>
             <name>yberreby</name>
             <email>yberreby@noreply.github.com</email>
             <uri>https://github.com/yberreby</uri>
         </author>
         <published>2025-11-16T20:03:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-16T22:59:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
+        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
+        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
+        <updated>2025-11-16T22:04:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
+        <author>
+            <name>CharlesChang012</name>
+            <email>CharlesChang012@noreply.github.com</email>
+            <uri>https://github.com/CharlesChang012</uri>
+        </author>
+        <published>2025-10-25T01:11:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[alexrvandam/DINOSAR: DINOv3 Species Auto-Recovery (Zero-Shot AI Enabled Morphological Species Delimitaiton) ]]></title>
@@ -32,32 +58,6 @@
             <uri>https://github.com/alexrvandam</uri>
         </author>
         <published>2025-08-10T19:51:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
-        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
-        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
-        <updated>2025-11-16T19:52:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
-        <author>
-            <name>CharlesChang012</name>
-            <email>CharlesChang012@noreply.github.com</email>
-            <uri>https://github.com/CharlesChang012</uri>
-        </author>
-        <published>2025-10-25T01:11:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-16T18:14:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
@@ -245,7 +245,7 @@
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
         <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-11-16T17:47:00.000Z</updated>
+        <updated>2025-11-16T22:38:45.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Sompote</name>
