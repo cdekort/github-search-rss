@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-16T20:02:57.035Z</updated>
+    <updated>2025-11-16T21:02:28.896Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[alexrvandam/DINOSAR: DINOv3 Species Auto-Recovery (Zero-Shot AI Enabled Morphological Species Delimitaiton) ]]></title>
+        <id>https://github.com/alexrvandam/DINOSAR</id>
+        <link href="https://github.com/alexrvandam/DINOSAR"/>
+        <updated>2025-11-16T20:59:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41234756?u=1040994becfdf37f04c66156a1c22ae6ab4de703&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Species Auto-Recovery (Zero-Shot AI Enabled Morphological Species Delimitaiton) </div>]]></content>
+        <author>
+            <name>alexrvandam</name>
+            <email>alexrvandam@noreply.github.com</email>
+            <uri>https://github.com/alexrvandam</uri>
+        </author>
+        <published>2025-08-10T19:51:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yberreby/dinov3-imagenet-1k-probes]]></title>
+        <id>https://github.com/yberreby/dinov3-imagenet-1k-probes</id>
+        <link href="https://github.com/yberreby/dinov3-imagenet-1k-probes"/>
+        <updated>2025-11-16T20:03:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5556521?u=e7bd319f837e3701681109674e6ac27b6e5228af&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>yberreby</name>
+            <email>yberreby@noreply.github.com</email>
+            <uri>https://github.com/yberreby</uri>
+        </author>
+        <published>2025-11-16T20:03:12.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
         <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
@@ -240,31 +266,5 @@
             <uri>https://github.com/vincentamato</uri>
         </author>
         <published>2025-11-13T00:07:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhia-naouali/dinov3-jax: unofficial JAX implementation of DINOv3, translated in full from the original Meta PyTroch reference implementation (Meta please don't sue me)]]></title>
-        <id>https://github.com/Dhia-naouali/dinov3-jax</id>
-        <link href="https://github.com/Dhia-naouali/dinov3-jax"/>
-        <updated>2025-11-14T19:56:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/142753318?u=e4485e7065d05432aa3f4bbfaa22b33185d7bd63&v=4" width="64" height="64" alt=""/><br/><div>unofficial JAX implementation of DINOv3, translated in full from the original Meta PyTroch reference implementation (Meta please don't sue me)</div>]]></content>
-        <author>
-            <name>Dhia-naouali</name>
-            <email>Dhia-naouali@noreply.github.com</email>
-            <uri>https://github.com/Dhia-naouali</uri>
-        </author>
-        <published>2025-08-22T04:52:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINTO0309/gazelle-dinov3: Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.]]></title>
-        <id>https://github.com/PINTO0309/gazelle-dinov3</id>
-        <link href="https://github.com/PINTO0309/gazelle-dinov3"/>
-        <updated>2025-11-13T12:43:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>Gaze-LLE-DINOv3: Gaze Target Estimation via Large-Scale Learned Encoders with DINOv3.</div>]]></content>
-        <author>
-            <name>PINTO0309</name>
-            <email>PINTO0309@noreply.github.com</email>
-            <uri>https://github.com/PINTO0309</uri>
-        </author>
-        <published>2025-10-18T03:45:12.000Z</published>
     </entry>
 </feed>
