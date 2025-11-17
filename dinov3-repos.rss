@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-17T15:03:47.914Z</updated>
+    <updated>2025-11-17T16:03:16.175Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-11-17T16:02:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnnyOrange/dinov3: finetune dinov3 on cpjump dataset]]></title>
+        <id>https://github.com/AnnyOrange/dinov3</id>
+        <link href="https://github.com/AnnyOrange/dinov3"/>
+        <updated>2025-11-17T15:52:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99806202?u=b761db85919164a407741298f96cc7f2110ff152&v=4" width="64" height="64" alt=""/><br/><div>finetune dinov3 on cpjump dataset</div>]]></content>
+        <author>
+            <name>AnnyOrange</name>
+            <email>AnnyOrange@noreply.github.com</email>
+            <uri>https://github.com/AnnyOrange</uri>
+        </author>
+        <published>2025-09-24T02:41:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FalsoMoralista/Weather-4-Cast: DINOv3 as a Frozen Encoder for CRPS-Oriented Probabilistic Rainfall Nowcasting (Neurips W4C Competition) ]]></title>
+        <id>https://github.com/FalsoMoralista/Weather-4-Cast</id>
+        <link href="https://github.com/FalsoMoralista/Weather-4-Cast"/>
+        <updated>2025-11-17T15:10:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26509469?u=ceb2cf15fd194bedd8ea299ea41aa6d65c92ad30&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 as a Frozen Encoder for CRPS-Oriented Probabilistic Rainfall Nowcasting (Neurips W4C Competition) </div>]]></content>
+        <author>
+            <name>FalsoMoralista</name>
+            <email>FalsoMoralista@noreply.github.com</email>
+            <uri>https://github.com/FalsoMoralista</uri>
+        </author>
+        <published>2025-08-08T16:42:15.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
         <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
@@ -45,19 +84,6 @@
             <uri>https://github.com/AIVFI</uri>
         </author>
         <published>2023-09-01T21:38:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-11-17T13:06:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[qinyong123456/AD-DINOv3]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/MTawhid7</uri>
         </author>
         <published>2025-11-13T09:54:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
-        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
-        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-11-17T07:31:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Sompote</name>
-            <email>Sompote@noreply.github.com</email>
-            <uri>https://github.com/Sompote</uri>
-        </author>
-        <published>2025-09-14T01:06:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vincentamato/MLXDINOv3: A native Swift implementation of Meta’s DINOv3 using MLX Swift.]]></title>
-        <id>https://github.com/vincentamato/MLXDINOv3</id>
-        <link href="https://github.com/vincentamato/MLXDINOv3"/>
-        <updated>2025-11-14T21:25:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31809647?u=ab78afa2c45862f82b343ff36be4fb1e3d0bb7f3&v=4" width="64" height="64" alt=""/><br/><div>A native Swift implementation of Meta’s DINOv3 using MLX Swift.</div>]]></content>
-        <author>
-            <name>vincentamato</name>
-            <email>vincentamato@noreply.github.com</email>
-            <uri>https://github.com/vincentamato</uri>
-        </author>
-        <published>2025-11-13T00:07:27.000Z</published>
     </entry>
 </feed>
