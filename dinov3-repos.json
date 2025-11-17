@@ -6,6 +6,39 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5556521?u=e7bd319f837e3701681109674e6ac27b6e5228af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3.</div>",
+            "url": "https://github.com/yberreby/dinov3-probes",
+            "title": "yberreby/dinov3-probes: Pretrained ImageNet-1k linear classification heads for DINOv3.",
+            "date_modified": "2025-11-17T01:08:19.000Z",
+            "date_published": "2025-11-16T20:03:12.000Z",
+            "author": {
+                "name": "yberreby",
+                "url": "https://github.com/yberreby"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>",
+            "url": "https://github.com/nam-htran/RT-DisDINOV3",
+            "title": "nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result",
+            "date_modified": "2025-11-17T00:57:00.000Z",
+            "date_published": "2025-10-22T15:53:35.000Z",
+            "author": {
+                "name": "nam-htran",
+                "url": "https://github.com/nam-htran"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63851856?u=07b99883580f58354e9b57105a27873e2b51a292&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository made for Ai agent vision task model tools</div>",
+            "url": "https://github.com/JuWanMaeng/Dinov3_Agent_Tools",
+            "title": "JuWanMaeng/Dinov3_Agent_Tools: This repository made for Ai agent vision task model tools",
+            "date_modified": "2025-11-17T00:42:28.000Z",
+            "date_published": "2025-11-13T04:15:50.000Z",
+            "author": {
+                "name": "JuWanMaeng",
+                "url": "https://github.com/JuWanMaeng"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>",
             "url": "https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion",
             "title": "CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.",
@@ -14,17 +47,6 @@
             "author": {
                 "name": "CharlesChang012",
                 "url": "https://github.com/CharlesChang012"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5556521?u=e7bd319f837e3701681109674e6ac27b6e5228af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pretrained IN-1k linear classification heads for DINOv3.</div>",
-            "url": "https://github.com/yberreby/dinov3-probes",
-            "title": "yberreby/dinov3-probes: Pretrained IN-1k linear classification heads for DINOv3.",
-            "date_modified": "2025-11-16T23:12:43.000Z",
-            "date_published": "2025-11-16T20:03:12.000Z",
-            "author": {
-                "name": "yberreby",
-                "url": "https://github.com/yberreby"
             }
         },
         {
@@ -127,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>",
-            "url": "https://github.com/nam-htran/RT-DisDINOV3",
-            "title": "nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result",
-            "date_modified": "2025-11-15T08:34:53.000Z",
-            "date_published": "2025-10-22T15:53:35.000Z",
-            "author": {
-                "name": "nam-htran",
-                "url": "https://github.com/nam-htran"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
@@ -146,17 +157,6 @@
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63851856?u=07b99883580f58354e9b57105a27873e2b51a292&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository made for Ai agent vision task model tools</div>",
-            "url": "https://github.com/JuWanMaeng/Dinov3_Agent_Tools",
-            "title": "JuWanMaeng/Dinov3_Agent_Tools: This repository made for Ai agent vision task model tools",
-            "date_modified": "2025-11-14T08:43:11.000Z",
-            "date_published": "2025-11-13T04:15:50.000Z",
-            "author": {
-                "name": "JuWanMaeng",
-                "url": "https://github.com/JuWanMaeng"
             }
         },
         {
