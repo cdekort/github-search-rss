@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-17T01:30:55.681Z</updated>
+    <updated>2025-11-17T02:32:49.466Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[qinyong123456/AD-DINOv3]]></title>
+        <id>https://github.com/qinyong123456/AD-DINOv3</id>
+        <link href="https://github.com/qinyong123456/AD-DINOv3"/>
+        <updated>2025-11-17T01:36:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60870424?u=afa24c13a64575d1dc47893e651faa7097e24167&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>qinyong123456</name>
+            <email>qinyong123456@noreply.github.com</email>
+            <uri>https://github.com/qinyong123456</uri>
+        </author>
+        <published>2025-11-14T02:10:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result]]></title>
+        <id>https://github.com/nam-htran/RT-DisDINOV3</id>
+        <link href="https://github.com/nam-htran/RT-DisDINOV3"/>
+        <updated>2025-11-17T01:31:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4" width="64" height="64" alt=""/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>]]></content>
+        <author>
+            <name>nam-htran</name>
+            <email>nam-htran@noreply.github.com</email>
+            <uri>https://github.com/nam-htran</uri>
+        </author>
+        <published>2025-10-22T15:53:35.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[yberreby/dinov3-probes: Pretrained ImageNet-1k linear classification heads for DINOv3.]]></title>
         <id>https://github.com/yberreby/dinov3-probes</id>
@@ -19,19 +45,6 @@
             <uri>https://github.com/yberreby</uri>
         </author>
         <published>2025-11-16T20:03:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nam-htran/RT-DisDINOV3: Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result]]></title>
-        <id>https://github.com/nam-htran/RT-DisDINOV3</id>
-        <link href="https://github.com/nam-htran/RT-DisDINOV3"/>
-        <updated>2025-11-17T00:57:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/154811704?u=7e09d285e68647faace86554d53f4fa11d57f792&v=4" width="64" height="64" alt=""/><br/><div>Comparative distillation and fine-tuning experiment between RT-DETR and DINOv3 on a TACO dataset. Includes model training, evaluation and comparation result</div>]]></content>
-        <author>
-            <name>nam-htran</name>
-            <email>nam-htran@noreply.github.com</email>
-            <uri>https://github.com/nam-htran</uri>
-        </author>
-        <published>2025-10-22T15:53:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JuWanMaeng/Dinov3_Agent_Tools: This repository made for Ai agent vision task model tools]]></title>
@@ -180,7 +193,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-11-16T08:49:28.000Z</updated>
+        <updated>2025-11-17T02:08:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -188,19 +201,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qinyong123456/AD-DINOv3]]></title>
-        <id>https://github.com/qinyong123456/AD-DINOv3</id>
-        <link href="https://github.com/qinyong123456/AD-DINOv3"/>
-        <updated>2025-11-14T06:07:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60870424?u=afa24c13a64575d1dc47893e651faa7097e24167&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>qinyong123456</name>
-            <email>qinyong123456@noreply.github.com</email>
-            <uri>https://github.com/qinyong123456</uri>
-        </author>
-        <published>2025-11-14T02:10:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[manic-cui/DINOv3-ViTMatte]]></title>
