@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-17T23:02:45.416Z</updated>
+    <updated>2025-11-18T00:10:35.340Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
+        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
+        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
+        <updated>2025-11-17T23:20:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
+        <author>
+            <name>CharlesChang012</name>
+            <email>CharlesChang012@noreply.github.com</email>
+            <uri>https://github.com/CharlesChang012</uri>
+        </author>
+        <published>2025-10-25T01:11:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
+        <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
+        <link href="https://github.com/KostyalBalint/02456-deep-learning-final-project"/>
+        <updated>2025-11-17T23:18:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>]]></content>
+        <author>
+            <name>KostyalBalint</name>
+            <email>KostyalBalint@noreply.github.com</email>
+            <uri>https://github.com/KostyalBalint</uri>
+        </author>
+        <published>2025-11-09T10:26:28.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -34,19 +60,6 @@
         <published>2025-05-23T00:43:35.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
-        <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
-        <link href="https://github.com/KostyalBalint/02456-deep-learning-final-project"/>
-        <updated>2025-11-17T20:03:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>]]></content>
-        <author>
-            <name>KostyalBalint</name>
-            <email>KostyalBalint@noreply.github.com</email>
-            <uri>https://github.com/KostyalBalint</uri>
-        </author>
-        <published>2025-11-09T10:26:28.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
         <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
         <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
@@ -58,19 +71,6 @@
             <uri>https://github.com/getrichthroughcode</uri>
         </author>
         <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
-        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
-        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
-        <updated>2025-11-17T18:12:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
-        <author>
-            <name>CharlesChang012</name>
-            <email>CharlesChang012@noreply.github.com</email>
-            <uri>https://github.com/CharlesChang012</uri>
-        </author>
-        <published>2025-10-25T01:11:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
