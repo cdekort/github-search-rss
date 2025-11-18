@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-18T04:04:19.723Z</updated>
+    <updated>2025-11-18T05:03:07.811Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[vuongnp-eureka/dinotxt: Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.]]></title>
+        <id>https://github.com/vuongnp-eureka/dinotxt</id>
+        <link href="https://github.com/vuongnp-eureka/dinotxt"/>
+        <updated>2025-11-18T04:59:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/168702400?v=4" width="64" height="64" alt=""/><br/><div>Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.</div>]]></content>
+        <author>
+            <name>vuongnp-eureka</name>
+            <email>vuongnp-eureka@noreply.github.com</email>
+            <uri>https://github.com/vuongnp-eureka</uri>
+        </author>
+        <published>2025-11-18T04:20:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jseobyun/FaceUV: DINOv3 based FLAME UV estimation]]></title>
+        <id>https://github.com/jseobyun/FaceUV</id>
+        <link href="https://github.com/jseobyun/FaceUV"/>
+        <updated>2025-11-18T04:20:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53433086?u=165b43703aaa3163f65d4093a90f6ac2ce9473f1&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based FLAME UV estimation</div>]]></content>
+        <author>
+            <name>jseobyun</name>
+            <email>jseobyun@noreply.github.com</email>
+            <uri>https://github.com/jseobyun</uri>
+        </author>
+        <published>2025-11-18T04:17:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -240,31 +266,5 @@
             <uri>https://github.com/manic-cui</uri>
         </author>
         <published>2025-10-04T10:47:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hpc203/gazelle-dinov3-onnxrun: 使用onnxruntime部署gazelle-dinov3凝视目标估计，包含C++和Python两个版本的程序]]></title>
-        <id>https://github.com/hpc203/gazelle-dinov3-onnxrun</id>
-        <link href="https://github.com/hpc203/gazelle-dinov3-onnxrun"/>
-        <updated>2025-11-14T01:37:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28389623?u=83b2e633802f99558127822604cce5f6f8537ce8&v=4" width="64" height="64" alt=""/><br/><div>使用onnxruntime部署gazelle-dinov3凝视目标估计，包含C++和Python两个版本的程序</div>]]></content>
-        <author>
-            <name>hpc203</name>
-            <email>hpc203@noreply.github.com</email>
-            <uri>https://github.com/hpc203</uri>
-        </author>
-        <published>2025-11-13T10:26:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MTawhid7/brixel-dinov3-segmentation: Efficient image segmentation using BRIXEL adapter with DINOv3 backbone]]></title>
-        <id>https://github.com/MTawhid7/brixel-dinov3-segmentation</id>
-        <link href="https://github.com/MTawhid7/brixel-dinov3-segmentation"/>
-        <updated>2025-11-13T09:55:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46640796?u=9367b0b9e40c59a610ff5cd084611473c42b7c81&v=4" width="64" height="64" alt=""/><br/><div>Efficient image segmentation using BRIXEL adapter with DINOv3 backbone</div>]]></content>
-        <author>
-            <name>MTawhid7</name>
-            <email>MTawhid7@noreply.github.com</email>
-            <uri>https://github.com/MTawhid7</uri>
-        </author>
-        <published>2025-11-13T09:54:23.000Z</published>
     </entry>
 </feed>

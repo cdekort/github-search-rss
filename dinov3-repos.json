@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168702400?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.</div>",
+            "url": "https://github.com/vuongnp-eureka/dinotxt",
+            "title": "vuongnp-eureka/dinotxt: Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.",
+            "date_modified": "2025-11-18T04:59:02.000Z",
+            "date_published": "2025-11-18T04:20:40.000Z",
+            "author": {
+                "name": "vuongnp-eureka",
+                "url": "https://github.com/vuongnp-eureka"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53433086?u=165b43703aaa3163f65d4093a90f6ac2ce9473f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 based FLAME UV estimation</div>",
+            "url": "https://github.com/jseobyun/FaceUV",
+            "title": "jseobyun/FaceUV: DINOv3 based FLAME UV estimation",
+            "date_modified": "2025-11-18T04:20:41.000Z",
+            "date_published": "2025-11-18T04:17:03.000Z",
+            "author": {
+                "name": "jseobyun",
+                "url": "https://github.com/jseobyun"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "manic-cui",
                 "url": "https://github.com/manic-cui"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28389623?u=83b2e633802f99558127822604cce5f6f8537ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>使用onnxruntime部署gazelle-dinov3凝视目标估计，包含C++和Python两个版本的程序</div>",
-            "url": "https://github.com/hpc203/gazelle-dinov3-onnxrun",
-            "title": "hpc203/gazelle-dinov3-onnxrun: 使用onnxruntime部署gazelle-dinov3凝视目标估计，包含C++和Python两个版本的程序",
-            "date_modified": "2025-11-14T01:37:17.000Z",
-            "date_published": "2025-11-13T10:26:51.000Z",
-            "author": {
-                "name": "hpc203",
-                "url": "https://github.com/hpc203"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46640796?u=9367b0b9e40c59a610ff5cd084611473c42b7c81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Efficient image segmentation using BRIXEL adapter with DINOv3 backbone</div>",
-            "url": "https://github.com/MTawhid7/brixel-dinov3-segmentation",
-            "title": "MTawhid7/brixel-dinov3-segmentation: Efficient image segmentation using BRIXEL adapter with DINOv3 backbone",
-            "date_modified": "2025-11-13T09:55:37.000Z",
-            "date_published": "2025-11-13T09:54:23.000Z",
-            "author": {
-                "name": "MTawhid7",
-                "url": "https://github.com/MTawhid7"
             }
         }
     ]
