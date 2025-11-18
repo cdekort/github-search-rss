@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-18T12:04:25.659Z</updated>
+    <updated>2025-11-18T13:12:13.386Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
+        <id>https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings</id>
+        <link href="https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings"/>
+        <updated>2025-11-18T12:58:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90072939?u=e58fbcc6d2ec2d9fdf72bca5d1b5cc5ee4907883&v=4" width="64" height="64" alt=""/><br/><div>We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3</div>]]></content>
+        <author>
+            <name>AIVFI</name>
+            <email>AIVFI@noreply.github.com</email>
+            <uri>https://github.com/AIVFI</uri>
+        </author>
+        <published>2023-09-01T21:38:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GustavMH/DinoV3-4channel-ConvNext: A modified version of facebookresearch/dinov3, for distilling modified ConvNext models]]></title>
+        <id>https://github.com/GustavMH/DinoV3-4channel-ConvNext</id>
+        <link href="https://github.com/GustavMH/DinoV3-4channel-ConvNext"/>
+        <updated>2025-11-18T12:11:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45123074?v=4" width="64" height="64" alt=""/><br/><div>A modified version of facebookresearch/dinov3, for distilling modified ConvNext models</div>]]></content>
+        <author>
+            <name>GustavMH</name>
+            <email>GustavMH@noreply.github.com</email>
+            <uri>https://github.com/GustavMH</uri>
+        </author>
+        <published>2025-10-10T09:43:55.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -138,19 +164,6 @@
         <published>2025-08-08T16:42:15.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
-        <id>https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings</id>
-        <link href="https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings"/>
-        <updated>2025-11-17T11:54:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90072939?u=e58fbcc6d2ec2d9fdf72bca5d1b5cc5ee4907883&v=4" width="64" height="64" alt=""/><br/><div>We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3</div>]]></content>
-        <author>
-            <name>AIVFI</name>
-            <email>AIVFI@noreply.github.com</email>
-            <uri>https://github.com/AIVFI</uri>
-        </author>
-        <published>2023-09-01T21:38:33.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[qinyong123456/AD-DINOv3]]></title>
         <id>https://github.com/qinyong123456/AD-DINOv3</id>
         <link href="https://github.com/qinyong123456/AD-DINOv3"/>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Stevieee83</uri>
         </author>
         <published>2025-11-15T13:23:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[manic-cui/DINOv3-ViTMatte]]></title>
-        <id>https://github.com/manic-cui/DINOv3-ViTMatte</id>
-        <link href="https://github.com/manic-cui/DINOv3-ViTMatte"/>
-        <updated>2025-11-14T01:55:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180807147?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>manic-cui</name>
-            <email>manic-cui@noreply.github.com</email>
-            <uri>https://github.com/manic-cui</uri>
-        </author>
-        <published>2025-10-04T10:47:36.000Z</published>
     </entry>
 </feed>
