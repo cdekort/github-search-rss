@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168702400?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.</div>",
+            "url": "https://github.com/vuongnp-eureka/dinotxt",
+            "title": "vuongnp-eureka/dinotxt: Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.",
+            "date_modified": "2025-11-18T09:52:50.000Z",
+            "date_published": "2025-11-18T04:20:40.000Z",
+            "author": {
+                "name": "vuongnp-eureka",
+                "url": "https://github.com/vuongnp-eureka"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>",
             "url": "https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion",
             "title": "CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "Kev-Park",
                 "url": "https://github.com/Kev-Park"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168702400?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.</div>",
-            "url": "https://github.com/vuongnp-eureka/dinotxt",
-            "title": "vuongnp-eureka/dinotxt: Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.",
-            "date_modified": "2025-11-18T05:04:33.000Z",
-            "date_published": "2025-11-18T04:20:40.000Z",
-            "author": {
-                "name": "vuongnp-eureka",
-                "url": "https://github.com/vuongnp-eureka"
             }
         },
         {
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-11-18T09:02:14.000Z",
+            "date_modified": "2025-11-18T09:25:05.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
