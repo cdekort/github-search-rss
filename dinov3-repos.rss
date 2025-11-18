@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-18T05:03:07.811Z</updated>
+    <updated>2025-11-18T06:04:13.735Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Kev-Park/dino-proofreading: Connectomic proofreading using DINOv3 encodings]]></title>
+        <id>https://github.com/Kev-Park/dino-proofreading</id>
+        <link href="https://github.com/Kev-Park/dino-proofreading"/>
+        <updated>2025-11-18T05:41:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48077351?u=b8a7ac007603a561d00c9cb44310eda6884e6cc4&v=4" width="64" height="64" alt=""/><br/><div>Connectomic proofreading using DINOv3 encodings</div>]]></content>
+        <author>
+            <name>Kev-Park</name>
+            <email>Kev-Park@noreply.github.com</email>
+            <uri>https://github.com/Kev-Park</uri>
+        </author>
+        <published>2025-05-23T00:43:35.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[vuongnp-eureka/dinotxt: Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.]]></title>
         <id>https://github.com/vuongnp-eureka/dinotxt</id>
         <link href="https://github.com/vuongnp-eureka/dinotxt"/>
-        <updated>2025-11-18T04:59:02.000Z</updated>
+        <updated>2025-11-18T05:04:33.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/168702400?v=4" width="64" height="64" alt=""/><br/><div>Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.</div>]]></content>
         <author>
             <name>vuongnp-eureka</name>
@@ -73,19 +86,6 @@
         <published>2025-11-09T10:26:28.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kev-Park/dino-proofreading: Connectomic proofreading using DINOv3 encodings]]></title>
-        <id>https://github.com/Kev-Park/dino-proofreading</id>
-        <link href="https://github.com/Kev-Park/dino-proofreading"/>
-        <updated>2025-11-17T21:26:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48077351?u=b8a7ac007603a561d00c9cb44310eda6884e6cc4&v=4" width="64" height="64" alt=""/><br/><div>Connectomic proofreading using DINOv3 encodings</div>]]></content>
-        <author>
-            <name>Kev-Park</name>
-            <email>Kev-Park@noreply.github.com</email>
-            <uri>https://github.com/Kev-Park</uri>
-        </author>
-        <published>2025-05-23T00:43:35.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
         <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
         <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
@@ -102,7 +102,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-11-17T16:02:01.000Z</updated>
+        <updated>2025-11-18T05:04:32.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>

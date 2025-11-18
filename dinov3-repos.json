@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48077351?u=b8a7ac007603a561d00c9cb44310eda6884e6cc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Connectomic proofreading using DINOv3 encodings</div>",
+            "url": "https://github.com/Kev-Park/dino-proofreading",
+            "title": "Kev-Park/dino-proofreading: Connectomic proofreading using DINOv3 encodings",
+            "date_modified": "2025-11-18T05:41:51.000Z",
+            "date_published": "2025-05-23T00:43:35.000Z",
+            "author": {
+                "name": "Kev-Park",
+                "url": "https://github.com/Kev-Park"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168702400?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.</div>",
             "url": "https://github.com/vuongnp-eureka/dinotxt",
             "title": "vuongnp-eureka/dinotxt: Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.",
-            "date_modified": "2025-11-18T04:59:02.000Z",
+            "date_modified": "2025-11-18T05:04:33.000Z",
             "date_published": "2025-11-18T04:20:40.000Z",
             "author": {
                 "name": "vuongnp-eureka",
@@ -61,17 +72,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48077351?u=b8a7ac007603a561d00c9cb44310eda6884e6cc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Connectomic proofreading using DINOv3 encodings</div>",
-            "url": "https://github.com/Kev-Park/dino-proofreading",
-            "title": "Kev-Park/dino-proofreading: Connectomic proofreading using DINOv3 encodings",
-            "date_modified": "2025-11-17T21:26:13.000Z",
-            "date_published": "2025-05-23T00:43:35.000Z",
-            "author": {
-                "name": "Kev-Park",
-                "url": "https://github.com/Kev-Park"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113793273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>",
             "url": "https://github.com/getrichthroughcode/dinov3-isic2018-segmentation",
             "title": "getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone",
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-11-17T16:02:01.000Z",
+            "date_modified": "2025-11-18T05:04:32.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
