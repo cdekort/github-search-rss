@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-19T12:04:36.241Z</updated>
+    <updated>2025-11-19T13:12:11.950Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[PINTO0309/reflection-removal: reflection-removal: A model for removing reflections using a single image. The goal is to significantly reduce the amount of calculation required for GAN and remove reflections in real time. The quality of the reflection removal is not important for this project. Built with DINOv3.]]></title>
+        <id>https://github.com/PINTO0309/reflection-removal</id>
+        <link href="https://github.com/PINTO0309/reflection-removal"/>
+        <updated>2025-11-19T12:57:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>reflection-removal: A model for removing reflections using a single image. The goal is to significantly reduce the amount of calculation required for GAN and remove reflections in real time. The quality of the reflection removal is not important for this project. Built with DINOv3.</div>]]></content>
+        <author>
+            <name>PINTO0309</name>
+            <email>PINTO0309@noreply.github.com</email>
+            <uri>https://github.com/PINTO0309</uri>
+        </author>
+        <published>2025-10-25T13:48:40.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/lyric6117</uri>
         </author>
         <published>2025-11-11T04:37:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINTO0309/reflection-removal: reflection-removal: A model for removing reflections using a single image. The goal is to significantly reduce the amount of calculation required for GAN and remove reflections in real time. The quality of the reflection removal is not important for this project. Built with DINOv3.]]></title>
-        <id>https://github.com/PINTO0309/reflection-removal</id>
-        <link href="https://github.com/PINTO0309/reflection-removal"/>
-        <updated>2025-11-15T14:30:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>reflection-removal: A model for removing reflections using a single image. The goal is to significantly reduce the amount of calculation required for GAN and remove reflections in real time. The quality of the reflection removal is not important for this project. Built with DINOv3.</div>]]></content>
-        <author>
-            <name>PINTO0309</name>
-            <email>PINTO0309@noreply.github.com</email>
-            <uri>https://github.com/PINTO0309</uri>
-        </author>
-        <published>2025-10-25T13:48:40.000Z</published>
     </entry>
 </feed>
