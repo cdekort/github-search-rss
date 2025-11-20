@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-20T20:02:57.101Z</updated>
+    <updated>2025-11-20T21:03:09.008Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[jabarragann/dinov3_juan_experiments]]></title>
+        <id>https://github.com/jabarragann/dinov3_juan_experiments</id>
+        <link href="https://github.com/jabarragann/dinov3_juan_experiments"/>
+        <updated>2025-11-20T20:42:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22458204?u=0c4eefe8bfafad82d098773c028a66be595ef7e2&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jabarragann</name>
+            <email>jabarragann@noreply.github.com</email>
+            <uri>https://github.com/jabarragann</uri>
+        </author>
+        <published>2025-11-20T20:41:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-20T20:28:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-11-20T17:03:30.000Z</updated>
+        <updated>2025-11-20T20:25:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -58,19 +84,6 @@
             <uri>https://github.com/getrichthroughcode</uri>
         </author>
         <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-20T13:27:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jsonmona/dinov3-jax: Unofficial implementation of DINOv3 in Jax and Equinox]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/AnnyOrange</uri>
         </author>
         <published>2025-09-24T02:41:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FalsoMoralista/Weather-4-Cast: DINOv3 as a Frozen Encoder for CRPS-Oriented Probabilistic Rainfall Nowcasting (Neurips W4C Competition) ]]></title>
-        <id>https://github.com/FalsoMoralista/Weather-4-Cast</id>
-        <link href="https://github.com/FalsoMoralista/Weather-4-Cast"/>
-        <updated>2025-11-19T17:31:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26509469?u=ceb2cf15fd194bedd8ea299ea41aa6d65c92ad30&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 as a Frozen Encoder for CRPS-Oriented Probabilistic Rainfall Nowcasting (Neurips W4C Competition) </div>]]></content>
-        <author>
-            <name>FalsoMoralista</name>
-            <email>FalsoMoralista@noreply.github.com</email>
-            <uri>https://github.com/FalsoMoralista</uri>
-        </author>
-        <published>2025-08-08T16:42:15.000Z</published>
     </entry>
 </feed>

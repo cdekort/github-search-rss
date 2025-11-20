@@ -6,10 +6,32 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22458204?u=0c4eefe8bfafad82d098773c028a66be595ef7e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jabarragann/dinov3_juan_experiments",
+            "title": "jabarragann/dinov3_juan_experiments",
+            "date_modified": "2025-11-20T20:42:19.000Z",
+            "date_published": "2025-11-20T20:41:03.000Z",
+            "author": {
+                "name": "jabarragann",
+                "url": "https://github.com/jabarragann"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2025-11-20T20:28:35.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2025-11-20T17:03:30.000Z",
+            "date_modified": "2025-11-20T20:25:19.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -47,17 +69,6 @@
             "author": {
                 "name": "getrichthroughcode",
                 "url": "https://github.com/getrichthroughcode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-11-20T13:27:44.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AnnyOrange",
                 "url": "https://github.com/AnnyOrange"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26509469?u=ceb2cf15fd194bedd8ea299ea41aa6d65c92ad30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 as a Frozen Encoder for CRPS-Oriented Probabilistic Rainfall Nowcasting (Neurips W4C Competition) </div>",
-            "url": "https://github.com/FalsoMoralista/Weather-4-Cast",
-            "title": "FalsoMoralista/Weather-4-Cast: DINOv3 as a Frozen Encoder for CRPS-Oriented Probabilistic Rainfall Nowcasting (Neurips W4C Competition) ",
-            "date_modified": "2025-11-19T17:31:36.000Z",
-            "date_published": "2025-08-08T16:42:15.000Z",
-            "author": {
-                "name": "FalsoMoralista",
-                "url": "https://github.com/FalsoMoralista"
             }
         }
     ]
