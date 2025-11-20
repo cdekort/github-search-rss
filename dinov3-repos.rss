@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-20T16:03:09.443Z</updated>
+    <updated>2025-11-20T17:04:01.840Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
+        <id>https://github.com/facebookresearch/dinov3</id>
+        <link href="https://github.com/facebookresearch/dinov3"/>
+        <updated>2025-11-20T17:03:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
+        <author>
+            <name>facebookresearch</name>
+            <email>facebookresearch@noreply.github.com</email>
+            <uri>https://github.com/facebookresearch</uri>
+        </author>
+        <published>2025-08-07T14:11:34.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
         <id>https://github.com/chingheng0808/ChangeDINO</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/FalsoMoralista</uri>
         </author>
         <published>2025-08-08T16:42:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qinyong123456/AD-DINOv3]]></title>
-        <id>https://github.com/qinyong123456/AD-DINOv3</id>
-        <link href="https://github.com/qinyong123456/AD-DINOv3"/>
-        <updated>2025-11-17T08:28:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60870424?u=afa24c13a64575d1dc47893e651faa7097e24167&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>qinyong123456</name>
-            <email>qinyong123456@noreply.github.com</email>
-            <uri>https://github.com/qinyong123456</uri>
-        </author>
-        <published>2025-11-14T02:10:00.000Z</published>
     </entry>
 </feed>
