@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-20T21:03:09.008Z</updated>
+    <updated>2025-11-20T22:03:02.043Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
+        <id>https://github.com/Stevieee83/dinov3-byol</id>
+        <link href="https://github.com/Stevieee83/dinov3-byol"/>
+        <updated>2025-11-20T22:02:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106842446?u=3141183000c2c4182bfde9973fbd878569d2610a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Stevieee83</name>
+            <email>Stevieee83@noreply.github.com</email>
+            <uri>https://github.com/Stevieee83</uri>
+        </author>
+        <published>2025-11-15T13:23:17.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[jabarragann/dinov3_juan_experiments]]></title>
         <id>https://github.com/jabarragann/dinov3_juan_experiments</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/KostyalBalint</uri>
         </author>
         <published>2025-11-09T10:26:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AnnyOrange/dinov3: finetune dinov3 on cpjump dataset]]></title>
-        <id>https://github.com/AnnyOrange/dinov3</id>
-        <link href="https://github.com/AnnyOrange/dinov3"/>
-        <updated>2025-11-17T15:52:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99806202?u=b761db85919164a407741298f96cc7f2110ff152&v=4" width="64" height="64" alt=""/><br/><div>finetune dinov3 on cpjump dataset</div>]]></content>
-        <author>
-            <name>AnnyOrange</name>
-            <email>AnnyOrange@noreply.github.com</email>
-            <uri>https://github.com/AnnyOrange</uri>
-        </author>
-        <published>2025-09-24T02:41:12.000Z</published>
     </entry>
 </feed>
