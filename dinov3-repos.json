@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105187344?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial implementation of DINOv3 in Jax and Equinox</div>",
+            "url": "https://github.com/jsonmona/dinov3-jax",
+            "title": "jsonmona/dinov3-jax: Unofficial implementation of DINOv3 in Jax and Equinox",
+            "date_modified": "2025-11-20T12:41:23.000Z",
+            "date_published": "2025-11-20T12:40:19.000Z",
+            "author": {
+                "name": "jsonmona",
+                "url": "https://github.com/jsonmona"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-11-20T11:06:45.000Z",
+            "date_modified": "2025-11-20T12:31:29.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alexrvandam",
                 "url": "https://github.com/alexrvandam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121798399?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MedARC-AI/path-fm-dinov3",
-            "title": "MedARC-AI/path-fm-dinov3",
-            "date_modified": "2025-11-19T23:20:52.000Z",
-            "date_published": "2025-11-15T01:21:17.000Z",
-            "author": {
-                "name": "MedARC-AI",
-                "url": "https://github.com/MedARC-AI"
             }
         }
     ]
