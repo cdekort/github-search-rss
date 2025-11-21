@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-21T19:02:41.591Z</updated>
+    <updated>2025-11-21T20:03:02.962Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
+        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
+        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
+        <updated>2025-11-21T19:21:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
+        <author>
+            <name>CharlesChang012</name>
+            <email>CharlesChang012@noreply.github.com</email>
+            <uri>https://github.com/CharlesChang012</uri>
+        </author>
+        <published>2025-10-25T01:11:11.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-: Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.]]></title>
         <id>https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-</id>
@@ -193,7 +206,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-11-21T18:03:43.000Z</updated>
+        <updated>2025-11-21T19:58:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/AIVFI</uri>
         </author>
         <published>2023-09-01T21:38:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINTO0309/reflection-removal: reflection-removal: A model for removing reflections using a single image. The goal is to significantly reduce the amount of calculation required for GAN and remove reflections in real time. The quality of the reflection removal is not important for this project. Built with DINOv3.]]></title>
-        <id>https://github.com/PINTO0309/reflection-removal</id>
-        <link href="https://github.com/PINTO0309/reflection-removal"/>
-        <updated>2025-11-19T13:44:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>reflection-removal: A model for removing reflections using a single image. The goal is to significantly reduce the amount of calculation required for GAN and remove reflections in real time. The quality of the reflection removal is not important for this project. Built with DINOv3.</div>]]></content>
-        <author>
-            <name>PINTO0309</name>
-            <email>PINTO0309@noreply.github.com</email>
-            <uri>https://github.com/PINTO0309</uri>
-        </author>
-        <published>2025-10-25T13:48:40.000Z</published>
     </entry>
 </feed>
