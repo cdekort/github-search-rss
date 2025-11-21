@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-21T02:31:22.267Z</updated>
+    <updated>2025-11-21T03:21:37.423Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[MedARC-AI/path-fm-dinov3]]></title>
         <id>https://github.com/MedARC-AI/path-fm-dinov3</id>
         <link href="https://github.com/MedARC-AI/path-fm-dinov3"/>
-        <updated>2025-11-21T02:24:31.000Z</updated>
+        <updated>2025-11-21T03:00:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121798399?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>MedARC-AI</name>
@@ -19,6 +19,19 @@
             <uri>https://github.com/MedARC-AI</uri>
         </author>
         <published>2025-11-15T01:21:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
+        <id>https://github.com/chingheng0808/ChangeDINO</id>
+        <link href="https://github.com/chingheng0808/ChangeDINO"/>
+        <updated>2025-11-21T02:46:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
+        <author>
+            <name>chingheng0808</name>
+            <email>chingheng0808@noreply.github.com</email>
+            <uri>https://github.com/chingheng0808</uri>
+        </author>
+        <published>2025-11-20T03:56:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
@@ -102,7 +115,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-11-21T02:23:19.000Z</updated>
+        <updated>2025-11-21T03:04:58.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -123,19 +136,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
-        <id>https://github.com/chingheng0808/ChangeDINO</id>
-        <link href="https://github.com/chingheng0808/ChangeDINO"/>
-        <updated>2025-11-20T15:02:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
-        <author>
-            <name>chingheng0808</name>
-            <email>chingheng0808@noreply.github.com</email>
-            <uri>https://github.com/chingheng0808</uri>
-        </author>
-        <published>2025-11-20T03:56:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jsonmona/dinov3-jax: Unofficial implementation of DINOv3 in Jax and Equinox]]></title>
