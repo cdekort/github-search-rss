@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-21T18:04:24.710Z</updated>
+    <updated>2025-11-21T19:02:41.591Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-: Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.]]></title>
+        <id>https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-</id>
+        <link href="https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-"/>
+        <updated>2025-11-21T18:58:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180333412?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.</div>]]></content>
+        <author>
+            <name>Lmague</name>
+            <email>Lmague@noreply.github.com</email>
+            <uri>https://github.com/Lmague</uri>
+        </author>
+        <published>2025-11-21T18:58:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-21T18:56:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor]]></title>
         <id>https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3</id>
@@ -32,19 +58,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-21T14:15:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
@@ -115,7 +128,7 @@
         <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
         <id>https://github.com/chingheng0808/ChangeDINO</id>
         <link href="https://github.com/chingheng0808/ChangeDINO"/>
-        <updated>2025-11-21T16:38:21.000Z</updated>
+        <updated>2025-11-21T19:00:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
         <author>
             <name>chingheng0808</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/PINTO0309</uri>
         </author>
         <published>2025-10-25T13:48:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vuongnp-eureka/dinotxt: Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.]]></title>
-        <id>https://github.com/vuongnp-eureka/dinotxt</id>
-        <link href="https://github.com/vuongnp-eureka/dinotxt"/>
-        <updated>2025-11-19T08:18:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/168702400?v=4" width="64" height="64" alt=""/><br/><div>Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.</div>]]></content>
-        <author>
-            <name>vuongnp-eureka</name>
-            <email>vuongnp-eureka@noreply.github.com</email>
-            <uri>https://github.com/vuongnp-eureka</uri>
-        </author>
-        <published>2025-11-18T04:20:40.000Z</published>
     </entry>
 </feed>

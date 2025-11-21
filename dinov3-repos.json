@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180333412?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.</div>",
+            "url": "https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-",
+            "title": "Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-: Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.",
+            "date_modified": "2025-11-21T18:58:55.000Z",
+            "date_published": "2025-11-21T18:58:55.000Z",
+            "author": {
+                "name": "Lmague",
+                "url": "https://github.com/Lmague"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2025-11-21T18:56:03.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89902911?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo leverage the multi-phase information of CT image to segment tumor</div>",
             "url": "https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3",
             "title": "yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-11-21T14:15:21.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
             }
         },
         {
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95171411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"</div>",
             "url": "https://github.com/chingheng0808/ChangeDINO",
             "title": "chingheng0808/ChangeDINO: The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"",
-            "date_modified": "2025-11-21T16:38:21.000Z",
+            "date_modified": "2025-11-21T19:00:38.000Z",
             "date_published": "2025-11-20T03:56:03.000Z",
             "author": {
                 "name": "chingheng0808",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "PINTO0309",
                 "url": "https://github.com/PINTO0309"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168702400?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.</div>",
-            "url": "https://github.com/vuongnp-eureka/dinotxt",
-            "title": "vuongnp-eureka/dinotxt: Minimal DINOtxt library for loading and inferring DINOtxt vision-language models. This is a lightweight extraction from the full DINOv3 library, containing only the code necessary for DINOtxt inference.",
-            "date_modified": "2025-11-19T08:18:18.000Z",
-            "date_published": "2025-11-18T04:20:40.000Z",
-            "author": {
-                "name": "vuongnp-eureka",
-                "url": "https://github.com/vuongnp-eureka"
             }
         }
     ]
