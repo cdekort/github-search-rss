@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-21T03:21:37.423Z</updated>
+    <updated>2025-11-21T04:03:31.462Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[jseobyun/FaceUV: DINOv3 based FLAME UV estimation]]></title>
+        <id>https://github.com/jseobyun/FaceUV</id>
+        <link href="https://github.com/jseobyun/FaceUV"/>
+        <updated>2025-11-21T03:34:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53433086?u=165b43703aaa3163f65d4093a90f6ac2ce9473f1&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based FLAME UV estimation</div>]]></content>
+        <author>
+            <name>jseobyun</name>
+            <email>jseobyun@noreply.github.com</email>
+            <uri>https://github.com/jseobyun</uri>
+        </author>
+        <published>2025-11-18T04:17:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MedARC-AI/path-fm-dinov3]]></title>
         <id>https://github.com/MedARC-AI/path-fm-dinov3</id>
@@ -115,7 +128,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2025-11-21T03:04:58.000Z</updated>
+        <updated>2025-11-21T03:55:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/yberreby</uri>
         </author>
         <published>2025-11-16T20:03:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GustavMH/DinoV3-4channel-ConvNext: A modified version of facebookresearch/dinov3, for distilling modified ConvNext models]]></title>
-        <id>https://github.com/GustavMH/DinoV3-4channel-ConvNext</id>
-        <link href="https://github.com/GustavMH/DinoV3-4channel-ConvNext"/>
-        <updated>2025-11-18T12:11:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45123074?v=4" width="64" height="64" alt=""/><br/><div>A modified version of facebookresearch/dinov3, for distilling modified ConvNext models</div>]]></content>
-        <author>
-            <name>GustavMH</name>
-            <email>GustavMH@noreply.github.com</email>
-            <uri>https://github.com/GustavMH</uri>
-        </author>
-        <published>2025-10-10T09:43:55.000Z</published>
     </entry>
 </feed>
