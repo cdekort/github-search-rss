@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-22T11:02:23.931Z</updated>
+    <updated>2025-11-22T12:03:58.757Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[ankel-ankel/kullback-leibler_distill_dinov3: A simple KL-divergence distillation pipeline for DINOv3 Vision Transformers. Loads a DINOv3 teacher, trains a lightweight ViT student, and uses warmup-plus-cosine scheduling with a minimal image-only dataloader.]]></title>
+        <id>https://github.com/ankel-ankel/kullback-leibler_distill_dinov3</id>
+        <link href="https://github.com/ankel-ankel/kullback-leibler_distill_dinov3"/>
+        <updated>2025-11-22T11:36:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/173511552?u=e545b3115a0275f3fd51c2f92df4c180b141f946&v=4" width="64" height="64" alt=""/><br/><div>A simple KL-divergence distillation pipeline for DINOv3 Vision Transformers. Loads a DINOv3 teacher, trains a lightweight ViT student, and uses warmup-plus-cosine scheduling with a minimal image-only dataloader.</div>]]></content>
+        <author>
+            <name>ankel-ankel</name>
+            <email>ankel-ankel@noreply.github.com</email>
+            <uri>https://github.com/ankel-ankel</uri>
+        </author>
+        <published>2025-11-22T11:33:28.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Sompote</uri>
         </author>
         <published>2025-09-14T01:06:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EnginDenizTangut/DinoV3AutoLabeling: Auto labeling with dinov3 and self learning]]></title>
-        <id>https://github.com/EnginDenizTangut/DinoV3AutoLabeling</id>
-        <link href="https://github.com/EnginDenizTangut/DinoV3AutoLabeling"/>
-        <updated>2025-11-21T05:45:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74658140?v=4" width="64" height="64" alt=""/><br/><div>Auto labeling with dinov3 and self learning</div>]]></content>
-        <author>
-            <name>EnginDenizTangut</name>
-            <email>EnginDenizTangut@noreply.github.com</email>
-            <uri>https://github.com/EnginDenizTangut</uri>
-        </author>
-        <published>2025-11-20T06:56:39.000Z</published>
     </entry>
 </feed>
