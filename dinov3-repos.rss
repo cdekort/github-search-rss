@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-22T16:02:50.472Z</updated>
+    <updated>2025-11-22T17:02:43.300Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -242,6 +242,19 @@
         <published>2025-08-07T14:11:34.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[hydroshiba/DINOv3-benchmark]]></title>
+        <id>https://github.com/hydroshiba/DINOv3-benchmark</id>
+        <link href="https://github.com/hydroshiba/DINOv3-benchmark"/>
+        <updated>2025-11-22T16:41:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36961737?u=35078c792da6fdb52284530e1020ca8c5fd3e7b0&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>hydroshiba</name>
+            <email>hydroshiba@noreply.github.com</email>
+            <uri>https://github.com/hydroshiba</uri>
+        </author>
+        <published>2025-11-16T13:55:33.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[jsonmona/dinov3-jax: Unofficial implementation of DINOv3 in Jax and Equinox]]></title>
         <id>https://github.com/jsonmona/dinov3-jax</id>
         <link href="https://github.com/jsonmona/dinov3-jax"/>
@@ -253,18 +266,5 @@
             <uri>https://github.com/jsonmona</uri>
         </author>
         <published>2025-11-20T12:40:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
-        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
-        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-11-22T10:38:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Sompote</name>
-            <email>Sompote@noreply.github.com</email>
-            <uri>https://github.com/Sompote</uri>
-        </author>
-        <published>2025-09-14T01:06:52.000Z</published>
     </entry>
 </feed>
