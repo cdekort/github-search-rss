@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73331257?u=24057a1d79115a2d0b30abe655ec9b5f9adc8143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DinoV3+RoboTwin</div>",
+            "url": "https://github.com/DannieSYD/Dino_RoboTwin",
+            "title": "DannieSYD/Dino_RoboTwin: DinoV3+RoboTwin",
+            "date_modified": "2025-11-22T04:20:45.000Z",
+            "date_published": "2025-11-22T04:18:59.000Z",
+            "author": {
+                "name": "DannieSYD",
+                "url": "https://github.com/DannieSYD"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95171411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"</div>",
             "url": "https://github.com/chingheng0808/ChangeDINO",
             "title": "chingheng0808/ChangeDINO: The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"",
-            "date_modified": "2025-11-22T01:18:39.000Z",
+            "date_modified": "2025-11-22T04:04:17.000Z",
             "date_published": "2025-11-20T03:56:03.000Z",
             "author": {
                 "name": "chingheng0808",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "EnginDenizTangut",
                 "url": "https://github.com/EnginDenizTangut"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90072939?u=e58fbcc6d2ec2d9fdf72bca5d1b5cc5ee4907883&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3</div>",
-            "url": "https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings",
-            "title": "AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3",
-            "date_modified": "2025-11-20T07:35:09.000Z",
-            "date_published": "2023-09-01T21:38:33.000Z",
-            "author": {
-                "name": "AIVFI",
-                "url": "https://github.com/AIVFI"
             }
         }
     ]
