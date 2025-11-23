@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-23T02:39:13.413Z</updated>
+    <updated>2025-11-23T03:30:29.147Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-22T22:48:21.000Z</updated>
+        <updated>2025-11-23T03:26:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -19,6 +19,19 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
+        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
+        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
+        <updated>2025-11-23T03:09:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
+        <author>
+            <name>CharlesChang012</name>
+            <email>CharlesChang012@noreply.github.com</email>
+            <uri>https://github.com/CharlesChang012</uri>
+        </author>
+        <published>2025-10-25T01:11:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ankel-ankel/kullback-leibler_distill_dinov3: A simple KL-divergence distillation pipeline for DINOv3 Vision Transformers. Loads a DINOv3 teacher, trains a lightweight ViT student, and uses warmup-plus-cosine scheduling with a minimal image-only dataloader.]]></title>
@@ -45,19 +58,6 @@
             <uri>https://github.com/DannieSYD</uri>
         </author>
         <published>2025-11-22T04:18:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
-        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
-        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
-        <updated>2025-11-21T23:13:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
-        <author>
-            <name>CharlesChang012</name>
-            <email>CharlesChang012@noreply.github.com</email>
-            <uri>https://github.com/CharlesChang012</uri>
-        </author>
-        <published>2025-10-25T01:11:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MedARC-AI/path-fm-dinov3]]></title>
@@ -180,7 +180,7 @@
         <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
         <id>https://github.com/chingheng0808/ChangeDINO</id>
         <link href="https://github.com/chingheng0808/ChangeDINO"/>
-        <updated>2025-11-22T13:34:48.000Z</updated>
+        <updated>2025-11-23T03:15:45.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
         <author>
             <name>chingheng0808</name>
