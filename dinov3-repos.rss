@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-23T15:02:38.149Z</updated>
+    <updated>2025-11-23T16:02:51.474Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
+        <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
+        <link href="https://github.com/KostyalBalint/02456-deep-learning-final-project"/>
+        <updated>2025-11-23T15:55:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>]]></content>
+        <author>
+            <name>KostyalBalint</name>
+            <email>KostyalBalint@noreply.github.com</email>
+            <uri>https://github.com/KostyalBalint</uri>
+        </author>
+        <published>2025-11-09T10:26:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
+        <id>https://github.com/chingheng0808/ChangeDINO</id>
+        <link href="https://github.com/chingheng0808/ChangeDINO"/>
+        <updated>2025-11-23T15:34:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
+        <author>
+            <name>chingheng0808</name>
+            <email>chingheng0808@noreply.github.com</email>
+            <uri>https://github.com/chingheng0808</uri>
+        </author>
+        <published>2025-11-20T03:56:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
         <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
@@ -151,6 +177,19 @@
         <published>2025-11-20T20:41:03.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-11-23T15:53:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor]]></title>
         <id>https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3</id>
         <link href="https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3"/>
@@ -162,32 +201,6 @@
             <uri>https://github.com/yupu891101</uri>
         </author>
         <published>2025-10-24T15:23:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-11-21T14:43:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
-        <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
-        <link href="https://github.com/KostyalBalint/02456-deep-learning-final-project"/>
-        <updated>2025-11-21T14:02:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>]]></content>
-        <author>
-            <name>KostyalBalint</name>
-            <email>KostyalBalint@noreply.github.com</email>
-            <uri>https://github.com/KostyalBalint</uri>
-        </author>
-        <published>2025-11-09T10:26:28.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Najongs/DINOv3_fine_tunning: DINOv3_fine_tunning]]></title>
@@ -227,19 +240,6 @@
             <uri>https://github.com/jseobyun</uri>
         </author>
         <published>2025-11-18T04:17:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
-        <id>https://github.com/chingheng0808/ChangeDINO</id>
-        <link href="https://github.com/chingheng0808/ChangeDINO"/>
-        <updated>2025-11-23T06:25:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
-        <author>
-            <name>chingheng0808</name>
-            <email>chingheng0808@noreply.github.com</email>
-            <uri>https://github.com/chingheng0808</uri>
-        </author>
-        <published>2025-11-20T03:56:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
