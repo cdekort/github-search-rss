@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74846577?u=8f554e664b473f585aa61b2911de8278e770a513&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Ardavaa/dinov3-fatigue-detection",
+            "title": "Ardavaa/dinov3-fatigue-detection",
+            "date_modified": "2025-11-23T04:24:15.000Z",
+            "date_published": "2025-11-23T04:20:52.000Z",
+            "author": {
+                "name": "Ardavaa",
+                "url": "https://github.com/Ardavaa"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115783156?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor</div>",
             "url": "https://github.com/IoT-gamer/flutter_dinov3_arcore_demo",
             "title": "IoT-gamer/flutter_dinov3_arcore_demo: Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "facebookresearch",
                 "url": "https://github.com/facebookresearch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36961737?u=35078c792da6fdb52284530e1020ca8c5fd3e7b0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hydroshiba/DINOv3-benchmark",
-            "title": "hydroshiba/DINOv3-benchmark",
-            "date_modified": "2025-11-22T16:41:02.000Z",
-            "date_published": "2025-11-16T13:55:33.000Z",
-            "author": {
-                "name": "hydroshiba",
-                "url": "https://github.com/hydroshiba"
             }
         }
     ]

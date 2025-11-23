@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-23T04:12:40.198Z</updated>
+    <updated>2025-11-23T05:02:53.221Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Ardavaa/dinov3-fatigue-detection]]></title>
+        <id>https://github.com/Ardavaa/dinov3-fatigue-detection</id>
+        <link href="https://github.com/Ardavaa/dinov3-fatigue-detection"/>
+        <updated>2025-11-23T04:24:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74846577?u=8f554e664b473f585aa61b2911de8278e770a513&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Ardavaa</name>
+            <email>Ardavaa@noreply.github.com</email>
+            <uri>https://github.com/Ardavaa</uri>
+        </author>
+        <published>2025-11-23T04:20:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_arcore_demo: Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor]]></title>
         <id>https://github.com/IoT-gamer/flutter_dinov3_arcore_demo</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/facebookresearch</uri>
         </author>
         <published>2025-08-07T14:11:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hydroshiba/DINOv3-benchmark]]></title>
-        <id>https://github.com/hydroshiba/DINOv3-benchmark</id>
-        <link href="https://github.com/hydroshiba/DINOv3-benchmark"/>
-        <updated>2025-11-22T16:41:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36961737?u=35078c792da6fdb52284530e1020ca8c5fd3e7b0&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>hydroshiba</name>
-            <email>hydroshiba@noreply.github.com</email>
-            <uri>https://github.com/hydroshiba</uri>
-        </author>
-        <published>2025-11-16T13:55:33.000Z</published>
     </entry>
 </feed>
