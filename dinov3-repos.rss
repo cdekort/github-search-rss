@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-24T19:02:46.952Z</updated>
+    <updated>2025-11-24T20:03:16.380Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[StephenQSstarThomas/dinov3-finetune]]></title>
+        <id>https://github.com/StephenQSstarThomas/dinov3-finetune</id>
+        <link href="https://github.com/StephenQSstarThomas/dinov3-finetune"/>
+        <updated>2025-11-24T19:08:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112707323?u=7c4b10d65c66f0e35dd75808a0fffb3f6d8f134f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>StephenQSstarThomas</name>
+            <email>StephenQSstarThomas@noreply.github.com</email>
+            <uri>https://github.com/StephenQSstarThomas</uri>
+        </author>
+        <published>2025-11-24T19:08:45.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[shreyaspulle98/SuperVision: Transfer learning for superconductor critical temperature prediction - DINOv3 + ALIGNN]]></title>
         <id>https://github.com/shreyaspulle98/SuperVision</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Lmague</uri>
         </author>
         <published>2025-11-21T18:58:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor]]></title>
-        <id>https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3</id>
-        <link href="https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3"/>
-        <updated>2025-11-21T17:45:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89902911?v=4" width="64" height="64" alt=""/><br/><div>This repo leverage the multi-phase information of CT image to segment tumor</div>]]></content>
-        <author>
-            <name>yupu891101</name>
-            <email>yupu891101@noreply.github.com</email>
-            <uri>https://github.com/yupu891101</uri>
-        </author>
-        <published>2025-10-24T15:23:27.000Z</published>
     </entry>
 </feed>
