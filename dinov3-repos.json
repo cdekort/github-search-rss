@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199410260?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Transfer learning for superconductor critical temperature prediction - DINOv3 + ALIGNN</div>",
+            "url": "https://github.com/shreyaspulle98/SuperVision",
+            "title": "shreyaspulle98/SuperVision: Transfer learning for superconductor critical temperature prediction - DINOv3 + ALIGNN",
+            "date_modified": "2025-11-24T18:37:27.000Z",
+            "date_published": "2025-11-24T18:36:44.000Z",
+            "author": {
+                "name": "shreyaspulle98",
+                "url": "https://github.com/shreyaspulle98"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2025-11-24T18:05:29.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>",
             "url": "https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion",
             "title": "CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.",
@@ -36,17 +58,6 @@
             "author": {
                 "name": "chingheng0808",
                 "url": "https://github.com/chingheng0808"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-11-24T13:07:04.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yupu891101",
                 "url": "https://github.com/yupu891101"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139130012?u=0ea273da354ddaff7901fff449a89ac880ea32ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3_fine_tunning</div>",
-            "url": "https://github.com/Najongs/DINOv3_fine_tunning",
-            "title": "Najongs/DINOv3_fine_tunning: DINOv3_fine_tunning",
-            "date_modified": "2025-11-21T07:29:21.000Z",
-            "date_published": "2025-11-21T07:28:17.000Z",
-            "author": {
-                "name": "Najongs",
-                "url": "https://github.com/Najongs"
             }
         }
     ]

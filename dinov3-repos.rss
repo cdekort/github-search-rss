@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-24T18:04:21.544Z</updated>
+    <updated>2025-11-24T19:02:46.952Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[shreyaspulle98/SuperVision: Transfer learning for superconductor critical temperature prediction - DINOv3 + ALIGNN]]></title>
+        <id>https://github.com/shreyaspulle98/SuperVision</id>
+        <link href="https://github.com/shreyaspulle98/SuperVision"/>
+        <updated>2025-11-24T18:37:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/199410260?v=4" width="64" height="64" alt=""/><br/><div>Transfer learning for superconductor critical temperature prediction - DINOv3 + ALIGNN</div>]]></content>
+        <author>
+            <name>shreyaspulle98</name>
+            <email>shreyaspulle98@noreply.github.com</email>
+            <uri>https://github.com/shreyaspulle98</uri>
+        </author>
+        <published>2025-11-24T18:36:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-24T18:05:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
         <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
@@ -45,19 +71,6 @@
             <uri>https://github.com/chingheng0808</uri>
         </author>
         <published>2025-11-20T03:56:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-24T13:07:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/yupu891101</uri>
         </author>
         <published>2025-10-24T15:23:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Najongs/DINOv3_fine_tunning: DINOv3_fine_tunning]]></title>
-        <id>https://github.com/Najongs/DINOv3_fine_tunning</id>
-        <link href="https://github.com/Najongs/DINOv3_fine_tunning"/>
-        <updated>2025-11-21T07:29:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/139130012?u=0ea273da354ddaff7901fff449a89ac880ea32ab&v=4" width="64" height="64" alt=""/><br/><div>DINOv3_fine_tunning</div>]]></content>
-        <author>
-            <name>Najongs</name>
-            <email>Najongs@noreply.github.com</email>
-            <uri>https://github.com/Najongs</uri>
-        </author>
-        <published>2025-11-21T07:28:17.000Z</published>
     </entry>
 </feed>
