@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-24T01:31:18.620Z</updated>
+    <updated>2025-11-24T02:35:24.701Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
+        <id>https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3</id>
+        <link href="https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3"/>
+        <updated>2025-11-24T02:27:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70372577?u=5db0178ab282bd5403e620acb05a0a80f594975e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>saehan-choi</name>
+            <email>saehan-choi@noreply.github.com</email>
+            <uri>https://github.com/saehan-choi</uri>
+        </author>
+        <published>2025-11-21T01:53:17.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-23T21:25:49.000Z</updated>
+        <updated>2025-11-24T02:08:09.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -19,6 +32,19 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
+        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
+        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
+        <updated>2025-11-24T01:35:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
+        <author>
+            <name>CharlesChang012</name>
+            <email>CharlesChang012@noreply.github.com</email>
+            <uri>https://github.com/CharlesChang012</uri>
+        </author>
+        <published>2025-10-25T01:11:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jabarragann/dinov3_juan_experiments]]></title>
@@ -110,19 +136,6 @@
             <uri>https://github.com/IoT-gamer</uri>
         </author>
         <published>2025-10-03T03:17:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
-        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
-        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
-        <updated>2025-11-23T03:09:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
-        <author>
-            <name>CharlesChang012</name>
-            <email>CharlesChang012@noreply.github.com</email>
-            <uri>https://github.com/CharlesChang012</uri>
-        </author>
-        <published>2025-10-25T01:11:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ankel-ankel/kullback-leibler_distill_dinov3: A simple KL-divergence distillation pipeline for DINOv3 Vision Transformers. Loads a DINOv3 teacher, trains a lightweight ViT student, and uses warmup-plus-cosine scheduling with a minimal image-only dataloader.]]></title>
@@ -240,19 +253,6 @@
             <uri>https://github.com/jseobyun</uri>
         </author>
         <published>2025-11-18T04:17:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
-        <id>https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3</id>
-        <link href="https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3"/>
-        <updated>2025-11-21T02:04:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70372577?u=5db0178ab282bd5403e620acb05a0a80f594975e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>saehan-choi</name>
-            <email>saehan-choi@noreply.github.com</email>
-            <uri>https://github.com/saehan-choi</uri>
-        </author>
-        <published>2025-11-21T01:53:17.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
