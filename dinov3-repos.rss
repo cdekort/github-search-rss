@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-24T06:04:10.975Z</updated>
+    <updated>2025-11-24T07:03:12.328Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-24T06:38:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
         <id>https://github.com/tim-fan/festivity_maps</id>
         <link href="https://github.com/tim-fan/festivity_maps"/>
-        <updated>2025-11-24T05:40:46.000Z</updated>
+        <updated>2025-11-24T06:30:14.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
         <author>
             <name>tim-fan</name>
@@ -19,6 +32,19 @@
             <uri>https://github.com/tim-fan</uri>
         </author>
         <published>2025-11-24T04:06:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
+        <id>https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3</id>
+        <link href="https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3"/>
+        <updated>2025-11-24T06:09:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70372577?u=5db0178ab282bd5403e620acb05a0a80f594975e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>saehan-choi</name>
+            <email>saehan-choi@noreply.github.com</email>
+            <uri>https://github.com/saehan-choi</uri>
+        </author>
+        <published>2025-11-21T01:53:17.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
@@ -58,32 +84,6 @@
             <uri>https://github.com/little51</uri>
         </author>
         <published>2025-09-26T13:47:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
-        <id>https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3</id>
-        <link href="https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3"/>
-        <updated>2025-11-24T02:27:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70372577?u=5db0178ab282bd5403e620acb05a0a80f594975e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>saehan-choi</name>
-            <email>saehan-choi@noreply.github.com</email>
-            <uri>https://github.com/saehan-choi</uri>
-        </author>
-        <published>2025-11-21T01:53:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-24T02:08:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jabarragann/dinov3_juan_experiments]]></title>
