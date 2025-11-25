@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-25T00:12:07.171Z</updated>
+    <updated>2025-11-25T01:30:59.495Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[JuWanMaeng/Dinov3_Agent_Tools: This repository made for Ai agent vision task model tools]]></title>
+        <id>https://github.com/JuWanMaeng/Dinov3_Agent_Tools</id>
+        <link href="https://github.com/JuWanMaeng/Dinov3_Agent_Tools"/>
+        <updated>2025-11-25T01:27:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63851856?u=07b99883580f58354e9b57105a27873e2b51a292&v=4" width="64" height="64" alt=""/><br/><div>This repository made for Ai agent vision task model tools</div>]]></content>
+        <author>
+            <name>JuWanMaeng</name>
+            <email>JuWanMaeng@noreply.github.com</email>
+            <uri>https://github.com/JuWanMaeng</uri>
+        </author>
+        <published>2025-11-13T04:15:50.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/MedARC-AI</uri>
         </author>
         <published>2025-11-15T01:21:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-: Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.]]></title>
-        <id>https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-</id>
-        <link href="https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-"/>
-        <updated>2025-11-21T21:59:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180333412?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.</div>]]></content>
-        <author>
-            <name>Lmague</name>
-            <email>Lmague@noreply.github.com</email>
-            <uri>https://github.com/Lmague</uri>
-        </author>
-        <published>2025-11-21T18:58:55.000Z</published>
     </entry>
 </feed>
