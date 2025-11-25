@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-25T20:02:54.999Z</updated>
+    <updated>2025-11-25T21:02:55.635Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[ZachNK/ImgMatching_DINOv3: DINOv3 Image Matching (Docker Based)]]></title>
+        <id>https://github.com/ZachNK/ImgMatching_DINOv3</id>
+        <link href="https://github.com/ZachNK/ImgMatching_DINOv3"/>
+        <updated>2025-11-25T20:25:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26238447?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Image Matching (Docker Based)</div>]]></content>
+        <author>
+            <name>ZachNK</name>
+            <email>ZachNK@noreply.github.com</email>
+            <uri>https://github.com/ZachNK</uri>
+        </author>
+        <published>2025-10-20T08:44:10.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Ardavaa</uri>
         </author>
         <published>2025-11-23T04:20:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_arcore_demo: Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor]]></title>
-        <id>https://github.com/IoT-gamer/flutter_dinov3_arcore_demo</id>
-        <link href="https://github.com/IoT-gamer/flutter_dinov3_arcore_demo"/>
-        <updated>2025-11-23T03:58:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?v=4" width="64" height="64" alt=""/><br/><div>Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor</div>]]></content>
-        <author>
-            <name>IoT-gamer</name>
-            <email>IoT-gamer@noreply.github.com</email>
-            <uri>https://github.com/IoT-gamer</uri>
-        </author>
-        <published>2025-10-03T03:17:56.000Z</published>
     </entry>
 </feed>

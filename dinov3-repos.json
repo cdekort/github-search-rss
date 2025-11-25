@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26238447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Image Matching (Docker Based)</div>",
+            "url": "https://github.com/ZachNK/ImgMatching_DINOv3",
+            "title": "ZachNK/ImgMatching_DINOv3: DINOv3 Image Matching (Docker Based)",
+            "date_modified": "2025-11-25T20:25:33.000Z",
+            "date_published": "2025-10-20T08:44:10.000Z",
+            "author": {
+                "name": "ZachNK",
+                "url": "https://github.com/ZachNK"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Ardavaa",
                 "url": "https://github.com/Ardavaa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115783156?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor</div>",
-            "url": "https://github.com/IoT-gamer/flutter_dinov3_arcore_demo",
-            "title": "IoT-gamer/flutter_dinov3_arcore_demo: Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor",
-            "date_modified": "2025-11-23T03:58:19.000Z",
-            "date_published": "2025-10-03T03:17:56.000Z",
-            "author": {
-                "name": "IoT-gamer",
-                "url": "https://github.com/IoT-gamer"
             }
         }
     ]
