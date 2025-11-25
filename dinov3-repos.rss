@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-25T15:03:03.959Z</updated>
+    <updated>2025-11-25T16:03:44.088Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-11-25T16:00:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hzlsaber/FGTS: Rethinking Cross-Generator Image Forgery Detection through DINOv3]]></title>
+        <id>https://github.com/hzlsaber/FGTS</id>
+        <link href="https://github.com/hzlsaber/FGTS"/>
+        <updated>2025-11-25T15:34:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/147322689?u=9a5589986c2e9b0f07d950446ac45ab861014583&v=4" width="64" height="64" alt=""/><br/><div>Rethinking Cross-Generator Image Forgery Detection through DINOv3</div>]]></content>
+        <author>
+            <name>hzlsaber</name>
+            <email>hzlsaber@noreply.github.com</email>
+            <uri>https://github.com/hzlsaber</uri>
+        </author>
+        <published>2025-11-25T15:33:41.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -45,19 +71,6 @@
             <uri>https://github.com/chingheng0808</uri>
         </author>
         <published>2025-11-20T03:56:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-11-25T13:15:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Najongs/DINOv3_fine_tunning: DINOv3_fine_tunning]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/IoT-gamer</uri>
         </author>
         <published>2025-10-03T03:17:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ankel-ankel/kullback-leibler_distill_dinov3: A simple KL-divergence distillation pipeline for DINOv3 Vision Transformers. Loads a DINOv3 teacher, trains a lightweight ViT student, and uses warmup-plus-cosine scheduling with a minimal image-only dataloader.]]></title>
-        <id>https://github.com/ankel-ankel/kullback-leibler_distill_dinov3</id>
-        <link href="https://github.com/ankel-ankel/kullback-leibler_distill_dinov3"/>
-        <updated>2025-11-22T11:36:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/173511552?u=e545b3115a0275f3fd51c2f92df4c180b141f946&v=4" width="64" height="64" alt=""/><br/><div>A simple KL-divergence distillation pipeline for DINOv3 Vision Transformers. Loads a DINOv3 teacher, trains a lightweight ViT student, and uses warmup-plus-cosine scheduling with a minimal image-only dataloader.</div>]]></content>
-        <author>
-            <name>ankel-ankel</name>
-            <email>ankel-ankel@noreply.github.com</email>
-            <uri>https://github.com/ankel-ankel</uri>
-        </author>
-        <published>2025-11-22T11:33:28.000Z</published>
     </entry>
 </feed>
