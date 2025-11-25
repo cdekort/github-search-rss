@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-25T05:02:48.729Z</updated>
+    <updated>2025-11-25T06:04:23.432Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
+        <id>https://github.com/chingheng0808/ChangeDINO</id>
+        <link href="https://github.com/chingheng0808/ChangeDINO"/>
+        <updated>2025-11-25T05:57:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
+        <author>
+            <name>chingheng0808</name>
+            <email>chingheng0808@noreply.github.com</email>
+            <uri>https://github.com/chingheng0808</uri>
+        </author>
+        <published>2025-11-20T03:56:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JuWanMaeng/Dinov3_Agent_Tools: This repository made for Ai agent vision task model tools]]></title>
         <id>https://github.com/JuWanMaeng/Dinov3_Agent_Tools</id>
@@ -84,19 +97,6 @@
             <uri>https://github.com/CharlesChang012</uri>
         </author>
         <published>2025-10-25T01:11:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
-        <id>https://github.com/chingheng0808/ChangeDINO</id>
-        <link href="https://github.com/chingheng0808/ChangeDINO"/>
-        <updated>2025-11-25T03:32:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
-        <author>
-            <name>chingheng0808</name>
-            <email>chingheng0808@noreply.github.com</email>
-            <uri>https://github.com/chingheng0808</uri>
-        </author>
-        <published>2025-11-20T03:56:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
