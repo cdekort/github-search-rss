@@ -6,6 +6,39 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6444018?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A python ggml implementation of dinov2 and dinov3</div>",
+            "url": "https://github.com/ZisIsNotZis/dinov23.cpp.py",
+            "title": "ZisIsNotZis/dinov23.cpp.py: A python ggml implementation of dinov2 and dinov3",
+            "date_modified": "2025-11-25T13:45:12.000Z",
+            "date_published": "2025-11-25T08:46:09.000Z",
+            "author": {
+                "name": "ZisIsNotZis",
+                "url": "https://github.com/ZisIsNotZis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95171411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"</div>",
+            "url": "https://github.com/chingheng0808/ChangeDINO",
+            "title": "chingheng0808/ChangeDINO: The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"",
+            "date_modified": "2025-11-25T13:30:33.000Z",
+            "date_published": "2025-11-20T03:56:03.000Z",
+            "author": {
+                "name": "chingheng0808",
+                "url": "https://github.com/chingheng0808"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2025-11-25T13:15:30.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -17,17 +50,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6444018?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A python ggml implementation of dinov2 and dinov3</div>",
-            "url": "https://github.com/ZisIsNotZis/dinov23.cpp.py",
-            "title": "ZisIsNotZis/dinov23.cpp.py: A python ggml implementation of dinov2 and dinov3",
-            "date_modified": "2025-11-25T09:00:11.000Z",
-            "date_published": "2025-11-25T08:46:09.000Z",
-            "author": {
-                "name": "ZisIsNotZis",
-                "url": "https://github.com/ZisIsNotZis"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139130012?u=0ea273da354ddaff7901fff449a89ac880ea32ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3_fine_tunning</div>",
             "url": "https://github.com/Najongs/DINOv3_fine_tunning",
             "title": "Najongs/DINOv3_fine_tunning: DINOv3_fine_tunning",
@@ -36,17 +58,6 @@
             "author": {
                 "name": "Najongs",
                 "url": "https://github.com/Najongs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95171411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"</div>",
-            "url": "https://github.com/chingheng0808/ChangeDINO",
-            "title": "chingheng0808/ChangeDINO: The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"",
-            "date_modified": "2025-11-25T05:57:56.000Z",
-            "date_published": "2025-11-20T03:56:03.000Z",
-            "author": {
-                "name": "chingheng0808",
-                "url": "https://github.com/chingheng0808"
             }
         },
         {
@@ -80,17 +91,6 @@
             "author": {
                 "name": "shreyaspulle98",
                 "url": "https://github.com/shreyaspulle98"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-11-24T23:26:58.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
