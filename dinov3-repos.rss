@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-26T19:02:53.924Z</updated>
+    <updated>2025-11-26T20:02:52.189Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
+        <id>https://github.com/Stevieee83/dinov3-byol</id>
+        <link href="https://github.com/Stevieee83/dinov3-byol"/>
+        <updated>2025-11-26T20:01:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106842446?u=3141183000c2c4182bfde9973fbd878569d2610a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Stevieee83</name>
+            <email>Stevieee83@noreply.github.com</email>
+            <uri>https://github.com/Stevieee83</uri>
+        </author>
+        <published>2025-11-15T13:23:17.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/getrichthroughcode</uri>
         </author>
         <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akhilesh2004NSBW/DINOv3-Models: This repository simulates how DINOv3-like AI models process images and compares their activations with human brain responses. It demonstrates early vs deep layer processing, computes similarity using cosine metrics, and visualizes hierarchical alignment, providing a simplified computational insight into how AI mirrors human visual perception.]]></title>
-        <id>https://github.com/Akhilesh2004NSBW/DINOv3-Models</id>
-        <link href="https://github.com/Akhilesh2004NSBW/DINOv3-Models"/>
-        <updated>2025-11-23T09:55:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/181852861?u=fa1beb918397171edbd8ed9157b98a2161f4c2e8&v=4" width="64" height="64" alt=""/><br/><div>This repository simulates how DINOv3-like AI models process images and compares their activations with human brain responses. It demonstrates early vs deep layer processing, computes similarity using cosine metrics, and visualizes hierarchical alignment, providing a simplified computational insight into how AI mirrors human visual perception.</div>]]></content>
-        <author>
-            <name>Akhilesh2004NSBW</name>
-            <email>Akhilesh2004NSBW@noreply.github.com</email>
-            <uri>https://github.com/Akhilesh2004NSBW</uri>
-        </author>
-        <published>2025-09-04T16:12:51.000Z</published>
     </entry>
 </feed>
