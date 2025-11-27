@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-27T22:02:48.940Z</updated>
+    <updated>2025-11-27T23:02:47.336Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
+        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
+        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
+        <updated>2025-11-27T22:32:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Sompote</name>
+            <email>Sompote@noreply.github.com</email>
+            <uri>https://github.com/Sompote</uri>
+        </author>
+        <published>2025-09-14T01:06:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-27T22:20:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CaptainLegasov/PTQ-in-DinoV3]]></title>
         <id>https://github.com/CaptainLegasov/PTQ-in-DinoV3</id>
@@ -32,19 +58,6 @@
             <uri>https://github.com/ZachNK</uri>
         </author>
         <published>2025-10-20T08:44:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-27T17:21:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/tim-fan</uri>
         </author>
         <published>2025-11-24T04:06:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
-        <id>https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3</id>
-        <link href="https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3"/>
-        <updated>2025-11-24T06:09:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70372577?u=5db0178ab282bd5403e620acb05a0a80f594975e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>saehan-choi</name>
-            <email>saehan-choi@noreply.github.com</email>
-            <uri>https://github.com/saehan-choi</uri>
-        </author>
-        <published>2025-11-21T01:53:17.000Z</published>
     </entry>
 </feed>
