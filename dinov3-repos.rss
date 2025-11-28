@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-28T00:10:24.342Z</updated>
+    <updated>2025-11-28T01:30:40.311Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
+        <id>https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3</id>
+        <link href="https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3"/>
+        <updated>2025-11-28T00:41:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70372577?u=5db0178ab282bd5403e620acb05a0a80f594975e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>saehan-choi</name>
+            <email>saehan-choi@noreply.github.com</email>
+            <uri>https://github.com/saehan-choi</uri>
+        </author>
+        <published>2025-11-21T01:53:17.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/KostyalBalint</uri>
         </author>
         <published>2025-11-09T10:26:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
-        <id>https://github.com/tim-fan/festivity_maps</id>
-        <link href="https://github.com/tim-fan/festivity_maps"/>
-        <updated>2025-11-24T06:30:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
-        <author>
-            <name>tim-fan</name>
-            <email>tim-fan@noreply.github.com</email>
-            <uri>https://github.com/tim-fan</uri>
-        </author>
-        <published>2025-11-24T04:06:04.000Z</published>
     </entry>
 </feed>
