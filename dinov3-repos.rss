@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-28T12:04:28.123Z</updated>
+    <updated>2025-11-28T13:11:30.117Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[hzlsaber/FGTS: Rethinking Cross-Generator Image Forgery Detection through DINOv3]]></title>
-        <id>https://github.com/hzlsaber/FGTS</id>
-        <link href="https://github.com/hzlsaber/FGTS"/>
-        <updated>2025-11-28T12:03:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/147322689?u=9a5589986c2e9b0f07d950446ac45ab861014583&v=4" width="64" height="64" alt=""/><br/><div>Rethinking Cross-Generator Image Forgery Detection through DINOv3</div>]]></content>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-11-28T12:44:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
-            <name>hzlsaber</name>
-            <email>hzlsaber@noreply.github.com</email>
-            <uri>https://github.com/hzlsaber</uri>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
         </author>
-        <published>2025-11-25T15:33:41.000Z</published>
+        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
@@ -45,19 +45,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-11-28T07:40:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[17todo/truck-dump-classes: 使用DINOv3做目标分类判断货运卡车是否倾倒]]></title>
@@ -266,5 +253,18 @@
             <uri>https://github.com/CharlesChang012</uri>
         </author>
         <published>2025-10-25T01:11:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
+        <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
+        <link href="https://github.com/KostyalBalint/02456-deep-learning-final-project"/>
+        <updated>2025-11-24T10:03:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>]]></content>
+        <author>
+            <name>KostyalBalint</name>
+            <email>KostyalBalint@noreply.github.com</email>
+            <uri>https://github.com/KostyalBalint</uri>
+        </author>
+        <published>2025-11-09T10:26:28.000Z</published>
     </entry>
 </feed>
