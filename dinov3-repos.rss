@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-29T15:02:36.817Z</updated>
+    <updated>2025-11-29T16:02:50.831Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
+        <id>https://github.com/Stevieee83/dinov3-byol</id>
+        <link href="https://github.com/Stevieee83/dinov3-byol"/>
+        <updated>2025-11-29T15:15:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106842446?u=3141183000c2c4182bfde9973fbd878569d2610a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Stevieee83</name>
+            <email>Stevieee83@noreply.github.com</email>
+            <uri>https://github.com/Stevieee83</uri>
+        </author>
+        <published>2025-11-15T13:23:17.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hzlsaber/FGTS: 📝The official repository of "Rethinking Cross-Generator Image Forgery Detection through DINOv3"]]></title>
         <id>https://github.com/hzlsaber/FGTS</id>
@@ -123,19 +136,6 @@
             <uri>https://github.com/ZachNK</uri>
         </author>
         <published>2025-10-20T08:44:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
-        <id>https://github.com/Stevieee83/dinov3-byol</id>
-        <link href="https://github.com/Stevieee83/dinov3-byol"/>
-        <updated>2025-11-27T16:37:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106842446?u=3141183000c2c4182bfde9973fbd878569d2610a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Stevieee83</name>
-            <email>Stevieee83@noreply.github.com</email>
-            <uri>https://github.com/Stevieee83</uri>
-        </author>
-        <published>2025-11-15T13:23:17.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZisIsNotZis/dinov23.cpp.py: A python ggml implementation of dinov2 and dinov3]]></title>
