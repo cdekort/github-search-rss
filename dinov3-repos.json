@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>",
+            "url": "https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion",
+            "title": "CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.",
+            "date_modified": "2025-11-29T19:47:51.000Z",
+            "date_published": "2025-10-25T01:11:11.000Z",
+            "author": {
+                "name": "CharlesChang012",
+                "url": "https://github.com/CharlesChang012"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>",
             "url": "https://github.com/KostyalBalint/02456-deep-learning-final-project",
             "title": "KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset",
-            "date_modified": "2025-11-29T18:36:50.000Z",
+            "date_modified": "2025-11-29T19:47:54.000Z",
             "date_published": "2025-11-09T10:26:28.000Z",
             "author": {
                 "name": "KostyalBalint",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>",
-            "url": "https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion",
-            "title": "CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.",
-            "date_modified": "2025-11-29T17:24:08.000Z",
-            "date_published": "2025-10-25T01:11:11.000Z",
-            "author": {
-                "name": "CharlesChang012",
-                "url": "https://github.com/CharlesChang012"
             }
         },
         {
