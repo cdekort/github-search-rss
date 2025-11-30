@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-30T21:02:41.968Z</updated>
+    <updated>2025-11-30T22:02:46.536Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
+        <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
+        <link href="https://github.com/KostyalBalint/02456-deep-learning-final-project"/>
+        <updated>2025-11-30T21:27:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>]]></content>
+        <author>
+            <name>KostyalBalint</name>
+            <email>KostyalBalint@noreply.github.com</email>
+            <uri>https://github.com/KostyalBalint</uri>
+        </author>
+        <published>2025-11-09T10:26:28.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
         <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
@@ -32,19 +45,6 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
-        <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
-        <link href="https://github.com/KostyalBalint/02456-deep-learning-final-project"/>
-        <updated>2025-11-30T15:53:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>]]></content>
-        <author>
-            <name>KostyalBalint</name>
-            <email>KostyalBalint@noreply.github.com</email>
-            <uri>https://github.com/KostyalBalint</uri>
-        </author>
-        <published>2025-11-09T10:26:28.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[rmaphoh/RETFound: Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3]]></title>
