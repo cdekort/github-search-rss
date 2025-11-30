@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-11-30T22:02:46.536Z</updated>
+    <updated>2025-11-30T23:02:49.964Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[jabarragann/dinov3_juan_experiments]]></title>
+        <id>https://github.com/jabarragann/dinov3_juan_experiments</id>
+        <link href="https://github.com/jabarragann/dinov3_juan_experiments"/>
+        <updated>2025-11-30T22:56:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22458204?u=0c4eefe8bfafad82d098773c028a66be595ef7e2&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jabarragann</name>
+            <email>jabarragann@noreply.github.com</email>
+            <uri>https://github.com/jabarragann</uri>
+        </author>
+        <published>2025-11-20T20:41:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
         <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
@@ -240,19 +253,6 @@
             <uri>https://github.com/chingheng0808</uri>
         </author>
         <published>2025-11-20T03:56:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jabarragann/dinov3_juan_experiments]]></title>
-        <id>https://github.com/jabarragann/dinov3_juan_experiments</id>
-        <link href="https://github.com/jabarragann/dinov3_juan_experiments"/>
-        <updated>2025-11-27T03:31:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22458204?u=0c4eefe8bfafad82d098773c028a66be595ef7e2&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jabarragann</name>
-            <email>jabarragann@noreply.github.com</email>
-            <uri>https://github.com/jabarragann</uri>
-        </author>
-        <published>2025-11-20T20:41:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
