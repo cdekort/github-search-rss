@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-01T09:05:22.892Z</updated>
+    <updated>2025-12-01T10:03:32.001Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[17todo/truck-dump-classes: 使用DINOv3做目标分类判断货运卡车是否倾倒]]></title>
+        <id>https://github.com/17todo/truck-dump-classes</id>
+        <link href="https://github.com/17todo/truck-dump-classes"/>
+        <updated>2025-12-01T09:43:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/185466648?u=730b8a5233c3ed369d320dd0ce388e8815cf8dea&v=4" width="64" height="64" alt=""/><br/><div>使用DINOv3做目标分类判断货运卡车是否倾倒</div>]]></content>
+        <author>
+            <name>17todo</name>
+            <email>17todo@noreply.github.com</email>
+            <uri>https://github.com/17todo</uri>
+        </author>
+        <published>2025-11-28T07:10:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hzlsaber/FGTS: 📝The official repository of "Rethinking Cross-Generator Image Forgery Detection through DINOv3"]]></title>
+        <id>https://github.com/hzlsaber/FGTS</id>
+        <link href="https://github.com/hzlsaber/FGTS"/>
+        <updated>2025-12-01T09:41:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/147322689?u=9a5589986c2e9b0f07d950446ac45ab861014583&v=4" width="64" height="64" alt=""/><br/><div>📝The official repository of "Rethinking Cross-Generator Image Forgery Detection through DINOv3"</div>]]></content>
+        <author>
+            <name>hzlsaber</name>
+            <email>hzlsaber@noreply.github.com</email>
+            <uri>https://github.com/hzlsaber</uri>
+        </author>
+        <published>2025-11-28T13:02:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
+        <id>https://github.com/Stevieee83/dinov3-byol</id>
+        <link href="https://github.com/Stevieee83/dinov3-byol"/>
+        <updated>2025-12-01T09:30:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106842446?u=3141183000c2c4182bfde9973fbd878569d2610a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Stevieee83</name>
+            <email>Stevieee83@noreply.github.com</email>
+            <uri>https://github.com/Stevieee83</uri>
+        </author>
+        <published>2025-11-15T13:23:17.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -32,19 +71,6 @@
             <uri>https://github.com/saehan-choi</uri>
         </author>
         <published>2025-11-21T01:53:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17todo/truck-dump-classes: 使用DINOv3做目标分类判断货运卡车是否倾倒]]></title>
-        <id>https://github.com/17todo/truck-dump-classes</id>
-        <link href="https://github.com/17todo/truck-dump-classes"/>
-        <updated>2025-12-01T03:30:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/185466648?u=730b8a5233c3ed369d320dd0ce388e8815cf8dea&v=4" width="64" height="64" alt=""/><br/><div>使用DINOv3做目标分类判断货运卡车是否倾倒</div>]]></content>
-        <author>
-            <name>17todo</name>
-            <email>17todo@noreply.github.com</email>
-            <uri>https://github.com/17todo</uri>
-        </author>
-        <published>2025-11-28T07:10:34.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
@@ -99,6 +125,19 @@
         <published>2023-01-30T23:38:40.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[leoyin1127/pathology-dinov3: Self-supervised learning pipeline for pathology foundation models using DINOv3 (SLC-PFM Competition @ NeurIPS 2025)]]></title>
+        <id>https://github.com/leoyin1127/pathology-dinov3</id>
+        <link href="https://github.com/leoyin1127/pathology-dinov3"/>
+        <updated>2025-12-01T09:33:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71328966?u=054b73cbbc5c6eda5230eb5aaad15257085d2f1f&v=4" width="64" height="64" alt=""/><br/><div>Self-supervised learning pipeline for pathology foundation models using DINOv3 (SLC-PFM Competition @ NeurIPS 2025)</div>]]></content>
+        <author>
+            <name>leoyin1127</name>
+            <email>leoyin1127@noreply.github.com</email>
+            <uri>https://github.com/leoyin1127</uri>
+        </author>
+        <published>2025-10-05T21:44:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[tb-tian/AIC2025-VideoRetrieval-float97: Multimodal video retrieval system for HCMC AI Challenge 2025 | SigLIP Keyframe extraction + DINOv3 + WhisperX]]></title>
         <id>https://github.com/tb-tian/AIC2025-VideoRetrieval-float97</id>
         <link href="https://github.com/tb-tian/AIC2025-VideoRetrieval-float97"/>
@@ -110,32 +149,6 @@
             <uri>https://github.com/tb-tian</uri>
         </author>
         <published>2025-07-23T11:51:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
-        <id>https://github.com/Stevieee83/dinov3-byol</id>
-        <link href="https://github.com/Stevieee83/dinov3-byol"/>
-        <updated>2025-11-29T15:15:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106842446?u=3141183000c2c4182bfde9973fbd878569d2610a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Stevieee83</name>
-            <email>Stevieee83@noreply.github.com</email>
-            <uri>https://github.com/Stevieee83</uri>
-        </author>
-        <published>2025-11-15T13:23:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hzlsaber/FGTS: 📝The official repository of "Rethinking Cross-Generator Image Forgery Detection through DINOv3"]]></title>
-        <id>https://github.com/hzlsaber/FGTS</id>
-        <link href="https://github.com/hzlsaber/FGTS"/>
-        <updated>2025-11-29T13:02:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/147322689?u=9a5589986c2e9b0f07d950446ac45ab861014583&v=4" width="64" height="64" alt=""/><br/><div>📝The official repository of "Rethinking Cross-Generator Image Forgery Detection through DINOv3"</div>]]></content>
-        <author>
-            <name>hzlsaber</name>
-            <email>hzlsaber@noreply.github.com</email>
-            <uri>https://github.com/hzlsaber</uri>
-        </author>
-        <published>2025-11-28T13:02:44.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[hezhicheng2002/DINOv3-FD]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/chingheng0808</uri>
         </author>
         <published>2025-11-20T03:56:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings: We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3]]></title>
-        <id>https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings</id>
-        <link href="https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-2D-to-3D-Video-Conversion-Rankings"/>
-        <updated>2025-11-26T22:58:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90072939?u=e58fbcc6d2ec2d9fdf72bca5d1b5cc5ee4907883&v=4" width="64" height="64" alt=""/><br/><div>We’re looking forward to models based on DINOv3. R-s include: BetterDepth BRIDGE BriGeS ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter Distill Any Depth FE2E GRIN M2SVid MASt3R MegaSaM Metric3D Metric-Solver MoGe MoRE NVDS Pixel-Perfect Depth SpatialTrackerV2 StereoCrafter SVG Uni4D UniDepth UniK3D VGGT Video Depth Anything π^3</div>]]></content>
-        <author>
-            <name>AIVFI</name>
-            <email>AIVFI@noreply.github.com</email>
-            <uri>https://github.com/AIVFI</uri>
-        </author>
-        <published>2023-09-01T21:38:33.000Z</published>
     </entry>
 </feed>
