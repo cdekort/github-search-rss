@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-01T07:04:33.488Z</updated>
+    <updated>2025-12-01T08:04:09.892Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
+        <id>https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3</id>
+        <link href="https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3"/>
+        <updated>2025-12-01T08:00:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70372577?u=5db0178ab282bd5403e620acb05a0a80f594975e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>saehan-choi</name>
+            <email>saehan-choi@noreply.github.com</email>
+            <uri>https://github.com/saehan-choi</uri>
+        </author>
+        <published>2025-11-21T01:53:17.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -162,19 +175,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[saehan-choi/Image-retriver-and-cluster-with-Dinov3]]></title>
-        <id>https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3</id>
-        <link href="https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3"/>
-        <updated>2025-11-28T08:38:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70372577?u=5db0178ab282bd5403e620acb05a0a80f594975e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>saehan-choi</name>
-            <email>saehan-choi@noreply.github.com</email>
-            <uri>https://github.com/saehan-choi</uri>
-        </author>
-        <published>2025-11-21T01:53:17.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
