@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-02T13:14:16.581Z</updated>
+    <updated>2025-12-02T14:03:19.271Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Noah-Bjorner/dinov3-vit-large-distilled]]></title>
+        <id>https://github.com/Noah-Bjorner/dinov3-vit-large-distilled</id>
+        <link href="https://github.com/Noah-Bjorner/dinov3-vit-large-distilled"/>
+        <updated>2025-12-02T13:48:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97152746?u=9f74f762b7ae4dd5169ad63bf8e4623d403521b3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Noah-Bjorner</name>
+            <email>Noah-Bjorner@noreply.github.com</email>
+            <uri>https://github.com/Noah-Bjorner</uri>
+        </author>
+        <published>2025-12-02T12:58:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
+        <id>https://github.com/Stevieee83/dinov3-byol</id>
+        <link href="https://github.com/Stevieee83/dinov3-byol"/>
+        <updated>2025-12-02T13:23:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106842446?u=3141183000c2c4182bfde9973fbd878569d2610a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Stevieee83</name>
+            <email>Stevieee83@noreply.github.com</email>
+            <uri>https://github.com/Stevieee83</uri>
+        </author>
+        <published>2025-11-15T13:23:17.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -19,19 +45,6 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noah-Bjorner/dinov3-vit-large-distilled]]></title>
-        <id>https://github.com/Noah-Bjorner/dinov3-vit-large-distilled</id>
-        <link href="https://github.com/Noah-Bjorner/dinov3-vit-large-distilled"/>
-        <updated>2025-12-02T12:59:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97152746?u=9f74f762b7ae4dd5169ad63bf8e4623d403521b3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Noah-Bjorner</name>
-            <email>Noah-Bjorner@noreply.github.com</email>
-            <uri>https://github.com/Noah-Bjorner</uri>
-        </author>
-        <published>2025-12-02T12:58:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[datar001/DINO-Seg: An Improved DINOV3-based Segmentation Method]]></title>
@@ -97,19 +110,6 @@
             <uri>https://github.com/KostyalBalint</uri>
         </author>
         <published>2025-11-09T10:26:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stevieee83/dinov3-byol]]></title>
-        <id>https://github.com/Stevieee83/dinov3-byol</id>
-        <link href="https://github.com/Stevieee83/dinov3-byol"/>
-        <updated>2025-12-01T10:28:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106842446?u=3141183000c2c4182bfde9973fbd878569d2610a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Stevieee83</name>
-            <email>Stevieee83@noreply.github.com</email>
-            <uri>https://github.com/Stevieee83</uri>
-        </author>
-        <published>2025-11-15T13:23:17.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[17todo/truck-dump-classes: 使用DINOv3做目标分类判断货运卡车是否倾倒]]></title>
