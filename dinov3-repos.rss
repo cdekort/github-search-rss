@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-02T01:30:55.159Z</updated>
+    <updated>2025-12-02T02:33:25.292Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Kaisor-Yuan/AD-DINOv3: AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration]]></title>
+        <id>https://github.com/Kaisor-Yuan/AD-DINOv3</id>
+        <link href="https://github.com/Kaisor-Yuan/AD-DINOv3"/>
+        <updated>2025-12-02T01:55:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106362217?u=47b4a1fbcff91955324f1fefb95735ccb514eac3&v=4" width="64" height="64" alt=""/><br/><div>AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration</div>]]></content>
+        <author>
+            <name>Kaisor-Yuan</name>
+            <email>Kaisor-Yuan@noreply.github.com</email>
+            <uri>https://github.com/Kaisor-Yuan</uri>
+        </author>
+        <published>2025-09-18T01:53:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bryan-pakulski/xtractor: Unique video frame extractor using dinov3 - Building datasets for Computer Vision models.]]></title>
         <id>https://github.com/bryan-pakulski/xtractor</id>
@@ -128,7 +141,7 @@
         <title type="html"><![CDATA[rmaphoh/RETFound: Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3]]></title>
         <id>https://github.com/rmaphoh/RETFound</id>
         <link href="https://github.com/rmaphoh/RETFound"/>
-        <updated>2025-11-30T13:58:00.000Z</updated>
+        <updated>2025-12-02T01:56:11.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68285473?u=cd8d3b4e2adf755d26058fdfd3e855b7dcf5ce71&v=4" width="64" height="64" alt=""/><br/><div>Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3</div>]]></content>
         <author>
             <name>rmaphoh</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/ZisIsNotZis</uri>
         </author>
         <published>2025-11-25T08:46:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[naturesh/TransposeNetwork: DINOv3-based network for deepfake detection]]></title>
-        <id>https://github.com/naturesh/TransposeNetwork</id>
-        <link href="https://github.com/naturesh/TransposeNetwork"/>
-        <updated>2025-11-27T11:56:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150237898?u=9b07ff490b44859484c35641473bb566290cb043&v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based network for deepfake detection</div>]]></content>
-        <author>
-            <name>naturesh</name>
-            <email>naturesh@noreply.github.com</email>
-            <uri>https://github.com/naturesh</uri>
-        </author>
-        <published>2025-11-27T08:11:29.000Z</published>
     </entry>
 </feed>
