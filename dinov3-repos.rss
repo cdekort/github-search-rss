@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-02T10:03:28.648Z</updated>
+    <updated>2025-12-02T11:03:21.518Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[datar001/DINO-Seg: An Improved DINOV3-based Segmentation Method]]></title>
+        <id>https://github.com/datar001/DINO-Seg</id>
+        <link href="https://github.com/datar001/DINO-Seg"/>
+        <updated>2025-12-02T11:03:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62345916?u=0a00fd92e877be8fa155be221e673908a83a25f2&v=4" width="64" height="64" alt=""/><br/><div>An Improved DINOV3-based Segmentation Method</div>]]></content>
+        <author>
+            <name>datar001</name>
+            <email>datar001@noreply.github.com</email>
+            <uri>https://github.com/datar001</uri>
+        </author>
+        <published>2025-12-02T10:49:18.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/ZachNK</uri>
         </author>
         <published>2025-10-20T08:44:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZisIsNotZis/dinov23.cpp.py: A python ggml implementation of dinov2 and dinov3]]></title>
-        <id>https://github.com/ZisIsNotZis/dinov23.cpp.py</id>
-        <link href="https://github.com/ZisIsNotZis/dinov23.cpp.py"/>
-        <updated>2025-11-27T11:29:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6444018?v=4" width="64" height="64" alt=""/><br/><div>A python ggml implementation of dinov2 and dinov3</div>]]></content>
-        <author>
-            <name>ZisIsNotZis</name>
-            <email>ZisIsNotZis@noreply.github.com</email>
-            <uri>https://github.com/ZisIsNotZis</uri>
-        </author>
-        <published>2025-11-25T08:46:09.000Z</published>
     </entry>
 </feed>
