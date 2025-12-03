@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-03T00:10:25.260Z</updated>
+    <updated>2025-12-03T01:30:52.218Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-12-03T00:20:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uzarel/udder-seg-dinov3]]></title>
         <id>https://github.com/Uzarel/udder-seg-dinov3</id>
@@ -19,19 +32,6 @@
             <uri>https://github.com/Uzarel</uri>
         </author>
         <published>2025-08-28T16:08:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-02T18:25:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[hzlsaber/FGTS: 📝The official repository of "Rethinking Cross-Generator Image Forgery Detection through DINOv3"]]></title>
@@ -50,7 +50,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-12-02T23:53:03.000Z</updated>
+        <updated>2025-12-03T01:06:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -190,19 +190,6 @@
         <published>2023-01-30T23:38:40.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[leoyin1127/pathology-dinov3: Self-supervised learning pipeline for pathology foundation models using DINOv3 (SLC-PFM Competition @ NeurIPS 2025)]]></title>
-        <id>https://github.com/leoyin1127/pathology-dinov3</id>
-        <link href="https://github.com/leoyin1127/pathology-dinov3"/>
-        <updated>2025-12-01T12:46:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71328966?u=054b73cbbc5c6eda5230eb5aaad15257085d2f1f&v=4" width="64" height="64" alt=""/><br/><div>Self-supervised learning pipeline for pathology foundation models using DINOv3 (SLC-PFM Competition @ NeurIPS 2025)</div>]]></content>
-        <author>
-            <name>leoyin1127</name>
-            <email>leoyin1127@noreply.github.com</email>
-            <uri>https://github.com/leoyin1127</uri>
-        </author>
-        <published>2025-10-05T21:44:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tb-tian/AIC2025-VideoRetrieval-float97: Multimodal video retrieval system for HCMC AI Challenge 2025 | SigLIP Keyframe extraction + DINOv3 + WhisperX]]></title>
         <id>https://github.com/tb-tian/AIC2025-VideoRetrieval-float97</id>
         <link href="https://github.com/tb-tian/AIC2025-VideoRetrieval-float97"/>
@@ -245,7 +232,7 @@
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
         <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-12-02T22:48:20.000Z</updated>
+        <updated>2025-12-03T01:20:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Sompote</name>
@@ -266,5 +253,18 @@
             <uri>https://github.com/CaptainLegasov</uri>
         </author>
         <published>2025-11-03T05:50:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZachNK/ImgMatching_DINOv3: DINOv3 Image Matching (Docker Based)]]></title>
+        <id>https://github.com/ZachNK/ImgMatching_DINOv3</id>
+        <link href="https://github.com/ZachNK/ImgMatching_DINOv3"/>
+        <updated>2025-11-27T18:31:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26238447?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Image Matching (Docker Based)</div>]]></content>
+        <author>
+            <name>ZachNK</name>
+            <email>ZachNK@noreply.github.com</email>
+            <uri>https://github.com/ZachNK</uri>
+        </author>
+        <published>2025-10-20T08:44:10.000Z</published>
     </entry>
 </feed>
