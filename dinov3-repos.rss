@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-03T09:05:25.410Z</updated>
+    <updated>2025-12-03T10:03:14.695Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[ji-da-cs/Tennis-Stroke-Classifier: CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation]]></title>
+        <id>https://github.com/ji-da-cs/Tennis-Stroke-Classifier</id>
+        <link href="https://github.com/ji-da-cs/Tennis-Stroke-Classifier"/>
+        <updated>2025-12-03T09:37:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/247511394?v=4" width="64" height="64" alt=""/><br/><div>CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation</div>]]></content>
+        <author>
+            <name>ji-da-cs</name>
+            <email>ji-da-cs@noreply.github.com</email>
+            <uri>https://github.com/ji-da-cs</uri>
+        </author>
+        <published>2025-12-03T04:24:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ZisIsNotZis/dinov23.cpp.py: A python ggml implementation of dinov2 and dinov3]]></title>
         <id>https://github.com/ZisIsNotZis/dinov23.cpp.py</id>
         <link href="https://github.com/ZisIsNotZis/dinov23.cpp.py"/>
-        <updated>2025-12-03T07:55:41.000Z</updated>
+        <updated>2025-12-03T09:22:52.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6444018?v=4" width="64" height="64" alt=""/><br/><div>A python ggml implementation of dinov2 and dinov3</div>]]></content>
         <author>
             <name>ZisIsNotZis</name>
@@ -32,19 +45,6 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ji-da-cs/Tennis-Stroke-Classifier: CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation]]></title>
-        <id>https://github.com/ji-da-cs/Tennis-Stroke-Classifier</id>
-        <link href="https://github.com/ji-da-cs/Tennis-Stroke-Classifier"/>
-        <updated>2025-12-03T04:44:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/247511394?v=4" width="64" height="64" alt=""/><br/><div>CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation</div>]]></content>
-        <author>
-            <name>ji-da-cs</name>
-            <email>ji-da-cs@noreply.github.com</email>
-            <uri>https://github.com/ji-da-cs</uri>
-        </author>
-        <published>2025-12-03T04:24:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
