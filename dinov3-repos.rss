@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-03T17:05:12.782Z</updated>
+    <updated>2025-12-03T18:04:27.219Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[LaFleur93/Anomaly-Detection-on-MVTecAD-using-DINOv3: Zero-Shot Anomaly Detection and Segmentation using DINOv3 without additional training or fine-tuning]]></title>
+        <id>https://github.com/LaFleur93/Anomaly-Detection-on-MVTecAD-using-DINOv3</id>
+        <link href="https://github.com/LaFleur93/Anomaly-Detection-on-MVTecAD-using-DINOv3"/>
+        <updated>2025-12-03T17:58:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74310745?u=901af291387e11ce936a1f4e1ea05bd199c1a5be&v=4" width="64" height="64" alt=""/><br/><div>Zero-Shot Anomaly Detection and Segmentation using DINOv3 without additional training or fine-tuning</div>]]></content>
+        <author>
+            <name>LaFleur93</name>
+            <email>LaFleur93@noreply.github.com</email>
+            <uri>https://github.com/LaFleur93</uri>
+        </author>
+        <published>2025-12-03T17:33:39.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor]]></title>
         <id>https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/hezhicheng2002</uri>
         </author>
         <published>2025-11-29T12:33:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MedARC-AI/path-fm-dinov3]]></title>
-        <id>https://github.com/MedARC-AI/path-fm-dinov3</id>
-        <link href="https://github.com/MedARC-AI/path-fm-dinov3"/>
-        <updated>2025-11-30T03:41:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121798399?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>MedARC-AI</name>
-            <email>MedARC-AI@noreply.github.com</email>
-            <uri>https://github.com/MedARC-AI</uri>
-        </author>
-        <published>2025-11-15T01:21:17.000Z</published>
     </entry>
 </feed>
