@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/247511394?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation</div>",
+            "url": "https://github.com/ji-da-cs/Tennis-Stroke-Classifier",
+            "title": "ji-da-cs/Tennis-Stroke-Classifier: CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation",
+            "date_modified": "2025-12-03T18:50:19.000Z",
+            "date_published": "2025-12-03T04:24:51.000Z",
+            "author": {
+                "name": "ji-da-cs",
+                "url": "https://github.com/ji-da-cs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74310745?u=901af291387e11ce936a1f4e1ea05bd199c1a5be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-Shot Anomaly Detection and Segmentation using DINOv3 without additional training or fine-tuning</div>",
             "url": "https://github.com/LaFleur93/Anomaly-Detection-on-MVTecAD-using-DINOv3",
             "title": "LaFleur93/Anomaly-Detection-on-MVTecAD-using-DINOv3: Zero-Shot Anomaly Detection and Segmentation using DINOv3 without additional training or fine-tuning",
@@ -28,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2025-12-03T18:05:05.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -47,17 +69,6 @@
             "author": {
                 "name": "Uzarel",
                 "url": "https://github.com/Uzarel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/247511394?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation</div>",
-            "url": "https://github.com/ji-da-cs/Tennis-Stroke-Classifier",
-            "title": "ji-da-cs/Tennis-Stroke-Classifier: CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation",
-            "date_modified": "2025-12-03T09:37:47.000Z",
-            "date_published": "2025-12-03T04:24:51.000Z",
-            "author": {
-                "name": "ji-da-cs",
-                "url": "https://github.com/ji-da-cs"
             }
         },
         {
@@ -91,17 +102,6 @@
             "author": {
                 "name": "hzlsaber",
                 "url": "https://github.com/hzlsaber"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-12-03T02:31:00.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
