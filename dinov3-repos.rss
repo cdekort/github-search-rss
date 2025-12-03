@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-03T16:03:39.421Z</updated>
+    <updated>2025-12-03T17:05:12.782Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor]]></title>
+        <id>https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3</id>
+        <link href="https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3"/>
+        <updated>2025-12-03T16:54:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89902911?v=4" width="64" height="64" alt=""/><br/><div>This repo leverage the multi-phase information of CT image to segment tumor</div>]]></content>
+        <author>
+            <name>yupu891101</name>
+            <email>yupu891101@noreply.github.com</email>
+            <uri>https://github.com/yupu891101</uri>
+        </author>
+        <published>2025-10-24T15:23:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-12-03T16:10:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uzarel/udder-seg-dinov3]]></title>
         <id>https://github.com/Uzarel/udder-seg-dinov3</id>
@@ -19,19 +45,6 @@
             <uri>https://github.com/Uzarel</uri>
         </author>
         <published>2025-08-28T16:08:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-03T10:41:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ji-da-cs/Tennis-Stroke-Classifier: CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation]]></title>
@@ -206,7 +219,7 @@
         <title type="html"><![CDATA[rmaphoh/RETFound: Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3]]></title>
         <id>https://github.com/rmaphoh/RETFound</id>
         <link href="https://github.com/rmaphoh/RETFound"/>
-        <updated>2025-12-02T01:56:11.000Z</updated>
+        <updated>2025-12-03T16:39:45.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68285473?u=cd8d3b4e2adf755d26058fdfd3e855b7dcf5ce71&v=4" width="64" height="64" alt=""/><br/><div>Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3</div>]]></content>
         <author>
             <name>rmaphoh</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/MedARC-AI</uri>
         </author>
         <published>2025-11-15T01:21:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12]]></title>
-        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
-        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2025-12-03T01:20:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Sompote</name>
-            <email>Sompote@noreply.github.com</email>
-            <uri>https://github.com/Sompote</uri>
-        </author>
-        <published>2025-09-14T01:06:52.000Z</published>
     </entry>
 </feed>
