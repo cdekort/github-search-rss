@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-04T06:04:08.742Z</updated>
+    <updated>2025-12-04T07:04:07.688Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[ZachNK/ImgMatching_DINOv3: DINOv3 Image Matching (Docker Based)]]></title>
+        <id>https://github.com/ZachNK/ImgMatching_DINOv3</id>
+        <link href="https://github.com/ZachNK/ImgMatching_DINOv3"/>
+        <updated>2025-12-04T06:23:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26238447?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Image Matching (Docker Based)</div>]]></content>
+        <author>
+            <name>ZachNK</name>
+            <email>ZachNK@noreply.github.com</email>
+            <uri>https://github.com/ZachNK</uri>
+        </author>
+        <published>2025-10-20T08:44:10.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ji-da-cs/Tennis-Stroke-Classifier: CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation]]></title>
         <id>https://github.com/ji-da-cs/Tennis-Stroke-Classifier</id>
@@ -63,7 +76,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-12-03T23:50:21.000Z</updated>
+        <updated>2025-12-04T06:17:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/tb-tian</uri>
         </author>
         <published>2025-07-23T11:51:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hezhicheng2002/DINOv3-FD]]></title>
-        <id>https://github.com/hezhicheng2002/DINOv3-FD</id>
-        <link href="https://github.com/hezhicheng2002/DINOv3-FD"/>
-        <updated>2025-11-29T12:33:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106535937?u=a4f2824551815c2eb08c7bde38160fb65d4a6f9c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>hezhicheng2002</name>
-            <email>hezhicheng2002@noreply.github.com</email>
-            <uri>https://github.com/hezhicheng2002</uri>
-        </author>
-        <published>2025-11-29T12:33:45.000Z</published>
     </entry>
 </feed>
