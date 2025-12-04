@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-04T10:03:08.785Z</updated>
+    <updated>2025-12-04T11:03:01.532Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-12-04T10:41:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saeedalgharib/DINOv3-SAM-FViT: Official implementation of the DINOv3–SAM F-ViT dual-encoder framework for chest X-ray classification.]]></title>
+        <id>https://github.com/Saeedalgharib/DINOv3-SAM-FViT</id>
+        <link href="https://github.com/Saeedalgharib/DINOv3-SAM-FViT"/>
+        <updated>2025-12-04T10:30:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136626624?v=4" width="64" height="64" alt=""/><br/><div>Official implementation of the DINOv3–SAM F-ViT dual-encoder framework for chest X-ray classification.</div>]]></content>
+        <author>
+            <name>Saeedalgharib</name>
+            <email>Saeedalgharib@noreply.github.com</email>
+            <uri>https://github.com/Saeedalgharib</uri>
+        </author>
+        <published>2025-12-04T10:30:25.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ColdVI/Fish-Segmentation-DINOv3: DINOv3-based semantic segmentation pipeline for large-scale fish datasets. Includes data loading, preprocessing, model inference, training, evaluation, and advanced visualization of segmentation results.]]></title>
         <id>https://github.com/ColdVI/Fish-Segmentation-DINOv3</id>
@@ -84,19 +110,6 @@
             <uri>https://github.com/yupu891101</uri>
         </author>
         <published>2025-10-24T15:23:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-12-04T06:17:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Uzarel/udder-seg-dinov3]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/rmaphoh</uri>
         </author>
         <published>2023-01-30T23:38:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tb-tian/AIC2025-VideoRetrieval-float97: Multimodal video retrieval system for HCMC AI Challenge 2025 | SigLIP Keyframe extraction + DINOv3 + WhisperX]]></title>
-        <id>https://github.com/tb-tian/AIC2025-VideoRetrieval-float97</id>
-        <link href="https://github.com/tb-tian/AIC2025-VideoRetrieval-float97"/>
-        <updated>2025-11-29T18:31:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145255003?v=4" width="64" height="64" alt=""/><br/><div>Multimodal video retrieval system for HCMC AI Challenge 2025 | SigLIP Keyframe extraction + DINOv3 + WhisperX</div>]]></content>
-        <author>
-            <name>tb-tian</name>
-            <email>tb-tian@noreply.github.com</email>
-            <uri>https://github.com/tb-tian</uri>
-        </author>
-        <published>2025-07-23T11:51:00.000Z</published>
     </entry>
 </feed>
