@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-04T21:02:56.666Z</updated>
+    <updated>2025-12-04T22:02:45.852Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Saeedalgharib/DINOv3-SAM-FViT: Official implementation of the DINOv3–SAM F-ViT dual-encoder framework for chest X-ray classification.]]></title>
+        <id>https://github.com/Saeedalgharib/DINOv3-SAM-FViT</id>
+        <link href="https://github.com/Saeedalgharib/DINOv3-SAM-FViT"/>
+        <updated>2025-12-04T21:25:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136626624?v=4" width="64" height="64" alt=""/><br/><div>Official implementation of the DINOv3–SAM F-ViT dual-encoder framework for chest X-ray classification.</div>]]></content>
+        <author>
+            <name>Saeedalgharib</name>
+            <email>Saeedalgharib@noreply.github.com</email>
+            <uri>https://github.com/Saeedalgharib</uri>
+        </author>
+        <published>2025-12-04T10:30:25.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ColdVI/Fish-Segmentation-DINOv3: DINOv3-based semantic segmentation pipeline for large-scale fish datasets. Includes data loading, preprocessing, model inference, training, evaluation, and advanced visualization of segmentation results.]]></title>
         <id>https://github.com/ColdVI/Fish-Segmentation-DINOv3</id>
         <link href="https://github.com/ColdVI/Fish-Segmentation-DINOv3"/>
-        <updated>2025-12-04T20:34:40.000Z</updated>
+        <updated>2025-12-04T21:05:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/126476389?u=be6e69e5a096dd1d251d599a168641d36edabda5&v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based semantic segmentation pipeline for large-scale fish datasets. Includes data loading, preprocessing, model inference, training, evaluation, and advanced visualization of segmentation results.</div>]]></content>
         <author>
             <name>ColdVI</name>
@@ -37,7 +50,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-12-04T18:24:51.000Z</updated>
+        <updated>2025-12-04T21:42:42.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -58,19 +71,6 @@
             <uri>https://github.com/getrichthroughcode</uri>
         </author>
         <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saeedalgharib/DINOv3-SAM-FViT: Official implementation of the DINOv3–SAM F-ViT dual-encoder framework for chest X-ray classification.]]></title>
-        <id>https://github.com/Saeedalgharib/DINOv3-SAM-FViT</id>
-        <link href="https://github.com/Saeedalgharib/DINOv3-SAM-FViT"/>
-        <updated>2025-12-04T10:30:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136626624?v=4" width="64" height="64" alt=""/><br/><div>Official implementation of the DINOv3–SAM F-ViT dual-encoder framework for chest X-ray classification.</div>]]></content>
-        <author>
-            <name>Saeedalgharib</name>
-            <email>Saeedalgharib@noreply.github.com</email>
-            <uri>https://github.com/Saeedalgharib</uri>
-        </author>
-        <published>2025-12-04T10:30:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZachNK/ImgMatching_DINOv3: DINOv3 Image Matching (Docker Based)]]></title>
