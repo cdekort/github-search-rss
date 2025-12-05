@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-05T13:12:28.798Z</updated>
+    <updated>2025-12-05T14:03:09.227Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[bryan-pakulski/xtractor: Unique video frame extractor using dinov3 - Building datasets for Computer Vision models.]]></title>
+        <id>https://github.com/bryan-pakulski/xtractor</id>
+        <link href="https://github.com/bryan-pakulski/xtractor"/>
+        <updated>2025-12-05T13:29:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15654375?u=a5d97cb93ed7abb95d36c5a913932e666031b064&v=4" width="64" height="64" alt=""/><br/><div>Unique video frame extractor using dinov3 - Building datasets for Computer Vision models.</div>]]></content>
+        <author>
+            <name>bryan-pakulski</name>
+            <email>bryan-pakulski@noreply.github.com</email>
+            <uri>https://github.com/bryan-pakulski</uri>
+        </author>
+        <published>2025-08-17T12:25:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-12-05T13:40:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[shreyaspulle98/SuperVision: Transfer learning for superconductor critical temperature prediction - DINOv3 + ALIGNN]]></title>
         <id>https://github.com/shreyaspulle98/SuperVision</id>
@@ -84,19 +110,6 @@
             <uri>https://github.com/ColdVI</uri>
         </author>
         <published>2025-12-04T09:40:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-12-05T06:31:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
@@ -227,19 +240,6 @@
             <uri>https://github.com/datar001</uri>
         </author>
         <published>2025-12-02T10:49:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bryan-pakulski/xtractor: Unique video frame extractor using dinov3 - Building datasets for Computer Vision models.]]></title>
-        <id>https://github.com/bryan-pakulski/xtractor</id>
-        <link href="https://github.com/bryan-pakulski/xtractor"/>
-        <updated>2025-12-02T00:44:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15654375?u=a5d97cb93ed7abb95d36c5a913932e666031b064&v=4" width="64" height="64" alt=""/><br/><div>Unique video frame extractor using dinov3 - Building datasets for Computer Vision models.</div>]]></content>
-        <author>
-            <name>bryan-pakulski</name>
-            <email>bryan-pakulski@noreply.github.com</email>
-            <uri>https://github.com/bryan-pakulski</uri>
-        </author>
-        <published>2025-08-17T12:25:30.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[17todo/truck-dump-classes: 使用DINOv3做目标分类判断货运卡车是否倾倒]]></title>
