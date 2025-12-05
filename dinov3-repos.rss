@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-05T00:10:30.505Z</updated>
+    <updated>2025-12-05T01:31:14.699Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[ObedDzik/dinov3]]></title>
+        <id>https://github.com/ObedDzik/dinov3</id>
+        <link href="https://github.com/ObedDzik/dinov3"/>
+        <updated>2025-12-05T00:20:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70821652?u=572f3ad173921498edbbfc02d586bfffc72f5759&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ObedDzik</name>
+            <email>ObedDzik@noreply.github.com</email>
+            <uri>https://github.com/ObedDzik</uri>
+        </author>
+        <published>2025-12-05T00:14:41.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -50,7 +63,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-12-04T23:46:29.000Z</updated>
+        <updated>2025-12-05T00:41:14.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/CharlesChang012</uri>
         </author>
         <published>2025-10-25T01:11:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jabarragann/dinov3_juan_experiments]]></title>
-        <id>https://github.com/jabarragann/dinov3_juan_experiments</id>
-        <link href="https://github.com/jabarragann/dinov3_juan_experiments"/>
-        <updated>2025-11-30T22:56:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22458204?u=0c4eefe8bfafad82d098773c028a66be595ef7e2&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jabarragann</name>
-            <email>jabarragann@noreply.github.com</email>
-            <uri>https://github.com/jabarragann</uri>
-        </author>
-        <published>2025-11-20T20:41:03.000Z</published>
     </entry>
 </feed>
