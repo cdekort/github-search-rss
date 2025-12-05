@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/234434219?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Goal: Apply pre-trained foundation models (like DINOv3, Mirroring DINO, or SAM) to detect surface defects and irregular textures in industrial images — specifically using the MVTec Anomaly Detection (AD) dataset).</div>",
+            "url": "https://github.com/jdiegomt12/zero-shot-anomaly-detection",
+            "title": "jdiegomt12/zero-shot-anomaly-detection: Goal: Apply pre-trained foundation models (like DINOv3, Mirroring DINO, or SAM) to detect surface defects and irregular textures in industrial images — specifically using the MVTec Anomaly Detection (AD) dataset).",
+            "date_modified": "2025-12-05T20:53:50.000Z",
+            "date_published": "2025-11-03T15:26:18.000Z",
+            "author": {
+                "name": "jdiegomt12",
+                "url": "https://github.com/jdiegomt12"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2025-12-05T20:42:18.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>",
             "url": "https://github.com/KostyalBalint/02456-deep-learning-final-project",
             "title": "KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-12-05T15:17:37.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "17todo",
                 "url": "https://github.com/17todo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70372577?u=5db0178ab282bd5403e620acb05a0a80f594975e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/saehan-choi/Image-retriver-and-cluster-with-Dinov3",
-            "title": "saehan-choi/Image-retriver-and-cluster-with-Dinov3",
-            "date_modified": "2025-12-01T08:00:22.000Z",
-            "date_published": "2025-11-21T01:53:17.000Z",
-            "author": {
-                "name": "saehan-choi",
-                "url": "https://github.com/saehan-choi"
             }
         }
     ]
