@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-06T06:03:49.662Z</updated>
+    <updated>2025-12-06T07:02:48.851Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.]]></title>
+        <id>https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion</id>
+        <link href="https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion"/>
+        <updated>2025-12-06T06:20:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4" width="64" height="64" alt=""/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>]]></content>
+        <author>
+            <name>CharlesChang012</name>
+            <email>CharlesChang012@noreply.github.com</email>
+            <uri>https://github.com/CharlesChang012</uri>
+        </author>
+        <published>2025-10-25T01:11:11.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pratham-22/owlv2-dinov3-open-vocabulary-pipeline: Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.]]></title>
         <id>https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Noah-Bjorner</uri>
         </author>
         <published>2025-12-02T12:58:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[datar001/DINO-Seg: An Improved DINOV3-based Segmentation Method]]></title>
-        <id>https://github.com/datar001/DINO-Seg</id>
-        <link href="https://github.com/datar001/DINO-Seg"/>
-        <updated>2025-12-05T02:09:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62345916?u=0a00fd92e877be8fa155be221e673908a83a25f2&v=4" width="64" height="64" alt=""/><br/><div>An Improved DINOV3-based Segmentation Method</div>]]></content>
-        <author>
-            <name>datar001</name>
-            <email>datar001@noreply.github.com</email>
-            <uri>https://github.com/datar001</uri>
-        </author>
-        <published>2025-12-02T10:49:18.000Z</published>
     </entry>
 </feed>

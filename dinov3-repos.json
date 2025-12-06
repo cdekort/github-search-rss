@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99932218?u=5e9953d299638b65e023c2c7a88050bfd030477b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.</div>",
+            "url": "https://github.com/CharlesChang012/3D-Semantic-Segmentation-Fusion",
+            "title": "CharlesChang012/3D-Semantic-Segmentation-Fusion: This repository implements a multi-modal 3D semantic segmentation and reconstruction system that fuses LiDAR point clouds and RGB images for autonomous scene understanding.",
+            "date_modified": "2025-12-06T06:20:31.000Z",
+            "date_published": "2025-10-25T01:11:11.000Z",
+            "author": {
+                "name": "CharlesChang012",
+                "url": "https://github.com/CharlesChang012"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88884985?u=0d1cebf5947704141b9771b9d698f7cd0dcedd27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.</div>",
             "url": "https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline",
             "title": "Pratham-22/owlv2-dinov3-open-vocabulary-pipeline: Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Noah-Bjorner",
                 "url": "https://github.com/Noah-Bjorner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62345916?u=0a00fd92e877be8fa155be221e673908a83a25f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Improved DINOV3-based Segmentation Method</div>",
-            "url": "https://github.com/datar001/DINO-Seg",
-            "title": "datar001/DINO-Seg: An Improved DINOV3-based Segmentation Method",
-            "date_modified": "2025-12-05T02:09:13.000Z",
-            "date_published": "2025-12-02T10:49:18.000Z",
-            "author": {
-                "name": "datar001",
-                "url": "https://github.com/datar001"
             }
         }
     ]
