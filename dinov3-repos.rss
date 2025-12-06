@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-06T04:03:09.485Z</updated>
+    <updated>2025-12-06T05:02:46.562Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Pratham-22/owlv2-dinov3-open-vocabulary-pipeline: Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.]]></title>
+        <id>https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline</id>
+        <link href="https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline"/>
+        <updated>2025-12-06T04:43:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88884985?u=0d1cebf5947704141b9771b9d698f7cd0dcedd27&v=4" width="64" height="64" alt=""/><br/><div>Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.</div>]]></content>
+        <author>
+            <name>Pratham-22</name>
+            <email>Pratham-22@noreply.github.com</email>
+            <uri>https://github.com/Pratham-22</uri>
+        </author>
+        <published>2025-12-06T04:04:28.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/datar001</uri>
         </author>
         <published>2025-12-02T10:49:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17todo/truck-dump-classes: 使用DINOv3做目标分类判断货运卡车是否倾倒]]></title>
-        <id>https://github.com/17todo/truck-dump-classes</id>
-        <link href="https://github.com/17todo/truck-dump-classes"/>
-        <updated>2025-12-01T09:43:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/185466648?u=730b8a5233c3ed369d320dd0ce388e8815cf8dea&v=4" width="64" height="64" alt=""/><br/><div>使用DINOv3做目标分类判断货运卡车是否倾倒</div>]]></content>
-        <author>
-            <name>17todo</name>
-            <email>17todo@noreply.github.com</email>
-            <uri>https://github.com/17todo</uri>
-        </author>
-        <published>2025-11-28T07:10:34.000Z</published>
     </entry>
 </feed>
