@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2025-12-06T17:49:32.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88884985?u=0d1cebf5947704141b9771b9d698f7cd0dcedd27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.</div>",
+            "url": "https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline",
+            "title": "Pratham-22/owlv2-dinov3-open-vocabulary-pipeline: Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.",
+            "date_modified": "2025-12-06T17:15:49.000Z",
+            "date_published": "2025-12-06T04:04:28.000Z",
+            "author": {
+                "name": "Pratham-22",
+                "url": "https://github.com/Pratham-22"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.</div>",
             "url": "https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025",
             "title": "devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "devMuniz02",
                 "url": "https://github.com/devMuniz02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-12-06T12:08:01.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
             }
         },
         {
@@ -47,17 +58,6 @@
             "author": {
                 "name": "CharlesChang012",
                 "url": "https://github.com/CharlesChang012"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88884985?u=0d1cebf5947704141b9771b9d698f7cd0dcedd27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.</div>",
-            "url": "https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline",
-            "title": "Pratham-22/owlv2-dinov3-open-vocabulary-pipeline: Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.",
-            "date_modified": "2025-12-06T04:43:50.000Z",
-            "date_published": "2025-12-06T04:04:28.000Z",
-            "author": {
-                "name": "Pratham-22",
-                "url": "https://github.com/Pratham-22"
             }
         },
         {

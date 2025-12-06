@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-06T17:02:45.097Z</updated>
+    <updated>2025-12-06T18:03:49.795Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-12-06T17:49:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pratham-22/owlv2-dinov3-open-vocabulary-pipeline: Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.]]></title>
+        <id>https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline</id>
+        <link href="https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline"/>
+        <updated>2025-12-06T17:15:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88884985?u=0d1cebf5947704141b9771b9d698f7cd0dcedd27&v=4" width="64" height="64" alt=""/><br/><div>Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.</div>]]></content>
+        <author>
+            <name>Pratham-22</name>
+            <email>Pratham-22@noreply.github.com</email>
+            <uri>https://github.com/Pratham-22</uri>
+        </author>
+        <published>2025-12-06T04:04:28.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
         <id>https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025</id>
@@ -19,19 +45,6 @@
             <uri>https://github.com/devMuniz02</uri>
         </author>
         <published>2025-06-06T16:10:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-06T12:08:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[hyuchi123/CVPDL_IP_CLIP_DINOv3: 練習復刻修改https://github.com/LyWang12/IP-CLIP/tree/main]]></title>
@@ -58,19 +71,6 @@
             <uri>https://github.com/CharlesChang012</uri>
         </author>
         <published>2025-10-25T01:11:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pratham-22/owlv2-dinov3-open-vocabulary-pipeline: Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.]]></title>
-        <id>https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline</id>
-        <link href="https://github.com/Pratham-22/owlv2-dinov3-open-vocabulary-pipeline"/>
-        <updated>2025-12-06T04:43:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88884985?u=0d1cebf5947704141b9771b9d698f7cd0dcedd27&v=4" width="64" height="64" alt=""/><br/><div>Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.</div>]]></content>
-        <author>
-            <name>Pratham-22</name>
-            <email>Pratham-22@noreply.github.com</email>
-            <uri>https://github.com/Pratham-22</uri>
-        </author>
-        <published>2025-12-06T04:04:28.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
