@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-08T06:04:14.699Z</updated>
+    <updated>2025-12-08T07:05:14.408Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[risebeforeshining/Dinov3-LMM: Dinov3-pretrained lmm based on LLaVA structure. The mlp]]></title>
+        <id>https://github.com/risebeforeshining/Dinov3-LMM</id>
+        <link href="https://github.com/risebeforeshining/Dinov3-LMM"/>
+        <updated>2025-12-08T06:50:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44262356?u=c11757ca9bc126d34c0e8254920cb76c444d565c&v=4" width="64" height="64" alt=""/><br/><div>Dinov3-pretrained lmm based on LLaVA structure. The mlp</div>]]></content>
+        <author>
+            <name>risebeforeshining</name>
+            <email>risebeforeshining@noreply.github.com</email>
+            <uri>https://github.com/risebeforeshining</uri>
+        </author>
+        <published>2025-12-08T06:37:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
+        <id>https://github.com/tim-fan/festivity_maps</id>
+        <link href="https://github.com/tim-fan/festivity_maps"/>
+        <updated>2025-12-08T06:32:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
+        <author>
+            <name>tim-fan</name>
+            <email>tim-fan@noreply.github.com</email>
+            <uri>https://github.com/tim-fan</uri>
+        </author>
+        <published>2025-11-24T04:06:04.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -45,19 +71,6 @@
             <uri>https://github.com/Navifra-Bero</uri>
         </author>
         <published>2025-12-08T01:30:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
-        <id>https://github.com/tim-fan/festivity_maps</id>
-        <link href="https://github.com/tim-fan/festivity_maps"/>
-        <updated>2025-12-07T23:44:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
-        <author>
-            <name>tim-fan</name>
-            <email>tim-fan@noreply.github.com</email>
-            <uri>https://github.com/tim-fan</uri>
-        </author>
-        <published>2025-11-24T04:06:04.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pratham-22/owlv2-dinov3-open-vocabulary-pipeline: Two-stage open-vocabulary vision pipeline combining OWLv2 detection with DINOv3 patch-level embeddings for zero-shot classification. Supports batched, GPU-accelerated inference, parallel object processing, cropped patch export, and detailed JSON + log outputs for research-grade analysis.]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/LaFleur93</uri>
         </author>
         <published>2025-12-03T17:33:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor]]></title>
-        <id>https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3</id>
-        <link href="https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3"/>
-        <updated>2025-12-03T16:54:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89902911?v=4" width="64" height="64" alt=""/><br/><div>This repo leverage the multi-phase information of CT image to segment tumor</div>]]></content>
-        <author>
-            <name>yupu891101</name>
-            <email>yupu891101@noreply.github.com</email>
-            <uri>https://github.com/yupu891101</uri>
-        </author>
-        <published>2025-10-24T15:23:27.000Z</published>
     </entry>
 </feed>

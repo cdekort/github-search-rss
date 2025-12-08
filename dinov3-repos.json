@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44262356?u=c11757ca9bc126d34c0e8254920cb76c444d565c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dinov3-pretrained lmm based on LLaVA structure. The mlp</div>",
+            "url": "https://github.com/risebeforeshining/Dinov3-LMM",
+            "title": "risebeforeshining/Dinov3-LMM: Dinov3-pretrained lmm based on LLaVA structure. The mlp",
+            "date_modified": "2025-12-08T06:50:38.000Z",
+            "date_published": "2025-12-08T06:37:59.000Z",
+            "author": {
+                "name": "risebeforeshining",
+                "url": "https://github.com/risebeforeshining"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7835911?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>",
+            "url": "https://github.com/tim-fan/festivity_maps",
+            "title": "tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3",
+            "date_modified": "2025-12-08T06:32:25.000Z",
+            "date_published": "2025-11-24T04:06:04.000Z",
+            "author": {
+                "name": "tim-fan",
+                "url": "https://github.com/tim-fan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -36,17 +58,6 @@
             "author": {
                 "name": "Navifra-Bero",
                 "url": "https://github.com/Navifra-Bero"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7835911?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>",
-            "url": "https://github.com/tim-fan/festivity_maps",
-            "title": "tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3",
-            "date_modified": "2025-12-07T23:44:26.000Z",
-            "date_published": "2025-11-24T04:06:04.000Z",
-            "author": {
-                "name": "tim-fan",
-                "url": "https://github.com/tim-fan"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LaFleur93",
                 "url": "https://github.com/LaFleur93"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89902911?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo leverage the multi-phase information of CT image to segment tumor</div>",
-            "url": "https://github.com/yupu891101/MuDino_Multi-Phase-Fusion-Dinov3",
-            "title": "yupu891101/MuDino_Multi-Phase-Fusion-Dinov3: This repo leverage the multi-phase information of CT image to segment tumor",
-            "date_modified": "2025-12-03T16:54:11.000Z",
-            "date_published": "2025-10-24T15:23:27.000Z",
-            "author": {
-                "name": "yupu891101",
-                "url": "https://github.com/yupu891101"
             }
         }
     ]
