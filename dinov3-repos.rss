@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-08T07:05:14.408Z</updated>
+    <updated>2025-12-08T08:04:16.580Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[andykr1k/DinoV3Applied]]></title>
+        <id>https://github.com/andykr1k/DinoV3Applied</id>
+        <link href="https://github.com/andykr1k/DinoV3Applied"/>
+        <updated>2025-12-08T07:30:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69021102?u=7da65454f9bb80ea1ac18634f22dba9770912763&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>andykr1k</name>
+            <email>andykr1k@noreply.github.com</email>
+            <uri>https://github.com/andykr1k</uri>
+        </author>
+        <published>2025-12-08T07:23:58.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[risebeforeshining/Dinov3-LMM: Dinov3-pretrained lmm based on LLaVA structure. The mlp]]></title>
         <id>https://github.com/risebeforeshining/Dinov3-LMM</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/ji-da-cs</uri>
         </author>
         <published>2025-12-03T04:24:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LaFleur93/Anomaly-Detection-on-MVTecAD-using-DINOv3: Zero-Shot Anomaly Detection and Segmentation using DINOv3 without additional training or fine-tuning]]></title>
-        <id>https://github.com/LaFleur93/Anomaly-Detection-on-MVTecAD-using-DINOv3</id>
-        <link href="https://github.com/LaFleur93/Anomaly-Detection-on-MVTecAD-using-DINOv3"/>
-        <updated>2025-12-03T17:58:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74310745?u=901af291387e11ce936a1f4e1ea05bd199c1a5be&v=4" width="64" height="64" alt=""/><br/><div>Zero-Shot Anomaly Detection and Segmentation using DINOv3 without additional training or fine-tuning</div>]]></content>
-        <author>
-            <name>LaFleur93</name>
-            <email>LaFleur93@noreply.github.com</email>
-            <uri>https://github.com/LaFleur93</uri>
-        </author>
-        <published>2025-12-03T17:33:39.000Z</published>
     </entry>
 </feed>
