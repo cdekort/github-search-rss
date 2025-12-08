@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-08T00:10:58.957Z</updated>
+    <updated>2025-12-08T01:31:05.713Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Navifra-Bero/SAM3_DINOv3-Image-Matching]]></title>
+        <id>https://github.com/Navifra-Bero/SAM3_DINOv3-Image-Matching</id>
+        <link href="https://github.com/Navifra-Bero/SAM3_DINOv3-Image-Matching"/>
+        <updated>2025-12-08T01:30:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/217902505?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Navifra-Bero</name>
+            <email>Navifra-Bero@noreply.github.com</email>
+            <uri>https://github.com/Navifra-Bero</uri>
+        </author>
+        <published>2025-12-08T01:30:31.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
         <id>https://github.com/tim-fan/festivity_maps</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/yupu891101</uri>
         </author>
         <published>2025-10-24T15:23:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uzarel/udder-seg-dinov3]]></title>
-        <id>https://github.com/Uzarel/udder-seg-dinov3</id>
-        <link href="https://github.com/Uzarel/udder-seg-dinov3"/>
-        <updated>2025-12-03T11:59:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32590908?u=0c3dc59ac566cda07efdab1d9c3d7412060a6a83&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Uzarel</name>
-            <email>Uzarel@noreply.github.com</email>
-            <uri>https://github.com/Uzarel</uri>
-        </author>
-        <published>2025-08-28T16:08:56.000Z</published>
     </entry>
 </feed>
