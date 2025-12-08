@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-07T23:02:36.738Z</updated>
+    <updated>2025-12-08T00:10:58.957Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
+        <id>https://github.com/tim-fan/festivity_maps</id>
+        <link href="https://github.com/tim-fan/festivity_maps"/>
+        <updated>2025-12-07T23:44:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
+        <author>
+            <name>tim-fan</name>
+            <email>tim-fan@noreply.github.com</email>
+            <uri>https://github.com/tim-fan</uri>
+        </author>
+        <published>2025-11-24T04:06:04.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Uzarel</uri>
         </author>
         <published>2025-08-28T16:08:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZisIsNotZis/dinov23.cpp.py: A python ggml implementation of dinov2 and dinov3]]></title>
-        <id>https://github.com/ZisIsNotZis/dinov23.cpp.py</id>
-        <link href="https://github.com/ZisIsNotZis/dinov23.cpp.py"/>
-        <updated>2025-12-03T09:22:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6444018?v=4" width="64" height="64" alt=""/><br/><div>A python ggml implementation of dinov2 and dinov3</div>]]></content>
-        <author>
-            <name>ZisIsNotZis</name>
-            <email>ZisIsNotZis@noreply.github.com</email>
-            <uri>https://github.com/ZisIsNotZis</uri>
-        </author>
-        <published>2025-11-25T08:46:09.000Z</published>
     </entry>
 </feed>
