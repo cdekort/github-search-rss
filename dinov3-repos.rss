@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-09T09:04:37.051Z</updated>
+    <updated>2025-12-09T10:03:23.810Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[bebemdjd/DINOv3-Retraining-Framework:  A self-supervised learning framework based on DINOv3 (Vision Transformer) for custom dataset retraining. This project implements training, evaluation, and visualization tools with flexible configuration options.]]></title>
+        <id>https://github.com/bebemdjd/DINOv3-Retraining-Framework</id>
+        <link href="https://github.com/bebemdjd/DINOv3-Retraining-Framework"/>
+        <updated>2025-12-09T09:46:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112637309?u=e665ef89d7c2ac53511cdd54918aa4fb7d0eb173&v=4" width="64" height="64" alt=""/><br/><div> A self-supervised learning framework based on DINOv3 (Vision Transformer) for custom dataset retraining. This project implements training, evaluation, and visualization tools with flexible configuration options.</div>]]></content>
+        <author>
+            <name>bebemdjd</name>
+            <email>bebemdjd@noreply.github.com</email>
+            <uri>https://github.com/bebemdjd</uri>
+        </author>
+        <published>2025-12-09T09:46:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-12-09T09:31:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -45,19 +71,6 @@
             <uri>https://github.com/ColdVI</uri>
         </author>
         <published>2025-12-04T09:40:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-12-09T08:29:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[chaejoon23/DINOv3-image-similarity-search-system-TEST]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/ObedDzik</uri>
         </author>
         <published>2025-12-05T00:14:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saeedalgharib/DINOv3-SAM-FViT: Official implementation of the DINOv3–SAM F-ViT dual-encoder framework for chest X-ray classification.]]></title>
-        <id>https://github.com/Saeedalgharib/DINOv3-SAM-FViT</id>
-        <link href="https://github.com/Saeedalgharib/DINOv3-SAM-FViT"/>
-        <updated>2025-12-04T21:25:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136626624?v=4" width="64" height="64" alt=""/><br/><div>Official implementation of the DINOv3–SAM F-ViT dual-encoder framework for chest X-ray classification.</div>]]></content>
-        <author>
-            <name>Saeedalgharib</name>
-            <email>Saeedalgharib@noreply.github.com</email>
-            <uri>https://github.com/Saeedalgharib</uri>
-        </author>
-        <published>2025-12-04T10:30:25.000Z</published>
     </entry>
 </feed>
