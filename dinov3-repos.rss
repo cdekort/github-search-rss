@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-09T06:04:11.503Z</updated>
+    <updated>2025-12-09T07:04:03.437Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[BeibeiIsFreshman/DINOv3_SAM: Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection]]></title>
+        <id>https://github.com/BeibeiIsFreshman/DINOv3_SAM</id>
+        <link href="https://github.com/BeibeiIsFreshman/DINOv3_SAM"/>
+        <updated>2025-12-09T06:59:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/146430099?v=4" width="64" height="64" alt=""/><br/><div>Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection</div>]]></content>
+        <author>
+            <name>BeibeiIsFreshman</name>
+            <email>BeibeiIsFreshman@noreply.github.com</email>
+            <uri>https://github.com/BeibeiIsFreshman</uri>
+        </author>
+        <published>2025-12-09T06:49:32.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Saeedalgharib</uri>
         </author>
         <published>2025-12-04T10:30:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
-        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
-        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
-        <updated>2025-12-04T14:27:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
-        <author>
-            <name>getrichthroughcode</name>
-            <email>getrichthroughcode@noreply.github.com</email>
-            <uri>https://github.com/getrichthroughcode</uri>
-        </author>
-        <published>2025-09-24T18:53:13.000Z</published>
     </entry>
 </feed>
