@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-09T23:02:50.095Z</updated>
+    <updated>2025-12-10T00:10:42.671Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[jinjinran2001/dl_dinov3]]></title>
+        <id>https://github.com/jinjinran2001/dl_dinov3</id>
+        <link href="https://github.com/jinjinran2001/dl_dinov3"/>
+        <updated>2025-12-09T23:38:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129996835?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jinjinran2001</name>
+            <email>jinjinran2001@noreply.github.com</email>
+            <uri>https://github.com/jinjinran2001</uri>
+        </author>
+        <published>2025-12-09T23:31:49.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/ZachNK</uri>
         </author>
         <published>2025-10-20T08:44:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ObedDzik/dinov3]]></title>
-        <id>https://github.com/ObedDzik/dinov3</id>
-        <link href="https://github.com/ObedDzik/dinov3"/>
-        <updated>2025-12-05T00:20:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70821652?u=572f3ad173921498edbbfc02d586bfffc72f5759&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ObedDzik</name>
-            <email>ObedDzik@noreply.github.com</email>
-            <uri>https://github.com/ObedDzik</uri>
-        </author>
-        <published>2025-12-05T00:14:41.000Z</published>
     </entry>
 </feed>
