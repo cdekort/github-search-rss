@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-11T03:30:07.200Z</updated>
+    <updated>2025-12-11T04:12:41.038Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Wendy-xinn/dinov3]]></title>
+        <id>https://github.com/Wendy-xinn/dinov3</id>
+        <link href="https://github.com/Wendy-xinn/dinov3"/>
+        <updated>2025-12-11T03:36:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/207971121?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Wendy-xinn</name>
+            <email>Wendy-xinn@noreply.github.com</email>
+            <uri>https://github.com/Wendy-xinn</uri>
+        </author>
+        <published>2025-12-11T03:36:07.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/hyuchi123</uri>
         </author>
         <published>2025-12-06T07:10:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KostyalBalint/02456-deep-learning-final-project: DINOv3 based anomaly detection on MVTech dataset]]></title>
-        <id>https://github.com/KostyalBalint/02456-deep-learning-final-project</id>
-        <link href="https://github.com/KostyalBalint/02456-deep-learning-final-project"/>
-        <updated>2025-12-05T21:37:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10886602?u=3e19904ce8c9e389f638cd7bd3ca9ff43dc0bcb6&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based anomaly detection on MVTech dataset</div>]]></content>
-        <author>
-            <name>KostyalBalint</name>
-            <email>KostyalBalint@noreply.github.com</email>
-            <uri>https://github.com/KostyalBalint</uri>
-        </author>
-        <published>2025-11-09T10:26:28.000Z</published>
     </entry>
 </feed>
