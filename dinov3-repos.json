@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113077588?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>EfficientNet v2-M vs DINO v3-Base for Skin Lesion Classification</div>",
+            "url": "https://github.com/avanishd-3/skin-lesion-classification",
+            "title": "avanishd-3/skin-lesion-classification: EfficientNet v2-M vs DINO v3-Base for Skin Lesion Classification",
+            "date_modified": "2025-12-11T00:59:41.000Z",
+            "date_published": "2025-12-11T00:37:31.000Z",
+            "author": {
+                "name": "avanishd-3",
+                "url": "https://github.com/avanishd-3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-12-10T22:23:27.000Z",
+            "date_modified": "2025-12-11T00:32:52.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "KostyalBalint",
                 "url": "https://github.com/KostyalBalint"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/234434219?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Goal: Apply pre-trained foundation models (like DINOv3, Mirroring DINO, or SAM) to detect surface defects and irregular textures in industrial images — specifically using the MVTec Anomaly Detection (AD) dataset).</div>",
-            "url": "https://github.com/jdiegomt12/zero-shot-anomaly-detection",
-            "title": "jdiegomt12/zero-shot-anomaly-detection: Goal: Apply pre-trained foundation models (like DINOv3, Mirroring DINO, or SAM) to detect surface defects and irregular textures in industrial images — specifically using the MVTec Anomaly Detection (AD) dataset).",
-            "date_modified": "2025-12-05T20:53:50.000Z",
-            "date_published": "2025-11-03T15:26:18.000Z",
-            "author": {
-                "name": "jdiegomt12",
-                "url": "https://github.com/jdiegomt12"
             }
         }
     ]
