@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-11T18:03:21.512Z</updated>
+    <updated>2025-12-11T19:04:52.640Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[avanishd-3/skin-lesion-classification: EfficientNet v2-M vs DINO v3-Base for Skin Lesion Classification]]></title>
+        <id>https://github.com/avanishd-3/skin-lesion-classification</id>
+        <link href="https://github.com/avanishd-3/skin-lesion-classification"/>
+        <updated>2025-12-11T18:39:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113077588?v=4" width="64" height="64" alt=""/><br/><div>EfficientNet v2-M vs DINO v3-Base for Skin Lesion Classification</div>]]></content>
+        <author>
+            <name>avanishd-3</name>
+            <email>avanishd-3@noreply.github.com</email>
+            <uri>https://github.com/avanishd-3</uri>
+        </author>
+        <published>2025-12-11T00:37:31.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -45,19 +58,6 @@
             <uri>https://github.com/Wendy-xinn</uri>
         </author>
         <published>2025-12-11T03:36:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[avanishd-3/skin-lesion-classification: EfficientNet v2-M vs DINO v3-Base for Skin Lesion Classification]]></title>
-        <id>https://github.com/avanishd-3/skin-lesion-classification</id>
-        <link href="https://github.com/avanishd-3/skin-lesion-classification"/>
-        <updated>2025-12-11T00:59:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113077588?v=4" width="64" height="64" alt=""/><br/><div>EfficientNet v2-M vs DINO v3-Base for Skin Lesion Classification</div>]]></content>
-        <author>
-            <name>avanishd-3</name>
-            <email>avanishd-3@noreply.github.com</email>
-            <uri>https://github.com/avanishd-3</uri>
-        </author>
-        <published>2025-12-11T00:37:31.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[marjanstoimchev/DinoV3LightningTraining]]></title>
