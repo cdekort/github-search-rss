@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-12T02:35:33.610Z</updated>
+    <updated>2025-12-12T03:30:24.717Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-12T01:30:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
+        <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
+        <updated>2025-12-12T03:23:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
         </author>
-        <published>2020-05-31T11:42:52.000Z</published>
+        <published>2025-09-19T02:27:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[avanishd-3/skin-lesion-classification: EfficientNet v2-M vs DINO v3-Base for Skin Lesion Classification]]></title>
         <id>https://github.com/avanishd-3/skin-lesion-classification</id>
         <link href="https://github.com/avanishd-3/skin-lesion-classification"/>
-        <updated>2025-12-11T22:39:36.000Z</updated>
+        <updated>2025-12-12T03:08:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113077588?v=4" width="64" height="64" alt=""/><br/><div>EfficientNet v2-M vs DINO v3-Base for Skin Lesion Classification</div>]]></content>
         <author>
             <name>avanishd-3</name>
@@ -32,6 +32,19 @@
             <uri>https://github.com/avanishd-3</uri>
         </author>
         <published>2025-12-11T00:37:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-12-12T02:43:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/devMuniz02</uri>
         </author>
         <published>2025-06-06T16:10:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hyuchi123/CVPDL_IP_CLIP_DINOv3: 練習復刻修改https://github.com/LyWang12/IP-CLIP/tree/main]]></title>
-        <id>https://github.com/hyuchi123/CVPDL_IP_CLIP_DINOv3</id>
-        <link href="https://github.com/hyuchi123/CVPDL_IP_CLIP_DINOv3"/>
-        <updated>2025-12-06T10:47:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/153170507?v=4" width="64" height="64" alt=""/><br/><div>練習復刻修改<a href="https://github.com/LyWang12/IP-CLIP/tree/main" class="Link--inTextBlock">https://github.com/LyWang12/IP-CLIP/tree/main</a></div>]]></content>
-        <author>
-            <name>hyuchi123</name>
-            <email>hyuchi123@noreply.github.com</email>
-            <uri>https://github.com/hyuchi123</uri>
-        </author>
-        <published>2025-12-06T07:10:20.000Z</published>
     </entry>
 </feed>
