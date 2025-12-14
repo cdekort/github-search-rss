@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-14T13:10:11.195Z</updated>
+    <updated>2025-12-14T14:02:37.420Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_one_shot_demo: Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model]]></title>
+        <id>https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo</id>
+        <link href="https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo"/>
+        <updated>2025-12-14T14:00:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?v=4" width="64" height="64" alt=""/><br/><div>Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model</div>]]></content>
+        <author>
+            <name>IoT-gamer</name>
+            <email>IoT-gamer@noreply.github.com</email>
+            <uri>https://github.com/IoT-gamer</uri>
+        </author>
+        <published>2025-09-18T08:33:33.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-14T11:15:35.000Z</updated>
+        <updated>2025-12-14T13:19:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -45,19 +58,6 @@
             <uri>https://github.com/jabarragann</uri>
         </author>
         <published>2025-11-20T20:41:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_one_shot_demo: Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model]]></title>
-        <id>https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo</id>
-        <link href="https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo"/>
-        <updated>2025-12-13T15:33:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?v=4" width="64" height="64" alt=""/><br/><div>Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model</div>]]></content>
-        <author>
-            <name>IoT-gamer</name>
-            <email>IoT-gamer@noreply.github.com</email>
-            <uri>https://github.com/IoT-gamer</uri>
-        </author>
-        <published>2025-09-18T08:33:33.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[xiaoligong495-ctrl/dinov3-dinomaly]]></title>
