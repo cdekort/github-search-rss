@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-14T15:02:44.158Z</updated>
+    <updated>2025-12-14T16:02:59.126Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-14T14:33:57.000Z</updated>
+        <updated>2025-12-14T15:52:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -19,6 +19,19 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1MD049-Contemporary-Methods-Course/DINOv3_group_C]]></title>
+        <id>https://github.com/1MD049-Contemporary-Methods-Course/DINOv3_group_C</id>
+        <link href="https://github.com/1MD049-Contemporary-Methods-Course/DINOv3_group_C"/>
+        <updated>2025-12-14T15:49:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241505715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>1MD049-Contemporary-Methods-Course</name>
+            <email>1MD049-Contemporary-Methods-Course@noreply.github.com</email>
+            <uri>https://github.com/1MD049-Contemporary-Methods-Course</uri>
+        </author>
+        <published>2025-12-14T15:49:02.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_one_shot_demo: Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/chaejoon23</uri>
         </author>
         <published>2025-12-08T14:36:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[andykr1k/DinoV3Applied]]></title>
-        <id>https://github.com/andykr1k/DinoV3Applied</id>
-        <link href="https://github.com/andykr1k/DinoV3Applied"/>
-        <updated>2025-12-08T07:30:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69021102?u=7da65454f9bb80ea1ac18634f22dba9770912763&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>andykr1k</name>
-            <email>andykr1k@noreply.github.com</email>
-            <uri>https://github.com/andykr1k</uri>
-        </author>
-        <published>2025-12-08T07:23:58.000Z</published>
     </entry>
 </feed>
