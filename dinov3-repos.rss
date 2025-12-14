@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-14T08:03:56.215Z</updated>
+    <updated>2025-12-14T09:02:52.336Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[ZachNK/ImgMatching_DINOv3: DINOv3 Image Matching (Docker Based)]]></title>
+        <id>https://github.com/ZachNK/ImgMatching_DINOv3</id>
+        <link href="https://github.com/ZachNK/ImgMatching_DINOv3"/>
+        <updated>2025-12-14T09:00:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26238447?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Image Matching (Docker Based)</div>]]></content>
+        <author>
+            <name>ZachNK</name>
+            <email>ZachNK@noreply.github.com</email>
+            <uri>https://github.com/ZachNK</uri>
+        </author>
+        <published>2025-10-20T08:44:10.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-14T06:49:14.000Z</updated>
+        <updated>2025-12-14T08:47:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -63,7 +76,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2025-12-13T09:21:25.000Z</updated>
+        <updated>2025-12-14T08:46:53.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/andykr1k</uri>
         </author>
         <published>2025-12-08T07:23:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[risebeforeshining/Dinov3-LMM: Dinov3-pretrained lmm based on LLaVA structure. The mlp]]></title>
-        <id>https://github.com/risebeforeshining/Dinov3-LMM</id>
-        <link href="https://github.com/risebeforeshining/Dinov3-LMM"/>
-        <updated>2025-12-08T06:50:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44262356?u=c11757ca9bc126d34c0e8254920cb76c444d565c&v=4" width="64" height="64" alt=""/><br/><div>Dinov3-pretrained lmm based on LLaVA structure. The mlp</div>]]></content>
-        <author>
-            <name>risebeforeshining</name>
-            <email>risebeforeshining@noreply.github.com</email>
-            <uri>https://github.com/risebeforeshining</uri>
-        </author>
-        <published>2025-12-08T06:37:59.000Z</published>
     </entry>
 </feed>
