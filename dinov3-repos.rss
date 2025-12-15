@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-15T10:03:56.250Z</updated>
+    <updated>2025-12-15T11:03:29.011Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[risebeforeshining/Dinov3-LMM: Dinov3-pretrained lmm based on LLaVA structure. The mlp]]></title>
+        <id>https://github.com/risebeforeshining/Dinov3-LMM</id>
+        <link href="https://github.com/risebeforeshining/Dinov3-LMM"/>
+        <updated>2025-12-15T10:58:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44262356?u=c11757ca9bc126d34c0e8254920cb76c444d565c&v=4" width="64" height="64" alt=""/><br/><div>Dinov3-pretrained lmm based on LLaVA structure. The mlp</div>]]></content>
+        <author>
+            <name>risebeforeshining</name>
+            <email>risebeforeshining@noreply.github.com</email>
+            <uri>https://github.com/risebeforeshining</uri>
+        </author>
+        <published>2025-12-08T06:37:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ObedDzik/dinov3]]></title>
+        <id>https://github.com/ObedDzik/dinov3</id>
+        <link href="https://github.com/ObedDzik/dinov3"/>
+        <updated>2025-12-15T10:23:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70821652?u=572f3ad173921498edbbfc02d586bfffc72f5759&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ObedDzik</name>
+            <email>ObedDzik@noreply.github.com</email>
+            <uri>https://github.com/ObedDzik</uri>
+        </author>
+        <published>2025-12-05T00:14:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。]]></title>
+        <id>https://github.com/CSsaan/SceneRecognitionCNN</id>
+        <link href="https://github.com/CSsaan/SceneRecognitionCNN"/>
+        <updated>2025-12-15T10:09:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57102493?u=0e453539f69ff2e7c4b53c257a87b47d7366be1b&v=4" width="64" height="64" alt=""/><br/><div>基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。</div>]]></content>
+        <author>
+            <name>CSsaan</name>
+            <email>CSsaan@noreply.github.com</email>
+            <uri>https://github.com/CSsaan</uri>
+        </author>
+        <published>2025-10-17T06:20:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-12-15T10:05:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1MD049-Contemporary-Methods-Course/DINOv3_group_C]]></title>
         <id>https://github.com/1MD049-Contemporary-Methods-Course/DINOv3_group_C</id>
@@ -32,19 +84,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-15T08:49:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
@@ -227,44 +266,5 @@
             <uri>https://github.com/K1947</uri>
         </author>
         <published>2025-11-13T05:06:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jinjinran2001/dl_dinov3]]></title>
-        <id>https://github.com/jinjinran2001/dl_dinov3</id>
-        <link href="https://github.com/jinjinran2001/dl_dinov3"/>
-        <updated>2025-12-09T23:38:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129996835?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jinjinran2001</name>
-            <email>jinjinran2001@noreply.github.com</email>
-            <uri>https://github.com/jinjinran2001</uri>
-        </author>
-        <published>2025-12-09T23:31:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bebemdjd/DINOv3-Retraining-Framework:  A self-supervised learning framework based on DINOv3 (Vision Transformer) for custom dataset retraining. This project implements training, evaluation, and visualization tools with flexible configuration options.]]></title>
-        <id>https://github.com/bebemdjd/DINOv3-Retraining-Framework</id>
-        <link href="https://github.com/bebemdjd/DINOv3-Retraining-Framework"/>
-        <updated>2025-12-09T11:03:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112637309?u=e665ef89d7c2ac53511cdd54918aa4fb7d0eb173&v=4" width="64" height="64" alt=""/><br/><div> A self-supervised learning framework based on DINOv3 (Vision Transformer) for custom dataset retraining. This project implements training, evaluation, and visualization tools with flexible configuration options.</div>]]></content>
-        <author>
-            <name>bebemdjd</name>
-            <email>bebemdjd@noreply.github.com</email>
-            <uri>https://github.com/bebemdjd</uri>
-        </author>
-        <published>2025-12-09T09:46:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ColdVI/Fish-Segmentation-DINOv3: DINOv3-based semantic segmentation pipeline for large-scale fish datasets. Includes data loading, preprocessing, model inference, training, evaluation, and advanced visualization of segmentation results.]]></title>
-        <id>https://github.com/ColdVI/Fish-Segmentation-DINOv3</id>
-        <link href="https://github.com/ColdVI/Fish-Segmentation-DINOv3"/>
-        <updated>2025-12-08T20:52:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/126476389?u=be6e69e5a096dd1d251d599a168641d36edabda5&v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based semantic segmentation pipeline for large-scale fish datasets. Includes data loading, preprocessing, model inference, training, evaluation, and advanced visualization of segmentation results.</div>]]></content>
-        <author>
-            <name>ColdVI</name>
-            <email>ColdVI@noreply.github.com</email>
-            <uri>https://github.com/ColdVI</uri>
-        </author>
-        <published>2025-12-04T09:40:40.000Z</published>
     </entry>
 </feed>
