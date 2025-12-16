@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-16T02:35:43.037Z</updated>
+    <updated>2025-12-16T03:30:11.201Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[xuheyao/dinov3_sim_easy: dinov3 sim by one easy script for beginers]]></title>
+        <id>https://github.com/xuheyao/dinov3_sim_easy</id>
+        <link href="https://github.com/xuheyao/dinov3_sim_easy"/>
+        <updated>2025-12-16T03:18:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/199615353?v=4" width="64" height="64" alt=""/><br/><div>dinov3 sim by one easy script for beginers</div>]]></content>
+        <author>
+            <name>xuheyao</name>
+            <email>xuheyao@noreply.github.com</email>
+            <uri>https://github.com/xuheyao</uri>
+        </author>
+        <published>2025-12-16T02:48:07.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-16T00:41:36.000Z</updated>
+        <updated>2025-12-16T02:51:24.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -76,7 +89,7 @@
         <title type="html"><![CDATA[CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。]]></title>
         <id>https://github.com/CSsaan/SceneRecognitionCNN</id>
         <link href="https://github.com/CSsaan/SceneRecognitionCNN"/>
-        <updated>2025-12-15T10:09:49.000Z</updated>
+        <updated>2025-12-16T03:14:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57102493?u=0e453539f69ff2e7c4b53c257a87b47d7366be1b&v=4" width="64" height="64" alt=""/><br/><div>基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。</div>]]></content>
         <author>
             <name>CSsaan</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/hezhicheng2002</uri>
         </author>
         <published>2025-11-29T12:33:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K1947/AD-DINOv3: AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration]]></title>
-        <id>https://github.com/K1947/AD-DINOv3</id>
-        <link href="https://github.com/K1947/AD-DINOv3"/>
-        <updated>2025-12-10T05:44:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/182711040?v=4" width="64" height="64" alt=""/><br/><div>AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration</div>]]></content>
-        <author>
-            <name>K1947</name>
-            <email>K1947@noreply.github.com</email>
-            <uri>https://github.com/K1947</uri>
-        </author>
-        <published>2025-11-13T05:06:12.000Z</published>
     </entry>
 </feed>
