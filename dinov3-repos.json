@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3030588?u=5374c28c37ee2ce4369f6d72ae34d414c9c82d3f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TRELLIS.2 installation with compatibility patches and documentation</div>",
+            "url": "https://github.com/danindiana/TRELLIS.2-setup",
+            "title": "danindiana/TRELLIS.2-setup: TRELLIS.2 installation with compatibility patches and documentation",
+            "date_modified": "2025-12-19T01:49:33.000Z",
+            "date_published": "2025-12-19T01:29:53.000Z",
+            "author": {
+                "name": "danindiana",
+                "url": "https://github.com/danindiana"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-12-19T00:35:56.000Z",
+            "date_modified": "2025-12-19T01:43:21.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138738845?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Native and Compact Structured Latents for 3D Generation,load single dinov3</div>",
             "url": "https://github.com/smthemex/ComfyUI_TRELLIS2_SM",
             "title": "smthemex/ComfyUI_TRELLIS2_SM: Native and Compact Structured Latents for 3D Generation,load single dinov3",
-            "date_modified": "2025-12-18T14:16:20.000Z",
+            "date_modified": "2025-12-19T02:34:52.000Z",
             "date_published": "2025-12-18T09:13:43.000Z",
             "author": {
                 "name": "smthemex",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
             "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
             "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2025-12-19T01:20:27.000Z",
+            "date_modified": "2025-12-19T02:30:56.000Z",
             "date_published": "2025-09-19T02:27:19.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
                 "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4615146?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A species separability and identification exercise using DINOv3</div>",
-            "url": "https://github.com/wri/dinov3_species",
-            "title": "wri/dinov3_species: A species separability and identification exercise using DINOv3",
-            "date_modified": "2025-12-12T14:45:50.000Z",
-            "date_published": "2025-09-16T17:49:32.000Z",
-            "author": {
-                "name": "wri",
-                "url": "https://github.com/wri"
             }
         }
     ]
