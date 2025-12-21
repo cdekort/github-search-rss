@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-21T14:02:47.554Z</updated>
+    <updated>2025-12-21T15:02:38.416Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[massimilianoviola/dinov3-sentry]]></title>
+        <id>https://github.com/massimilianoviola/dinov3-sentry</id>
+        <link href="https://github.com/massimilianoviola/dinov3-sentry"/>
+        <updated>2025-12-21T14:15:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68594973?u=8459dafc6d4312729003b4e4ab09cbedf8eb41b4&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>massimilianoviola</name>
+            <email>massimilianoviola@noreply.github.com</email>
+            <uri>https://github.com/massimilianoviola</uri>
+        </author>
+        <published>2025-12-21T08:56:50.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -19,19 +32,6 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[massimilianoviola/dinov3-sentry]]></title>
-        <id>https://github.com/massimilianoviola/dinov3-sentry</id>
-        <link href="https://github.com/massimilianoviola/dinov3-sentry"/>
-        <updated>2025-12-21T09:00:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68594973?u=8459dafc6d4312729003b4e4ab09cbedf8eb41b4&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>massimilianoviola</name>
-            <email>massimilianoviola@noreply.github.com</email>
-            <uri>https://github.com/massimilianoviola</uri>
-        </author>
-        <published>2025-12-21T08:56:50.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
