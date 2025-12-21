@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-21T08:03:49.226Z</updated>
+    <updated>2025-12-21T09:02:52.942Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[massimilianoviola/dinov3-sentry]]></title>
+        <id>https://github.com/massimilianoviola/dinov3-sentry</id>
+        <link href="https://github.com/massimilianoviola/dinov3-sentry"/>
+        <updated>2025-12-21T09:00:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68594973?u=8459dafc6d4312729003b4e4ab09cbedf8eb41b4&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>massimilianoviola</name>
+            <email>massimilianoviola@noreply.github.com</email>
+            <uri>https://github.com/massimilianoviola</uri>
+        </author>
+        <published>2025-12-21T08:56:50.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/jabarragann</uri>
         </author>
         <published>2025-11-20T20:41:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xiaoligong495-ctrl/dinov3-dinomaly]]></title>
-        <id>https://github.com/xiaoligong495-ctrl/dinov3-dinomaly</id>
-        <link href="https://github.com/xiaoligong495-ctrl/dinov3-dinomaly"/>
-        <updated>2025-12-13T10:00:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/235041854?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>xiaoligong495-ctrl</name>
-            <email>xiaoligong495-ctrl@noreply.github.com</email>
-            <uri>https://github.com/xiaoligong495-ctrl</uri>
-        </author>
-        <published>2025-12-13T09:33:48.000Z</published>
     </entry>
 </feed>
