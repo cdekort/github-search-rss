@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-23T05:05:06.081Z</updated>
+    <updated>2025-12-23T06:04:19.076Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[benjamintli/dinov3-text-alignment]]></title>
+        <id>https://github.com/benjamintli/dinov3-text-alignment</id>
+        <link href="https://github.com/benjamintli/dinov3-text-alignment"/>
+        <updated>2025-12-23T05:54:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25180440?u=41e6e9aa829d837639e44373ab79a6e36e52bb6a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>benjamintli</name>
+            <email>benjamintli@noreply.github.com</email>
+            <uri>https://github.com/benjamintli</uri>
+        </author>
+        <published>2025-12-23T05:47:53.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/1MD049-Contemporary-Methods-Course</uri>
         </author>
         <published>2025-12-14T15:49:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wendy-xinn/dinov3]]></title>
-        <id>https://github.com/Wendy-xinn/dinov3</id>
-        <link href="https://github.com/Wendy-xinn/dinov3"/>
-        <updated>2025-12-14T16:27:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/207971121?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Wendy-xinn</name>
-            <email>Wendy-xinn@noreply.github.com</email>
-            <uri>https://github.com/Wendy-xinn</uri>
-        </author>
-        <published>2025-12-11T03:36:07.000Z</published>
     </entry>
 </feed>
