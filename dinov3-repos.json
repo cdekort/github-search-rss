@@ -6,6 +6,28 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42896236?u=6ebe261b89147121fc9e95587ef7d713cf67de5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modular PyTorch implementation of Faster R-CNN for object detection. Designed for easy integration and training with any custom backbone from timm (Hugging Face).</div>",
+            "url": "https://github.com/apudasm10/faster-rcnn-custom-backbone",
+            "title": "apudasm10/faster-rcnn-custom-backbone: A modular PyTorch implementation of Faster R-CNN for object detection. Designed for easy integration and training with any custom backbone from timm (Hugging Face).",
+            "date_modified": "2025-12-23T16:50:19.000Z",
+            "date_published": "2025-12-01T21:55:40.000Z",
+            "author": {
+                "name": "apudasm10",
+                "url": "https://github.com/apudasm10"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2025-12-23T16:12:30.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-12-23T13:51:32.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "CSsaan",
                 "url": "https://github.com/CSsaan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241505715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/1MD049-Contemporary-Methods-Course/DINOv3_group_C",
-            "title": "1MD049-Contemporary-Methods-Course/DINOv3_group_C",
-            "date_modified": "2025-12-15T09:43:44.000Z",
-            "date_published": "2025-12-14T15:49:02.000Z",
-            "author": {
-                "name": "1MD049-Contemporary-Methods-Course",
-                "url": "https://github.com/1MD049-Contemporary-Methods-Course"
             }
         }
     ]
