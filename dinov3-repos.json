@@ -6,6 +6,39 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2025-12-23T06:43:31.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7835911?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>",
+            "url": "https://github.com/tim-fan/festivity_maps",
+            "title": "tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3",
+            "date_modified": "2025-12-23T06:32:22.000Z",
+            "date_published": "2025-11-24T04:06:04.000Z",
+            "author": {
+                "name": "tim-fan",
+                "url": "https://github.com/tim-fan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.</div>",
+            "url": "https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025",
+            "title": "devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.",
+            "date_modified": "2025-12-23T06:10:07.000Z",
+            "date_published": "2025-06-06T16:10:17.000Z",
+            "author": {
+                "name": "devMuniz02",
+                "url": "https://github.com/devMuniz02"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25180440?u=41e6e9aa829d837639e44373ab79a6e36e52bb6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/benjamintli/dinov3-text-alignment",
             "title": "benjamintli/dinov3-text-alignment",
@@ -17,21 +50,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2025-12-23T04:54:10.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-12-23T03:33:57.000Z",
+            "date_modified": "2025-12-23T06:18:05.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -72,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.</div>",
-            "url": "https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025",
-            "title": "devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.",
-            "date_modified": "2025-12-22T05:18:06.000Z",
-            "date_published": "2025-06-06T16:10:17.000Z",
-            "author": {
-                "name": "devMuniz02",
-                "url": "https://github.com/devMuniz02"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138720880?u=2e8eda7a22a0ee7db74ff967348001391b83de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AerithVLM is a hybrid remote sensing VLM combining DINOv3 and CLIP through a learned alignment head. Using a dual-encoder architecture, Vision Perceiver, and LLaMA backbone, it supports robust visual grounding, captioning, and open-ended geospatial reasoning.</div>",
             "url": "https://github.com/vendetta127/AerithVLM",
             "title": "vendetta127/AerithVLM: AerithVLM is a hybrid remote sensing VLM combining DINOv3 and CLIP through a learned alignment head. Using a dual-encoder architecture, Vision Perceiver, and LLaMA backbone, it supports robust visual grounding, captioning, and open-ended geospatial reasoning.",
@@ -91,17 +102,6 @@
             "author": {
                 "name": "vendetta127",
                 "url": "https://github.com/vendetta127"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7835911?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>",
-            "url": "https://github.com/tim-fan/festivity_maps",
-            "title": "tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3",
-            "date_modified": "2025-12-21T17:31:34.000Z",
-            "date_published": "2025-11-24T04:06:04.000Z",
-            "author": {
-                "name": "tim-fan",
-                "url": "https://github.com/tim-fan"
             }
         },
         {

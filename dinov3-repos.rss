@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-23T06:04:19.076Z</updated>
+    <updated>2025-12-23T07:05:32.449Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-12-23T06:43:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
+        <id>https://github.com/tim-fan/festivity_maps</id>
+        <link href="https://github.com/tim-fan/festivity_maps"/>
+        <updated>2025-12-23T06:32:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
+        <author>
+            <name>tim-fan</name>
+            <email>tim-fan@noreply.github.com</email>
+            <uri>https://github.com/tim-fan</uri>
+        </author>
+        <published>2025-11-24T04:06:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
+        <id>https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025</id>
+        <link href="https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025"/>
+        <updated>2025-12-23T06:10:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4" width="64" height="64" alt=""/><br/><div>Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.</div>]]></content>
+        <author>
+            <name>devMuniz02</name>
+            <email>devMuniz02@noreply.github.com</email>
+            <uri>https://github.com/devMuniz02</uri>
+        </author>
+        <published>2025-06-06T16:10:17.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[benjamintli/dinov3-text-alignment]]></title>
         <id>https://github.com/benjamintli/dinov3-text-alignment</id>
@@ -21,23 +60,10 @@
         <published>2025-12-23T05:47:53.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-23T04:54:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-12-23T03:33:57.000Z</updated>
+        <updated>2025-12-23T06:18:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -86,19 +112,6 @@
         <published>2025-12-22T06:10:50.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
-        <id>https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025</id>
-        <link href="https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025"/>
-        <updated>2025-12-22T05:18:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4" width="64" height="64" alt=""/><br/><div>Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.</div>]]></content>
-        <author>
-            <name>devMuniz02</name>
-            <email>devMuniz02@noreply.github.com</email>
-            <uri>https://github.com/devMuniz02</uri>
-        </author>
-        <published>2025-06-06T16:10:17.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[vendetta127/AerithVLM: AerithVLM is a hybrid remote sensing VLM combining DINOv3 and CLIP through a learned alignment head. Using a dual-encoder architecture, Vision Perceiver, and LLaMA backbone, it supports robust visual grounding, captioning, and open-ended geospatial reasoning.]]></title>
         <id>https://github.com/vendetta127/AerithVLM</id>
         <link href="https://github.com/vendetta127/AerithVLM"/>
@@ -110,19 +123,6 @@
             <uri>https://github.com/vendetta127</uri>
         </author>
         <published>2025-12-21T18:21:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
-        <id>https://github.com/tim-fan/festivity_maps</id>
-        <link href="https://github.com/tim-fan/festivity_maps"/>
-        <updated>2025-12-21T17:31:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
-        <author>
-            <name>tim-fan</name>
-            <email>tim-fan@noreply.github.com</email>
-            <uri>https://github.com/tim-fan</uri>
-        </author>
-        <published>2025-11-24T04:06:04.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[massimilianoviola/dinov3-sentry]]></title>
