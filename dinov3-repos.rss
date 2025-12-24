@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-24T18:04:10.569Z</updated>
+    <updated>2025-12-24T19:02:51.709Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[benjamintli/dinov3-text-alignment]]></title>
+        <id>https://github.com/benjamintli/dinov3-text-alignment</id>
+        <link href="https://github.com/benjamintli/dinov3-text-alignment"/>
+        <updated>2025-12-24T18:17:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25180440?u=41e6e9aa829d837639e44373ab79a6e36e52bb6a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>benjamintli</name>
+            <email>benjamintli@noreply.github.com</email>
+            <uri>https://github.com/benjamintli</uri>
+        </author>
+        <published>2025-12-23T05:47:53.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -45,19 +58,6 @@
             <uri>https://github.com/hydroshiba</uri>
         </author>
         <published>2025-11-16T13:55:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[benjamintli/dinov3-text-alignment]]></title>
-        <id>https://github.com/benjamintli/dinov3-text-alignment</id>
-        <link href="https://github.com/benjamintli/dinov3-text-alignment"/>
-        <updated>2025-12-24T04:59:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25180440?u=41e6e9aa829d837639e44373ab79a6e36e52bb6a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>benjamintli</name>
-            <email>benjamintli@noreply.github.com</email>
-            <uri>https://github.com/benjamintli</uri>
-        </author>
-        <published>2025-12-23T05:47:53.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
