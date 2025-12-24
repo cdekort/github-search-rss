@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-24T03:30:01.698Z</updated>
+    <updated>2025-12-24T04:13:31.959Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[benjamintli/dinov3-text-alignment]]></title>
+        <id>https://github.com/benjamintli/dinov3-text-alignment</id>
+        <link href="https://github.com/benjamintli/dinov3-text-alignment"/>
+        <updated>2025-12-24T04:00:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25180440?u=41e6e9aa829d837639e44373ab79a6e36e52bb6a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>benjamintli</name>
+            <email>benjamintli@noreply.github.com</email>
+            <uri>https://github.com/benjamintli</uri>
+        </author>
+        <published>2025-12-23T05:47:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-12-24T03:40:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
+        <id>https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025</id>
+        <link href="https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025"/>
+        <updated>2025-12-24T03:38:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4" width="64" height="64" alt=""/><br/><div>Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.</div>]]></content>
+        <author>
+            <name>devMuniz02</name>
+            <email>devMuniz02@noreply.github.com</email>
+            <uri>https://github.com/devMuniz02</uri>
+        </author>
+        <published>2025-06-06T16:10:17.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[smthemex/ComfyUI_TRELLIS2_SM: Native and Compact Structured Latents for 3D Generation,load single dinov3]]></title>
         <id>https://github.com/smthemex/ComfyUI_TRELLIS2_SM</id>
@@ -21,19 +60,6 @@
         <published>2025-12-18T09:13:43.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-24T02:28:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[hydroshiba/DINOv3-benchmark]]></title>
         <id>https://github.com/hydroshiba/DINOv3-benchmark</id>
         <link href="https://github.com/hydroshiba/DINOv3-benchmark"/>
@@ -45,19 +71,6 @@
             <uri>https://github.com/hydroshiba</uri>
         </author>
         <published>2025-11-16T13:55:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[benjamintli/dinov3-text-alignment]]></title>
-        <id>https://github.com/benjamintli/dinov3-text-alignment</id>
-        <link href="https://github.com/benjamintli/dinov3-text-alignment"/>
-        <updated>2025-12-23T21:47:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25180440?u=41e6e9aa829d837639e44373ab79a6e36e52bb6a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>benjamintli</name>
-            <email>benjamintli@noreply.github.com</email>
-            <uri>https://github.com/benjamintli</uri>
-        </author>
-        <published>2025-12-23T05:47:53.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[apudasm10/faster-rcnn-custom-backbone: A modular PyTorch implementation of Faster R-CNN for object detection. Designed for easy integration and training with custom backbones from timm (Hugging Face).]]></title>
@@ -97,19 +110,6 @@
             <uri>https://github.com/tim-fan</uri>
         </author>
         <published>2025-11-24T04:06:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
-        <id>https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025</id>
-        <link href="https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025"/>
-        <updated>2025-12-23T06:10:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4" width="64" height="64" alt=""/><br/><div>Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.</div>]]></content>
-        <author>
-            <name>devMuniz02</name>
-            <email>devMuniz02@noreply.github.com</email>
-            <uri>https://github.com/devMuniz02</uri>
-        </author>
-        <published>2025-06-06T16:10:17.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jseobyun/FaceParsing: DINOv3 based face parsing network]]></title>
