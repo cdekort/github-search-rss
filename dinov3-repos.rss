@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-24T05:05:22.696Z</updated>
+    <updated>2025-12-24T06:04:12.711Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-12-24T05:38:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tobiashyk/DINOv3-finetune]]></title>
+        <id>https://github.com/Tobiashyk/DINOv3-finetune</id>
+        <link href="https://github.com/Tobiashyk/DINOv3-finetune"/>
+        <updated>2025-12-24T05:28:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198170627?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Tobiashyk</name>
+            <email>Tobiashyk@noreply.github.com</email>
+            <uri>https://github.com/Tobiashyk</uri>
+        </author>
+        <published>2025-12-12T09:46:05.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[benjamintli/dinov3-text-alignment]]></title>
         <id>https://github.com/benjamintli/dinov3-text-alignment</id>
@@ -19,19 +45,6 @@
             <uri>https://github.com/benjamintli</uri>
         </author>
         <published>2025-12-23T05:47:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-24T03:40:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/risebeforeshining</uri>
         </author>
         <published>2025-12-08T06:37:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ObedDzik/dinov3]]></title>
-        <id>https://github.com/ObedDzik/dinov3</id>
-        <link href="https://github.com/ObedDzik/dinov3"/>
-        <updated>2025-12-15T10:23:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70821652?u=572f3ad173921498edbbfc02d586bfffc72f5759&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ObedDzik</name>
-            <email>ObedDzik@noreply.github.com</email>
-            <uri>https://github.com/ObedDzik</uri>
-        </author>
-        <published>2025-12-05T00:14:41.000Z</published>
     </entry>
 </feed>
