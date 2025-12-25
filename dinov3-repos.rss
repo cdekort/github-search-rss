@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-25T21:02:48.999Z</updated>
+    <updated>2025-12-25T22:02:48.936Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
+        <id>https://github.com/tim-fan/festivity_maps</id>
+        <link href="https://github.com/tim-fan/festivity_maps"/>
+        <updated>2025-12-25T21:29:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
+        <author>
+            <name>tim-fan</name>
+            <email>tim-fan@noreply.github.com</email>
+            <uri>https://github.com/tim-fan</uri>
+        </author>
+        <published>2025-11-24T04:06:04.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[massimilianoviola/dinov3-sentry]]></title>
         <id>https://github.com/massimilianoviola/dinov3-sentry</id>
@@ -149,19 +162,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
-        <id>https://github.com/tim-fan/festivity_maps</id>
-        <link href="https://github.com/tim-fan/festivity_maps"/>
-        <updated>2025-12-23T06:32:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
-        <author>
-            <name>tim-fan</name>
-            <email>tim-fan@noreply.github.com</email>
-            <uri>https://github.com/tim-fan</uri>
-        </author>
-        <published>2025-11-24T04:06:04.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jseobyun/FaceParsing: DINOv3 based face parsing network]]></title>
