@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-27T13:10:35.625Z</updated>
+    <updated>2025-12-27T14:02:44.827Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
+        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
+        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
+        <updated>2025-12-27T13:54:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
+        <author>
+            <name>wenboyaoo</name>
+            <email>wenboyaoo@noreply.github.com</email>
+            <uri>https://github.com/wenboyaoo</uri>
+        </author>
+        <published>2025-11-05T13:11:48.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -201,19 +214,6 @@
             <uri>https://github.com/xuheyao</uri>
         </author>
         <published>2025-12-22T06:10:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
-        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
-        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
-        <updated>2025-12-27T08:05:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
-        <author>
-            <name>wenboyaoo</name>
-            <email>wenboyaoo@noreply.github.com</email>
-            <uri>https://github.com/wenboyaoo</uri>
-        </author>
-        <published>2025-11-05T13:11:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[danindiana/TRELLIS.2-setup: TRELLIS.2 installation with compatibility patches and documentation. Ubuntu 22.04 Bare-metal build.]]></title>
