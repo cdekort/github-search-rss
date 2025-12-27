@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180929994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic segmentation on PASCAL VOC using DINOv3 + PSPNet</div>",
+            "url": "https://github.com/wenboyaoo/dinov3-pspnet-segmentation",
+            "title": "wenboyaoo/dinov3-pspnet-segmentation: Semantic segmentation on PASCAL VOC using DINOv3 + PSPNet",
+            "date_modified": "2025-12-27T08:04:44.000Z",
+            "date_published": "2025-10-18T10:03:14.000Z",
+            "author": {
+                "name": "wenboyaoo",
+                "url": "https://github.com/wenboyaoo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2025-12-26T09:20:04.000Z",
+            "date_modified": "2025-12-27T08:26:43.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -157,6 +168,17 @@
             "author": {
                 "name": "xuheyao",
                 "url": "https://github.com/xuheyao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180929994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>",
+            "url": "https://github.com/wenboyaoo/dinov3-yolos-detection",
+            "title": "wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.",
+            "date_modified": "2025-12-27T08:05:58.000Z",
+            "date_published": "2025-11-05T13:11:48.000Z",
+            "author": {
+                "name": "wenboyaoo",
+                "url": "https://github.com/wenboyaoo"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Navifra-Bero",
                 "url": "https://github.com/Navifra-Bero"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115783156?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model</div>",
-            "url": "https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo",
-            "title": "IoT-gamer/flutter_dinov3_one_shot_demo: Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model",
-            "date_modified": "2025-12-16T13:18:34.000Z",
-            "date_published": "2025-09-18T08:33:33.000Z",
-            "author": {
-                "name": "IoT-gamer",
-                "url": "https://github.com/IoT-gamer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199615353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 sim by one easy script for beginers</div>",
-            "url": "https://github.com/xuheyao/dinov3_sim_easy",
-            "title": "xuheyao/dinov3_sim_easy: dinov3 sim by one easy script for beginers",
-            "date_modified": "2025-12-16T03:18:55.000Z",
-            "date_published": "2025-12-16T02:48:07.000Z",
-            "author": {
-                "name": "xuheyao",
-                "url": "https://github.com/xuheyao"
             }
         }
     ]
