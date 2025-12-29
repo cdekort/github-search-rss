@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-29T06:05:02.191Z</updated>
+    <updated>2025-12-29T07:06:40.277Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
+        <id>https://github.com/Trudes808/Dinov3-WhaleID</id>
+        <link href="https://github.com/Trudes808/Dinov3-WhaleID"/>
+        <updated>2025-12-29T06:59:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>]]></content>
+        <author>
+            <name>Trudes808</name>
+            <email>Trudes808@noreply.github.com</email>
+            <uri>https://github.com/Trudes808</uri>
+        </author>
+        <published>2025-12-19T00:23:18.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hydroshiba/DINOv3-benchmark]]></title>
         <id>https://github.com/hydroshiba/DINOv3-benchmark</id>
@@ -32,19 +45,6 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
-        <id>https://github.com/Trudes808/Dinov3-WhaleID</id>
-        <link href="https://github.com/Trudes808/Dinov3-WhaleID"/>
-        <updated>2025-12-29T02:21:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>]]></content>
-        <author>
-            <name>Trudes808</name>
-            <email>Trudes808@noreply.github.com</email>
-            <uri>https://github.com/Trudes808</uri>
-        </author>
-        <published>2025-12-19T00:23:18.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
