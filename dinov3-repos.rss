@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-29T07:06:40.277Z</updated>
+    <updated>2025-12-29T08:04:18.871Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。]]></title>
+        <id>https://github.com/CSsaan/SceneRecognitionCNN</id>
+        <link href="https://github.com/CSsaan/SceneRecognitionCNN"/>
+        <updated>2025-12-29T07:27:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57102493?u=0e453539f69ff2e7c4b53c257a87b47d7366be1b&v=4" width="64" height="64" alt=""/><br/><div>基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。</div>]]></content>
+        <author>
+            <name>CSsaan</name>
+            <email>CSsaan@noreply.github.com</email>
+            <uri>https://github.com/CSsaan</uri>
+        </author>
+        <published>2025-10-17T06:20:34.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
         <id>https://github.com/Trudes808/Dinov3-WhaleID</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Muskan6505</uri>
         </author>
         <published>2025-12-17T18:07:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navifra-Bero/SAM3_DINOv3-Image-Matching]]></title>
-        <id>https://github.com/Navifra-Bero/SAM3_DINOv3-Image-Matching</id>
-        <link href="https://github.com/Navifra-Bero/SAM3_DINOv3-Image-Matching"/>
-        <updated>2025-12-17T01:56:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/217902505?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Navifra-Bero</name>
-            <email>Navifra-Bero@noreply.github.com</email>
-            <uri>https://github.com/Navifra-Bero</uri>
-        </author>
-        <published>2025-12-08T01:30:31.000Z</published>
     </entry>
 </feed>
