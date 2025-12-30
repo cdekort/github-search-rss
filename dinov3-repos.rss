@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-30T09:05:18.422Z</updated>
+    <updated>2025-12-30T10:03:04.922Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
+        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
+        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
+        <updated>2025-12-30T09:37:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
+        <author>
+            <name>wenboyaoo</name>
+            <email>wenboyaoo@noreply.github.com</email>
+            <uri>https://github.com/wenboyaoo</uri>
+        </author>
+        <published>2025-11-05T13:11:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2025-12-30T09:17:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -19,19 +45,6 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2025-12-30T01:15:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。]]></title>
@@ -71,19 +84,6 @@
             <uri>https://github.com/hydroshiba</uri>
         </author>
         <published>2025-11-16T13:55:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
-        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
-        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
-        <updated>2025-12-27T16:43:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
-        <author>
-            <name>wenboyaoo</name>
-            <email>wenboyaoo@noreply.github.com</email>
-            <uri>https://github.com/wenboyaoo</uri>
-        </author>
-        <published>2025-11-05T13:11:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wenboyaoo/dinov3-pspnet-segmentation: Semantic segmentation on PASCAL VOC using DINOv3 + PSPNet]]></title>
