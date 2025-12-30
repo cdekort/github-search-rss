@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113793273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>",
+            "url": "https://github.com/getrichthroughcode/dinov3-isic2018-segmentation",
+            "title": "getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone",
+            "date_modified": "2025-12-30T18:30:06.000Z",
+            "date_published": "2025-09-24T18:53:13.000Z",
+            "author": {
+                "name": "getrichthroughcode",
+                "url": "https://github.com/getrichthroughcode"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "danindiana",
                 "url": "https://github.com/danindiana"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/172097796?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Muskan6505/Multiclass-classification-using-DinoV3",
-            "title": "Muskan6505/Multiclass-classification-using-DinoV3",
-            "date_modified": "2025-12-17T18:10:33.000Z",
-            "date_published": "2025-12-17T18:07:51.000Z",
-            "author": {
-                "name": "Muskan6505",
-                "url": "https://github.com/Muskan6505"
             }
         }
     ]

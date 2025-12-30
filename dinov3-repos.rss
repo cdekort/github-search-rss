@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-30T18:04:16.211Z</updated>
+    <updated>2025-12-30T19:03:38.519Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
+        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
+        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
+        <updated>2025-12-30T18:30:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
+        <author>
+            <name>getrichthroughcode</name>
+            <email>getrichthroughcode@noreply.github.com</email>
+            <uri>https://github.com/getrichthroughcode</uri>
+        </author>
+        <published>2025-09-24T18:53:13.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/danindiana</uri>
         </author>
         <published>2025-12-19T01:29:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muskan6505/Multiclass-classification-using-DinoV3]]></title>
-        <id>https://github.com/Muskan6505/Multiclass-classification-using-DinoV3</id>
-        <link href="https://github.com/Muskan6505/Multiclass-classification-using-DinoV3"/>
-        <updated>2025-12-17T18:10:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/172097796?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Muskan6505</name>
-            <email>Muskan6505@noreply.github.com</email>
-            <uri>https://github.com/Muskan6505</uri>
-        </author>
-        <published>2025-12-17T18:07:51.000Z</published>
     </entry>
 </feed>
