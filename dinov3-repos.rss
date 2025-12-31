@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-31T09:05:08.313Z</updated>
+    <updated>2025-12-31T10:03:02.028Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2025-12-31T09:38:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[geronimi73/Dino-xrays: Chest X-Ray classifier with DinoV3]]></title>
+        <id>https://github.com/geronimi73/Dino-xrays</id>
+        <link href="https://github.com/geronimi73/Dino-xrays"/>
+        <updated>2025-12-31T09:29:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/141400217?u=814b427c481968444ef65315995627bd66255de7&v=4" width="64" height="64" alt=""/><br/><div>Chest X-Ray classifier with DinoV3</div>]]></content>
+        <author>
+            <name>geronimi73</name>
+            <email>geronimi73@noreply.github.com</email>
+            <uri>https://github.com/geronimi73</uri>
+        </author>
+        <published>2025-11-27T11:51:13.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
@@ -19,19 +45,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2025-12-31T08:20:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/jseobyun</uri>
         </author>
         <published>2025-09-04T02:10:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xuheyao/comfyui-dinov3-point-prompt]]></title>
-        <id>https://github.com/xuheyao/comfyui-dinov3-point-prompt</id>
-        <link href="https://github.com/xuheyao/comfyui-dinov3-point-prompt"/>
-        <updated>2025-12-22T06:20:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/199615353?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>xuheyao</name>
-            <email>xuheyao@noreply.github.com</email>
-            <uri>https://github.com/xuheyao</uri>
-        </author>
-        <published>2025-12-22T06:10:50.000Z</published>
     </entry>
 </feed>
