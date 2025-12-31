@@ -6,6 +6,17 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183554738?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version</div>",
+            "url": "https://github.com/Choise-ieee/DEIMv2_CPP",
+            "title": "Choise-ieee/DEIMv2_CPP: [DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version",
+            "date_modified": "2025-12-31T02:55:27.000Z",
+            "date_published": "2025-10-07T03:30:33.000Z",
+            "author": {
+                "name": "Choise-ieee",
+                "url": "https://github.com/Choise-ieee"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "xuheyao",
                 "url": "https://github.com/xuheyao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3030588?u=5374c28c37ee2ce4369f6d72ae34d414c9c82d3f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TRELLIS.2 installation with compatibility patches and documentation. Ubuntu 22.04 Bare-metal build.</div>",
-            "url": "https://github.com/danindiana/TRELLIS.2-setup",
-            "title": "danindiana/TRELLIS.2-setup: TRELLIS.2 installation with compatibility patches and documentation. Ubuntu 22.04 Bare-metal build.",
-            "date_modified": "2025-12-19T07:32:18.000Z",
-            "date_published": "2025-12-19T01:29:53.000Z",
-            "author": {
-                "name": "danindiana",
-                "url": "https://github.com/danindiana"
             }
         }
     ]

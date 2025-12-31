@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2025-12-31T02:36:56.132Z</updated>
+    <updated>2025-12-31T03:30:27.340Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Choise-ieee/DEIMv2_CPP: [DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version]]></title>
+        <id>https://github.com/Choise-ieee/DEIMv2_CPP</id>
+        <link href="https://github.com/Choise-ieee/DEIMv2_CPP"/>
+        <updated>2025-12-31T02:55:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/183554738?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version</div>]]></content>
+        <author>
+            <name>Choise-ieee</name>
+            <email>Choise-ieee@noreply.github.com</email>
+            <uri>https://github.com/Choise-ieee</uri>
+        </author>
+        <published>2025-10-07T03:30:33.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/xuheyao</uri>
         </author>
         <published>2025-12-22T06:10:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[danindiana/TRELLIS.2-setup: TRELLIS.2 installation with compatibility patches and documentation. Ubuntu 22.04 Bare-metal build.]]></title>
-        <id>https://github.com/danindiana/TRELLIS.2-setup</id>
-        <link href="https://github.com/danindiana/TRELLIS.2-setup"/>
-        <updated>2025-12-19T07:32:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3030588?u=5374c28c37ee2ce4369f6d72ae34d414c9c82d3f&v=4" width="64" height="64" alt=""/><br/><div>TRELLIS.2 installation with compatibility patches and documentation. Ubuntu 22.04 Bare-metal build.</div>]]></content>
-        <author>
-            <name>danindiana</name>
-            <email>danindiana@noreply.github.com</email>
-            <uri>https://github.com/danindiana</uri>
-        </author>
-        <published>2025-12-19T01:29:53.000Z</published>
     </entry>
 </feed>
