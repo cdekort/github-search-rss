@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-01T13:13:29.782Z</updated>
+    <updated>2026-01-01T14:02:54.285Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
+        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
+        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
+        <updated>2026-01-01T13:56:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
+        <author>
+            <name>wenboyaoo</name>
+            <email>wenboyaoo@noreply.github.com</email>
+            <uri>https://github.com/wenboyaoo</uri>
+        </author>
+        <published>2025-11-05T13:11:48.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
@@ -71,19 +84,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
-        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
-        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
-        <updated>2025-12-31T06:16:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
-        <author>
-            <name>wenboyaoo</name>
-            <email>wenboyaoo@noreply.github.com</email>
-            <uri>https://github.com/wenboyaoo</uri>
-        </author>
-        <published>2025-11-05T13:11:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Choise-ieee/DEIMv2_CPP: [DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version]]></title>
