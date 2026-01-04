@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-03T00:25:32.352Z</updated>
+    <updated>2026-01-04T00:30:24.961Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
+        <id>https://github.com/talhabw/autoseg</id>
+        <link href="https://github.com/talhabw/autoseg"/>
+        <updated>2026-01-04T00:29:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4" width="64" height="64" alt=""/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>]]></content>
+        <author>
+            <name>talhabw</name>
+            <email>talhabw@noreply.github.com</email>
+            <uri>https://github.com/talhabw</uri>
+        </author>
+        <published>2025-12-27T19:05:03.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-02T23:08:47.000Z</updated>
+        <updated>2026-01-03T22:58:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -19,6 +32,58 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[samuelstevens/dinov3: Simple single-file implemenations of DINOv3 in PyTorch and Jax/Equinox, tested against the reference implemenation.]]></title>
+        <id>https://github.com/samuelstevens/dinov3</id>
+        <link href="https://github.com/samuelstevens/dinov3"/>
+        <updated>2026-01-03T16:54:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26638161?u=7fb9a55a6a107ce553f17a0c73825939f674c144&v=4" width="64" height="64" alt=""/><br/><div>Simple single-file implemenations of DINOv3 in PyTorch and Jax/Equinox, tested against the reference implemenation.</div>]]></content>
+        <author>
+            <name>samuelstevens</name>
+            <email>samuelstevens@noreply.github.com</email>
+            <uri>https://github.com/samuelstevens</uri>
+        </author>
+        <published>2025-08-26T21:37:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raessan/object_detection_dinov3: Lightweight head for object detection using DINOv3 as backbone]]></title>
+        <id>https://github.com/Raessan/object_detection_dinov3</id>
+        <link href="https://github.com/Raessan/object_detection_dinov3"/>
+        <updated>2026-01-03T16:49:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4" width="64" height="64" alt=""/><br/><div>Lightweight head for object detection using DINOv3 as backbone</div>]]></content>
+        <author>
+            <name>Raessan</name>
+            <email>Raessan@noreply.github.com</email>
+            <uri>https://github.com/Raessan</uri>
+        </author>
+        <published>2025-08-18T20:27:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-01-03T15:13:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indeera01/FYP-DINOv3-Indeera]]></title>
+        <id>https://github.com/Indeera01/FYP-DINOv3-Indeera</id>
+        <link href="https://github.com/Indeera01/FYP-DINOv3-Indeera"/>
+        <updated>2026-01-03T04:36:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129371871?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Indeera01</name>
+            <email>Indeera01@noreply.github.com</email>
+            <uri>https://github.com/Indeera01</uri>
+        </author>
+        <published>2026-01-03T04:36:31.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[NilsGrossepieper/percep_align_in_deep_vision_for_fashion_prediction: Master thesis code: Evaluating the Effect of Perceptual Alignment in Deep Vision Models for Fashion Sales Prediction]]></title>
@@ -112,19 +177,6 @@
         <published>2025-08-17T12:25:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-02T12:27:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Choise-ieee/DEIMv2_CPP: [DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version]]></title>
         <id>https://github.com/Choise-ieee/DEIMv2_CPP</id>
         <link href="https://github.com/Choise-ieee/DEIMv2_CPP"/>
@@ -214,57 +266,5 @@
             <uri>https://github.com/smthemex</uri>
         </author>
         <published>2025-12-18T09:13:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[benjamintli/dinov3-text-alignment]]></title>
-        <id>https://github.com/benjamintli/dinov3-text-alignment</id>
-        <link href="https://github.com/benjamintli/dinov3-text-alignment"/>
-        <updated>2025-12-26T02:11:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25180440?u=41e6e9aa829d837639e44373ab79a6e36e52bb6a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>benjamintli</name>
-            <email>benjamintli@noreply.github.com</email>
-            <uri>https://github.com/benjamintli</uri>
-        </author>
-        <published>2025-12-23T05:47:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3]]></title>
-        <id>https://github.com/tim-fan/festivity_maps</id>
-        <link href="https://github.com/tim-fan/festivity_maps"/>
-        <updated>2025-12-25T22:57:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7835911?v=4" width="64" height="64" alt=""/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>]]></content>
-        <author>
-            <name>tim-fan</name>
-            <email>tim-fan@noreply.github.com</email>
-            <uri>https://github.com/tim-fan</uri>
-        </author>
-        <published>2025-11-24T04:06:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vendetta127/AerithVLM: AerithVLM is a hybrid remote sensing VLM combining DINOv3 and CLIP through a learned alignment head. Using a dual-encoder architecture, Vision Perceiver, and LLaMA backbone, it supports robust visual grounding, captioning, and open-ended geospatial reasoning.]]></title>
-        <id>https://github.com/vendetta127/AerithVLM</id>
-        <link href="https://github.com/vendetta127/AerithVLM"/>
-        <updated>2025-12-25T19:50:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138720880?u=2e8eda7a22a0ee7db74ff967348001391b83de3a&v=4" width="64" height="64" alt=""/><br/><div>AerithVLM is a hybrid remote sensing VLM combining DINOv3 and CLIP through a learned alignment head. Using a dual-encoder architecture, Vision Perceiver, and LLaMA backbone, it supports robust visual grounding, captioning, and open-ended geospatial reasoning.</div>]]></content>
-        <author>
-            <name>vendetta127</name>
-            <email>vendetta127@noreply.github.com</email>
-            <uri>https://github.com/vendetta127</uri>
-        </author>
-        <published>2025-12-21T18:21:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lalafloat/dinov3-metric-learning: DINOv3 + batch-hard triplet for image retrieval / metric learning]]></title>
-        <id>https://github.com/lalafloat/dinov3-metric-learning</id>
-        <link href="https://github.com/lalafloat/dinov3-metric-learning"/>
-        <updated>2025-12-30T14:48:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/227925599?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 + batch-hard triplet for image retrieval / metric learning</div>]]></content>
-        <author>
-            <name>lalafloat</name>
-            <email>lalafloat@noreply.github.com</email>
-            <uri>https://github.com/lalafloat</uri>
-        </author>
-        <published>2025-12-25T12:38:32.000Z</published>
     </entry>
 </feed>

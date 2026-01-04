@@ -6,14 +6,69 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>",
+            "url": "https://github.com/talhabw/autoseg",
+            "title": "talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)",
+            "date_modified": "2026-01-04T00:29:52.000Z",
+            "date_published": "2025-12-27T19:05:03.000Z",
+            "author": {
+                "name": "talhabw",
+                "url": "https://github.com/talhabw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-01-02T23:08:47.000Z",
+            "date_modified": "2026-01-03T22:58:06.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26638161?u=7fb9a55a6a107ce553f17a0c73825939f674c144&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple single-file implemenations of DINOv3 in PyTorch and Jax/Equinox, tested against the reference implemenation.</div>",
+            "url": "https://github.com/samuelstevens/dinov3",
+            "title": "samuelstevens/dinov3: Simple single-file implemenations of DINOv3 in PyTorch and Jax/Equinox, tested against the reference implemenation.",
+            "date_modified": "2026-01-03T16:54:18.000Z",
+            "date_published": "2025-08-26T21:37:20.000Z",
+            "author": {
+                "name": "samuelstevens",
+                "url": "https://github.com/samuelstevens"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight head for object detection using DINOv3 as backbone</div>",
+            "url": "https://github.com/Raessan/object_detection_dinov3",
+            "title": "Raessan/object_detection_dinov3: Lightweight head for object detection using DINOv3 as backbone",
+            "date_modified": "2026-01-03T16:49:38.000Z",
+            "date_published": "2025-08-18T20:27:28.000Z",
+            "author": {
+                "name": "Raessan",
+                "url": "https://github.com/Raessan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-01-03T15:13:07.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129371871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Indeera01/FYP-DINOv3-Indeera",
+            "title": "Indeera01/FYP-DINOv3-Indeera",
+            "date_modified": "2026-01-03T04:36:58.000Z",
+            "date_published": "2026-01-03T04:36:31.000Z",
+            "author": {
+                "name": "Indeera01",
+                "url": "https://github.com/Indeera01"
             }
         },
         {
@@ -94,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-01-02T12:27:04.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183554738?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version</div>",
             "url": "https://github.com/Choise-ieee/DEIMv2_CPP",
             "title": "Choise-ieee/DEIMv2_CPP: [DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "smthemex",
                 "url": "https://github.com/smthemex"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25180440?u=41e6e9aa829d837639e44373ab79a6e36e52bb6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/benjamintli/dinov3-text-alignment",
-            "title": "benjamintli/dinov3-text-alignment",
-            "date_modified": "2025-12-26T02:11:22.000Z",
-            "date_published": "2025-12-23T05:47:53.000Z",
-            "author": {
-                "name": "benjamintli",
-                "url": "https://github.com/benjamintli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7835911?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mapping neighbourhood festivity levels with DINOv3</div>",
-            "url": "https://github.com/tim-fan/festivity_maps",
-            "title": "tim-fan/festivity_maps: Mapping neighbourhood festivity levels with DINOv3",
-            "date_modified": "2025-12-25T22:57:30.000Z",
-            "date_published": "2025-11-24T04:06:04.000Z",
-            "author": {
-                "name": "tim-fan",
-                "url": "https://github.com/tim-fan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138720880?u=2e8eda7a22a0ee7db74ff967348001391b83de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AerithVLM is a hybrid remote sensing VLM combining DINOv3 and CLIP through a learned alignment head. Using a dual-encoder architecture, Vision Perceiver, and LLaMA backbone, it supports robust visual grounding, captioning, and open-ended geospatial reasoning.</div>",
-            "url": "https://github.com/vendetta127/AerithVLM",
-            "title": "vendetta127/AerithVLM: AerithVLM is a hybrid remote sensing VLM combining DINOv3 and CLIP through a learned alignment head. Using a dual-encoder architecture, Vision Perceiver, and LLaMA backbone, it supports robust visual grounding, captioning, and open-ended geospatial reasoning.",
-            "date_modified": "2025-12-25T19:50:06.000Z",
-            "date_published": "2025-12-21T18:21:25.000Z",
-            "author": {
-                "name": "vendetta127",
-                "url": "https://github.com/vendetta127"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227925599?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 + batch-hard triplet for image retrieval / metric learning</div>",
-            "url": "https://github.com/lalafloat/dinov3-metric-learning",
-            "title": "lalafloat/dinov3-metric-learning: DINOv3 + batch-hard triplet for image retrieval / metric learning",
-            "date_modified": "2025-12-30T14:48:20.000Z",
-            "date_published": "2025-12-25T12:38:32.000Z",
-            "author": {
-                "name": "lalafloat",
-                "url": "https://github.com/lalafloat"
             }
         }
     ]
