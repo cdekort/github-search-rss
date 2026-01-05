@@ -6,25 +6,80 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>",
-            "url": "https://github.com/talhabw/autoseg",
-            "title": "talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)",
-            "date_modified": "2026-01-04T00:29:52.000Z",
-            "date_published": "2025-12-27T19:05:03.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19252323?u=d21b96c40ab4f5334cc112c96ad2d43652e30e13&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find structures in satellite images using annotations and interactive matching using DINOv3 embeddings.</div>",
+            "url": "https://github.com/marco-willi/sat-finder",
+            "title": "marco-willi/sat-finder: Find structures in satellite images using annotations and interactive matching using DINOv3 embeddings.",
+            "date_modified": "2026-01-04T23:03:23.000Z",
+            "date_published": "2025-12-27T21:02:38.000Z",
             "author": {
-                "name": "talhabw",
-                "url": "https://github.com/talhabw"
+                "name": "marco-willi",
+                "url": "https://github.com/marco-willi"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-01-03T22:58:06.000Z",
+            "date_modified": "2026-01-04T22:33:04.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19252323?u=d21b96c40ab4f5334cc112c96ad2d43652e30e13&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for using DINOv3 Features for Bi-Temporal Change Detection in Satellite Images.</div>",
+            "url": "https://github.com/marco-willi/sat-change",
+            "title": "marco-willi/sat-change: POC for using DINOv3 Features for Bi-Temporal Change Detection in Satellite Images.",
+            "date_modified": "2026-01-04T22:00:01.000Z",
+            "date_published": "2025-12-14T22:34:59.000Z",
+            "author": {
+                "name": "marco-willi",
+                "url": "https://github.com/marco-willi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68773909?u=f19e5e8e73c59da55de2f78275d6e93ccf8ee73a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MrFishPL/DINOv3Experiments",
+            "title": "MrFishPL/DINOv3Experiments",
+            "date_modified": "2026-01-04T22:08:00.000Z",
+            "date_published": "2026-01-03T14:18:13.000Z",
+            "author": {
+                "name": "MrFishPL",
+                "url": "https://github.com/MrFishPL"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>加入分割的分类网络</div>",
+            "url": "https://github.com/lazy-Lin/dinov3_seg_cls_louye",
+            "title": "lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络",
+            "date_modified": "2026-01-04T09:55:14.000Z",
+            "date_published": "2026-01-04T09:46:27.000Z",
+            "author": {
+                "name": "lazy-Lin",
+                "url": "https://github.com/lazy-Lin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25977008?u=ad1a27e57de0acaf642b815efb8582c3a0007757&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/kwshh/Train_dinov3",
+            "title": "kwshh/Train_dinov3",
+            "date_modified": "2026-01-04T08:09:03.000Z",
+            "date_published": "2026-01-04T07:47:00.000Z",
+            "author": {
+                "name": "kwshh",
+                "url": "https://github.com/kwshh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>",
+            "url": "https://github.com/talhabw/autoseg",
+            "title": "talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)",
+            "date_modified": "2026-01-04T08:08:12.000Z",
+            "date_published": "2025-12-27T19:05:03.000Z",
+            "author": {
+                "name": "talhabw",
+                "url": "https://github.com/talhabw"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "CSsaan",
                 "url": "https://github.com/CSsaan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>",
-            "url": "https://github.com/Trudes808/Dinov3-WhaleID",
-            "title": "Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task",
-            "date_modified": "2025-12-29T06:59:05.000Z",
-            "date_published": "2025-12-19T00:23:18.000Z",
-            "author": {
-                "name": "Trudes808",
-                "url": "https://github.com/Trudes808"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36961737?u=35078c792da6fdb52284530e1020ca8c5fd3e7b0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hydroshiba/DINOv3-benchmark",
-            "title": "hydroshiba/DINOv3-benchmark",
-            "date_modified": "2025-12-29T05:11:40.000Z",
-            "date_published": "2025-11-16T13:55:33.000Z",
-            "author": {
-                "name": "hydroshiba",
-                "url": "https://github.com/hydroshiba"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180929994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic segmentation on PASCAL VOC using DINOv3 + PSPNet</div>",
-            "url": "https://github.com/wenboyaoo/dinov3-pspnet-segmentation",
-            "title": "wenboyaoo/dinov3-pspnet-segmentation: Semantic segmentation on PASCAL VOC using DINOv3 + PSPNet",
-            "date_modified": "2025-12-27T08:04:44.000Z",
-            "date_published": "2025-10-18T10:03:14.000Z",
-            "author": {
-                "name": "wenboyaoo",
-                "url": "https://github.com/wenboyaoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.</div>",
-            "url": "https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025",
-            "title": "devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.",
-            "date_modified": "2025-12-27T03:12:57.000Z",
-            "date_published": "2025-06-06T16:10:17.000Z",
-            "author": {
-                "name": "devMuniz02",
-                "url": "https://github.com/devMuniz02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138738845?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Native and Compact Structured Latents for 3D Generation,load single dinov3</div>",
-            "url": "https://github.com/smthemex/ComfyUI_TRELLIS2_SM",
-            "title": "smthemex/ComfyUI_TRELLIS2_SM: Native and Compact Structured Latents for 3D Generation,load single dinov3",
-            "date_modified": "2025-12-28T12:58:41.000Z",
-            "date_published": "2025-12-18T09:13:43.000Z",
-            "author": {
-                "name": "smthemex",
-                "url": "https://github.com/smthemex"
             }
         }
     ]

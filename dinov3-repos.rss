@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-04T00:30:24.961Z</updated>
+    <updated>2026-01-05T00:29:42.357Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
-        <id>https://github.com/talhabw/autoseg</id>
-        <link href="https://github.com/talhabw/autoseg"/>
-        <updated>2026-01-04T00:29:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4" width="64" height="64" alt=""/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>]]></content>
+        <title type="html"><![CDATA[marco-willi/sat-finder: Find structures in satellite images using annotations and interactive matching using DINOv3 embeddings.]]></title>
+        <id>https://github.com/marco-willi/sat-finder</id>
+        <link href="https://github.com/marco-willi/sat-finder"/>
+        <updated>2026-01-04T23:03:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19252323?u=d21b96c40ab4f5334cc112c96ad2d43652e30e13&v=4" width="64" height="64" alt=""/><br/><div>Find structures in satellite images using annotations and interactive matching using DINOv3 embeddings.</div>]]></content>
         <author>
-            <name>talhabw</name>
-            <email>talhabw@noreply.github.com</email>
-            <uri>https://github.com/talhabw</uri>
+            <name>marco-willi</name>
+            <email>marco-willi@noreply.github.com</email>
+            <uri>https://github.com/marco-willi</uri>
         </author>
-        <published>2025-12-27T19:05:03.000Z</published>
+        <published>2025-12-27T21:02:38.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-03T22:58:06.000Z</updated>
+        <updated>2026-01-04T22:33:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -32,6 +32,71 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[marco-willi/sat-change: POC for using DINOv3 Features for Bi-Temporal Change Detection in Satellite Images.]]></title>
+        <id>https://github.com/marco-willi/sat-change</id>
+        <link href="https://github.com/marco-willi/sat-change"/>
+        <updated>2026-01-04T22:00:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19252323?u=d21b96c40ab4f5334cc112c96ad2d43652e30e13&v=4" width="64" height="64" alt=""/><br/><div>POC for using DINOv3 Features for Bi-Temporal Change Detection in Satellite Images.</div>]]></content>
+        <author>
+            <name>marco-willi</name>
+            <email>marco-willi@noreply.github.com</email>
+            <uri>https://github.com/marco-willi</uri>
+        </author>
+        <published>2025-12-14T22:34:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MrFishPL/DINOv3Experiments]]></title>
+        <id>https://github.com/MrFishPL/DINOv3Experiments</id>
+        <link href="https://github.com/MrFishPL/DINOv3Experiments"/>
+        <updated>2026-01-04T22:08:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68773909?u=f19e5e8e73c59da55de2f78275d6e93ccf8ee73a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>MrFishPL</name>
+            <email>MrFishPL@noreply.github.com</email>
+            <uri>https://github.com/MrFishPL</uri>
+        </author>
+        <published>2026-01-03T14:18:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络]]></title>
+        <id>https://github.com/lazy-Lin/dinov3_seg_cls_louye</id>
+        <link href="https://github.com/lazy-Lin/dinov3_seg_cls_louye"/>
+        <updated>2026-01-04T09:55:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4" width="64" height="64" alt=""/><br/><div>加入分割的分类网络</div>]]></content>
+        <author>
+            <name>lazy-Lin</name>
+            <email>lazy-Lin@noreply.github.com</email>
+            <uri>https://github.com/lazy-Lin</uri>
+        </author>
+        <published>2026-01-04T09:46:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kwshh/Train_dinov3]]></title>
+        <id>https://github.com/kwshh/Train_dinov3</id>
+        <link href="https://github.com/kwshh/Train_dinov3"/>
+        <updated>2026-01-04T08:09:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25977008?u=ad1a27e57de0acaf642b815efb8582c3a0007757&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>kwshh</name>
+            <email>kwshh@noreply.github.com</email>
+            <uri>https://github.com/kwshh</uri>
+        </author>
+        <published>2026-01-04T07:47:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
+        <id>https://github.com/talhabw/autoseg</id>
+        <link href="https://github.com/talhabw/autoseg"/>
+        <updated>2026-01-04T08:08:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4" width="64" height="64" alt=""/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>]]></content>
+        <author>
+            <name>talhabw</name>
+            <email>talhabw@noreply.github.com</email>
+            <uri>https://github.com/talhabw</uri>
+        </author>
+        <published>2025-12-27T19:05:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[samuelstevens/dinov3: Simple single-file implemenations of DINOv3 in PyTorch and Jax/Equinox, tested against the reference implemenation.]]></title>
@@ -201,70 +266,5 @@
             <uri>https://github.com/CSsaan</uri>
         </author>
         <published>2025-10-17T06:20:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
-        <id>https://github.com/Trudes808/Dinov3-WhaleID</id>
-        <link href="https://github.com/Trudes808/Dinov3-WhaleID"/>
-        <updated>2025-12-29T06:59:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>]]></content>
-        <author>
-            <name>Trudes808</name>
-            <email>Trudes808@noreply.github.com</email>
-            <uri>https://github.com/Trudes808</uri>
-        </author>
-        <published>2025-12-19T00:23:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hydroshiba/DINOv3-benchmark]]></title>
-        <id>https://github.com/hydroshiba/DINOv3-benchmark</id>
-        <link href="https://github.com/hydroshiba/DINOv3-benchmark"/>
-        <updated>2025-12-29T05:11:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36961737?u=35078c792da6fdb52284530e1020ca8c5fd3e7b0&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>hydroshiba</name>
-            <email>hydroshiba@noreply.github.com</email>
-            <uri>https://github.com/hydroshiba</uri>
-        </author>
-        <published>2025-11-16T13:55:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wenboyaoo/dinov3-pspnet-segmentation: Semantic segmentation on PASCAL VOC using DINOv3 + PSPNet]]></title>
-        <id>https://github.com/wenboyaoo/dinov3-pspnet-segmentation</id>
-        <link href="https://github.com/wenboyaoo/dinov3-pspnet-segmentation"/>
-        <updated>2025-12-27T08:04:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>Semantic segmentation on PASCAL VOC using DINOv3 + PSPNet</div>]]></content>
-        <author>
-            <name>wenboyaoo</name>
-            <email>wenboyaoo@noreply.github.com</email>
-            <uri>https://github.com/wenboyaoo</uri>
-        </author>
-        <published>2025-10-18T10:03:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[devMuniz02/UDEM-CXR-Reporting-Thesis-2025: Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.]]></title>
-        <id>https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025</id>
-        <link href="https://github.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025"/>
-        <updated>2025-12-27T03:12:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4" width="64" height="64" alt=""/><br/><div>Multimodal chest X-ray diagnosis + AI report generation using DINOv3 and a GPT-based model with modified transformer attention. UDEM thesis project.</div>]]></content>
-        <author>
-            <name>devMuniz02</name>
-            <email>devMuniz02@noreply.github.com</email>
-            <uri>https://github.com/devMuniz02</uri>
-        </author>
-        <published>2025-06-06T16:10:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[smthemex/ComfyUI_TRELLIS2_SM: Native and Compact Structured Latents for 3D Generation,load single dinov3]]></title>
-        <id>https://github.com/smthemex/ComfyUI_TRELLIS2_SM</id>
-        <link href="https://github.com/smthemex/ComfyUI_TRELLIS2_SM"/>
-        <updated>2025-12-28T12:58:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138738845?v=4" width="64" height="64" alt=""/><br/><div>Native and Compact Structured Latents for 3D Generation,load single dinov3</div>]]></content>
-        <author>
-            <name>smthemex</name>
-            <email>smthemex@noreply.github.com</email>
-            <uri>https://github.com/smthemex</uri>
-        </author>
-        <published>2025-12-18T09:13:43.000Z</published>
     </entry>
 </feed>
