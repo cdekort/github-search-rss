@@ -2,11 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-05T00:29:42.357Z</updated>
+    <updated>2026-01-06T00:26:48.903Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[mhsefidgar/DinoV3Production]]></title>
+        <id>https://github.com/mhsefidgar/DinoV3Production</id>
+        <link href="https://github.com/mhsefidgar/DinoV3Production"/>
+        <updated>2026-01-06T00:23:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7599206?u=6fb2db8da3849ed0780d9a79e521fee85936f9b8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>mhsefidgar</name>
+            <email>mhsefidgar@noreply.github.com</email>
+            <uri>https://github.com/mhsefidgar</uri>
+        </author>
+        <published>2026-01-05T17:06:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-01-05T23:40:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
+        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
+        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
+        <updated>2026-01-05T18:16:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
+        <author>
+            <name>getrichthroughcode</name>
+            <email>getrichthroughcode@noreply.github.com</email>
+            <uri>https://github.com/getrichthroughcode</uri>
+        </author>
+        <published>2025-09-24T18:53:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-01-05T15:51:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MrFishPL/DINOv3Experiments]]></title>
+        <id>https://github.com/MrFishPL/DINOv3Experiments</id>
+        <link href="https://github.com/MrFishPL/DINOv3Experiments"/>
+        <updated>2026-01-05T14:47:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68773909?u=f19e5e8e73c59da55de2f78275d6e93ccf8ee73a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>MrFishPL</name>
+            <email>MrFishPL@noreply.github.com</email>
+            <uri>https://github.com/MrFishPL</uri>
+        </author>
+        <published>2026-01-03T14:18:13.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[marco-willi/sat-finder: Find structures in satellite images using annotations and interactive matching using DINOv3 embeddings.]]></title>
         <id>https://github.com/marco-willi/sat-finder</id>
@@ -21,19 +86,6 @@
         <published>2025-12-27T21:02:38.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-04T22:33:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[marco-willi/sat-change: POC for using DINOv3 Features for Bi-Temporal Change Detection in Satellite Images.]]></title>
         <id>https://github.com/marco-willi/sat-change</id>
         <link href="https://github.com/marco-willi/sat-change"/>
@@ -45,19 +97,6 @@
             <uri>https://github.com/marco-willi</uri>
         </author>
         <published>2025-12-14T22:34:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MrFishPL/DINOv3Experiments]]></title>
-        <id>https://github.com/MrFishPL/DINOv3Experiments</id>
-        <link href="https://github.com/MrFishPL/DINOv3Experiments"/>
-        <updated>2026-01-04T22:08:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68773909?u=f19e5e8e73c59da55de2f78275d6e93ccf8ee73a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>MrFishPL</name>
-            <email>MrFishPL@noreply.github.com</email>
-            <uri>https://github.com/MrFishPL</uri>
-        </author>
-        <published>2026-01-03T14:18:13.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络]]></title>
@@ -123,19 +162,6 @@
             <uri>https://github.com/Raessan</uri>
         </author>
         <published>2025-08-18T20:27:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-03T15:13:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Indeera01/FYP-DINOv3-Indeera]]></title>
@@ -216,19 +242,6 @@
         <published>2025-12-21T08:56:50.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
-        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
-        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
-        <updated>2026-01-01T14:07:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
-        <author>
-            <name>getrichthroughcode</name>
-            <email>getrichthroughcode@noreply.github.com</email>
-            <uri>https://github.com/getrichthroughcode</uri>
-        </author>
-        <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[bryan-pakulski/xtractor: Unique video frame extractor using dinov3 - Building datasets for Computer Vision models.]]></title>
         <id>https://github.com/bryan-pakulski/xtractor</id>
         <link href="https://github.com/bryan-pakulski/xtractor"/>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Choise-ieee</uri>
         </author>
         <published>2025-10-07T03:30:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。]]></title>
-        <id>https://github.com/CSsaan/SceneRecognitionCNN</id>
-        <link href="https://github.com/CSsaan/SceneRecognitionCNN"/>
-        <updated>2025-12-29T07:27:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57102493?u=0e453539f69ff2e7c4b53c257a87b47d7366be1b&v=4" width="64" height="64" alt=""/><br/><div>基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。</div>]]></content>
-        <author>
-            <name>CSsaan</name>
-            <email>CSsaan@noreply.github.com</email>
-            <uri>https://github.com/CSsaan</uri>
-        </author>
-        <published>2025-10-17T06:20:34.000Z</published>
     </entry>
 </feed>
