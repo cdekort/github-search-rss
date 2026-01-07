@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-06T00:26:48.903Z</updated>
+    <updated>2026-01-07T00:26:21.286Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[mhsefidgar/DinoV3Production]]></title>
-        <id>https://github.com/mhsefidgar/DinoV3Production</id>
-        <link href="https://github.com/mhsefidgar/DinoV3Production"/>
-        <updated>2026-01-06T00:23:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7599206?u=6fb2db8da3849ed0780d9a79e521fee85936f9b8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>mhsefidgar</name>
-            <email>mhsefidgar@noreply.github.com</email>
-            <uri>https://github.com/mhsefidgar</uri>
-        </author>
-        <published>2026-01-05T17:06:09.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-05T23:40:26.000Z</updated>
+        <updated>2026-01-06T23:30:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -32,6 +19,71 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adsp-polito/2025-P5-DINOV3-Damage-Assessment]]></title>
+        <id>https://github.com/adsp-polito/2025-P5-DINOV3-Damage-Assessment</id>
+        <link href="https://github.com/adsp-polito/2025-P5-DINOV3-Damage-Assessment"/>
+        <updated>2026-01-06T23:28:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90703327?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>adsp-polito</name>
+            <email>adsp-polito@noreply.github.com</email>
+            <uri>https://github.com/adsp-polito</uri>
+        </author>
+        <published>2025-10-28T08:13:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wri/dinov3_species: A species separability and identification exercise using DINOv3]]></title>
+        <id>https://github.com/wri/dinov3_species</id>
+        <link href="https://github.com/wri/dinov3_species"/>
+        <updated>2026-01-06T18:27:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4615146?v=4" width="64" height="64" alt=""/><br/><div>A species separability and identification exercise using DINOv3</div>]]></content>
+        <author>
+            <name>wri</name>
+            <email>wri@noreply.github.com</email>
+            <uri>https://github.com/wri</uri>
+        </author>
+        <published>2025-09-16T17:49:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-01-06T16:40:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChenRongpeng1998/DinoV3-DDetr]]></title>
+        <id>https://github.com/ChenRongpeng1998/DinoV3-DDetr</id>
+        <link href="https://github.com/ChenRongpeng1998/DinoV3-DDetr"/>
+        <updated>2026-01-06T13:18:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148928088?u=04843a5958ba827e7842495255a9dd2dbce8cb5f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ChenRongpeng1998</name>
+            <email>ChenRongpeng1998@noreply.github.com</email>
+            <uri>https://github.com/ChenRongpeng1998</uri>
+        </author>
+        <published>2026-01-06T13:18:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mhsefidgar/DinoV3Production]]></title>
+        <id>https://github.com/mhsefidgar/DinoV3Production</id>
+        <link href="https://github.com/mhsefidgar/DinoV3Production"/>
+        <updated>2026-01-06T00:47:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7599206?u=6fb2db8da3849ed0780d9a79e521fee85936f9b8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>mhsefidgar</name>
+            <email>mhsefidgar@noreply.github.com</email>
+            <uri>https://github.com/mhsefidgar</uri>
+        </author>
+        <published>2026-01-05T17:06:09.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
@@ -45,19 +97,6 @@
             <uri>https://github.com/getrichthroughcode</uri>
         </author>
         <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-05T15:51:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MrFishPL/DINOv3Experiments]]></title>
@@ -227,44 +266,5 @@
             <uri>https://github.com/GloireLINVANI</uri>
         </author>
         <published>2026-01-01T20:12:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[massimilianoviola/dinov3-sentry: Real-time unsupervised video anomaly detection using DINOv3]]></title>
-        <id>https://github.com/massimilianoviola/dinov3-sentry</id>
-        <link href="https://github.com/massimilianoviola/dinov3-sentry"/>
-        <updated>2026-01-02T12:58:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68594973?u=8459dafc6d4312729003b4e4ab09cbedf8eb41b4&v=4" width="64" height="64" alt=""/><br/><div>Real-time unsupervised video anomaly detection using DINOv3</div>]]></content>
-        <author>
-            <name>massimilianoviola</name>
-            <email>massimilianoviola@noreply.github.com</email>
-            <uri>https://github.com/massimilianoviola</uri>
-        </author>
-        <published>2025-12-21T08:56:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bryan-pakulski/xtractor: Unique video frame extractor using dinov3 - Building datasets for Computer Vision models.]]></title>
-        <id>https://github.com/bryan-pakulski/xtractor</id>
-        <link href="https://github.com/bryan-pakulski/xtractor"/>
-        <updated>2026-01-01T09:53:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15654375?u=a5d97cb93ed7abb95d36c5a913932e666031b064&v=4" width="64" height="64" alt=""/><br/><div>Unique video frame extractor using dinov3 - Building datasets for Computer Vision models.</div>]]></content>
-        <author>
-            <name>bryan-pakulski</name>
-            <email>bryan-pakulski@noreply.github.com</email>
-            <uri>https://github.com/bryan-pakulski</uri>
-        </author>
-        <published>2025-08-17T12:25:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choise-ieee/DEIMv2_CPP: [DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version]]></title>
-        <id>https://github.com/Choise-ieee/DEIMv2_CPP</id>
-        <link href="https://github.com/Choise-ieee/DEIMv2_CPP"/>
-        <updated>2026-01-01T02:40:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/183554738?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 C++ and ONNX version</div>]]></content>
-        <author>
-            <name>Choise-ieee</name>
-            <email>Choise-ieee@noreply.github.com</email>
-            <uri>https://github.com/Choise-ieee</uri>
-        </author>
-        <published>2025-10-07T03:30:33.000Z</published>
     </entry>
 </feed>
