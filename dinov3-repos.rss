@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-07T00:26:21.286Z</updated>
+    <updated>2026-01-08T00:27:11.744Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-06T23:30:56.000Z</updated>
+        <updated>2026-01-08T00:10:37.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -19,6 +19,97 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnilZaher/ECE-046211-Deep-Learning-Project-Technion-: Robust satellite image classification under brightness variation and atmospheric haze using ResNet-50, ViT-Base, and DINOv3.]]></title>
+        <id>https://github.com/AnilZaher/ECE-046211-Deep-Learning-Project-Technion-</id>
+        <link href="https://github.com/AnilZaher/ECE-046211-Deep-Learning-Project-Technion-"/>
+        <updated>2026-01-07T19:30:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/182407995?v=4" width="64" height="64" alt=""/><br/><div>Robust satellite image classification under brightness variation and atmospheric haze using ResNet-50, ViT-Base, and DINOv3.</div>]]></content>
+        <author>
+            <name>AnilZaher</name>
+            <email>AnilZaher@noreply.github.com</email>
+            <uri>https://github.com/AnilZaher</uri>
+        </author>
+        <published>2026-01-07T19:30:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-01-07T18:36:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络]]></title>
+        <id>https://github.com/lazy-Lin/dinov3_seg_cls_louye</id>
+        <link href="https://github.com/lazy-Lin/dinov3_seg_cls_louye"/>
+        <updated>2026-01-07T15:15:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4" width="64" height="64" alt=""/><br/><div>加入分割的分类网络</div>]]></content>
+        <author>
+            <name>lazy-Lin</name>
+            <email>lazy-Lin@noreply.github.com</email>
+            <uri>https://github.com/lazy-Lin</uri>
+        </author>
+        <published>2026-01-04T09:46:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PaulMcHard/DINOv3-Mask2Former: Mask2Former implementation with DINOv3 backbone]]></title>
+        <id>https://github.com/PaulMcHard/DINOv3-Mask2Former</id>
+        <link href="https://github.com/PaulMcHard/DINOv3-Mask2Former"/>
+        <updated>2026-01-07T10:26:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32065439?u=0e11e8042485acbde5a59a9db3ad7b70c5db3732&v=4" width="64" height="64" alt=""/><br/><div>Mask2Former implementation with DINOv3 backbone</div>]]></content>
+        <author>
+            <name>PaulMcHard</name>
+            <email>PaulMcHard@noreply.github.com</email>
+            <uri>https://github.com/PaulMcHard</uri>
+        </author>
+        <published>2026-01-07T10:16:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lemonzamong/IQ9075_dinov3]]></title>
+        <id>https://github.com/lemonzamong/IQ9075_dinov3</id>
+        <link href="https://github.com/lemonzamong/IQ9075_dinov3"/>
+        <updated>2026-01-07T09:30:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/160398039?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>lemonzamong</name>
+            <email>lemonzamong@noreply.github.com</email>
+            <uri>https://github.com/lemonzamong</uri>
+        </author>
+        <published>2026-01-07T01:15:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[crb1411/cropPaste_roll_chsk: based dinov3]]></title>
+        <id>https://github.com/crb1411/cropPaste_roll_chsk</id>
+        <link href="https://github.com/crb1411/cropPaste_roll_chsk"/>
+        <updated>2026-01-07T07:13:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33300392?v=4" width="64" height="64" alt=""/><br/><div>based dinov3</div>]]></content>
+        <author>
+            <name>crb1411</name>
+            <email>crb1411@noreply.github.com</email>
+            <uri>https://github.com/crb1411</uri>
+        </author>
+        <published>2026-01-07T06:12:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
+        <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
+        <updated>2026-01-07T22:32:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2025-09-19T02:27:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[adsp-polito/2025-P5-DINOV3-Damage-Assessment]]></title>
@@ -45,19 +136,6 @@
             <uri>https://github.com/wri</uri>
         </author>
         <published>2025-09-16T17:49:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-06T16:40:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChenRongpeng1998/DinoV3-DDetr]]></title>
@@ -138,19 +216,6 @@
         <published>2025-12-14T22:34:59.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络]]></title>
-        <id>https://github.com/lazy-Lin/dinov3_seg_cls_louye</id>
-        <link href="https://github.com/lazy-Lin/dinov3_seg_cls_louye"/>
-        <updated>2026-01-04T09:55:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4" width="64" height="64" alt=""/><br/><div>加入分割的分类网络</div>]]></content>
-        <author>
-            <name>lazy-Lin</name>
-            <email>lazy-Lin@noreply.github.com</email>
-            <uri>https://github.com/lazy-Lin</uri>
-        </author>
-        <published>2026-01-04T09:46:27.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[kwshh/Train_dinov3]]></title>
         <id>https://github.com/kwshh/Train_dinov3</id>
         <link href="https://github.com/kwshh/Train_dinov3"/>
@@ -193,7 +258,7 @@
         <title type="html"><![CDATA[Raessan/object_detection_dinov3: Lightweight head for object detection using DINOv3 as backbone]]></title>
         <id>https://github.com/Raessan/object_detection_dinov3</id>
         <link href="https://github.com/Raessan/object_detection_dinov3"/>
-        <updated>2026-01-03T16:49:38.000Z</updated>
+        <updated>2026-01-07T02:55:41.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4" width="64" height="64" alt=""/><br/><div>Lightweight head for object detection using DINOv3 as backbone</div>]]></content>
         <author>
             <name>Raessan</name>
@@ -201,70 +266,5 @@
             <uri>https://github.com/Raessan</uri>
         </author>
         <published>2025-08-18T20:27:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indeera01/FYP-DINOv3-Indeera]]></title>
-        <id>https://github.com/Indeera01/FYP-DINOv3-Indeera</id>
-        <link href="https://github.com/Indeera01/FYP-DINOv3-Indeera"/>
-        <updated>2026-01-03T04:36:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129371871?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Indeera01</name>
-            <email>Indeera01@noreply.github.com</email>
-            <uri>https://github.com/Indeera01</uri>
-        </author>
-        <published>2026-01-03T04:36:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NilsGrossepieper/percep_align_in_deep_vision_for_fashion_prediction: Master thesis code: Evaluating the Effect of Perceptual Alignment in Deep Vision Models for Fashion Sales Prediction]]></title>
-        <id>https://github.com/NilsGrossepieper/percep_align_in_deep_vision_for_fashion_prediction</id>
-        <link href="https://github.com/NilsGrossepieper/percep_align_in_deep_vision_for_fashion_prediction"/>
-        <updated>2026-01-02T12:33:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/123210578?u=004da5c7a69f6bd9b32b0d0e5b085620803082f7&v=4" width="64" height="64" alt=""/><br/><div>Master thesis code: Evaluating the Effect of Perceptual Alignment in Deep Vision Models for Fashion Sales Prediction</div>]]></content>
-        <author>
-            <name>NilsGrossepieper</name>
-            <email>NilsGrossepieper@noreply.github.com</email>
-            <uri>https://github.com/NilsGrossepieper</uri>
-        </author>
-        <published>2025-12-16T18:37:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[geronimi73/Dino-xrays: Chest X-Ray classifier with DinoV3]]></title>
-        <id>https://github.com/geronimi73/Dino-xrays</id>
-        <link href="https://github.com/geronimi73/Dino-xrays"/>
-        <updated>2026-01-02T05:57:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/141400217?u=814b427c481968444ef65315995627bd66255de7&v=4" width="64" height="64" alt=""/><br/><div>Chest X-Ray classifier with DinoV3</div>]]></content>
-        <author>
-            <name>geronimi73</name>
-            <email>geronimi73@noreply.github.com</email>
-            <uri>https://github.com/geronimi73</uri>
-        </author>
-        <published>2025-11-27T11:51:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
-        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
-        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
-        <updated>2026-01-02T03:33:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
-        <author>
-            <name>wenboyaoo</name>
-            <email>wenboyaoo@noreply.github.com</email>
-            <uri>https://github.com/wenboyaoo</uri>
-        </author>
-        <published>2025-11-05T13:11:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GloireLINVANI/DINOv3_Extreme_Domain_Shift]]></title>
-        <id>https://github.com/GloireLINVANI/DINOv3_Extreme_Domain_Shift</id>
-        <link href="https://github.com/GloireLINVANI/DINOv3_Extreme_Domain_Shift"/>
-        <updated>2026-01-01T20:18:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97982453?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>GloireLINVANI</name>
-            <email>GloireLINVANI@noreply.github.com</email>
-            <uri>https://github.com/GloireLINVANI</uri>
-        </author>
-        <published>2026-01-01T20:12:44.000Z</published>
     </entry>
 </feed>
