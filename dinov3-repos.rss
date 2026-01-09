@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-08T00:27:11.744Z</updated>
+    <updated>2026-01-09T00:26:59.231Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-08T00:10:37.000Z</updated>
+        <updated>2026-01-08T23:45:07.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -21,23 +21,23 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AnilZaher/ECE-046211-Deep-Learning-Project-Technion-: Robust satellite image classification under brightness variation and atmospheric haze using ResNet-50, ViT-Base, and DINOv3.]]></title>
-        <id>https://github.com/AnilZaher/ECE-046211-Deep-Learning-Project-Technion-</id>
-        <link href="https://github.com/AnilZaher/ECE-046211-Deep-Learning-Project-Technion-"/>
-        <updated>2026-01-07T19:30:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/182407995?v=4" width="64" height="64" alt=""/><br/><div>Robust satellite image classification under brightness variation and atmospheric haze using ResNet-50, ViT-Base, and DINOv3.</div>]]></content>
+        <title type="html"><![CDATA[kotylevskiy/imbeddings: A minimal FastAPI service for generating image embeddings using Hugging Face Vision Transformer models.]]></title>
+        <id>https://github.com/kotylevskiy/imbeddings</id>
+        <link href="https://github.com/kotylevskiy/imbeddings"/>
+        <updated>2026-01-08T22:03:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198698322?u=58d15c0969d985481fea3dfa3414dadf4dd553bd&v=4" width="64" height="64" alt=""/><br/><div>A minimal FastAPI service for generating image embeddings using Hugging Face Vision Transformer models.</div>]]></content>
         <author>
-            <name>AnilZaher</name>
-            <email>AnilZaher@noreply.github.com</email>
-            <uri>https://github.com/AnilZaher</uri>
+            <name>kotylevskiy</name>
+            <email>kotylevskiy@noreply.github.com</email>
+            <uri>https://github.com/kotylevskiy</uri>
         </author>
-        <published>2026-01-07T19:30:54.000Z</published>
+        <published>2026-01-08T21:52:55.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-07T18:36:02.000Z</updated>
+        <updated>2026-01-08T17:12:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -50,7 +50,7 @@
         <title type="html"><![CDATA[lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络]]></title>
         <id>https://github.com/lazy-Lin/dinov3_seg_cls_louye</id>
         <link href="https://github.com/lazy-Lin/dinov3_seg_cls_louye"/>
-        <updated>2026-01-07T15:15:59.000Z</updated>
+        <updated>2026-01-08T16:01:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4" width="64" height="64" alt=""/><br/><div>加入分割的分类网络</div>]]></content>
         <author>
             <name>lazy-Lin</name>
@@ -58,6 +58,84 @@
             <uri>https://github.com/lazy-Lin</uri>
         </author>
         <published>2026-01-04T09:46:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jbadger3/DinoVision: Python GUI Application to visualize DINOv3 features]]></title>
+        <id>https://github.com/jbadger3/DinoVision</id>
+        <link href="https://github.com/jbadger3/DinoVision"/>
+        <updated>2026-01-08T15:12:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22161798?u=7c282effe474f93732e213f91bb509805a5f6f52&v=4" width="64" height="64" alt=""/><br/><div>Python GUI Application to visualize DINOv3 features</div>]]></content>
+        <author>
+            <name>jbadger3</name>
+            <email>jbadger3@noreply.github.com</email>
+            <uri>https://github.com/jbadger3</uri>
+        </author>
+        <published>2026-01-08T15:08:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tobiashyk/DINOv3-finetune]]></title>
+        <id>https://github.com/Tobiashyk/DINOv3-finetune</id>
+        <link href="https://github.com/Tobiashyk/DINOv3-finetune"/>
+        <updated>2026-01-08T13:35:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198170627?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Tobiashyk</name>
+            <email>Tobiashyk@noreply.github.com</email>
+            <uri>https://github.com/Tobiashyk</uri>
+        </author>
+        <published>2025-12-12T09:46:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
+        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
+        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
+        <updated>2026-01-08T12:54:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
+        <author>
+            <name>getrichthroughcode</name>
+            <email>getrichthroughcode@noreply.github.com</email>
+            <uri>https://github.com/getrichthroughcode</uri>
+        </author>
+        <published>2025-09-24T18:53:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lazy-Lin/dinov3_cls: 使用dinov3对图片进行回归评分]]></title>
+        <id>https://github.com/lazy-Lin/dinov3_cls</id>
+        <link href="https://github.com/lazy-Lin/dinov3_cls"/>
+        <updated>2026-01-08T12:21:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4" width="64" height="64" alt=""/><br/><div>使用dinov3对图片进行回归评分</div>]]></content>
+        <author>
+            <name>lazy-Lin</name>
+            <email>lazy-Lin@noreply.github.com</email>
+            <uri>https://github.com/lazy-Lin</uri>
+        </author>
+        <published>2026-01-08T09:37:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[crb1411/cropPaste_roll_chsk: based dinov3]]></title>
+        <id>https://github.com/crb1411/cropPaste_roll_chsk</id>
+        <link href="https://github.com/crb1411/cropPaste_roll_chsk"/>
+        <updated>2026-01-08T11:22:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33300392?v=4" width="64" height="64" alt=""/><br/><div>based dinov3</div>]]></content>
+        <author>
+            <name>crb1411</name>
+            <email>crb1411@noreply.github.com</email>
+            <uri>https://github.com/crb1411</uri>
+        </author>
+        <published>2026-01-07T06:12:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uzarel/udder-seg-dinov3: Code for "Lightweight Thermal Udder Segmentation via Structured Pruning for On-Device Farm Deployment"]]></title>
+        <id>https://github.com/Uzarel/udder-seg-dinov3</id>
+        <link href="https://github.com/Uzarel/udder-seg-dinov3"/>
+        <updated>2026-01-08T12:48:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32590908?u=0c3dc59ac566cda07efdab1d9c3d7412060a6a83&v=4" width="64" height="64" alt=""/><br/><div>Code for "Lightweight Thermal Udder Segmentation via Structured Pruning for On-Device Farm Deployment"</div>]]></content>
+        <author>
+            <name>Uzarel</name>
+            <email>Uzarel@noreply.github.com</email>
+            <uri>https://github.com/Uzarel</uri>
+        </author>
+        <published>2025-08-28T16:08:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[PaulMcHard/DINOv3-Mask2Former: Mask2Former implementation with DINOv3 backbone]]></title>
@@ -86,23 +164,10 @@
         <published>2026-01-07T01:15:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[crb1411/cropPaste_roll_chsk: based dinov3]]></title>
-        <id>https://github.com/crb1411/cropPaste_roll_chsk</id>
-        <link href="https://github.com/crb1411/cropPaste_roll_chsk"/>
-        <updated>2026-01-07T07:13:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33300392?v=4" width="64" height="64" alt=""/><br/><div>based dinov3</div>]]></content>
-        <author>
-            <name>crb1411</name>
-            <email>crb1411@noreply.github.com</email>
-            <uri>https://github.com/crb1411</uri>
-        </author>
-        <published>2026-01-07T06:12:08.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2026-01-07T22:32:33.000Z</updated>
+        <updated>2026-01-08T17:49:43.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -164,19 +229,6 @@
         <published>2026-01-05T17:06:09.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[getrichthroughcode/dinov3-isic2018-segmentation: Comparing classic segmentation networks to networks that have dinov3 as a backbone]]></title>
-        <id>https://github.com/getrichthroughcode/dinov3-isic2018-segmentation</id>
-        <link href="https://github.com/getrichthroughcode/dinov3-isic2018-segmentation"/>
-        <updated>2026-01-05T18:16:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113793273?v=4" width="64" height="64" alt=""/><br/><div>Comparing classic segmentation networks to networks that have dinov3 as a backbone</div>]]></content>
-        <author>
-            <name>getrichthroughcode</name>
-            <email>getrichthroughcode@noreply.github.com</email>
-            <uri>https://github.com/getrichthroughcode</uri>
-        </author>
-        <published>2025-09-24T18:53:13.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MrFishPL/DINOv3Experiments]]></title>
         <id>https://github.com/MrFishPL/DINOv3Experiments</id>
         <link href="https://github.com/MrFishPL/DINOv3Experiments"/>
@@ -214,57 +266,5 @@
             <uri>https://github.com/marco-willi</uri>
         </author>
         <published>2025-12-14T22:34:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kwshh/Train_dinov3]]></title>
-        <id>https://github.com/kwshh/Train_dinov3</id>
-        <link href="https://github.com/kwshh/Train_dinov3"/>
-        <updated>2026-01-04T08:09:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25977008?u=ad1a27e57de0acaf642b815efb8582c3a0007757&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>kwshh</name>
-            <email>kwshh@noreply.github.com</email>
-            <uri>https://github.com/kwshh</uri>
-        </author>
-        <published>2026-01-04T07:47:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
-        <id>https://github.com/talhabw/autoseg</id>
-        <link href="https://github.com/talhabw/autoseg"/>
-        <updated>2026-01-04T08:08:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4" width="64" height="64" alt=""/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>]]></content>
-        <author>
-            <name>talhabw</name>
-            <email>talhabw@noreply.github.com</email>
-            <uri>https://github.com/talhabw</uri>
-        </author>
-        <published>2025-12-27T19:05:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[samuelstevens/dinov3: Simple single-file implemenations of DINOv3 in PyTorch and Jax/Equinox, tested against the reference implemenation.]]></title>
-        <id>https://github.com/samuelstevens/dinov3</id>
-        <link href="https://github.com/samuelstevens/dinov3"/>
-        <updated>2026-01-03T16:54:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26638161?u=7fb9a55a6a107ce553f17a0c73825939f674c144&v=4" width="64" height="64" alt=""/><br/><div>Simple single-file implemenations of DINOv3 in PyTorch and Jax/Equinox, tested against the reference implemenation.</div>]]></content>
-        <author>
-            <name>samuelstevens</name>
-            <email>samuelstevens@noreply.github.com</email>
-            <uri>https://github.com/samuelstevens</uri>
-        </author>
-        <published>2025-08-26T21:37:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raessan/object_detection_dinov3: Lightweight head for object detection using DINOv3 as backbone]]></title>
-        <id>https://github.com/Raessan/object_detection_dinov3</id>
-        <link href="https://github.com/Raessan/object_detection_dinov3"/>
-        <updated>2026-01-07T02:55:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4" width="64" height="64" alt=""/><br/><div>Lightweight head for object detection using DINOv3 as backbone</div>]]></content>
-        <author>
-            <name>Raessan</name>
-            <email>Raessan@noreply.github.com</email>
-            <uri>https://github.com/Raessan</uri>
-        </author>
-        <published>2025-08-18T20:27:28.000Z</published>
     </entry>
 </feed>
