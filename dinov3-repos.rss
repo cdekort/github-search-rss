@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-09T00:26:59.231Z</updated>
+    <updated>2026-01-10T00:26:21.513Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-08T23:45:07.000Z</updated>
+        <updated>2026-01-09T23:47:07.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -21,10 +21,75 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FIREFLY-drone/GUIRA_dinov3_physx]]></title>
+        <id>https://github.com/FIREFLY-drone/GUIRA_dinov3_physx</id>
+        <link href="https://github.com/FIREFLY-drone/GUIRA_dinov3_physx"/>
+        <updated>2026-01-09T20:59:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225474899?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>FIREFLY-drone</name>
+            <email>FIREFLY-drone@noreply.github.com</email>
+            <uri>https://github.com/FIREFLY-drone</uri>
+        </author>
+        <published>2025-12-20T21:58:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[apcarita/TuneADino: Fine Tuning Dinov3 on Large large datasets using custom training setup ]]></title>
+        <id>https://github.com/apcarita/TuneADino</id>
+        <link href="https://github.com/apcarita/TuneADino"/>
+        <updated>2026-01-09T19:35:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43284454?v=4" width="64" height="64" alt=""/><br/><div>Fine Tuning Dinov3 on Large large datasets using custom training setup </div>]]></content>
+        <author>
+            <name>apcarita</name>
+            <email>apcarita@noreply.github.com</email>
+            <uri>https://github.com/apcarita</uri>
+        </author>
+        <published>2025-10-22T14:08:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MikyLanfra/Latent-Space-Learning-for-GPI: Repository containing experiments relative to latent space temporal structure enforcement, performed as part of a project at EPFL University in collaboration with the IDIAP Lab]]></title>
+        <id>https://github.com/MikyLanfra/Latent-Space-Learning-for-GPI</id>
+        <link href="https://github.com/MikyLanfra/Latent-Space-Learning-for-GPI"/>
+        <updated>2026-01-09T17:41:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129951892?v=4" width="64" height="64" alt=""/><br/><div>Repository containing experiments relative to latent space temporal structure enforcement, performed as part of a project at EPFL University in collaboration with the IDIAP Lab</div>]]></content>
+        <author>
+            <name>MikyLanfra</name>
+            <email>MikyLanfra@noreply.github.com</email>
+            <uri>https://github.com/MikyLanfra</uri>
+        </author>
+        <published>2025-09-30T07:24:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BressersJesse/DINOv3-SAR-Change: The corresponding images and annotated data linked to the paper "DINOv3 for Temporal Change Detection in Synthetic Aperture Radar Imagery"]]></title>
+        <id>https://github.com/BressersJesse/DINOv3-SAR-Change</id>
+        <link href="https://github.com/BressersJesse/DINOv3-SAR-Change"/>
+        <updated>2026-01-09T15:56:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69923150?v=4" width="64" height="64" alt=""/><br/><div>The corresponding images and annotated data linked to the paper "DINOv3 for Temporal Change Detection in Synthetic Aperture Radar Imagery"</div>]]></content>
+        <author>
+            <name>BressersJesse</name>
+            <email>BressersJesse@noreply.github.com</email>
+            <uri>https://github.com/BressersJesse</uri>
+        </author>
+        <published>2026-01-09T15:14:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络]]></title>
+        <id>https://github.com/lazy-Lin/dinov3_seg_cls_louye</id>
+        <link href="https://github.com/lazy-Lin/dinov3_seg_cls_louye"/>
+        <updated>2026-01-09T10:23:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4" width="64" height="64" alt=""/><br/><div>加入分割的分类网络</div>]]></content>
+        <author>
+            <name>lazy-Lin</name>
+            <email>lazy-Lin@noreply.github.com</email>
+            <uri>https://github.com/lazy-Lin</uri>
+        </author>
+        <published>2026-01-04T09:46:27.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[kotylevskiy/imbeddings: A minimal FastAPI service for generating image embeddings using Hugging Face Vision Transformer models.]]></title>
         <id>https://github.com/kotylevskiy/imbeddings</id>
         <link href="https://github.com/kotylevskiy/imbeddings"/>
-        <updated>2026-01-08T22:03:13.000Z</updated>
+        <updated>2026-01-09T09:39:36.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198698322?u=58d15c0969d985481fea3dfa3414dadf4dd553bd&v=4" width="64" height="64" alt=""/><br/><div>A minimal FastAPI service for generating image embeddings using Hugging Face Vision Transformer models.</div>]]></content>
         <author>
             <name>kotylevskiy</name>
@@ -37,7 +102,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-08T17:12:27.000Z</updated>
+        <updated>2026-01-09T06:56:24.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -45,19 +110,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络]]></title>
-        <id>https://github.com/lazy-Lin/dinov3_seg_cls_louye</id>
-        <link href="https://github.com/lazy-Lin/dinov3_seg_cls_louye"/>
-        <updated>2026-01-08T16:01:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4" width="64" height="64" alt=""/><br/><div>加入分割的分类网络</div>]]></content>
-        <author>
-            <name>lazy-Lin</name>
-            <email>lazy-Lin@noreply.github.com</email>
-            <uri>https://github.com/lazy-Lin</uri>
-        </author>
-        <published>2026-01-04T09:46:27.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jbadger3/DinoVision: Python GUI Application to visualize DINOv3 features]]></title>
@@ -167,7 +219,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2026-01-08T17:49:43.000Z</updated>
+        <updated>2026-01-09T08:24:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -214,57 +266,5 @@
             <uri>https://github.com/ChenRongpeng1998</uri>
         </author>
         <published>2026-01-06T13:18:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mhsefidgar/DinoV3Production]]></title>
-        <id>https://github.com/mhsefidgar/DinoV3Production</id>
-        <link href="https://github.com/mhsefidgar/DinoV3Production"/>
-        <updated>2026-01-06T00:47:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7599206?u=6fb2db8da3849ed0780d9a79e521fee85936f9b8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>mhsefidgar</name>
-            <email>mhsefidgar@noreply.github.com</email>
-            <uri>https://github.com/mhsefidgar</uri>
-        </author>
-        <published>2026-01-05T17:06:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MrFishPL/DINOv3Experiments]]></title>
-        <id>https://github.com/MrFishPL/DINOv3Experiments</id>
-        <link href="https://github.com/MrFishPL/DINOv3Experiments"/>
-        <updated>2026-01-05T14:47:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68773909?u=f19e5e8e73c59da55de2f78275d6e93ccf8ee73a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>MrFishPL</name>
-            <email>MrFishPL@noreply.github.com</email>
-            <uri>https://github.com/MrFishPL</uri>
-        </author>
-        <published>2026-01-03T14:18:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[marco-willi/sat-finder: Find structures in satellite images using annotations and interactive matching using DINOv3 embeddings.]]></title>
-        <id>https://github.com/marco-willi/sat-finder</id>
-        <link href="https://github.com/marco-willi/sat-finder"/>
-        <updated>2026-01-04T23:03:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19252323?u=d21b96c40ab4f5334cc112c96ad2d43652e30e13&v=4" width="64" height="64" alt=""/><br/><div>Find structures in satellite images using annotations and interactive matching using DINOv3 embeddings.</div>]]></content>
-        <author>
-            <name>marco-willi</name>
-            <email>marco-willi@noreply.github.com</email>
-            <uri>https://github.com/marco-willi</uri>
-        </author>
-        <published>2025-12-27T21:02:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[marco-willi/sat-change: POC for using DINOv3 Features for Bi-Temporal Change Detection in Satellite Images.]]></title>
-        <id>https://github.com/marco-willi/sat-change</id>
-        <link href="https://github.com/marco-willi/sat-change"/>
-        <updated>2026-01-04T22:00:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19252323?u=d21b96c40ab4f5334cc112c96ad2d43652e30e13&v=4" width="64" height="64" alt=""/><br/><div>POC for using DINOv3 Features for Bi-Temporal Change Detection in Satellite Images.</div>]]></content>
-        <author>
-            <name>marco-willi</name>
-            <email>marco-willi@noreply.github.com</email>
-            <uri>https://github.com/marco-willi</uri>
-        </author>
-        <published>2025-12-14T22:34:59.000Z</published>
     </entry>
 </feed>
