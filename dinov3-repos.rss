@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-10T00:26:21.513Z</updated>
+    <updated>2026-01-11T00:30:12.377Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-09T23:47:07.000Z</updated>
+        <updated>2026-01-10T22:58:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -19,6 +19,84 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[crb1411/cropPaste_roll_chsk: based dinov3]]></title>
+        <id>https://github.com/crb1411/cropPaste_roll_chsk</id>
+        <link href="https://github.com/crb1411/cropPaste_roll_chsk"/>
+        <updated>2026-01-10T13:15:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33300392?v=4" width="64" height="64" alt=""/><br/><div>based dinov3</div>]]></content>
+        <author>
+            <name>crb1411</name>
+            <email>crb1411@noreply.github.com</email>
+            <uri>https://github.com/crb1411</uri>
+        </author>
+        <published>2026-01-07T06:12:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunleyun/Dinov3_Specular]]></title>
+        <id>https://github.com/Sunleyun/Dinov3_Specular</id>
+        <link href="https://github.com/Sunleyun/Dinov3_Specular"/>
+        <updated>2026-01-10T12:10:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/147693270?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Sunleyun</name>
+            <email>Sunleyun@noreply.github.com</email>
+            <uri>https://github.com/Sunleyun</uri>
+        </author>
+        <published>2026-01-10T06:02:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indeera01/FYP-DINOv3-Indeera]]></title>
+        <id>https://github.com/Indeera01/FYP-DINOv3-Indeera</id>
+        <link href="https://github.com/Indeera01/FYP-DINOv3-Indeera"/>
+        <updated>2026-01-10T11:21:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129371871?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Indeera01</name>
+            <email>Indeera01@noreply.github.com</email>
+            <uri>https://github.com/Indeera01</uri>
+        </author>
+        <published>2026-01-03T04:36:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
+        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
+        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
+        <updated>2026-01-10T07:42:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
+        <author>
+            <name>wenboyaoo</name>
+            <email>wenboyaoo@noreply.github.com</email>
+            <uri>https://github.com/wenboyaoo</uri>
+        </author>
+        <published>2025-11-05T13:11:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络]]></title>
+        <id>https://github.com/lazy-Lin/dinov3_seg_cls_louye</id>
+        <link href="https://github.com/lazy-Lin/dinov3_seg_cls_louye"/>
+        <updated>2026-01-10T06:53:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4" width="64" height="64" alt=""/><br/><div>加入分割的分类网络</div>]]></content>
+        <author>
+            <name>lazy-Lin</name>
+            <email>lazy-Lin@noreply.github.com</email>
+            <uri>https://github.com/lazy-Lin</uri>
+        </author>
+        <published>2026-01-04T09:46:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-01-10T16:44:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[FIREFLY-drone/GUIRA_dinov3_physx]]></title>
@@ -73,19 +151,6 @@
         <published>2026-01-09T15:14:54.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lazy-Lin/dinov3_seg_cls_louye: 加入分割的分类网络]]></title>
-        <id>https://github.com/lazy-Lin/dinov3_seg_cls_louye</id>
-        <link href="https://github.com/lazy-Lin/dinov3_seg_cls_louye"/>
-        <updated>2026-01-09T10:23:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77314164?u=0e902dbc950b6c06c835c02f1831d66182b77727&v=4" width="64" height="64" alt=""/><br/><div>加入分割的分类网络</div>]]></content>
-        <author>
-            <name>lazy-Lin</name>
-            <email>lazy-Lin@noreply.github.com</email>
-            <uri>https://github.com/lazy-Lin</uri>
-        </author>
-        <published>2026-01-04T09:46:27.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[kotylevskiy/imbeddings: A minimal FastAPI service for generating image embeddings using Hugging Face Vision Transformer models.]]></title>
         <id>https://github.com/kotylevskiy/imbeddings</id>
         <link href="https://github.com/kotylevskiy/imbeddings"/>
@@ -97,19 +162,6 @@
             <uri>https://github.com/kotylevskiy</uri>
         </author>
         <published>2026-01-08T21:52:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-09T06:56:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jbadger3/DinoVision: Python GUI Application to visualize DINOv3 features]]></title>
@@ -164,19 +216,6 @@
         <published>2026-01-08T09:37:20.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[crb1411/cropPaste_roll_chsk: based dinov3]]></title>
-        <id>https://github.com/crb1411/cropPaste_roll_chsk</id>
-        <link href="https://github.com/crb1411/cropPaste_roll_chsk"/>
-        <updated>2026-01-08T11:22:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33300392?v=4" width="64" height="64" alt=""/><br/><div>based dinov3</div>]]></content>
-        <author>
-            <name>crb1411</name>
-            <email>crb1411@noreply.github.com</email>
-            <uri>https://github.com/crb1411</uri>
-        </author>
-        <published>2026-01-07T06:12:08.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uzarel/udder-seg-dinov3: Code for "Lightweight Thermal Udder Segmentation via Structured Pruning for On-Device Farm Deployment"]]></title>
         <id>https://github.com/Uzarel/udder-seg-dinov3</id>
         <link href="https://github.com/Uzarel/udder-seg-dinov3"/>
@@ -219,7 +258,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2026-01-09T08:24:13.000Z</updated>
+        <updated>2026-01-10T14:12:09.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/Intellindust-AI-Lab</uri>
         </author>
         <published>2025-09-19T02:27:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adsp-polito/2025-P5-DINOV3-Damage-Assessment]]></title>
-        <id>https://github.com/adsp-polito/2025-P5-DINOV3-Damage-Assessment</id>
-        <link href="https://github.com/adsp-polito/2025-P5-DINOV3-Damage-Assessment"/>
-        <updated>2026-01-06T23:28:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90703327?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>adsp-polito</name>
-            <email>adsp-polito@noreply.github.com</email>
-            <uri>https://github.com/adsp-polito</uri>
-        </author>
-        <published>2025-10-28T08:13:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wri/dinov3_species: A species separability and identification exercise using DINOv3]]></title>
-        <id>https://github.com/wri/dinov3_species</id>
-        <link href="https://github.com/wri/dinov3_species"/>
-        <updated>2026-01-06T18:27:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4615146?v=4" width="64" height="64" alt=""/><br/><div>A species separability and identification exercise using DINOv3</div>]]></content>
-        <author>
-            <name>wri</name>
-            <email>wri@noreply.github.com</email>
-            <uri>https://github.com/wri</uri>
-        </author>
-        <published>2025-09-16T17:49:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChenRongpeng1998/DinoV3-DDetr]]></title>
-        <id>https://github.com/ChenRongpeng1998/DinoV3-DDetr</id>
-        <link href="https://github.com/ChenRongpeng1998/DinoV3-DDetr"/>
-        <updated>2026-01-06T13:18:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148928088?u=04843a5958ba827e7842495255a9dd2dbce8cb5f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ChenRongpeng1998</name>
-            <email>ChenRongpeng1998@noreply.github.com</email>
-            <uri>https://github.com/ChenRongpeng1998</uri>
-        </author>
-        <published>2026-01-06T13:18:38.000Z</published>
     </entry>
 </feed>
