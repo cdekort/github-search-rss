@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-15T00:24:53.431Z</updated>
+    <updated>2026-01-16T00:27:31.270Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-01-15T00:13:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-14T23:26:32.000Z</updated>
+        <updated>2026-01-16T00:15:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -34,10 +21,49 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-01-15T22:51:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection]]></title>
+        <id>https://github.com/Trudes808/Dinov3-RF-Signal-Detection</id>
+        <link href="https://github.com/Trudes808/Dinov3-RF-Signal-Detection"/>
+        <updated>2026-01-15T18:45:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>testing dinov3 capability for RF signal detection</div>]]></content>
+        <author>
+            <name>Trudes808</name>
+            <email>Trudes808@noreply.github.com</email>
+            <uri>https://github.com/Trudes808</uri>
+        </author>
+        <published>2026-01-15T18:45:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nasa-nccs-hpda/CHM_DINOv3: Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data]]></title>
+        <id>https://github.com/nasa-nccs-hpda/CHM_DINOv3</id>
+        <link href="https://github.com/nasa-nccs-hpda/CHM_DINOv3"/>
+        <updated>2026-01-15T14:28:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10469195?v=4" width="64" height="64" alt=""/><br/><div>Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data</div>]]></content>
+        <author>
+            <name>nasa-nccs-hpda</name>
+            <email>nasa-nccs-hpda@noreply.github.com</email>
+            <uri>https://github.com/nasa-nccs-hpda</uri>
+        </author>
+        <published>2025-12-03T17:55:15.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-14T20:40:06.000Z</updated>
+        <updated>2026-01-15T10:28:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -50,7 +76,7 @@
         <title type="html"><![CDATA[etornam45/vl-jepa: This VL-JEPA implimentation takes direct insperation from the original VL-JEPA paper]]></title>
         <id>https://github.com/etornam45/vl-jepa</id>
         <link href="https://github.com/etornam45/vl-jepa"/>
-        <updated>2026-01-14T15:29:39.000Z</updated>
+        <updated>2026-01-15T08:14:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4" width="64" height="64" alt=""/><br/><div>This VL-JEPA implimentation takes direct insperation from the original VL-JEPA paper</div>]]></content>
         <author>
             <name>etornam45</name>
@@ -58,6 +84,19 @@
             <uri>https://github.com/etornam45</uri>
         </author>
         <published>2026-01-13T21:07:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dookooni/Deepfake-Detection: this repository is personal research for Deepfake Detection(Forgery Detection) using with DINOv3 ViT-H/Distilled (Single Backbone)]]></title>
+        <id>https://github.com/dookooni/Deepfake-Detection</id>
+        <link href="https://github.com/dookooni/Deepfake-Detection"/>
+        <updated>2026-01-15T04:57:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86514143?u=fee194f2400e338063cb6fb37d836534fb9f70f7&v=4" width="64" height="64" alt=""/><br/><div>this repository is personal research for Deepfake Detection(Forgery Detection) using with DINOv3 ViT-H/Distilled (Single Backbone)</div>]]></content>
+        <author>
+            <name>dookooni</name>
+            <email>dookooni@noreply.github.com</email>
+            <uri>https://github.com/dookooni</uri>
+        </author>
+        <published>2026-01-13T09:38:53.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[1225Sakura/DINOv3-Remote-Sensing-Semantic-Segmentation]]></title>
@@ -84,19 +123,6 @@
             <uri>https://github.com/MrFishPL</uri>
         </author>
         <published>2026-01-03T14:18:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dookooni/Deepfake-Detection: this repository is personal research for Deepfake Detection(Forgery Detection) using with DINOv3 ViT-H/Distilled (Single Backbone)]]></title>
-        <id>https://github.com/dookooni/Deepfake-Detection</id>
-        <link href="https://github.com/dookooni/Deepfake-Detection"/>
-        <updated>2026-01-14T11:20:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86514143?u=fee194f2400e338063cb6fb37d836534fb9f70f7&v=4" width="64" height="64" alt=""/><br/><div>this repository is personal research for Deepfake Detection(Forgery Detection) using with DINOv3 ViT-H/Distilled (Single Backbone)</div>]]></content>
-        <author>
-            <name>dookooni</name>
-            <email>dookooni@noreply.github.com</email>
-            <uri>https://github.com/dookooni</uri>
-        </author>
-        <published>2026-01-13T09:38:53.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
@@ -149,19 +175,6 @@
             <uri>https://github.com/Nacho4412gg</uri>
         </author>
         <published>2026-01-11T18:30:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nasa-nccs-hpda/CHM_DINOv3: Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data]]></title>
-        <id>https://github.com/nasa-nccs-hpda/CHM_DINOv3</id>
-        <link href="https://github.com/nasa-nccs-hpda/CHM_DINOv3"/>
-        <updated>2026-01-13T18:00:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10469195?v=4" width="64" height="64" alt=""/><br/><div>Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data</div>]]></content>
-        <author>
-            <name>nasa-nccs-hpda</name>
-            <email>nasa-nccs-hpda@noreply.github.com</email>
-            <uri>https://github.com/nasa-nccs-hpda</uri>
-        </author>
-        <published>2025-12-03T17:55:15.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[PaulMcHard/DINOv3-Mask2Former: Mask2Former implementation with DINOv3 backbone]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/stefanopaolonii</uri>
         </author>
         <published>2026-01-12T16:08:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ryunosky/dinov3-trained-models]]></title>
-        <id>https://github.com/ryunosky/dinov3-trained-models</id>
-        <link href="https://github.com/ryunosky/dinov3-trained-models"/>
-        <updated>2026-01-12T16:06:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60138063?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ryunosky</name>
-            <email>ryunosky@noreply.github.com</email>
-            <uri>https://github.com/ryunosky</uri>
-        </author>
-        <published>2026-01-12T16:06:42.000Z</published>
     </entry>
 </feed>
