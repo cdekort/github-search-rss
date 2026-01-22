@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-01-21T00:05:47.000Z",
+            "date_modified": "2026-01-21T23:32:33.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-01-20T23:21:43.000Z",
+            "date_modified": "2026-01-21T22:47:27.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -28,14 +28,58 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180929994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>",
+            "url": "https://github.com/wenboyaoo/dinov3-yolos-detection",
+            "title": "wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.",
+            "date_modified": "2026-01-21T16:49:10.000Z",
+            "date_published": "2025-11-05T13:11:48.000Z",
+            "author": {
+                "name": "wenboyaoo",
+                "url": "https://github.com/wenboyaoo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-01-21T15:50:15.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90703327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/adsp-polito/2025-P5-DINOV3-Damage-Assessment",
             "title": "adsp-polito/2025-P5-DINOV3-Damage-Assessment",
-            "date_modified": "2026-01-20T21:10:01.000Z",
+            "date_modified": "2026-01-21T08:59:48.000Z",
             "date_published": "2025-10-28T08:13:16.000Z",
             "author": {
                 "name": "adsp-polito",
                 "url": "https://github.com/adsp-polito"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95171411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"</div>",
+            "url": "https://github.com/chingheng0808/ChangeDINO",
+            "title": "chingheng0808/ChangeDINO: The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"",
+            "date_modified": "2026-01-21T07:38:00.000Z",
+            "date_published": "2025-11-20T03:56:03.000Z",
+            "author": {
+                "name": "chingheng0808",
+                "url": "https://github.com/chingheng0808"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>",
+            "url": "https://github.com/AlexThunder01/NodeAI",
+            "title": "AlexThunder01/NodeAI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.",
+            "date_modified": "2026-01-21T03:19:17.000Z",
+            "date_published": "2026-01-16T05:00:11.000Z",
+            "author": {
+                "name": "AlexThunder01",
+                "url": "https://github.com/AlexThunder01"
             }
         },
         {
@@ -47,17 +91,6 @@
             "author": {
                 "name": "noorkhokhar99",
                 "url": "https://github.com/noorkhokhar99"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-01-20T22:49:32.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -116,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180929994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>",
-            "url": "https://github.com/wenboyaoo/dinov3-yolos-detection",
-            "title": "wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.",
-            "date_modified": "2026-01-18T19:05:03.000Z",
-            "date_published": "2025-11-05T13:11:48.000Z",
-            "author": {
-                "name": "wenboyaoo",
-                "url": "https://github.com/wenboyaoo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119170836?u=8d07935f66d72f02307f26efd7c23c8749e1b43d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated product dimension estimation for e-commerce using Computer Vision and NLP (CatBoost + E5/DINOv3)</div>",
             "url": "https://github.com/NikitaLosev/predicting-product-dimensions",
             "title": "NikitaLosev/predicting-product-dimensions: Automated product dimension estimation for e-commerce using Computer Vision and NLP (CatBoost + E5/DINOv3)",
@@ -179,28 +201,6 @@
             "author": {
                 "name": "ABan12",
                 "url": "https://github.com/ABan12"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95171411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"</div>",
-            "url": "https://github.com/chingheng0808/ChangeDINO",
-            "title": "chingheng0808/ChangeDINO: The official pytorch implementation of the paper \"ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery.\"",
-            "date_modified": "2026-01-16T13:39:55.000Z",
-            "date_published": "2025-11-20T03:56:03.000Z",
-            "author": {
-                "name": "chingheng0808",
-                "url": "https://github.com/chingheng0808"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>",
-            "url": "https://github.com/AlexThunder01/ThyroViT",
-            "title": "AlexThunder01/ThyroViT: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.",
-            "date_modified": "2026-01-16T05:11:25.000Z",
-            "date_published": "2026-01-16T05:00:11.000Z",
-            "author": {
-                "name": "AlexThunder01",
-                "url": "https://github.com/AlexThunder01"
             }
         },
         {

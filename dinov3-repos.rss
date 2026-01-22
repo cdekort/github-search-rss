@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-21T00:28:15.409Z</updated>
+    <updated>2026-01-22T00:28:32.204Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-21T00:05:47.000Z</updated>
+        <updated>2026-01-21T23:32:33.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-01-20T23:21:43.000Z</updated>
+        <updated>2026-01-21T22:47:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -34,10 +34,36 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
+        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
+        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
+        <updated>2026-01-21T16:49:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
+        <author>
+            <name>wenboyaoo</name>
+            <email>wenboyaoo@noreply.github.com</email>
+            <uri>https://github.com/wenboyaoo</uri>
+        </author>
+        <published>2025-11-05T13:11:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-01-21T15:50:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[adsp-polito/2025-P5-DINOV3-Damage-Assessment]]></title>
         <id>https://github.com/adsp-polito/2025-P5-DINOV3-Damage-Assessment</id>
         <link href="https://github.com/adsp-polito/2025-P5-DINOV3-Damage-Assessment"/>
-        <updated>2026-01-20T21:10:01.000Z</updated>
+        <updated>2026-01-21T08:59:48.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90703327?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>adsp-polito</name>
@@ -45,6 +71,32 @@
             <uri>https://github.com/adsp-polito</uri>
         </author>
         <published>2025-10-28T08:13:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
+        <id>https://github.com/chingheng0808/ChangeDINO</id>
+        <link href="https://github.com/chingheng0808/ChangeDINO"/>
+        <updated>2026-01-21T07:38:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
+        <author>
+            <name>chingheng0808</name>
+            <email>chingheng0808@noreply.github.com</email>
+            <uri>https://github.com/chingheng0808</uri>
+        </author>
+        <published>2025-11-20T03:56:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlexThunder01/NodeAI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.]]></title>
+        <id>https://github.com/AlexThunder01/NodeAI</id>
+        <link href="https://github.com/AlexThunder01/NodeAI"/>
+        <updated>2026-01-21T03:19:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4" width="64" height="64" alt=""/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>]]></content>
+        <author>
+            <name>AlexThunder01</name>
+            <email>AlexThunder01@noreply.github.com</email>
+            <uri>https://github.com/AlexThunder01</uri>
+        </author>
+        <published>2026-01-16T05:00:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[noorkhokhar99/DINOv3-How-to-Train-for-Object-Detection-on-a-Custom-Dataset: DINOv3: How to Train for Object Detection on a Custom Dataset]]></title>
@@ -58,19 +110,6 @@
             <uri>https://github.com/noorkhokhar99</uri>
         </author>
         <published>2025-08-24T14:04:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-20T22:49:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SMALLCODE321/dinov3_gem]]></title>
@@ -138,19 +177,6 @@
         <published>2026-01-16T14:19:50.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wenboyaoo/dinov3-yolos-detection: YOLOS object detection with a DINOv3 backbone.]]></title>
-        <id>https://github.com/wenboyaoo/dinov3-yolos-detection</id>
-        <link href="https://github.com/wenboyaoo/dinov3-yolos-detection"/>
-        <updated>2026-01-18T19:05:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180929994?v=4" width="64" height="64" alt=""/><br/><div>YOLOS object detection with a DINOv3 backbone.</div>]]></content>
-        <author>
-            <name>wenboyaoo</name>
-            <email>wenboyaoo@noreply.github.com</email>
-            <uri>https://github.com/wenboyaoo</uri>
-        </author>
-        <published>2025-11-05T13:11:48.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NikitaLosev/predicting-product-dimensions: Automated product dimension estimation for e-commerce using Computer Vision and NLP (CatBoost + E5/DINOv3)]]></title>
         <id>https://github.com/NikitaLosev/predicting-product-dimensions</id>
         <link href="https://github.com/NikitaLosev/predicting-product-dimensions"/>
@@ -214,32 +240,6 @@
             <uri>https://github.com/ABan12</uri>
         </author>
         <published>2026-01-17T01:31:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chingheng0808/ChangeDINO: The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."]]></title>
-        <id>https://github.com/chingheng0808/ChangeDINO</id>
-        <link href="https://github.com/chingheng0808/ChangeDINO"/>
-        <updated>2026-01-16T13:39:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95171411?v=4" width="64" height="64" alt=""/><br/><div>The official pytorch implementation of the paper "ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery."</div>]]></content>
-        <author>
-            <name>chingheng0808</name>
-            <email>chingheng0808@noreply.github.com</email>
-            <uri>https://github.com/chingheng0808</uri>
-        </author>
-        <published>2025-11-20T03:56:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlexThunder01/ThyroViT: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.]]></title>
-        <id>https://github.com/AlexThunder01/ThyroViT</id>
-        <link href="https://github.com/AlexThunder01/ThyroViT"/>
-        <updated>2026-01-16T05:11:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4" width="64" height="64" alt=""/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>]]></content>
-        <author>
-            <name>AlexThunder01</name>
-            <email>AlexThunder01@noreply.github.com</email>
-            <uri>https://github.com/AlexThunder01</uri>
-        </author>
-        <published>2026-01-16T05:00:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[dookooni/Deepfake-Detection: this repository is personal research for Deepfake Detection(Forgery Detection) using with DINOv3 ViT-H/Distilled (Single Backbone)]]></title>
