@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nacho4412gg/dinov3",
+            "title": "Nacho4412gg/dinov3",
+            "date_modified": "2026-01-22T23:23:33.000Z",
+            "date_published": "2026-01-11T18:24:22.000Z",
+            "author": {
+                "name": "Nacho4412gg",
+                "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-01-21T23:32:33.000Z",
+            "date_modified": "2026-01-22T22:35:57.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -17,14 +28,80 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nacho4412gg/dinov3",
-            "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-01-21T22:47:27.000Z",
-            "date_published": "2026-01-11T18:24:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185735275?u=326dec262a748296decba11a3be033c44da2849e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Satellite SegmentationExtract via DINOv3 embeddings (frozen backbone, etc)), SAM 3, RF-DETR, Gemini 3 Agent</div>",
+            "url": "https://github.com/AICoolK8e8vC83i/Sentinel-3",
+            "title": "AICoolK8e8vC83i/Sentinel-3: Satellite SegmentationExtract via DINOv3 embeddings (frozen backbone, etc)), SAM 3, RF-DETR, Gemini 3 Agent",
+            "date_modified": "2026-01-22T22:14:06.000Z",
+            "date_published": "2026-01-22T22:14:02.000Z",
             "author": {
-                "name": "Nacho4412gg",
-                "url": "https://github.com/Nacho4412gg"
+                "name": "AICoolK8e8vC83i",
+                "url": "https://github.com/AICoolK8e8vC83i"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198698322?u=58d15c0969d985481fea3dfa3414dadf4dd553bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal FastAPI service for generating image embeddings using Hugging Face Vision Transformer models.</div>",
+            "url": "https://github.com/kotylevskiy/imbeddings",
+            "title": "kotylevskiy/imbeddings: A minimal FastAPI service for generating image embeddings using Hugging Face Vision Transformer models.",
+            "date_modified": "2026-01-22T21:57:49.000Z",
+            "date_published": "2026-01-08T21:52:55.000Z",
+            "author": {
+                "name": "kotylevskiy",
+                "url": "https://github.com/kotylevskiy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19193291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/davidackerman/dinov3_playground",
+            "title": "davidackerman/dinov3_playground",
+            "date_modified": "2026-01-22T20:03:08.000Z",
+            "date_published": "2025-09-26T16:53:48.000Z",
+            "author": {
+                "name": "davidackerman",
+                "url": "https://github.com/davidackerman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-01-22T14:43:17.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20321845?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/junhoning/dinov3",
+            "title": "junhoning/dinov3",
+            "date_modified": "2026-01-22T13:26:43.000Z",
+            "date_published": "2026-01-22T13:13:59.000Z",
+            "author": {
+                "name": "junhoning",
+                "url": "https://github.com/junhoning"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6262861?u=8fe8b63cc19be08768a4cc66c04ca5764984fcc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3+UperNet for segmentation</div>",
+            "url": "https://github.com/Shen001/dinov3_segmentation",
+            "title": "Shen001/dinov3_segmentation: DINOv3+UperNet for segmentation",
+            "date_modified": "2026-01-22T10:02:42.000Z",
+            "date_published": "2026-01-22T09:35:59.000Z",
+            "author": {
+                "name": "Shen001",
+                "url": "https://github.com/Shen001"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200878715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Ann-wyy/Xray_Mask_Dinov3",
+            "title": "Ann-wyy/Xray_Mask_Dinov3",
+            "date_modified": "2026-01-22T08:38:59.000Z",
+            "date_published": "2026-01-22T05:31:53.000Z",
+            "author": {
+                "name": "Ann-wyy",
+                "url": "https://github.com/Ann-wyy"
             }
         },
         {
@@ -36,17 +113,6 @@
             "author": {
                 "name": "wenboyaoo",
                 "url": "https://github.com/wenboyaoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-01-21T15:50:15.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -73,9 +139,9 @@
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>",
-            "url": "https://github.com/AlexThunder01/NodeAI",
-            "title": "AlexThunder01/NodeAI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.",
-            "date_modified": "2026-01-21T03:19:17.000Z",
+            "url": "https://github.com/AlexThunder01/Thyroid-Nodule-AI",
+            "title": "AlexThunder01/Thyroid-Nodule-AI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.",
+            "date_modified": "2026-01-22T02:23:04.000Z",
             "date_published": "2026-01-16T05:00:11.000Z",
             "author": {
                 "name": "AlexThunder01",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "NikitaLosev",
                 "url": "https://github.com/NikitaLosev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This VL-JEPA implimentation takes direct insperation from the original VL-JEPA paper</div>",
-            "url": "https://github.com/etornam45/vl-jepa",
-            "title": "etornam45/vl-jepa: This VL-JEPA implimentation takes direct insperation from the original VL-JEPA paper",
-            "date_modified": "2026-01-19T21:14:57.000Z",
-            "date_published": "2026-01-13T21:07:15.000Z",
-            "author": {
-                "name": "etornam45",
-                "url": "https://github.com/etornam45"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing dinov3 capability for RF signal detection</div>",
-            "url": "https://github.com/Trudes808/Dinov3-RF-Signal-Detection",
-            "title": "Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection",
-            "date_modified": "2026-01-17T21:44:49.000Z",
-            "date_published": "2026-01-15T18:45:48.000Z",
-            "author": {
-                "name": "Trudes808",
-                "url": "https://github.com/Trudes808"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63046315?u=90d6ea674071be900ad3b51731d84a2eea7f54db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/malerbe/dinov3_features_extraction",
-            "title": "malerbe/dinov3_features_extraction",
-            "date_modified": "2026-01-17T15:51:01.000Z",
-            "date_published": "2026-01-17T15:03:51.000Z",
-            "author": {
-                "name": "malerbe",
-                "url": "https://github.com/malerbe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88654681?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ABan12/dinov3_large",
-            "title": "ABan12/dinov3_large",
-            "date_modified": "2026-01-17T01:31:54.000Z",
-            "date_published": "2026-01-17T01:31:54.000Z",
-            "author": {
-                "name": "ABan12",
-                "url": "https://github.com/ABan12"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86514143?u=fee194f2400e338063cb6fb37d836534fb9f70f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this repository is personal research for Deepfake Detection(Forgery Detection) using with DINOv3 ViT-H/Distilled (Single Backbone)</div>",
-            "url": "https://github.com/dookooni/Deepfake-Detection",
-            "title": "dookooni/Deepfake-Detection: this repository is personal research for Deepfake Detection(Forgery Detection) using with DINOv3 ViT-H/Distilled (Single Backbone)",
-            "date_modified": "2026-01-16T00:51:37.000Z",
-            "date_published": "2026-01-13T09:38:53.000Z",
-            "author": {
-                "name": "dookooni",
-                "url": "https://github.com/dookooni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10469195?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data</div>",
-            "url": "https://github.com/nasa-nccs-hpda/CHM_DINOv3",
-            "title": "nasa-nccs-hpda/CHM_DINOv3: Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data",
-            "date_modified": "2026-01-15T14:28:52.000Z",
-            "date_published": "2025-12-03T17:55:15.000Z",
-            "author": {
-                "name": "nasa-nccs-hpda",
-                "url": "https://github.com/nasa-nccs-hpda"
             }
         }
     ]
