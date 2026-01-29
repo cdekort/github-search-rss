@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-28T00:27:47.782Z</updated>
+    <updated>2026-01-29T00:31:08.944Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[djaygier/dinov3-antscout]]></title>
+        <id>https://github.com/djaygier/dinov3-antscout</id>
+        <link href="https://github.com/djaygier/dinov3-antscout"/>
+        <updated>2026-01-29T00:14:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/85443953?u=7b1d1cf79bf126b6249ca9a1be8d8838e672b999&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>djaygier</name>
+            <email>djaygier@noreply.github.com</email>
+            <uri>https://github.com/djaygier</uri>
+        </author>
+        <published>2026-01-28T15:10:01.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-28T00:05:23.000Z</updated>
+        <updated>2026-01-28T23:50:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -24,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-01-27T22:36:36.000Z</updated>
+        <updated>2026-01-28T22:23:36.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -34,10 +47,23 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tayebiarasteh/dp_dinov3: The role of self-supervised pretraining in differentially private medical image analysis]]></title>
+        <id>https://github.com/tayebiarasteh/dp_dinov3</id>
+        <link href="https://github.com/tayebiarasteh/dp_dinov3"/>
+        <updated>2026-01-28T17:45:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48710732?u=fe9472568e98462f255b7c8e5af9f0c4191ede0a&v=4" width="64" height="64" alt=""/><br/><div>The role of self-supervised pretraining in differentially private medical image analysis</div>]]></content>
+        <author>
+            <name>tayebiarasteh</name>
+            <email>tayebiarasteh@noreply.github.com</email>
+            <uri>https://github.com/tayebiarasteh</uri>
+        </author>
+        <published>2025-10-27T11:05:08.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
         <id>https://github.com/PhilaMaster/semantic_correspondence</id>
         <link href="https://github.com/PhilaMaster/semantic_correspondence"/>
-        <updated>2026-01-27T19:06:09.000Z</updated>
+        <updated>2026-01-28T12:07:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77679627?v=4" width="64" height="64" alt=""/><br/><div>This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.</div>]]></content>
         <author>
             <name>PhilaMaster</name>
@@ -45,6 +71,58 @@
             <uri>https://github.com/PhilaMaster</uri>
         </author>
         <published>2025-12-10T18:01:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArtemVerbov/Dinov3-For-Semantic-Segmentation: Dinov3 backbone adopted for semantic segmentation.]]></title>
+        <id>https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation</id>
+        <link href="https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation"/>
+        <updated>2026-01-28T10:54:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59263685?u=644171ead2758667b101b888269925d338b05ff4&v=4" width="64" height="64" alt=""/><br/><div>Dinov3 backbone adopted for semantic segmentation.</div>]]></content>
+        <author>
+            <name>ArtemVerbov</name>
+            <email>ArtemVerbov@noreply.github.com</email>
+            <uri>https://github.com/ArtemVerbov</uri>
+        </author>
+        <published>2026-01-25T07:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ann-wyy/Xray_Mask_Dinov3]]></title>
+        <id>https://github.com/Ann-wyy/Xray_Mask_Dinov3</id>
+        <link href="https://github.com/Ann-wyy/Xray_Mask_Dinov3"/>
+        <updated>2026-01-28T07:28:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200878715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Ann-wyy</name>
+            <email>Ann-wyy@noreply.github.com</email>
+            <uri>https://github.com/Ann-wyy</uri>
+        </author>
+        <published>2026-01-22T05:31:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlexThunder01/Thyroid-Nodule-AI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.]]></title>
+        <id>https://github.com/AlexThunder01/Thyroid-Nodule-AI</id>
+        <link href="https://github.com/AlexThunder01/Thyroid-Nodule-AI"/>
+        <updated>2026-01-28T03:31:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4" width="64" height="64" alt=""/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>]]></content>
+        <author>
+            <name>AlexThunder01</name>
+            <email>AlexThunder01@noreply.github.com</email>
+            <uri>https://github.com/AlexThunder01</uri>
+        </author>
+        <published>2026-01-16T05:00:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tobiashyk/DINOv3-finetune]]></title>
+        <id>https://github.com/Tobiashyk/DINOv3-finetune</id>
+        <link href="https://github.com/Tobiashyk/DINOv3-finetune"/>
+        <updated>2026-01-28T03:03:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198170627?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Tobiashyk</name>
+            <email>Tobiashyk@noreply.github.com</email>
+            <uri>https://github.com/Tobiashyk</uri>
+        </author>
+        <published>2025-12-12T09:46:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_few_shot_demo:  A cross-platform solution for Few-Shot Instance Segmentation on mobile devices. It leverages a split-model architecture using DINOv3 as a static feature extractor and a lightweight, dynamically trained Logistic Regression classifier for specific objects.]]></title>
@@ -84,19 +162,6 @@
             <uri>https://github.com/viswarup</uri>
         </author>
         <published>2026-01-27T07:45:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lianju123/DImages_DINOv3]]></title>
-        <id>https://github.com/lianju123/DImages_DINOv3</id>
-        <link href="https://github.com/lianju123/DImages_DINOv3"/>
-        <updated>2026-01-27T07:50:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192892949?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>lianju123</name>
-            <email>lianju123@noreply.github.com</email>
-            <uri>https://github.com/lianju123</uri>
-        </author>
-        <published>2026-01-27T07:50:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[shenxiaokeai/mid_term-experiment_three: DINOv3 code, SAM2 code, and CLIP code; code for the main experiments and comparative experiments. The Qwen model is directly downloaded from the ModelScope Community.]]></title>
@@ -164,23 +229,10 @@
         <published>2026-01-12T23:14:06.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tobiashyk/DINOv3-finetune]]></title>
-        <id>https://github.com/Tobiashyk/DINOv3-finetune</id>
-        <link href="https://github.com/Tobiashyk/DINOv3-finetune"/>
-        <updated>2026-01-26T04:42:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198170627?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Tobiashyk</name>
-            <email>Tobiashyk@noreply.github.com</email>
-            <uri>https://github.com/Tobiashyk</uri>
-        </author>
-        <published>2025-12-12T09:46:05.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-27T12:34:02.000Z</updated>
+        <updated>2026-01-28T22:09:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -203,45 +255,6 @@
         <published>2026-01-25T12:01:55.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ArtemVerbov/Dinov3-For-Semantic-Segmentation: Dinov3 backbone adopted for semantic segmentation.]]></title>
-        <id>https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation</id>
-        <link href="https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation"/>
-        <updated>2026-01-25T07:31:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59263685?u=644171ead2758667b101b888269925d338b05ff4&v=4" width="64" height="64" alt=""/><br/><div>Dinov3 backbone adopted for semantic segmentation.</div>]]></content>
-        <author>
-            <name>ArtemVerbov</name>
-            <email>ArtemVerbov@noreply.github.com</email>
-            <uri>https://github.com/ArtemVerbov</uri>
-        </author>
-        <published>2026-01-25T07:01:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tayebiarasteh/dp_dinov3: The role of self-supervised pretraining in differentially private medical image analysis]]></title>
-        <id>https://github.com/tayebiarasteh/dp_dinov3</id>
-        <link href="https://github.com/tayebiarasteh/dp_dinov3"/>
-        <updated>2026-01-27T13:24:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48710732?u=fe9472568e98462f255b7c8e5af9f0c4191ede0a&v=4" width="64" height="64" alt=""/><br/><div>The role of self-supervised pretraining in differentially private medical image analysis</div>]]></content>
-        <author>
-            <name>tayebiarasteh</name>
-            <email>tayebiarasteh@noreply.github.com</email>
-            <uri>https://github.com/tayebiarasteh</uri>
-        </author>
-        <published>2025-10-27T11:05:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlexThunder01/Thyroid-Nodule-AI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.]]></title>
-        <id>https://github.com/AlexThunder01/Thyroid-Nodule-AI</id>
-        <link href="https://github.com/AlexThunder01/Thyroid-Nodule-AI"/>
-        <updated>2026-01-24T13:19:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4" width="64" height="64" alt=""/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>]]></content>
-        <author>
-            <name>AlexThunder01</name>
-            <email>AlexThunder01@noreply.github.com</email>
-            <uri>https://github.com/AlexThunder01</uri>
-        </author>
-        <published>2026-01-16T05:00:11.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Raessan/optical_flow_dinov3: Lightweight head for optical flow using DINOv3 as backbone]]></title>
         <id>https://github.com/Raessan/optical_flow_dinov3</id>
         <link href="https://github.com/Raessan/optical_flow_dinov3"/>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Raessan</uri>
         </author>
         <published>2025-09-27T09:05:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jldx-1/curation-engine: Data Curation: Filter redundant data to create foundation models by applying k-means and balance sampling algorithm. Inspired by DINOv3. ]]></title>
-        <id>https://github.com/jldx-1/curation-engine</id>
-        <link href="https://github.com/jldx-1/curation-engine"/>
-        <updated>2026-01-24T02:53:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77759670?u=67d5a4fa114be0cd50b353dbd9a61b1a625f559b&v=4" width="64" height="64" alt=""/><br/><div>Data Curation: Filter redundant data to create foundation models by applying k-means and balance sampling algorithm. Inspired by DINOv3. </div>]]></content>
-        <author>
-            <name>jldx-1</name>
-            <email>jldx-1@noreply.github.com</email>
-            <uri>https://github.com/jldx-1</uri>
-        </author>
-        <published>2026-01-23T22:01:15.000Z</published>
     </entry>
 </feed>
