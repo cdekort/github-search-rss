@@ -2,29 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-29T00:31:08.944Z</updated>
+    <updated>2026-01-30T00:31:24.657Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[djaygier/dinov3-antscout]]></title>
-        <id>https://github.com/djaygier/dinov3-antscout</id>
-        <link href="https://github.com/djaygier/dinov3-antscout"/>
-        <updated>2026-01-29T00:14:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/85443953?u=7b1d1cf79bf126b6249ca9a1be8d8838e672b999&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[white-richard/dinov3-reid-lightning]]></title>
+        <id>https://github.com/white-richard/dinov3-reid-lightning</id>
+        <link href="https://github.com/white-richard/dinov3-reid-lightning"/>
+        <updated>2026-01-30T00:01:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/98299003?u=58521b95c6dc67fb0ab0a98da13373359a4ef3d2&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>djaygier</name>
-            <email>djaygier@noreply.github.com</email>
-            <uri>https://github.com/djaygier</uri>
+            <name>white-richard</name>
+            <email>white-richard@noreply.github.com</email>
+            <uri>https://github.com/white-richard</uri>
         </author>
-        <published>2026-01-28T15:10:01.000Z</published>
+        <published>2026-01-30T00:01:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-01-29T23:02:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-28T23:50:39.000Z</updated>
+        <updated>2026-01-29T22:10:49.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -34,17 +47,108 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-01-28T22:23:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
+        <id>https://github.com/PhilaMaster/semantic_correspondence</id>
+        <link href="https://github.com/PhilaMaster/semantic_correspondence"/>
+        <updated>2026-01-29T21:29:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77679627?v=4" width="64" height="64" alt=""/><br/><div>This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.</div>]]></content>
         <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
+            <name>PhilaMaster</name>
+            <email>PhilaMaster@noreply.github.com</email>
+            <uri>https://github.com/PhilaMaster</uri>
         </author>
-        <published>2026-01-11T18:24:22.000Z</published>
+        <published>2025-12-10T18:01:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[marjanstoimchev/DinoV3LightningTraining]]></title>
+        <id>https://github.com/marjanstoimchev/DinoV3LightningTraining</id>
+        <link href="https://github.com/marjanstoimchev/DinoV3LightningTraining"/>
+        <updated>2026-01-29T19:33:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62183782?u=b80fd2d98efc3e954b99b36f58bcee30fd8cf667&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>marjanstoimchev</name>
+            <email>marjanstoimchev@noreply.github.com</email>
+            <uri>https://github.com/marjanstoimchev</uri>
+        </author>
+        <published>2025-09-07T08:24:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-01-29T18:55:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nasa-nccs-hpda/CHM_DINOv3: Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data]]></title>
+        <id>https://github.com/nasa-nccs-hpda/CHM_DINOv3</id>
+        <link href="https://github.com/nasa-nccs-hpda/CHM_DINOv3"/>
+        <updated>2026-01-29T16:03:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10469195?v=4" width="64" height="64" alt=""/><br/><div>Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data</div>]]></content>
+        <author>
+            <name>nasa-nccs-hpda</name>
+            <email>nasa-nccs-hpda@noreply.github.com</email>
+            <uri>https://github.com/nasa-nccs-hpda</uri>
+        </author>
+        <published>2025-12-03T17:55:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
+        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
+        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
+        <updated>2026-01-29T15:50:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>GIS-Remote-Sensing-Goettingen</name>
+            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
+            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
+        </author>
+        <published>2026-01-26T13:43:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ann-wyy/Xray_Mask_Dinov3]]></title>
+        <id>https://github.com/Ann-wyy/Xray_Mask_Dinov3</id>
+        <link href="https://github.com/Ann-wyy/Xray_Mask_Dinov3"/>
+        <updated>2026-01-29T07:22:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200878715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Ann-wyy</name>
+            <email>Ann-wyy@noreply.github.com</email>
+            <uri>https://github.com/Ann-wyy</uri>
+        </author>
+        <published>2026-01-22T05:31:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_few_shot_demo:  A cross-platform solution for Few-Shot Instance Segmentation on mobile devices. It leverages a split-model architecture using DINOv3 as a static feature extractor and a lightweight, dynamically trained Logistic Regression classifier for specific objects.]]></title>
+        <id>https://github.com/IoT-gamer/flutter_dinov3_few_shot_demo</id>
+        <link href="https://github.com/IoT-gamer/flutter_dinov3_few_shot_demo"/>
+        <updated>2026-01-29T04:41:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?u=ce91d0dd72b09aea342a236a7e07d787f7f230e9&v=4" width="64" height="64" alt=""/><br/><div> A cross-platform solution for Few-Shot Instance Segmentation on mobile devices. It leverages a split-model architecture using DINOv3 as a static feature extractor and a lightweight, dynamically trained Logistic Regression classifier for specific objects.</div>]]></content>
+        <author>
+            <name>IoT-gamer</name>
+            <email>IoT-gamer@noreply.github.com</email>
+            <uri>https://github.com/IoT-gamer</uri>
+        </author>
+        <published>2026-01-27T15:04:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[djaygier/dinov3-antscout]]></title>
+        <id>https://github.com/djaygier/dinov3-antscout</id>
+        <link href="https://github.com/djaygier/dinov3-antscout"/>
+        <updated>2026-01-29T03:14:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/85443953?u=7b1d1cf79bf126b6249ca9a1be8d8838e672b999&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>djaygier</name>
+            <email>djaygier@noreply.github.com</email>
+            <uri>https://github.com/djaygier</uri>
+        </author>
+        <published>2026-01-28T15:10:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[tayebiarasteh/dp_dinov3: The role of self-supervised pretraining in differentially private medical image analysis]]></title>
@@ -60,19 +164,6 @@
         <published>2025-10-27T11:05:08.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
-        <id>https://github.com/PhilaMaster/semantic_correspondence</id>
-        <link href="https://github.com/PhilaMaster/semantic_correspondence"/>
-        <updated>2026-01-28T12:07:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77679627?v=4" width="64" height="64" alt=""/><br/><div>This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.</div>]]></content>
-        <author>
-            <name>PhilaMaster</name>
-            <email>PhilaMaster@noreply.github.com</email>
-            <uri>https://github.com/PhilaMaster</uri>
-        </author>
-        <published>2025-12-10T18:01:11.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ArtemVerbov/Dinov3-For-Semantic-Segmentation: Dinov3 backbone adopted for semantic segmentation.]]></title>
         <id>https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation</id>
         <link href="https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation"/>
@@ -84,19 +175,6 @@
             <uri>https://github.com/ArtemVerbov</uri>
         </author>
         <published>2026-01-25T07:01:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ann-wyy/Xray_Mask_Dinov3]]></title>
-        <id>https://github.com/Ann-wyy/Xray_Mask_Dinov3</id>
-        <link href="https://github.com/Ann-wyy/Xray_Mask_Dinov3"/>
-        <updated>2026-01-28T07:28:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200878715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Ann-wyy</name>
-            <email>Ann-wyy@noreply.github.com</email>
-            <uri>https://github.com/Ann-wyy</uri>
-        </author>
-        <published>2026-01-22T05:31:53.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AlexThunder01/Thyroid-Nodule-AI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.]]></title>
@@ -123,19 +201,6 @@
             <uri>https://github.com/Tobiashyk</uri>
         </author>
         <published>2025-12-12T09:46:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_few_shot_demo:  A cross-platform solution for Few-Shot Instance Segmentation on mobile devices. It leverages a split-model architecture using DINOv3 as a static feature extractor and a lightweight, dynamically trained Logistic Regression classifier for specific objects.]]></title>
-        <id>https://github.com/IoT-gamer/flutter_dinov3_few_shot_demo</id>
-        <link href="https://github.com/IoT-gamer/flutter_dinov3_few_shot_demo"/>
-        <updated>2026-01-27T15:12:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?u=ce91d0dd72b09aea342a236a7e07d787f7f230e9&v=4" width="64" height="64" alt=""/><br/><div> A cross-platform solution for Few-Shot Instance Segmentation on mobile devices. It leverages a split-model architecture using DINOv3 as a static feature extractor and a lightweight, dynamically trained Logistic Regression classifier for specific objects.</div>]]></content>
-        <author>
-            <name>IoT-gamer</name>
-            <email>IoT-gamer@noreply.github.com</email>
-            <uri>https://github.com/IoT-gamer</uri>
-        </author>
-        <published>2026-01-27T15:04:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[c2078353676-source/Defect_DINOv3]]></title>
@@ -190,19 +255,6 @@
         <published>2026-01-26T14:03:07.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
-        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
-        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
-        <updated>2026-01-26T13:47:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>GIS-Remote-Sensing-Goettingen</name>
-            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
-            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
-        </author>
-        <published>2026-01-26T13:43:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[shenxiaokeai/-: dinov3代码，SAM2代码，CLIP代码，主实验和对比实验]]></title>
         <id>https://github.com/shenxiaokeai/-</id>
         <link href="https://github.com/shenxiaokeai/-"/>
@@ -214,57 +266,5 @@
             <uri>https://github.com/shenxiaokeai</uri>
         </author>
         <published>2026-01-26T08:50:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BarryWangQwQ/NeuroHydra: A Generalizable DINOv3–Mamba Framework for Multimodal Biomedical AI]]></title>
-        <id>https://github.com/BarryWangQwQ/NeuroHydra</id>
-        <link href="https://github.com/BarryWangQwQ/NeuroHydra"/>
-        <updated>2026-01-26T05:22:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46416337?u=701e376366b51dfe54c5afc6dc10ac7cb50338e3&v=4" width="64" height="64" alt=""/><br/><div>A Generalizable DINOv3–Mamba Framework for Multimodal Biomedical AI</div>]]></content>
-        <author>
-            <name>BarryWangQwQ</name>
-            <email>BarryWangQwQ@noreply.github.com</email>
-            <uri>https://github.com/BarryWangQwQ</uri>
-        </author>
-        <published>2026-01-12T23:14:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-28T22:09:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KrishnaVemu/DinoV3]]></title>
-        <id>https://github.com/KrishnaVemu/DinoV3</id>
-        <link href="https://github.com/KrishnaVemu/DinoV3"/>
-        <updated>2026-01-25T12:07:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/196299573?u=49b466319e531be1f7c4e87f70f20e9289aa8ae0&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>KrishnaVemu</name>
-            <email>KrishnaVemu@noreply.github.com</email>
-            <uri>https://github.com/KrishnaVemu</uri>
-        </author>
-        <published>2026-01-25T12:01:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raessan/optical_flow_dinov3: Lightweight head for optical flow using DINOv3 as backbone]]></title>
-        <id>https://github.com/Raessan/optical_flow_dinov3</id>
-        <link href="https://github.com/Raessan/optical_flow_dinov3"/>
-        <updated>2026-01-26T05:32:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4" width="64" height="64" alt=""/><br/><div>Lightweight head for optical flow using DINOv3 as backbone</div>]]></content>
-        <author>
-            <name>Raessan</name>
-            <email>Raessan@noreply.github.com</email>
-            <uri>https://github.com/Raessan</uri>
-        </author>
-        <published>2025-09-27T09:05:26.000Z</published>
     </entry>
 </feed>
