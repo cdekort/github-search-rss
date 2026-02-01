@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-01-31T00:30:17.186Z</updated>
+    <updated>2026-02-01T00:37:39.353Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-02-01T00:26:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CaedenMotley/SeeRex: Work in progress. Tools and experiments for understanding DINOv3’s internal representations.]]></title>
+        <id>https://github.com/CaedenMotley/SeeRex</id>
+        <link href="https://github.com/CaedenMotley/SeeRex"/>
+        <updated>2026-01-31T23:37:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/134373233?u=28e25f10907e080fec3b444004d9238e31da2bc2&v=4" width="64" height="64" alt=""/><br/><div>Work in progress. Tools and experiments for understanding DINOv3’s internal representations.</div>]]></content>
+        <author>
+            <name>CaedenMotley</name>
+            <email>CaedenMotley@noreply.github.com</email>
+            <uri>https://github.com/CaedenMotley</uri>
+        </author>
+        <published>2025-10-29T00:29:50.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-31T00:25:43.000Z</updated>
+        <updated>2026-01-31T23:29:24.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -21,17 +47,43 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-01-30T22:18:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[drtiwari/OmniMatch_CV: A Zero-Shot Universal Object Locator using DINOv3 and FAISS. Features a Human-in-the-Loop Streamlit interface for real-time target calibration, sliding-window inference, and automated metadata logging. Optimized for industrial anomaly detection.]]></title>
+        <id>https://github.com/drtiwari/OmniMatch_CV</id>
+        <link href="https://github.com/drtiwari/OmniMatch_CV"/>
+        <updated>2026-01-31T18:44:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54511186?u=2901ba2b42f9e1f11221c888cf51b785e940a929&v=4" width="64" height="64" alt=""/><br/><div>A Zero-Shot Universal Object Locator using DINOv3 and FAISS. Features a Human-in-the-Loop Streamlit interface for real-time target calibration, sliding-window inference, and automated metadata logging. Optimized for industrial anomaly detection.</div>]]></content>
         <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
+            <name>drtiwari</name>
+            <email>drtiwari@noreply.github.com</email>
+            <uri>https://github.com/drtiwari</uri>
         </author>
-        <published>2026-01-11T18:24:22.000Z</published>
+        <published>2026-01-31T18:33:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sid2818/SSL-semseg: using SSL dinov3 as backbone for encoder and DPT style decoder to create a semantic segmentation vision transformer]]></title>
+        <id>https://github.com/Sid2818/SSL-semseg</id>
+        <link href="https://github.com/Sid2818/SSL-semseg"/>
+        <updated>2026-01-31T13:26:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/83629588?v=4" width="64" height="64" alt=""/><br/><div>using SSL dinov3 as backbone for encoder and DPT style decoder to create a semantic segmentation vision transformer</div>]]></content>
+        <author>
+            <name>Sid2818</name>
+            <email>Sid2818@noreply.github.com</email>
+            <uri>https://github.com/Sid2818</uri>
+        </author>
+        <published>2026-01-31T13:23:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indeera01/FYP-DINOv3-Indeera]]></title>
+        <id>https://github.com/Indeera01/FYP-DINOv3-Indeera</id>
+        <link href="https://github.com/Indeera01/FYP-DINOv3-Indeera"/>
+        <updated>2026-01-31T05:01:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129371871?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Indeera01</name>
+            <email>Indeera01@noreply.github.com</email>
+            <uri>https://github.com/Indeera01</uri>
+        </author>
+        <published>2026-01-03T04:36:31.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[marjanstoimchev/DinoV3LightningTraining]]></title>
@@ -214,57 +266,5 @@
             <uri>https://github.com/lemonzamong</uri>
         </author>
         <published>2026-01-23T17:12:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlexThunder01/Thyroid-Nodule-AI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.]]></title>
-        <id>https://github.com/AlexThunder01/Thyroid-Nodule-AI</id>
-        <link href="https://github.com/AlexThunder01/Thyroid-Nodule-AI"/>
-        <updated>2026-01-28T03:31:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4" width="64" height="64" alt=""/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>]]></content>
-        <author>
-            <name>AlexThunder01</name>
-            <email>AlexThunder01@noreply.github.com</email>
-            <uri>https://github.com/AlexThunder01</uri>
-        </author>
-        <published>2026-01-16T05:00:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tobiashyk/DINOv3-finetune]]></title>
-        <id>https://github.com/Tobiashyk/DINOv3-finetune</id>
-        <link href="https://github.com/Tobiashyk/DINOv3-finetune"/>
-        <updated>2026-01-28T03:03:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198170627?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Tobiashyk</name>
-            <email>Tobiashyk@noreply.github.com</email>
-            <uri>https://github.com/Tobiashyk</uri>
-        </author>
-        <published>2025-12-12T09:46:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[c2078353676-source/Defect_DINOv3]]></title>
-        <id>https://github.com/c2078353676-source/Defect_DINOv3</id>
-        <link href="https://github.com/c2078353676-source/Defect_DINOv3"/>
-        <updated>2026-01-27T12:45:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/239550850?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>c2078353676-source</name>
-            <email>c2078353676-source@noreply.github.com</email>
-            <uri>https://github.com/c2078353676-source</uri>
-        </author>
-        <published>2026-01-27T12:41:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[viswarup/biomass-dinov3]]></title>
-        <id>https://github.com/viswarup/biomass-dinov3</id>
-        <link href="https://github.com/viswarup/biomass-dinov3"/>
-        <updated>2026-01-27T07:54:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10656868?u=0fa01d42664e25699710cb1245506d9aaa94ffdb&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>viswarup</name>
-            <email>viswarup@noreply.github.com</email>
-            <uri>https://github.com/viswarup</uri>
-        </author>
-        <published>2026-01-27T07:45:19.000Z</published>
     </entry>
 </feed>

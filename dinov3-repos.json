@@ -6,10 +6,32 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nacho4412gg/dinov3",
+            "title": "Nacho4412gg/dinov3",
+            "date_modified": "2026-02-01T00:26:47.000Z",
+            "date_published": "2026-01-11T18:24:22.000Z",
+            "author": {
+                "name": "Nacho4412gg",
+                "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134373233?u=28e25f10907e080fec3b444004d9238e31da2bc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Work in progress. Tools and experiments for understanding DINOv3’s internal representations.</div>",
+            "url": "https://github.com/CaedenMotley/SeeRex",
+            "title": "CaedenMotley/SeeRex: Work in progress. Tools and experiments for understanding DINOv3’s internal representations.",
+            "date_modified": "2026-01-31T23:37:44.000Z",
+            "date_published": "2025-10-29T00:29:50.000Z",
+            "author": {
+                "name": "CaedenMotley",
+                "url": "https://github.com/CaedenMotley"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-01-31T00:25:43.000Z",
+            "date_modified": "2026-01-31T23:29:24.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -17,14 +39,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nacho4412gg/dinov3",
-            "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-01-30T22:18:17.000Z",
-            "date_published": "2026-01-11T18:24:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54511186?u=2901ba2b42f9e1f11221c888cf51b785e940a929&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Zero-Shot Universal Object Locator using DINOv3 and FAISS. Features a Human-in-the-Loop Streamlit interface for real-time target calibration, sliding-window inference, and automated metadata logging. Optimized for industrial anomaly detection.</div>",
+            "url": "https://github.com/drtiwari/OmniMatch_CV",
+            "title": "drtiwari/OmniMatch_CV: A Zero-Shot Universal Object Locator using DINOv3 and FAISS. Features a Human-in-the-Loop Streamlit interface for real-time target calibration, sliding-window inference, and automated metadata logging. Optimized for industrial anomaly detection.",
+            "date_modified": "2026-01-31T18:44:15.000Z",
+            "date_published": "2026-01-31T18:33:03.000Z",
             "author": {
-                "name": "Nacho4412gg",
-                "url": "https://github.com/Nacho4412gg"
+                "name": "drtiwari",
+                "url": "https://github.com/drtiwari"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83629588?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>using SSL dinov3 as backbone for encoder and DPT style decoder to create a semantic segmentation vision transformer</div>",
+            "url": "https://github.com/Sid2818/SSL-semseg",
+            "title": "Sid2818/SSL-semseg: using SSL dinov3 as backbone for encoder and DPT style decoder to create a semantic segmentation vision transformer",
+            "date_modified": "2026-01-31T13:26:07.000Z",
+            "date_published": "2026-01-31T13:23:13.000Z",
+            "author": {
+                "name": "Sid2818",
+                "url": "https://github.com/Sid2818"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129371871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Indeera01/FYP-DINOv3-Indeera",
+            "title": "Indeera01/FYP-DINOv3-Indeera",
+            "date_modified": "2026-01-31T05:01:23.000Z",
+            "date_published": "2026-01-03T04:36:31.000Z",
+            "author": {
+                "name": "Indeera01",
+                "url": "https://github.com/Indeera01"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "lemonzamong",
                 "url": "https://github.com/lemonzamong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>",
-            "url": "https://github.com/AlexThunder01/Thyroid-Nodule-AI",
-            "title": "AlexThunder01/Thyroid-Nodule-AI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.",
-            "date_modified": "2026-01-28T03:31:47.000Z",
-            "date_published": "2026-01-16T05:00:11.000Z",
-            "author": {
-                "name": "AlexThunder01",
-                "url": "https://github.com/AlexThunder01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198170627?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Tobiashyk/DINOv3-finetune",
-            "title": "Tobiashyk/DINOv3-finetune",
-            "date_modified": "2026-01-28T03:03:57.000Z",
-            "date_published": "2025-12-12T09:46:05.000Z",
-            "author": {
-                "name": "Tobiashyk",
-                "url": "https://github.com/Tobiashyk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239550850?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/c2078353676-source/Defect_DINOv3",
-            "title": "c2078353676-source/Defect_DINOv3",
-            "date_modified": "2026-01-27T12:45:18.000Z",
-            "date_published": "2026-01-27T12:41:47.000Z",
-            "author": {
-                "name": "c2078353676-source",
-                "url": "https://github.com/c2078353676-source"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10656868?u=0fa01d42664e25699710cb1245506d9aaa94ffdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/viswarup/biomass-dinov3",
-            "title": "viswarup/biomass-dinov3",
-            "date_modified": "2026-01-27T07:54:55.000Z",
-            "date_published": "2026-01-27T07:45:19.000Z",
-            "author": {
-                "name": "viswarup",
-                "url": "https://github.com/viswarup"
             }
         }
     ]
