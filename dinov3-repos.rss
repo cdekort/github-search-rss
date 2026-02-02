@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-01T00:37:39.353Z</updated>
+    <updated>2026-02-02T00:33:31.384Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-02-01T23:59:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.]]></title>
+        <id>https://github.com/johnamit/motoreid</id>
+        <link href="https://github.com/johnamit/motoreid"/>
+        <updated>2026-02-01T23:09:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75620312?u=8806c49054eb4620ae51aa548c5f08997486b21e&v=4" width="64" height="64" alt=""/><br/><div>A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.</div>]]></content>
+        <author>
+            <name>johnamit</name>
+            <email>johnamit@noreply.github.com</email>
+            <uri>https://github.com/johnamit</uri>
+        </author>
+        <published>2026-01-14T18:42:24.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-01T00:26:47.000Z</updated>
+        <updated>2026-02-01T21:54:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -21,10 +47,23 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DanilaAniva/kitmatch: Unique tool matching app that makes you happy when you see bbox on every tool; Triton+FastAPI deplyoment; Yolov11, DinoV3 experiments; React frontend. ]]></title>
+        <id>https://github.com/DanilaAniva/kitmatch</id>
+        <link href="https://github.com/DanilaAniva/kitmatch"/>
+        <updated>2026-02-01T17:44:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/128606792?u=267a157e60ef4a882150eea15b3a001c3bf53871&v=4" width="64" height="64" alt=""/><br/><div>Unique tool matching app that makes you happy when you see bbox on every tool; Triton+FastAPI deplyoment; Yolov11, DinoV3 experiments; React frontend. </div>]]></content>
+        <author>
+            <name>DanilaAniva</name>
+            <email>DanilaAniva@noreply.github.com</email>
+            <uri>https://github.com/DanilaAniva</uri>
+        </author>
+        <published>2025-10-16T17:49:02.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CaedenMotley/SeeRex: Work in progress. Tools and experiments for understanding DINOv3’s internal representations.]]></title>
         <id>https://github.com/CaedenMotley/SeeRex</id>
         <link href="https://github.com/CaedenMotley/SeeRex"/>
-        <updated>2026-01-31T23:37:44.000Z</updated>
+        <updated>2026-02-01T00:44:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/134373233?u=28e25f10907e080fec3b444004d9238e31da2bc2&v=4" width="64" height="64" alt=""/><br/><div>Work in progress. Tools and experiments for understanding DINOv3’s internal representations.</div>]]></content>
         <author>
             <name>CaedenMotley</name>
@@ -32,19 +71,6 @@
             <uri>https://github.com/CaedenMotley</uri>
         </author>
         <published>2025-10-29T00:29:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-01-31T23:29:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[drtiwari/OmniMatch_CV: A Zero-Shot Universal Object Locator using DINOv3 and FAISS. Features a Human-in-the-Loop Streamlit interface for real-time target calibration, sliding-window inference, and automated metadata logging. Optimized for industrial anomaly detection.]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/ArtemVerbov</uri>
         </author>
         <published>2026-01-25T07:01:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[raviolihui/dinov3-testing-stuff]]></title>
-        <id>https://github.com/raviolihui/dinov3-testing-stuff</id>
-        <link href="https://github.com/raviolihui/dinov3-testing-stuff"/>
-        <updated>2026-01-30T11:30:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/195096201?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>raviolihui</name>
-            <email>raviolihui@noreply.github.com</email>
-            <uri>https://github.com/raviolihui</uri>
-        </author>
-        <published>2025-10-30T19:09:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lemonzamong/Dinov3-DIT-async]]></title>
-        <id>https://github.com/lemonzamong/Dinov3-DIT-async</id>
-        <link href="https://github.com/lemonzamong/Dinov3-DIT-async"/>
-        <updated>2026-01-30T03:16:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/160398039?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>lemonzamong</name>
-            <email>lemonzamong@noreply.github.com</email>
-            <uri>https://github.com/lemonzamong</uri>
-        </author>
-        <published>2026-01-23T17:12:18.000Z</published>
     </entry>
 </feed>
