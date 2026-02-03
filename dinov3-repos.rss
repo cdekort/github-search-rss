@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-02T00:33:31.384Z</updated>
+    <updated>2026-02-03T00:33:50.358Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
+        <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
+        <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
+        <updated>2026-02-02T23:47:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
+        <author>
+            <name>zgcr</name>
+            <email>zgcr@noreply.github.com</email>
+            <uri>https://github.com/zgcr</uri>
+        </author>
+        <published>2020-05-31T05:37:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-02-02T23:10:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-01T23:59:38.000Z</updated>
+        <updated>2026-02-02T22:17:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -19,6 +45,45 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonam525/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)]]></title>
+        <id>https://github.com/Sonam525/PEFT-Fine-tuning-cows</id>
+        <link href="https://github.com/Sonam525/PEFT-Fine-tuning-cows"/>
+        <updated>2026-02-02T18:18:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149631650?v=4" width="64" height="64" alt=""/><br/><div>Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)</div>]]></content>
+        <author>
+            <name>Sonam525</name>
+            <email>Sonam525@noreply.github.com</email>
+            <uri>https://github.com/Sonam525</uri>
+        </author>
+        <published>2026-02-02T14:04:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-02-02T20:55:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
+        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
+        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
+        <updated>2026-02-02T14:32:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>GIS-Remote-Sensing-Goettingen</name>
+            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
+            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
+        </author>
+        <published>2026-01-26T13:43:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.]]></title>
@@ -32,19 +97,6 @@
             <uri>https://github.com/johnamit</uri>
         </author>
         <published>2026-01-14T18:42:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-01T21:54:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[DanilaAniva/kitmatch: Unique tool matching app that makes you happy when you see bbox on every tool; Triton+FastAPI deplyoment; Yolov11, DinoV3 experiments; React frontend. ]]></title>
@@ -125,19 +177,6 @@
         <published>2025-09-07T08:24:08.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-01-30T13:43:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[marjanstoimchev/dinov3]]></title>
         <id>https://github.com/marjanstoimchev/dinov3</id>
         <link href="https://github.com/marjanstoimchev/dinov3"/>
@@ -190,19 +229,6 @@
         <published>2025-12-03T17:55:15.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
-        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
-        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
-        <updated>2026-01-29T15:50:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>GIS-Remote-Sensing-Goettingen</name>
-            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
-            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
-        </author>
-        <published>2026-01-26T13:43:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ann-wyy/Xray_Mask_Dinov3]]></title>
         <id>https://github.com/Ann-wyy/Xray_Mask_Dinov3</id>
         <link href="https://github.com/Ann-wyy/Xray_Mask_Dinov3"/>
@@ -240,31 +266,5 @@
             <uri>https://github.com/djaygier</uri>
         </author>
         <published>2026-01-28T15:10:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tayebiarasteh/dp_dinov3: The role of self-supervised pretraining in differentially private medical image analysis]]></title>
-        <id>https://github.com/tayebiarasteh/dp_dinov3</id>
-        <link href="https://github.com/tayebiarasteh/dp_dinov3"/>
-        <updated>2026-01-28T17:45:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48710732?u=fe9472568e98462f255b7c8e5af9f0c4191ede0a&v=4" width="64" height="64" alt=""/><br/><div>The role of self-supervised pretraining in differentially private medical image analysis</div>]]></content>
-        <author>
-            <name>tayebiarasteh</name>
-            <email>tayebiarasteh@noreply.github.com</email>
-            <uri>https://github.com/tayebiarasteh</uri>
-        </author>
-        <published>2025-10-27T11:05:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArtemVerbov/Dinov3-For-Semantic-Segmentation: Dinov3 backbone adopted for semantic segmentation.]]></title>
-        <id>https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation</id>
-        <link href="https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation"/>
-        <updated>2026-01-28T10:54:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59263685?u=644171ead2758667b101b888269925d338b05ff4&v=4" width="64" height="64" alt=""/><br/><div>Dinov3 backbone adopted for semantic segmentation.</div>]]></content>
-        <author>
-            <name>ArtemVerbov</name>
-            <email>ArtemVerbov@noreply.github.com</email>
-            <uri>https://github.com/ArtemVerbov</uri>
-        </author>
-        <published>2026-01-25T07:01:47.000Z</published>
     </entry>
 </feed>
