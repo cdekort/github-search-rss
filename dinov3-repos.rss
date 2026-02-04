@@ -2,11 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-03T00:33:50.358Z</updated>
+    <updated>2026-02-04T00:30:09.748Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-02-03T23:11:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LukaDarsalia/colormnet_dinov3]]></title>
+        <id>https://github.com/LukaDarsalia/colormnet_dinov3</id>
+        <link href="https://github.com/LukaDarsalia/colormnet_dinov3"/>
+        <updated>2026-02-03T23:06:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29729836?u=d5b98a781f2e3e93ae1b3b9229177256600b097a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>LukaDarsalia</name>
+            <email>LukaDarsalia@noreply.github.com</email>
+            <uri>https://github.com/LukaDarsalia</uri>
+        </author>
+        <published>2026-02-03T17:34:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-02-03T22:15:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
+        <id>https://github.com/talhabw/autoseg</id>
+        <link href="https://github.com/talhabw/autoseg"/>
+        <updated>2026-02-03T19:52:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4" width="64" height="64" alt=""/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>]]></content>
+        <author>
+            <name>talhabw</name>
+            <email>talhabw@noreply.github.com</email>
+            <uri>https://github.com/talhabw</uri>
+        </author>
+        <published>2025-12-27T19:05:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aihpi/tool-dinov3-embeddings-api: FastAPI service for DINOv3 image embeddings, containerized for GPU/CPU and Kubernetes.]]></title>
+        <id>https://github.com/aihpi/tool-dinov3-embeddings-api</id>
+        <link href="https://github.com/aihpi/tool-dinov3-embeddings-api"/>
+        <updated>2026-02-03T19:00:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149687007?v=4" width="64" height="64" alt=""/><br/><div>FastAPI service for DINOv3 image embeddings, containerized for GPU/CPU and Kubernetes.</div>]]></content>
+        <author>
+            <name>aihpi</name>
+            <email>aihpi@noreply.github.com</email>
+            <uri>https://github.com/aihpi</uri>
+        </author>
+        <published>2026-02-03T15:25:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-02-03T17:19:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tb-tian/AIC2025-VideoRetrieval-float97: Multimodal video retrieval system for HCMC AI Challenge 2025 | SigLIP Keyframe extraction + DINOv3 + WhisperX]]></title>
+        <id>https://github.com/tb-tian/AIC2025-VideoRetrieval-float97</id>
+        <link href="https://github.com/tb-tian/AIC2025-VideoRetrieval-float97"/>
+        <updated>2026-02-03T16:53:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145255003?v=4" width="64" height="64" alt=""/><br/><div>Multimodal video retrieval system for HCMC AI Challenge 2025 | SigLIP Keyframe extraction + DINOv3 + WhisperX</div>]]></content>
+        <author>
+            <name>tb-tian</name>
+            <email>tb-tian@noreply.github.com</email>
+            <uri>https://github.com/tb-tian</uri>
+        </author>
+        <published>2025-07-23T11:51:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
+        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
+        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
+        <updated>2026-02-03T15:11:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>GIS-Remote-Sensing-Goettingen</name>
+            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
+            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
+        </author>
+        <published>2026-01-26T13:43:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation]]></title>
+        <id>https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation</id>
+        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation"/>
+        <updated>2026-02-03T14:37:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>GIS-Remote-Sensing-Goettingen</name>
+            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
+            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
+        </author>
+        <published>2026-02-02T13:58:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanghuynh2808/MORAD_MAI: Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.]]></title>
+        <id>https://github.com/Thanghuynh2808/MORAD_MAI</id>
+        <link href="https://github.com/Thanghuynh2808/MORAD_MAI"/>
+        <updated>2026-02-03T08:05:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156525690?u=859091d4e8fe94e40ba8c4ba1324563f3228fda3&v=4" width="64" height="64" alt=""/><br/><div>Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.</div>]]></content>
+        <author>
+            <name>Thanghuynh2808</name>
+            <email>Thanghuynh2808@noreply.github.com</email>
+            <uri>https://github.com/Thanghuynh2808</uri>
+        </author>
+        <published>2026-02-03T02:40:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
         <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
@@ -21,32 +151,6 @@
         <published>2020-05-31T05:37:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-02T23:10:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-02T22:17:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sonam525/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)]]></title>
         <id>https://github.com/Sonam525/PEFT-Fine-tuning-cows</id>
         <link href="https://github.com/Sonam525/PEFT-Fine-tuning-cows"/>
@@ -58,32 +162,6 @@
             <uri>https://github.com/Sonam525</uri>
         </author>
         <published>2026-02-02T14:04:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-02T20:55:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
-        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
-        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
-        <updated>2026-02-02T14:32:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>GIS-Remote-Sensing-Goettingen</name>
-            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
-            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
-        </author>
-        <published>2026-01-26T13:43:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.]]></title>
@@ -188,83 +266,5 @@
             <uri>https://github.com/marjanstoimchev</uri>
         </author>
         <published>2025-09-03T16:54:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[white-richard/dinov3-reid-lightning]]></title>
-        <id>https://github.com/white-richard/dinov3-reid-lightning</id>
-        <link href="https://github.com/white-richard/dinov3-reid-lightning"/>
-        <updated>2026-01-30T00:01:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/98299003?u=58521b95c6dc67fb0ab0a98da13373359a4ef3d2&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>white-richard</name>
-            <email>white-richard@noreply.github.com</email>
-            <uri>https://github.com/white-richard</uri>
-        </author>
-        <published>2026-01-30T00:01:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
-        <id>https://github.com/PhilaMaster/semantic_correspondence</id>
-        <link href="https://github.com/PhilaMaster/semantic_correspondence"/>
-        <updated>2026-01-29T21:29:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77679627?v=4" width="64" height="64" alt=""/><br/><div>This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.</div>]]></content>
-        <author>
-            <name>PhilaMaster</name>
-            <email>PhilaMaster@noreply.github.com</email>
-            <uri>https://github.com/PhilaMaster</uri>
-        </author>
-        <published>2025-12-10T18:01:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nasa-nccs-hpda/CHM_DINOv3: Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data]]></title>
-        <id>https://github.com/nasa-nccs-hpda/CHM_DINOv3</id>
-        <link href="https://github.com/nasa-nccs-hpda/CHM_DINOv3"/>
-        <updated>2026-01-29T16:03:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10469195?v=4" width="64" height="64" alt=""/><br/><div>Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data</div>]]></content>
-        <author>
-            <name>nasa-nccs-hpda</name>
-            <email>nasa-nccs-hpda@noreply.github.com</email>
-            <uri>https://github.com/nasa-nccs-hpda</uri>
-        </author>
-        <published>2025-12-03T17:55:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ann-wyy/Xray_Mask_Dinov3]]></title>
-        <id>https://github.com/Ann-wyy/Xray_Mask_Dinov3</id>
-        <link href="https://github.com/Ann-wyy/Xray_Mask_Dinov3"/>
-        <updated>2026-01-29T07:22:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200878715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Ann-wyy</name>
-            <email>Ann-wyy@noreply.github.com</email>
-            <uri>https://github.com/Ann-wyy</uri>
-        </author>
-        <published>2026-01-22T05:31:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_few_shot_demo:  A cross-platform solution for Few-Shot Instance Segmentation on mobile devices. It leverages a split-model architecture using DINOv3 as a static feature extractor and a lightweight, dynamically trained Logistic Regression classifier for specific objects.]]></title>
-        <id>https://github.com/IoT-gamer/flutter_dinov3_few_shot_demo</id>
-        <link href="https://github.com/IoT-gamer/flutter_dinov3_few_shot_demo"/>
-        <updated>2026-01-29T04:41:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?u=ce91d0dd72b09aea342a236a7e07d787f7f230e9&v=4" width="64" height="64" alt=""/><br/><div> A cross-platform solution for Few-Shot Instance Segmentation on mobile devices. It leverages a split-model architecture using DINOv3 as a static feature extractor and a lightweight, dynamically trained Logistic Regression classifier for specific objects.</div>]]></content>
-        <author>
-            <name>IoT-gamer</name>
-            <email>IoT-gamer@noreply.github.com</email>
-            <uri>https://github.com/IoT-gamer</uri>
-        </author>
-        <published>2026-01-27T15:04:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[djaygier/dinov3-antscout]]></title>
-        <id>https://github.com/djaygier/dinov3-antscout</id>
-        <link href="https://github.com/djaygier/dinov3-antscout"/>
-        <updated>2026-01-29T03:14:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/85443953?u=7b1d1cf79bf126b6249ca9a1be8d8838e672b999&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>djaygier</name>
-            <email>djaygier@noreply.github.com</email>
-            <uri>https://github.com/djaygier</uri>
-        </author>
-        <published>2026-01-28T15:10:01.000Z</published>
     </entry>
 </feed>
