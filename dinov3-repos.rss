@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-04T00:30:09.748Z</updated>
+    <updated>2026-02-05T00:33:30.520Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-03T23:11:38.000Z</updated>
+        <updated>2026-02-05T00:13:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -21,23 +21,10 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LukaDarsalia/colormnet_dinov3]]></title>
-        <id>https://github.com/LukaDarsalia/colormnet_dinov3</id>
-        <link href="https://github.com/LukaDarsalia/colormnet_dinov3"/>
-        <updated>2026-02-03T23:06:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29729836?u=d5b98a781f2e3e93ae1b3b9229177256600b097a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>LukaDarsalia</name>
-            <email>LukaDarsalia@noreply.github.com</email>
-            <uri>https://github.com/LukaDarsalia</uri>
-        </author>
-        <published>2026-02-03T17:34:48.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-03T22:15:39.000Z</updated>
+        <updated>2026-02-04T23:12:16.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -45,6 +32,84 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
+        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
+        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
+        <updated>2026-02-04T16:45:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>GIS-Remote-Sensing-Goettingen</name>
+            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
+            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
+        </author>
+        <published>2026-01-26T13:43:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation]]></title>
+        <id>https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation</id>
+        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation"/>
+        <updated>2026-02-04T16:34:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>GIS-Remote-Sensing-Goettingen</name>
+            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
+            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
+        </author>
+        <published>2026-02-02T13:58:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-02-04T14:49:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanghuynh2808/MORAD_MAI: Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.]]></title>
+        <id>https://github.com/Thanghuynh2808/MORAD_MAI</id>
+        <link href="https://github.com/Thanghuynh2808/MORAD_MAI"/>
+        <updated>2026-02-04T04:12:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156525690?u=859091d4e8fe94e40ba8c4ba1324563f3228fda3&v=4" width="64" height="64" alt=""/><br/><div>Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.</div>]]></content>
+        <author>
+            <name>Thanghuynh2808</name>
+            <email>Thanghuynh2808@noreply.github.com</email>
+            <uri>https://github.com/Thanghuynh2808</uri>
+        </author>
+        <published>2026-02-03T02:40:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yberreby/dinov3-in1k-probes: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).]]></title>
+        <id>https://github.com/yberreby/dinov3-in1k-probes</id>
+        <link href="https://github.com/yberreby/dinov3-in1k-probes"/>
+        <updated>2026-02-04T03:36:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5556521?u=d6ca49ea6294af95c95c75ad2c94620fd8950381&v=4" width="64" height="64" alt=""/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>]]></content>
+        <author>
+            <name>yberreby</name>
+            <email>yberreby@noreply.github.com</email>
+            <uri>https://github.com/yberreby</uri>
+        </author>
+        <published>2025-11-16T20:03:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LukaDarsalia/colormnet_dinov3]]></title>
+        <id>https://github.com/LukaDarsalia/colormnet_dinov3</id>
+        <link href="https://github.com/LukaDarsalia/colormnet_dinov3"/>
+        <updated>2026-02-04T00:40:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29729836?u=d5b98a781f2e3e93ae1b3b9229177256600b097a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>LukaDarsalia</name>
+            <email>LukaDarsalia@noreply.github.com</email>
+            <uri>https://github.com/LukaDarsalia</uri>
+        </author>
+        <published>2026-02-03T17:34:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
@@ -73,19 +138,6 @@
         <published>2026-02-03T15:25:45.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-03T17:19:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tb-tian/AIC2025-VideoRetrieval-float97: Multimodal video retrieval system for HCMC AI Challenge 2025 | SigLIP Keyframe extraction + DINOv3 + WhisperX]]></title>
         <id>https://github.com/tb-tian/AIC2025-VideoRetrieval-float97</id>
         <link href="https://github.com/tb-tian/AIC2025-VideoRetrieval-float97"/>
@@ -99,45 +151,6 @@
         <published>2025-07-23T11:51:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
-        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
-        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
-        <updated>2026-02-03T15:11:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>GIS-Remote-Sensing-Goettingen</name>
-            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
-            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
-        </author>
-        <published>2026-01-26T13:43:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation]]></title>
-        <id>https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation</id>
-        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation"/>
-        <updated>2026-02-03T14:37:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>GIS-Remote-Sensing-Goettingen</name>
-            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
-            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
-        </author>
-        <published>2026-02-02T13:58:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanghuynh2808/MORAD_MAI: Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.]]></title>
-        <id>https://github.com/Thanghuynh2808/MORAD_MAI</id>
-        <link href="https://github.com/Thanghuynh2808/MORAD_MAI"/>
-        <updated>2026-02-03T08:05:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156525690?u=859091d4e8fe94e40ba8c4ba1324563f3228fda3&v=4" width="64" height="64" alt=""/><br/><div>Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.</div>]]></content>
-        <author>
-            <name>Thanghuynh2808</name>
-            <email>Thanghuynh2808@noreply.github.com</email>
-            <uri>https://github.com/Thanghuynh2808</uri>
-        </author>
-        <published>2026-02-03T02:40:51.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
         <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
         <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
@@ -149,6 +162,19 @@
             <uri>https://github.com/zgcr</uri>
         </author>
         <published>2020-05-31T05:37:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RomanRes/CSIRO-Biomass-Prediction-using-DINOv3: The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.]]></title>
+        <id>https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3</id>
+        <link href="https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3"/>
+        <updated>2026-02-04T15:09:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62020123?u=46315ce64061756a2b722c9dc3857a3ff440baae&v=4" width="64" height="64" alt=""/><br/><div>The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.</div>]]></content>
+        <author>
+            <name>RomanRes</name>
+            <email>RomanRes@noreply.github.com</email>
+            <uri>https://github.com/RomanRes</uri>
+        </author>
+        <published>2026-02-02T19:49:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sonam525/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/Indeera01</uri>
         </author>
         <published>2026-01-03T04:36:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[marjanstoimchev/DinoV3LightningTraining]]></title>
-        <id>https://github.com/marjanstoimchev/DinoV3LightningTraining</id>
-        <link href="https://github.com/marjanstoimchev/DinoV3LightningTraining"/>
-        <updated>2026-01-30T20:29:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62183782?u=b80fd2d98efc3e954b99b36f58bcee30fd8cf667&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>marjanstoimchev</name>
-            <email>marjanstoimchev@noreply.github.com</email>
-            <uri>https://github.com/marjanstoimchev</uri>
-        </author>
-        <published>2025-09-07T08:24:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[marjanstoimchev/dinov3]]></title>
-        <id>https://github.com/marjanstoimchev/dinov3</id>
-        <link href="https://github.com/marjanstoimchev/dinov3"/>
-        <updated>2026-01-30T10:15:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62183782?u=b80fd2d98efc3e954b99b36f58bcee30fd8cf667&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>marjanstoimchev</name>
-            <email>marjanstoimchev@noreply.github.com</email>
-            <uri>https://github.com/marjanstoimchev</uri>
-        </author>
-        <published>2025-09-03T16:54:32.000Z</published>
     </entry>
 </feed>
