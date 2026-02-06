@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nacho4412gg/dinov3",
-            "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-02-05T00:13:28.000Z",
-            "date_published": "2026-01-11T18:24:22.000Z",
-            "author": {
-                "name": "Nacho4412gg",
-                "url": "https://github.com/Nacho4412gg"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-02-04T23:12:16.000Z",
+            "date_modified": "2026-02-05T23:55:06.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -28,10 +17,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29729836?u=d5b98a781f2e3e93ae1b3b9229177256600b097a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/LukaDarsalia/colormnet_dinov3",
+            "title": "LukaDarsalia/colormnet_dinov3",
+            "date_modified": "2026-02-05T23:47:05.000Z",
+            "date_published": "2026-02-03T17:34:48.000Z",
+            "author": {
+                "name": "LukaDarsalia",
+                "url": "https://github.com/LukaDarsalia"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nacho4412gg/dinov3",
+            "title": "Nacho4412gg/dinov3",
+            "date_modified": "2026-02-05T21:38:46.000Z",
+            "date_published": "2026-01-11T18:24:22.000Z",
+            "author": {
+                "name": "Nacho4412gg",
+                "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
             "title": "GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
-            "date_modified": "2026-02-04T16:45:19.000Z",
+            "date_modified": "2026-02-05T18:05:23.000Z",
             "date_published": "2026-01-26T13:43:19.000Z",
             "author": {
                 "name": "GIS-Remote-Sensing-Goettingen",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
             "title": "GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
-            "date_modified": "2026-02-04T16:34:47.000Z",
+            "date_modified": "2026-02-05T18:01:51.000Z",
             "date_published": "2026-02-02T13:58:10.000Z",
             "author": {
                 "name": "GIS-Remote-Sensing-Goettingen",
@@ -53,11 +64,55 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-02-04T14:49:04.000Z",
+            "date_modified": "2026-02-05T15:18:04.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75620312?u=8806c49054eb4620ae51aa548c5f08997486b21e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.</div>",
+            "url": "https://github.com/johnamit/motoreid",
+            "title": "johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.",
+            "date_modified": "2026-02-05T15:09:02.000Z",
+            "date_published": "2026-01-14T18:42:24.000Z",
+            "author": {
+                "name": "johnamit",
+                "url": "https://github.com/johnamit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62020123?u=46315ce64061756a2b722c9dc3857a3ff440baae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.</div>",
+            "url": "https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3",
+            "title": "RomanRes/CSIRO-Biomass-Prediction-using-DINOv3: The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.",
+            "date_modified": "2026-02-05T13:17:20.000Z",
+            "date_published": "2026-02-02T19:49:23.000Z",
+            "author": {
+                "name": "RomanRes",
+                "url": "https://github.com/RomanRes"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75724261?u=ec9417a3cccd67a77f38c9ae073a07dd8af99e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jayd972/Multi-Agent-dinov3-explainable-tumor-detection-framework",
+            "title": "jayd972/Multi-Agent-dinov3-explainable-tumor-detection-framework",
+            "date_modified": "2026-02-05T11:33:04.000Z",
+            "date_published": "2026-02-05T11:01:15.000Z",
+            "author": {
+                "name": "jayd972",
+                "url": "https://github.com/jayd972"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/250138186?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/wen146146/dinov3-detr",
+            "title": "wen146146/dinov3-detr",
+            "date_modified": "2026-02-05T07:15:46.000Z",
+            "date_published": "2026-02-05T00:52:44.000Z",
+            "author": {
+                "name": "wen146146",
+                "url": "https://github.com/wen146146"
             }
         },
         {
@@ -80,17 +135,6 @@
             "author": {
                 "name": "yberreby",
                 "url": "https://github.com/yberreby"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29729836?u=d5b98a781f2e3e93ae1b3b9229177256600b097a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LukaDarsalia/colormnet_dinov3",
-            "title": "LukaDarsalia/colormnet_dinov3",
-            "date_modified": "2026-02-04T00:40:48.000Z",
-            "date_published": "2026-02-03T17:34:48.000Z",
-            "author": {
-                "name": "LukaDarsalia",
-                "url": "https://github.com/LukaDarsalia"
             }
         },
         {
@@ -130,22 +174,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleAICV:pytorch training examples.</div>",
             "url": "https://github.com/zgcr/SimpleAICV_pytorch_training_examples",
             "title": "zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.",
-            "date_modified": "2026-02-02T23:47:28.000Z",
+            "date_modified": "2026-02-05T07:26:54.000Z",
             "date_published": "2020-05-31T05:37:26.000Z",
             "author": {
                 "name": "zgcr",
                 "url": "https://github.com/zgcr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62020123?u=46315ce64061756a2b722c9dc3857a3ff440baae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.</div>",
-            "url": "https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3",
-            "title": "RomanRes/CSIRO-Biomass-Prediction-using-DINOv3: The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.",
-            "date_modified": "2026-02-04T15:09:44.000Z",
-            "date_published": "2026-02-02T19:49:23.000Z",
-            "author": {
-                "name": "RomanRes",
-                "url": "https://github.com/RomanRes"
             }
         },
         {
@@ -157,17 +190,6 @@
             "author": {
                 "name": "Sonam525",
                 "url": "https://github.com/Sonam525"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75620312?u=8806c49054eb4620ae51aa548c5f08997486b21e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.</div>",
-            "url": "https://github.com/johnamit/motoreid",
-            "title": "johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.",
-            "date_modified": "2026-02-01T23:09:47.000Z",
-            "date_published": "2026-01-14T18:42:24.000Z",
-            "author": {
-                "name": "johnamit",
-                "url": "https://github.com/johnamit"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "drtiwari",
                 "url": "https://github.com/drtiwari"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83629588?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>using SSL dinov3 as backbone for encoder and DPT style decoder to create a semantic segmentation vision transformer</div>",
-            "url": "https://github.com/Sid2818/SSL-semseg",
-            "title": "Sid2818/SSL-semseg: using SSL dinov3 as backbone for encoder and DPT style decoder to create a semantic segmentation vision transformer",
-            "date_modified": "2026-01-31T13:26:07.000Z",
-            "date_published": "2026-01-31T13:23:13.000Z",
-            "author": {
-                "name": "Sid2818",
-                "url": "https://github.com/Sid2818"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129371871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Indeera01/FYP-DINOv3-Indeera",
-            "title": "Indeera01/FYP-DINOv3-Indeera",
-            "date_modified": "2026-01-31T05:01:23.000Z",
-            "date_published": "2026-01-03T04:36:31.000Z",
-            "author": {
-                "name": "Indeera01",
-                "url": "https://github.com/Indeera01"
             }
         }
     ]

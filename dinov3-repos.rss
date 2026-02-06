@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-05T00:33:30.520Z</updated>
+    <updated>2026-02-06T00:30:55.100Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-05T00:13:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-04T23:12:16.000Z</updated>
+        <updated>2026-02-05T23:55:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -34,10 +21,36 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LukaDarsalia/colormnet_dinov3]]></title>
+        <id>https://github.com/LukaDarsalia/colormnet_dinov3</id>
+        <link href="https://github.com/LukaDarsalia/colormnet_dinov3"/>
+        <updated>2026-02-05T23:47:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29729836?u=d5b98a781f2e3e93ae1b3b9229177256600b097a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>LukaDarsalia</name>
+            <email>LukaDarsalia@noreply.github.com</email>
+            <uri>https://github.com/LukaDarsalia</uri>
+        </author>
+        <published>2026-02-03T17:34:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-02-05T21:38:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
         <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
         <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
-        <updated>2026-02-04T16:45:19.000Z</updated>
+        <updated>2026-02-05T18:05:23.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>GIS-Remote-Sensing-Goettingen</name>
@@ -50,7 +63,7 @@
         <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation]]></title>
         <id>https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation</id>
         <link href="https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation"/>
-        <updated>2026-02-04T16:34:47.000Z</updated>
+        <updated>2026-02-05T18:01:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>GIS-Remote-Sensing-Goettingen</name>
@@ -63,7 +76,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-04T14:49:04.000Z</updated>
+        <updated>2026-02-05T15:18:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -71,6 +84,58 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.]]></title>
+        <id>https://github.com/johnamit/motoreid</id>
+        <link href="https://github.com/johnamit/motoreid"/>
+        <updated>2026-02-05T15:09:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75620312?u=8806c49054eb4620ae51aa548c5f08997486b21e&v=4" width="64" height="64" alt=""/><br/><div>A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.</div>]]></content>
+        <author>
+            <name>johnamit</name>
+            <email>johnamit@noreply.github.com</email>
+            <uri>https://github.com/johnamit</uri>
+        </author>
+        <published>2026-01-14T18:42:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RomanRes/CSIRO-Biomass-Prediction-using-DINOv3: The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.]]></title>
+        <id>https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3</id>
+        <link href="https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3"/>
+        <updated>2026-02-05T13:17:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62020123?u=46315ce64061756a2b722c9dc3857a3ff440baae&v=4" width="64" height="64" alt=""/><br/><div>The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.</div>]]></content>
+        <author>
+            <name>RomanRes</name>
+            <email>RomanRes@noreply.github.com</email>
+            <uri>https://github.com/RomanRes</uri>
+        </author>
+        <published>2026-02-02T19:49:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jayd972/Multi-Agent-dinov3-explainable-tumor-detection-framework]]></title>
+        <id>https://github.com/jayd972/Multi-Agent-dinov3-explainable-tumor-detection-framework</id>
+        <link href="https://github.com/jayd972/Multi-Agent-dinov3-explainable-tumor-detection-framework"/>
+        <updated>2026-02-05T11:33:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75724261?u=ec9417a3cccd67a77f38c9ae073a07dd8af99e9e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jayd972</name>
+            <email>jayd972@noreply.github.com</email>
+            <uri>https://github.com/jayd972</uri>
+        </author>
+        <published>2026-02-05T11:01:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wen146146/dinov3-detr]]></title>
+        <id>https://github.com/wen146146/dinov3-detr</id>
+        <link href="https://github.com/wen146146/dinov3-detr"/>
+        <updated>2026-02-05T07:15:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/250138186?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>wen146146</name>
+            <email>wen146146@noreply.github.com</email>
+            <uri>https://github.com/wen146146</uri>
+        </author>
+        <published>2026-02-05T00:52:44.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thanghuynh2808/MORAD_MAI: Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.]]></title>
@@ -97,19 +162,6 @@
             <uri>https://github.com/yberreby</uri>
         </author>
         <published>2025-11-16T20:03:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LukaDarsalia/colormnet_dinov3]]></title>
-        <id>https://github.com/LukaDarsalia/colormnet_dinov3</id>
-        <link href="https://github.com/LukaDarsalia/colormnet_dinov3"/>
-        <updated>2026-02-04T00:40:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29729836?u=d5b98a781f2e3e93ae1b3b9229177256600b097a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>LukaDarsalia</name>
-            <email>LukaDarsalia@noreply.github.com</email>
-            <uri>https://github.com/LukaDarsalia</uri>
-        </author>
-        <published>2026-02-03T17:34:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
@@ -154,7 +206,7 @@
         <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
         <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
         <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
-        <updated>2026-02-02T23:47:28.000Z</updated>
+        <updated>2026-02-05T07:26:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
         <author>
             <name>zgcr</name>
@@ -162,19 +214,6 @@
             <uri>https://github.com/zgcr</uri>
         </author>
         <published>2020-05-31T05:37:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RomanRes/CSIRO-Biomass-Prediction-using-DINOv3: The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.]]></title>
-        <id>https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3</id>
-        <link href="https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3"/>
-        <updated>2026-02-04T15:09:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62020123?u=46315ce64061756a2b722c9dc3857a3ff440baae&v=4" width="64" height="64" alt=""/><br/><div>The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.</div>]]></content>
-        <author>
-            <name>RomanRes</name>
-            <email>RomanRes@noreply.github.com</email>
-            <uri>https://github.com/RomanRes</uri>
-        </author>
-        <published>2026-02-02T19:49:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sonam525/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)]]></title>
@@ -188,19 +227,6 @@
             <uri>https://github.com/Sonam525</uri>
         </author>
         <published>2026-02-02T14:04:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.]]></title>
-        <id>https://github.com/johnamit/motoreid</id>
-        <link href="https://github.com/johnamit/motoreid"/>
-        <updated>2026-02-01T23:09:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75620312?u=8806c49054eb4620ae51aa548c5f08997486b21e&v=4" width="64" height="64" alt=""/><br/><div>A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.</div>]]></content>
-        <author>
-            <name>johnamit</name>
-            <email>johnamit@noreply.github.com</email>
-            <uri>https://github.com/johnamit</uri>
-        </author>
-        <published>2026-01-14T18:42:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[DanilaAniva/kitmatch: Unique tool matching app that makes you happy when you see bbox on every tool; Triton+FastAPI deplyoment; Yolov11, DinoV3 experiments; React frontend. ]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/drtiwari</uri>
         </author>
         <published>2026-01-31T18:33:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sid2818/SSL-semseg: using SSL dinov3 as backbone for encoder and DPT style decoder to create a semantic segmentation vision transformer]]></title>
-        <id>https://github.com/Sid2818/SSL-semseg</id>
-        <link href="https://github.com/Sid2818/SSL-semseg"/>
-        <updated>2026-01-31T13:26:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/83629588?v=4" width="64" height="64" alt=""/><br/><div>using SSL dinov3 as backbone for encoder and DPT style decoder to create a semantic segmentation vision transformer</div>]]></content>
-        <author>
-            <name>Sid2818</name>
-            <email>Sid2818@noreply.github.com</email>
-            <uri>https://github.com/Sid2818</uri>
-        </author>
-        <published>2026-01-31T13:23:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indeera01/FYP-DINOv3-Indeera]]></title>
-        <id>https://github.com/Indeera01/FYP-DINOv3-Indeera</id>
-        <link href="https://github.com/Indeera01/FYP-DINOv3-Indeera"/>
-        <updated>2026-01-31T05:01:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129371871?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Indeera01</name>
-            <email>Indeera01@noreply.github.com</email>
-            <uri>https://github.com/Indeera01</uri>
-        </author>
-        <published>2026-01-03T04:36:31.000Z</published>
     </entry>
 </feed>
