@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-07T00:31:35.293Z</updated>
+    <updated>2026-02-08T00:41:34.587Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-06T23:49:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-06T22:43:19.000Z</updated>
+        <updated>2026-02-07T22:54:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -34,10 +21,49 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-02-07T21:51:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
+        <id>https://github.com/PhilaMaster/semantic_correspondence</id>
+        <link href="https://github.com/PhilaMaster/semantic_correspondence"/>
+        <updated>2026-02-07T16:23:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77679627?v=4" width="64" height="64" alt=""/><br/><div>This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.</div>]]></content>
+        <author>
+            <name>PhilaMaster</name>
+            <email>PhilaMaster@noreply.github.com</email>
+            <uri>https://github.com/PhilaMaster</uri>
+        </author>
+        <published>2025-12-10T18:01:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
+        <id>https://github.com/talhabw/autoseg</id>
+        <link href="https://github.com/talhabw/autoseg"/>
+        <updated>2026-02-07T14:22:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4" width="64" height="64" alt=""/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>]]></content>
+        <author>
+            <name>talhabw</name>
+            <email>talhabw@noreply.github.com</email>
+            <uri>https://github.com/talhabw</uri>
+        </author>
+        <published>2025-12-27T19:05:03.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-06T21:13:34.000Z</updated>
+        <updated>2026-02-07T20:01:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -84,6 +110,19 @@
             <uri>https://github.com/LukaDarsalia</uri>
         </author>
         <published>2026-02-03T17:34:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raessan/dinov3_deepstream: DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. ]]></title>
+        <id>https://github.com/Raessan/dinov3_deepstream</id>
+        <link href="https://github.com/Raessan/dinov3_deepstream"/>
+        <updated>2026-02-07T20:30:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4" width="64" height="64" alt=""/><br/><div>DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. </div>]]></content>
+        <author>
+            <name>Raessan</name>
+            <email>Raessan@noreply.github.com</email>
+            <uri>https://github.com/Raessan</uri>
+        </author>
+        <published>2026-01-02T20:12:47.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
@@ -177,19 +216,6 @@
         <published>2025-11-16T20:03:12.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
-        <id>https://github.com/talhabw/autoseg</id>
-        <link href="https://github.com/talhabw/autoseg"/>
-        <updated>2026-02-03T19:52:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4" width="64" height="64" alt=""/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>]]></content>
-        <author>
-            <name>talhabw</name>
-            <email>talhabw@noreply.github.com</email>
-            <uri>https://github.com/talhabw</uri>
-        </author>
-        <published>2025-12-27T19:05:03.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[aihpi/tool-dinov3-embeddings-api: FastAPI service for DINOv3 image embeddings, containerized for GPU/CPU and Kubernetes.]]></title>
         <id>https://github.com/aihpi/tool-dinov3-embeddings-api</id>
         <link href="https://github.com/aihpi/tool-dinov3-embeddings-api"/>
@@ -240,31 +266,5 @@
             <uri>https://github.com/Sonam525</uri>
         </author>
         <published>2026-02-02T14:04:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[joesound212985/deepfake-satellite-detection-using-DINOv3]]></title>
-        <id>https://github.com/joesound212985/deepfake-satellite-detection-using-DINOv3</id>
-        <link href="https://github.com/joesound212985/deepfake-satellite-detection-using-DINOv3"/>
-        <updated>2026-02-06T04:48:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180824400?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>joesound212985</name>
-            <email>joesound212985@noreply.github.com</email>
-            <uri>https://github.com/joesound212985</uri>
-        </author>
-        <published>2026-01-02T09:11:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DanilaAniva/kitmatch: Unique tool matching app that makes you happy when you see bbox on every tool; Triton+FastAPI deplyoment; Yolov11, DinoV3 experiments; React frontend. ]]></title>
-        <id>https://github.com/DanilaAniva/kitmatch</id>
-        <link href="https://github.com/DanilaAniva/kitmatch"/>
-        <updated>2026-02-01T17:44:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/128606792?u=267a157e60ef4a882150eea15b3a001c3bf53871&v=4" width="64" height="64" alt=""/><br/><div>Unique tool matching app that makes you happy when you see bbox on every tool; Triton+FastAPI deplyoment; Yolov11, DinoV3 experiments; React frontend. </div>]]></content>
-        <author>
-            <name>DanilaAniva</name>
-            <email>DanilaAniva@noreply.github.com</email>
-            <uri>https://github.com/DanilaAniva</uri>
-        </author>
-        <published>2025-10-16T17:49:02.000Z</published>
     </entry>
 </feed>
