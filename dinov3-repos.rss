@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-08T00:41:34.587Z</updated>
+    <updated>2026-02-09T00:34:17.226Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-02-09T00:31:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-07T22:54:29.000Z</updated>
+        <updated>2026-02-08T23:29:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -21,17 +34,43 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-07T21:51:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <title type="html"><![CDATA[RobvanGastel/removing-pos-vit-bias: Using RASA post-training to remove positional bias from pretrained encoders like DINOv3]]></title>
+        <id>https://github.com/RobvanGastel/removing-pos-vit-bias</id>
+        <link href="https://github.com/RobvanGastel/removing-pos-vit-bias"/>
+        <updated>2026-02-08T21:00:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10989988?u=502b123d5cea37ca569f76261e89c43540380cf8&v=4" width="64" height="64" alt=""/><br/><div>Using RASA post-training to remove positional bias from pretrained encoders like DINOv3</div>]]></content>
         <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
+            <name>RobvanGastel</name>
+            <email>RobvanGastel@noreply.github.com</email>
+            <uri>https://github.com/RobvanGastel</uri>
         </author>
-        <published>2020-05-31T11:42:52.000Z</published>
+        <published>2025-07-25T13:56:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
+        <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
+        <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
+        <updated>2026-02-08T10:29:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
+        <author>
+            <name>zgcr</name>
+            <email>zgcr@noreply.github.com</email>
+            <uri>https://github.com/zgcr</uri>
+        </author>
+        <published>2020-05-31T05:37:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StephenQSstarThomas/dinov3-finetune]]></title>
+        <id>https://github.com/StephenQSstarThomas/dinov3-finetune</id>
+        <link href="https://github.com/StephenQSstarThomas/dinov3-finetune"/>
+        <updated>2026-02-08T08:50:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112707323?u=7c4b10d65c66f0e35dd75808a0fffb3f6d8f134f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>StephenQSstarThomas</name>
+            <email>StephenQSstarThomas@noreply.github.com</email>
+            <uri>https://github.com/StephenQSstarThomas</uri>
+        </author>
+        <published>2025-11-24T19:08:45.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
@@ -63,7 +102,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-07T20:01:05.000Z</updated>
+        <updated>2026-02-08T21:21:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -115,7 +154,7 @@
         <title type="html"><![CDATA[Raessan/dinov3_deepstream: DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. ]]></title>
         <id>https://github.com/Raessan/dinov3_deepstream</id>
         <link href="https://github.com/Raessan/dinov3_deepstream"/>
-        <updated>2026-02-07T20:30:38.000Z</updated>
+        <updated>2026-02-08T18:25:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4" width="64" height="64" alt=""/><br/><div>DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. </div>]]></content>
         <author>
             <name>Raessan</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/aihpi</uri>
         </author>
         <published>2026-02-03T15:25:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tb-tian/AIC2025-VideoRetrieval-float97: Multimodal video retrieval system for HCMC AI Challenge 2025 | SigLIP Keyframe extraction + DINOv3 + WhisperX]]></title>
-        <id>https://github.com/tb-tian/AIC2025-VideoRetrieval-float97</id>
-        <link href="https://github.com/tb-tian/AIC2025-VideoRetrieval-float97"/>
-        <updated>2026-02-03T16:53:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145255003?v=4" width="64" height="64" alt=""/><br/><div>Multimodal video retrieval system for HCMC AI Challenge 2025 | SigLIP Keyframe extraction + DINOv3 + WhisperX</div>]]></content>
-        <author>
-            <name>tb-tian</name>
-            <email>tb-tian@noreply.github.com</email>
-            <uri>https://github.com/tb-tian</uri>
-        </author>
-        <published>2025-07-23T11:51:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
-        <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
-        <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
-        <updated>2026-02-06T07:27:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
-        <author>
-            <name>zgcr</name>
-            <email>zgcr@noreply.github.com</email>
-            <uri>https://github.com/zgcr</uri>
-        </author>
-        <published>2020-05-31T05:37:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonam525/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)]]></title>
-        <id>https://github.com/Sonam525/PEFT-Fine-tuning-cows</id>
-        <link href="https://github.com/Sonam525/PEFT-Fine-tuning-cows"/>
-        <updated>2026-02-02T18:18:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149631650?u=f3c37eed93aa20ed0f7b8f11833db0043b1ae9a2&v=4" width="64" height="64" alt=""/><br/><div>Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)</div>]]></content>
-        <author>
-            <name>Sonam525</name>
-            <email>Sonam525@noreply.github.com</email>
-            <uri>https://github.com/Sonam525</uri>
-        </author>
-        <published>2026-02-02T14:04:04.000Z</published>
     </entry>
 </feed>
