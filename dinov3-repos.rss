@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-11T00:38:15.837Z</updated>
+    <updated>2026-02-12T00:33:15.134Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-02-12T00:24:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-02-11T23:19:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SheerXu/DINOv3_with_variety]]></title>
+        <id>https://github.com/SheerXu/DINOv3_with_variety</id>
+        <link href="https://github.com/SheerXu/DINOv3_with_variety"/>
+        <updated>2026-02-11T10:22:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59718234?u=2636b457438baf8f5e92efb7c4c2f2506ff00ffe&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>SheerXu</name>
+            <email>SheerXu@noreply.github.com</email>
+            <uri>https://github.com/SheerXu</uri>
+        </author>
+        <published>2026-02-09T10:01:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StephenQSstarThomas/dinov3-finetune]]></title>
+        <id>https://github.com/StephenQSstarThomas/dinov3-finetune</id>
+        <link href="https://github.com/StephenQSstarThomas/dinov3-finetune"/>
+        <updated>2026-02-11T01:02:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112707323?u=7c4b10d65c66f0e35dd75808a0fffb3f6d8f134f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>StephenQSstarThomas</name>
+            <email>StephenQSstarThomas@noreply.github.com</email>
+            <uri>https://github.com/StephenQSstarThomas</uri>
+        </author>
+        <published>2025-11-24T19:08:45.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cleeuh/dinov3-siamese]]></title>
         <id>https://github.com/cleeuh/dinov3-siamese</id>
@@ -21,23 +73,10 @@
         <published>2026-02-10T19:28:13.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-10T18:44:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-10T19:50:36.000Z</updated>
+        <updated>2026-02-11T13:14:07.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -45,19 +84,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-10T16:53:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Indeera01/FYP-DINOv3-Indeera]]></title>
@@ -99,19 +125,6 @@
         <published>2026-02-02T13:58:10.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SheerXu/DINOv3_with_variety]]></title>
-        <id>https://github.com/SheerXu/DINOv3_with_variety</id>
-        <link href="https://github.com/SheerXu/DINOv3_with_variety"/>
-        <updated>2026-02-09T10:08:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59718234?u=2636b457438baf8f5e92efb7c4c2f2506ff00ffe&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>SheerXu</name>
-            <email>SheerXu@noreply.github.com</email>
-            <uri>https://github.com/SheerXu</uri>
-        </author>
-        <published>2026-02-09T10:01:41.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RobvanGastel/removing-pos-vit-bias: Using RASA post-training to remove positional bias from pretrained encoders like DINOv3]]></title>
         <id>https://github.com/RobvanGastel/removing-pos-vit-bias</id>
         <link href="https://github.com/RobvanGastel/removing-pos-vit-bias"/>
@@ -136,19 +149,6 @@
             <uri>https://github.com/zgcr</uri>
         </author>
         <published>2020-05-31T05:37:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StephenQSstarThomas/dinov3-finetune]]></title>
-        <id>https://github.com/StephenQSstarThomas/dinov3-finetune</id>
-        <link href="https://github.com/StephenQSstarThomas/dinov3-finetune"/>
-        <updated>2026-02-08T08:50:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112707323?u=7c4b10d65c66f0e35dd75808a0fffb3f6d8f134f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>StephenQSstarThomas</name>
-            <email>StephenQSstarThomas@noreply.github.com</email>
-            <uri>https://github.com/StephenQSstarThomas</uri>
-        </author>
-        <published>2025-11-24T19:08:45.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
@@ -219,7 +219,7 @@
         <title type="html"><![CDATA[Raessan/dinov3_deepstream: DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. ]]></title>
         <id>https://github.com/Raessan/dinov3_deepstream</id>
         <link href="https://github.com/Raessan/dinov3_deepstream"/>
-        <updated>2026-02-10T20:24:20.000Z</updated>
+        <updated>2026-02-11T12:43:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4" width="64" height="64" alt=""/><br/><div>DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. </div>]]></content>
         <author>
             <name>Raessan</name>
