@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-12T00:33:15.134Z</updated>
+    <updated>2026-02-13T00:35:18.017Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-12T00:24:28.000Z</updated>
+        <updated>2026-02-13T00:32:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-11T23:19:58.000Z</updated>
+        <updated>2026-02-12T23:34:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -34,10 +34,23 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
+        <id>https://github.com/PhilaMaster/semantic_correspondence</id>
+        <link href="https://github.com/PhilaMaster/semantic_correspondence"/>
+        <updated>2026-02-12T18:55:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77679627?v=4" width="64" height="64" alt=""/><br/><div>This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.</div>]]></content>
+        <author>
+            <name>PhilaMaster</name>
+            <email>PhilaMaster@noreply.github.com</email>
+            <uri>https://github.com/PhilaMaster</uri>
+        </author>
+        <published>2025-12-10T18:01:11.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SheerXu/DINOv3_with_variety]]></title>
         <id>https://github.com/SheerXu/DINOv3_with_variety</id>
         <link href="https://github.com/SheerXu/DINOv3_with_variety"/>
-        <updated>2026-02-11T10:22:25.000Z</updated>
+        <updated>2026-02-12T10:07:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59718234?u=2636b457438baf8f5e92efb7c4c2f2506ff00ffe&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>SheerXu</name>
@@ -45,6 +58,32 @@
             <uri>https://github.com/SheerXu</uri>
         </author>
         <published>2026-02-09T10:01:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[marjanstoimchev/DinoV3LightningTraining]]></title>
+        <id>https://github.com/marjanstoimchev/DinoV3LightningTraining</id>
+        <link href="https://github.com/marjanstoimchev/DinoV3LightningTraining"/>
+        <updated>2026-02-12T23:05:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62183782?u=b80fd2d98efc3e954b99b36f58bcee30fd8cf667&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>marjanstoimchev</name>
+            <email>marjanstoimchev@noreply.github.com</email>
+            <uri>https://github.com/marjanstoimchev</uri>
+        </author>
+        <published>2025-09-07T08:24:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-02-12T10:36:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[StephenQSstarThomas/dinov3-finetune]]></title>
@@ -71,19 +110,6 @@
             <uri>https://github.com/cleeuh</uri>
         </author>
         <published>2026-02-10T19:28:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-11T13:14:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Indeera01/FYP-DINOv3-Indeera]]></title>
@@ -149,19 +175,6 @@
             <uri>https://github.com/zgcr</uri>
         </author>
         <published>2020-05-31T05:37:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
-        <id>https://github.com/PhilaMaster/semantic_correspondence</id>
-        <link href="https://github.com/PhilaMaster/semantic_correspondence"/>
-        <updated>2026-02-07T16:23:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77679627?v=4" width="64" height="64" alt=""/><br/><div>This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.</div>]]></content>
-        <author>
-            <name>PhilaMaster</name>
-            <email>PhilaMaster@noreply.github.com</email>
-            <uri>https://github.com/PhilaMaster</uri>
-        </author>
-        <published>2025-12-10T18:01:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/johnamit</uri>
         </author>
         <published>2026-01-14T18:42:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RomanRes/CSIRO-Biomass-Prediction-using-DINOv3: The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.]]></title>
-        <id>https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3</id>
-        <link href="https://github.com/RomanRes/CSIRO-Biomass-Prediction-using-DINOv3"/>
-        <updated>2026-02-05T13:17:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62020123?u=46315ce64061756a2b722c9dc3857a3ff440baae&v=4" width="64" height="64" alt=""/><br/><div>The project focuses on modern computer vision techniques and demonstrates how large self-supervised vision transformers can be adapted efficiently for regression tasks using parameter-efficient fine-tuning.</div>]]></content>
-        <author>
-            <name>RomanRes</name>
-            <email>RomanRes@noreply.github.com</email>
-            <uri>https://github.com/RomanRes</uri>
-        </author>
-        <published>2026-02-02T19:49:23.000Z</published>
     </entry>
 </feed>
