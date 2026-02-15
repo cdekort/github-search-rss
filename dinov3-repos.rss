@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-14T00:32:52.628Z</updated>
+    <updated>2026-02-15T00:35:16.557Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
+        <id>https://github.com/Abigail-amk/AI-training</id>
+        <link href="https://github.com/Abigail-amk/AI-training"/>
+        <updated>2026-02-15T00:30:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
+        <author>
+            <name>Abigail-amk</name>
+            <email>Abigail-amk@noreply.github.com</email>
+            <uri>https://github.com/Abigail-amk</uri>
+        </author>
+        <published>2026-02-15T00:26:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-02-14T23:34:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-13T23:52:29.000Z</updated>
+        <updated>2026-02-14T22:41:14.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -21,17 +47,30 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-13T22:02:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[akhilesh17/Dinov3: Zero-shot object localization using DINO ViT patch-level feature similarity and heatmap visualization.]]></title>
+        <id>https://github.com/akhilesh17/Dinov3</id>
+        <link href="https://github.com/akhilesh17/Dinov3"/>
+        <updated>2026-02-14T22:16:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19328724?v=4" width="64" height="64" alt=""/><br/><div>Zero-shot object localization using DINO ViT patch-level feature similarity and heatmap visualization.</div>]]></content>
         <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
+            <name>akhilesh17</name>
+            <email>akhilesh17@noreply.github.com</email>
+            <uri>https://github.com/akhilesh17</uri>
         </author>
-        <published>2026-01-11T18:24:22.000Z</published>
+        <published>2026-02-14T21:45:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gyz233/dino_evo: an Vision-Action Model with DINOV3 and evo-style action head]]></title>
+        <id>https://github.com/gyz233/dino_evo</id>
+        <link href="https://github.com/gyz233/dino_evo"/>
+        <updated>2026-02-14T12:05:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63689292?u=27c1ab0160408344f025d8e4e2466248133fe2b2&v=4" width="64" height="64" alt=""/><br/><div>an Vision-Action Model with DINOV3 and evo-style action head</div>]]></content>
+        <author>
+            <name>gyz233</name>
+            <email>gyz233@noreply.github.com</email>
+            <uri>https://github.com/gyz233</uri>
+        </author>
+        <published>2026-02-14T11:18:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
@@ -97,6 +136,19 @@
             <uri>https://github.com/marjanstoimchev</uri>
         </author>
         <published>2025-09-07T08:24:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[anastasiia-popova/compressed-medvision-classifier: Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference]]></title>
+        <id>https://github.com/anastasiia-popova/compressed-medvision-classifier</id>
+        <link href="https://github.com/anastasiia-popova/compressed-medvision-classifier"/>
+        <updated>2026-02-14T20:41:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119516973?u=917229a4ec5343c28a54078b5489b129b10f528d&v=4" width="64" height="64" alt=""/><br/><div>Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference</div>]]></content>
+        <author>
+            <name>anastasiia-popova</name>
+            <email>anastasiia-popova@noreply.github.com</email>
+            <uri>https://github.com/anastasiia-popova</uri>
+        </author>
+        <published>2026-01-26T16:36:46.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[StephenQSstarThomas/dinov3-finetune]]></title>
@@ -214,57 +266,5 @@
             <uri>https://github.com/longxiang-ai</uri>
         </author>
         <published>2026-01-30T05:10:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[quanpham3105/DINOv3-Tracking-Research-CPX-Lab-]]></title>
-        <id>https://github.com/quanpham3105/DINOv3-Tracking-Research-CPX-Lab-</id>
-        <link href="https://github.com/quanpham3105/DINOv3-Tracking-Research-CPX-Lab-"/>
-        <updated>2026-02-06T00:31:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61221633?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>quanpham3105</name>
-            <email>quanpham3105@noreply.github.com</email>
-            <uri>https://github.com/quanpham3105</uri>
-        </author>
-        <published>2025-10-29T21:11:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LukaDarsalia/colormnet_dinov3]]></title>
-        <id>https://github.com/LukaDarsalia/colormnet_dinov3</id>
-        <link href="https://github.com/LukaDarsalia/colormnet_dinov3"/>
-        <updated>2026-02-05T23:47:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29729836?u=d5b98a781f2e3e93ae1b3b9229177256600b097a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>LukaDarsalia</name>
-            <email>LukaDarsalia@noreply.github.com</email>
-            <uri>https://github.com/LukaDarsalia</uri>
-        </author>
-        <published>2026-02-03T17:34:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raessan/dinov3_deepstream: DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. ]]></title>
-        <id>https://github.com/Raessan/dinov3_deepstream</id>
-        <link href="https://github.com/Raessan/dinov3_deepstream"/>
-        <updated>2026-02-13T04:51:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4" width="64" height="64" alt=""/><br/><div>DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. </div>]]></content>
-        <author>
-            <name>Raessan</name>
-            <email>Raessan@noreply.github.com</email>
-            <uri>https://github.com/Raessan</uri>
-        </author>
-        <published>2026-01-02T20:12:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
-        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
-        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
-        <updated>2026-02-05T18:05:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>GIS-Remote-Sensing-Goettingen</name>
-            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
-            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
-        </author>
-        <published>2026-01-26T13:43:19.000Z</published>
     </entry>
 </feed>

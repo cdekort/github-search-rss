@@ -6,10 +6,32 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
+            "url": "https://github.com/Abigail-amk/AI-training",
+            "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
+            "date_modified": "2026-02-15T00:30:35.000Z",
+            "date_published": "2026-02-15T00:26:11.000Z",
+            "author": {
+                "name": "Abigail-amk",
+                "url": "https://github.com/Abigail-amk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nacho4412gg/dinov3",
+            "title": "Nacho4412gg/dinov3",
+            "date_modified": "2026-02-14T23:34:20.000Z",
+            "date_published": "2026-01-11T18:24:22.000Z",
+            "author": {
+                "name": "Nacho4412gg",
+                "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-02-13T23:52:29.000Z",
+            "date_modified": "2026-02-14T22:41:14.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -17,14 +39,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nacho4412gg/dinov3",
-            "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-02-13T22:02:35.000Z",
-            "date_published": "2026-01-11T18:24:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19328724?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-shot object localization using DINO ViT patch-level feature similarity and heatmap visualization.</div>",
+            "url": "https://github.com/akhilesh17/Dinov3",
+            "title": "akhilesh17/Dinov3: Zero-shot object localization using DINO ViT patch-level feature similarity and heatmap visualization.",
+            "date_modified": "2026-02-14T22:16:44.000Z",
+            "date_published": "2026-02-14T21:45:32.000Z",
             "author": {
-                "name": "Nacho4412gg",
-                "url": "https://github.com/Nacho4412gg"
+                "name": "akhilesh17",
+                "url": "https://github.com/akhilesh17"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63689292?u=27c1ab0160408344f025d8e4e2466248133fe2b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>an Vision-Action Model with DINOV3 and evo-style action head</div>",
+            "url": "https://github.com/gyz233/dino_evo",
+            "title": "gyz233/dino_evo: an Vision-Action Model with DINOV3 and evo-style action head",
+            "date_modified": "2026-02-14T12:05:05.000Z",
+            "date_published": "2026-02-14T11:18:06.000Z",
+            "author": {
+                "name": "gyz233",
+                "url": "https://github.com/gyz233"
             }
         },
         {
@@ -80,6 +113,17 @@
             "author": {
                 "name": "marjanstoimchev",
                 "url": "https://github.com/marjanstoimchev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119516973?u=917229a4ec5343c28a54078b5489b129b10f528d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference</div>",
+            "url": "https://github.com/anastasiia-popova/compressed-medvision-classifier",
+            "title": "anastasiia-popova/compressed-medvision-classifier: Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference",
+            "date_modified": "2026-02-14T20:41:34.000Z",
+            "date_published": "2026-01-26T16:36:46.000Z",
+            "author": {
+                "name": "anastasiia-popova",
+                "url": "https://github.com/anastasiia-popova"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "longxiang-ai",
                 "url": "https://github.com/longxiang-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61221633?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/quanpham3105/DINOv3-Tracking-Research-CPX-Lab-",
-            "title": "quanpham3105/DINOv3-Tracking-Research-CPX-Lab-",
-            "date_modified": "2026-02-06T00:31:53.000Z",
-            "date_published": "2025-10-29T21:11:13.000Z",
-            "author": {
-                "name": "quanpham3105",
-                "url": "https://github.com/quanpham3105"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29729836?u=d5b98a781f2e3e93ae1b3b9229177256600b097a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LukaDarsalia/colormnet_dinov3",
-            "title": "LukaDarsalia/colormnet_dinov3",
-            "date_modified": "2026-02-05T23:47:05.000Z",
-            "date_published": "2026-02-03T17:34:48.000Z",
-            "author": {
-                "name": "LukaDarsalia",
-                "url": "https://github.com/LukaDarsalia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81997218?u=5b16f2f94a92448943c16f5a3eda9597dff2f44a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. </div>",
-            "url": "https://github.com/Raessan/dinov3_deepstream",
-            "title": "Raessan/dinov3_deepstream: DeepStream integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks. ",
-            "date_modified": "2026-02-13T04:51:09.000Z",
-            "date_published": "2026-01-02T20:12:47.000Z",
-            "author": {
-                "name": "Raessan",
-                "url": "https://github.com/Raessan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
-            "title": "GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
-            "date_modified": "2026-02-05T18:05:23.000Z",
-            "date_published": "2026-01-26T13:43:19.000Z",
-            "author": {
-                "name": "GIS-Remote-Sensing-Goettingen",
-                "url": "https://github.com/GIS-Remote-Sensing-Goettingen"
             }
         }
     ]
