@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-15T00:35:16.557Z</updated>
+    <updated>2026-02-16T00:33:40.754Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-02-15T23:53:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-02-15T00:30:35.000Z</updated>
+        <updated>2026-02-15T20:26:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -24,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-14T23:34:20.000Z</updated>
+        <updated>2026-02-15T19:58:52.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -34,17 +47,30 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-14T22:41:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <title type="html"><![CDATA[bryanlje/mds06-ml: Research archive containing data preparation scripts, experimental notebooks, and training logs for the custom Badminton AI models (Detection, Tracking, and Action Recognition).]]></title>
+        <id>https://github.com/bryanlje/mds06-ml</id>
+        <link href="https://github.com/bryanlje/mds06-ml"/>
+        <updated>2026-02-15T18:49:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/140489290?u=a22177131e020a91765a74cdf625d7859d11ffea&v=4" width="64" height="64" alt=""/><br/><div>Research archive containing data preparation scripts, experimental notebooks, and training logs for the custom Badminton AI models (Detection, Tracking, and Action Recognition).</div>]]></content>
         <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
+            <name>bryanlje</name>
+            <email>bryanlje@noreply.github.com</email>
+            <uri>https://github.com/bryanlje</uri>
         </author>
-        <published>2020-05-31T11:42:52.000Z</published>
+        <published>2026-02-15T09:55:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aminasgarovaa/building_segmentation_dinov3]]></title>
+        <id>https://github.com/aminasgarovaa/building_segmentation_dinov3</id>
+        <link href="https://github.com/aminasgarovaa/building_segmentation_dinov3"/>
+        <updated>2026-02-15T08:34:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/132748177?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>aminasgarovaa</name>
+            <email>aminasgarovaa@noreply.github.com</email>
+            <uri>https://github.com/aminasgarovaa</uri>
+        </author>
+        <published>2026-02-15T08:29:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[akhilesh17/Dinov3: Zero-shot object localization using DINO ViT patch-level feature similarity and heatmap visualization.]]></title>
@@ -76,7 +102,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-13T22:54:06.000Z</updated>
+        <updated>2026-02-15T11:41:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/zgcr</uri>
         </author>
         <published>2020-05-31T05:37:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[talhabw/autoseg: an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
-        <id>https://github.com/talhabw/autoseg</id>
-        <link href="https://github.com/talhabw/autoseg"/>
-        <updated>2026-02-07T14:22:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56639619?u=1a98caa2017443e235e7b84fc18a7182ec8a8a18&v=4" width="64" height="64" alt=""/><br/><div>an annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>]]></content>
-        <author>
-            <name>talhabw</name>
-            <email>talhabw@noreply.github.com</email>
-            <uri>https://github.com/talhabw</uri>
-        </author>
-        <published>2025-12-27T19:05:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[longxiang-ai/TransNormal: Official implementation of "TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation" (arXiv 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.]]></title>
-        <id>https://github.com/longxiang-ai/TransNormal</id>
-        <link href="https://github.com/longxiang-ai/TransNormal"/>
-        <updated>2026-02-09T12:48:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68198130?u=6a9b87af1d8b6a5686fe1af7451d13c7cb0f4d13&v=4" width="64" height="64" alt=""/><br/><div>Official implementation of "TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation" (arXiv 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.</div>]]></content>
-        <author>
-            <name>longxiang-ai</name>
-            <email>longxiang-ai@noreply.github.com</email>
-            <uri>https://github.com/longxiang-ai</uri>
-        </author>
-        <published>2026-01-30T05:10:23.000Z</published>
     </entry>
 </feed>
