@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-02-15T23:53:26.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-02-15T20:26:08.000Z",
+            "date_modified": "2026-02-16T23:53:29.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -28,14 +17,69 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/230260834?u=471368a6660849509d32fe4033451edfe78ebf19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/bugfree-kartik/DINOv3-for-Human-Gesture-Understanding",
+            "title": "bugfree-kartik/DINOv3-for-Human-Gesture-Understanding",
+            "date_modified": "2026-02-16T23:32:12.000Z",
+            "date_published": "2026-02-16T22:20:40.000Z",
+            "author": {
+                "name": "bugfree-kartik",
+                "url": "https://github.com/bugfree-kartik"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-02-16T22:21:46.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
+            "title": "GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
+            "date_modified": "2026-02-16T22:14:09.000Z",
+            "date_published": "2026-02-02T13:58:10.000Z",
+            "author": {
+                "name": "GIS-Remote-Sensing-Goettingen",
+                "url": "https://github.com/GIS-Remote-Sensing-Goettingen"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-02-15T19:58:52.000Z",
+            "date_modified": "2026-02-16T21:07:24.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
                 "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83924431?u=1a351f0e2c31a6c19136e8988090ebd3fe0c98bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/SSPolisetti/mnist-dinov3-classifier",
+            "title": "SSPolisetti/mnist-dinov3-classifier",
+            "date_modified": "2026-02-16T16:04:54.000Z",
+            "date_published": "2026-02-16T16:04:19.000Z",
+            "author": {
+                "name": "SSPolisetti",
+                "url": "https://github.com/SSPolisetti"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-02-16T22:54:42.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -80,17 +124,6 @@
             "author": {
                 "name": "gyz233",
                 "url": "https://github.com/gyz233"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-02-15T11:41:22.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "enot-style",
                 "url": "https://github.com/enot-style"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
-            "title": "GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
-            "date_modified": "2026-02-09T17:40:59.000Z",
-            "date_published": "2026-02-02T13:58:10.000Z",
-            "author": {
-                "name": "GIS-Remote-Sensing-Goettingen",
-                "url": "https://github.com/GIS-Remote-Sensing-Goettingen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10989988?u=502b123d5cea37ca569f76261e89c43540380cf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Using RASA post-training to remove positional bias from pretrained encoders like DINOv3</div>",
-            "url": "https://github.com/RobvanGastel/removing-pos-vit-bias",
-            "title": "RobvanGastel/removing-pos-vit-bias: Using RASA post-training to remove positional bias from pretrained encoders like DINOv3",
-            "date_modified": "2026-02-08T21:00:20.000Z",
-            "date_published": "2025-07-25T13:56:55.000Z",
-            "author": {
-                "name": "RobvanGastel",
-                "url": "https://github.com/RobvanGastel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleAICV:pytorch training examples.</div>",
-            "url": "https://github.com/zgcr/SimpleAICV_pytorch_training_examples",
-            "title": "zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.",
-            "date_modified": "2026-02-09T02:00:01.000Z",
-            "date_published": "2020-05-31T05:37:26.000Z",
-            "author": {
-                "name": "zgcr",
-                "url": "https://github.com/zgcr"
             }
         }
     ]
