@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-18T00:33:48.414Z</updated>
+    <updated>2026-02-19T00:34:26.758Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-18T00:17:43.000Z</updated>
+        <updated>2026-02-19T00:28:20.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-02-17T23:34:23.000Z</updated>
+        <updated>2026-02-18T22:17:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -37,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-17T23:08:36.000Z</updated>
+        <updated>2026-02-18T21:53:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -47,23 +47,49 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
-        <id>https://github.com/facebookresearch/dinov3</id>
-        <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2026-02-17T22:25:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
+        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
+        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
+        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
+        <updated>2026-02-18T19:09:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>facebookresearch</name>
-            <email>facebookresearch@noreply.github.com</email>
-            <uri>https://github.com/facebookresearch</uri>
+            <name>GIS-Remote-Sensing-Goettingen</name>
+            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
+            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
         </author>
-        <published>2025-08-07T14:11:34.000Z</published>
+        <published>2026-01-26T13:43:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-02-18T17:53:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qqaazz0222/VICET: VICET is a deep learning project that utilizes a DINOv3-based Transformer model to virtually generate contrast-enhanced effects similar to Contrast-Enhanced CT (CECT) from Non-Contrast CT (NCCT) images.]]></title>
+        <id>https://github.com/qqaazz0222/VICET</id>
+        <link href="https://github.com/qqaazz0222/VICET"/>
+        <updated>2026-02-18T16:52:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39234389?u=ae80636b15492f4c8daf4ae3db5b0914b590513d&v=4" width="64" height="64" alt=""/><br/><div>VICET is a deep learning project that utilizes a DINOv3-based Transformer model to virtually generate contrast-enhanced effects similar to Contrast-Enhanced CT (CECT) from Non-Contrast CT (NCCT) images.</div>]]></content>
+        <author>
+            <name>qqaazz0222</name>
+            <email>qqaazz0222@noreply.github.com</email>
+            <uri>https://github.com/qqaazz0222</uri>
+        </author>
+        <published>2026-02-18T06:10:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation]]></title>
         <id>https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation</id>
         <link href="https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation"/>
-        <updated>2026-02-17T13:31:40.000Z</updated>
+        <updated>2026-02-18T10:30:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>GIS-Remote-Sensing-Goettingen</name>
@@ -71,6 +97,19 @@
             <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
         </author>
         <published>2026-02-02T13:58:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
+        <id>https://github.com/facebookresearch/dinov3</id>
+        <link href="https://github.com/facebookresearch/dinov3"/>
+        <updated>2026-02-18T21:56:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
+        <author>
+            <name>facebookresearch</name>
+            <email>facebookresearch@noreply.github.com</email>
+            <uri>https://github.com/facebookresearch</uri>
+        </author>
+        <published>2025-08-07T14:11:34.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[gtom-pandas/image2biomass: My solution for Kaggle CSIRO Image2Biomass Challenge]]></title>
@@ -123,19 +162,6 @@
             <uri>https://github.com/SSPolisetti</uri>
         </author>
         <published>2026-02-16T16:04:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-16T22:54:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[bryanlje/mds06-ml: Research archive containing data preparation scripts, experimental notebooks, and training logs for the custom Badminton AI models (Detection, Tracking, and Action Recognition).]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/marjanstoimchev</uri>
         </author>
         <published>2025-09-07T08:24:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[anastasiia-popova/compressed-medvision-classifier: Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference]]></title>
-        <id>https://github.com/anastasiia-popova/compressed-medvision-classifier</id>
-        <link href="https://github.com/anastasiia-popova/compressed-medvision-classifier"/>
-        <updated>2026-02-14T20:41:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119516973?u=917229a4ec5343c28a54078b5489b129b10f528d&v=4" width="64" height="64" alt=""/><br/><div>Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference</div>]]></content>
-        <author>
-            <name>anastasiia-popova</name>
-            <email>anastasiia-popova@noreply.github.com</email>
-            <uri>https://github.com/anastasiia-popova</uri>
-        </author>
-        <published>2026-01-26T16:36:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StephenQSstarThomas/dinov3-finetune]]></title>
-        <id>https://github.com/StephenQSstarThomas/dinov3-finetune</id>
-        <link href="https://github.com/StephenQSstarThomas/dinov3-finetune"/>
-        <updated>2026-02-11T01:02:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112707323?u=7c4b10d65c66f0e35dd75808a0fffb3f6d8f134f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>StephenQSstarThomas</name>
-            <email>StephenQSstarThomas@noreply.github.com</email>
-            <uri>https://github.com/StephenQSstarThomas</uri>
-        </author>
-        <published>2025-11-24T19:08:45.000Z</published>
     </entry>
 </feed>
