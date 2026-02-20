@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-19T00:34:26.758Z</updated>
+    <updated>2026-02-20T00:30:54.629Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-19T00:28:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-02-18T22:17:57.000Z</updated>
+        <updated>2026-02-19T22:30:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -37,7 +24,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-18T21:53:25.000Z</updated>
+        <updated>2026-02-19T21:33:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -45,6 +32,71 @@
             <uri>https://github.com/Nacho4412gg</uri>
         </author>
         <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-02-19T19:58:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArtemVerbov/Dinov3-For-Semantic-Segmentation: Dinov3 backbone adopted for semantic segmentation.]]></title>
+        <id>https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation</id>
+        <link href="https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation"/>
+        <updated>2026-02-19T16:53:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59263685?u=644171ead2758667b101b888269925d338b05ff4&v=4" width="64" height="64" alt=""/><br/><div>Dinov3 backbone adopted for semantic segmentation.</div>]]></content>
+        <author>
+            <name>ArtemVerbov</name>
+            <email>ArtemVerbov@noreply.github.com</email>
+            <uri>https://github.com/ArtemVerbov</uri>
+        </author>
+        <published>2026-01-25T07:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-02-19T16:04:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jinlab-imvr/DINOv3-FD: [2026 MIDL]"Incentivizing DINOv3 Adaptation for Medical Vision Tasks via Feature Disentanglement"]]></title>
+        <id>https://github.com/jinlab-imvr/DINOv3-FD</id>
+        <link href="https://github.com/jinlab-imvr/DINOv3-FD"/>
+        <updated>2026-02-19T14:17:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/163241502?v=4" width="64" height="64" alt=""/><br/><div>[2026 MIDL]"Incentivizing DINOv3 Adaptation for Medical Vision Tasks via Feature Disentanglement"</div>]]></content>
+        <author>
+            <name>jinlab-imvr</name>
+            <email>jinlab-imvr@noreply.github.com</email>
+            <uri>https://github.com/jinlab-imvr</uri>
+        </author>
+        <published>2025-11-29T12:33:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[anastasiia-popova/compressed-medvision-classifier: Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference]]></title>
+        <id>https://github.com/anastasiia-popova/compressed-medvision-classifier</id>
+        <link href="https://github.com/anastasiia-popova/compressed-medvision-classifier"/>
+        <updated>2026-02-19T11:02:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119516973?u=917229a4ec5343c28a54078b5489b129b10f528d&v=4" width="64" height="64" alt=""/><br/><div>Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference</div>]]></content>
+        <author>
+            <name>anastasiia-popova</name>
+            <email>anastasiia-popova@noreply.github.com</email>
+            <uri>https://github.com/anastasiia-popova</uri>
+        </author>
+        <published>2026-01-26T16:36:46.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
@@ -58,19 +110,6 @@
             <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
         </author>
         <published>2026-01-26T13:43:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-18T17:53:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[qqaazz0222/VICET: VICET is a deep learning project that utilizes a DINOv3-based Transformer model to virtually generate contrast-enhanced effects similar to Contrast-Enhanced CT (CECT) from Non-Contrast CT (NCCT) images.]]></title>
@@ -102,7 +141,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2026-02-18T21:56:57.000Z</updated>
+        <updated>2026-02-20T00:04:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/alexrvandam</uri>
         </author>
         <published>2025-08-10T19:51:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhilaMaster/semantic_correspondence: This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.]]></title>
-        <id>https://github.com/PhilaMaster/semantic_correspondence</id>
-        <link href="https://github.com/PhilaMaster/semantic_correspondence"/>
-        <updated>2026-02-12T18:55:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77679627?v=4" width="64" height="64" alt=""/><br/><div>This project evaluates and fine-tunes models like DINOv2, DINOv3, and Segment Anything Model (SAM) for dense matching tasks, enabling precise keypoint matching across semantically similar images.</div>]]></content>
-        <author>
-            <name>PhilaMaster</name>
-            <email>PhilaMaster@noreply.github.com</email>
-            <uri>https://github.com/PhilaMaster</uri>
-        </author>
-        <published>2025-12-10T18:01:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SheerXu/DINOv3_with_variety]]></title>
-        <id>https://github.com/SheerXu/DINOv3_with_variety</id>
-        <link href="https://github.com/SheerXu/DINOv3_with_variety"/>
-        <updated>2026-02-12T10:07:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59718234?u=2636b457438baf8f5e92efb7c4c2f2506ff00ffe&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>SheerXu</name>
-            <email>SheerXu@noreply.github.com</email>
-            <uri>https://github.com/SheerXu</uri>
-        </author>
-        <published>2026-02-09T10:01:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[marjanstoimchev/DinoV3LightningTraining]]></title>
-        <id>https://github.com/marjanstoimchev/DinoV3LightningTraining</id>
-        <link href="https://github.com/marjanstoimchev/DinoV3LightningTraining"/>
-        <updated>2026-02-12T23:05:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62183782?u=b80fd2d98efc3e954b99b36f58bcee30fd8cf667&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>marjanstoimchev</name>
-            <email>marjanstoimchev@noreply.github.com</email>
-            <uri>https://github.com/marjanstoimchev</uri>
-        </author>
-        <published>2025-09-07T08:24:08.000Z</published>
     </entry>
 </feed>
