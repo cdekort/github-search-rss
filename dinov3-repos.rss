@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-22T00:33:18.835Z</updated>
+    <updated>2026-02-23T00:33:31.504Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[pierrelgol/tea-ai: DinoV3-Yolo26-Pipeline]]></title>
+        <id>https://github.com/pierrelgol/tea-ai</id>
+        <link href="https://github.com/pierrelgol/tea-ai"/>
+        <updated>2026-02-22T23:49:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119697612?u=37a68a08bbf84ef9c713ac3f5ae7f32998c2e54e&v=4" width="64" height="64" alt=""/><br/><div>DinoV3-Yolo26-Pipeline</div>]]></content>
+        <author>
+            <name>pierrelgol</name>
+            <email>pierrelgol@noreply.github.com</email>
+            <uri>https://github.com/pierrelgol</uri>
+        </author>
+        <published>2026-02-22T10:58:01.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-02-21T22:35:50.000Z</updated>
+        <updated>2026-02-22T23:46:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -21,10 +34,23 @@
         <published>2026-02-15T00:26:11.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-02-22T23:22:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-21T21:57:35.000Z</updated>
+        <updated>2026-02-22T22:24:00.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -34,17 +60,30 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-21T21:39:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[Nacho4412gg/nacho4412gg.github.io: 🦖 Explore DINOv3, a state-of-the-art backbone for computer vision models, now integrated with Hugging Face and PyTorch for enhanced performance and flexibility.]]></title>
+        <id>https://github.com/Nacho4412gg/nacho4412gg.github.io</id>
+        <link href="https://github.com/Nacho4412gg/nacho4412gg.github.io"/>
+        <updated>2026-02-22T19:04:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div>🦖 Explore DINOv3, a state-of-the-art backbone for computer vision models, now integrated with Hugging Face and PyTorch for enhanced performance and flexibility.</div>]]></content>
         <author>
             <name>Nacho4412gg</name>
             <email>Nacho4412gg@noreply.github.com</email>
             <uri>https://github.com/Nacho4412gg</uri>
         </author>
-        <published>2026-01-11T18:24:22.000Z</published>
+        <published>2026-01-11T18:30:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JasonTzimas/DINOv3-powered-YOLOv11: An optimized Distillation pipeline for Knowledge-Transfer between DINOv3 and YOLOv11]]></title>
+        <id>https://github.com/JasonTzimas/DINOv3-powered-YOLOv11</id>
+        <link href="https://github.com/JasonTzimas/DINOv3-powered-YOLOv11"/>
+        <updated>2026-02-22T11:19:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76654609?v=4" width="64" height="64" alt=""/><br/><div>An optimized Distillation pipeline for Knowledge-Transfer between DINOv3 and YOLOv11</div>]]></content>
+        <author>
+            <name>JasonTzimas</name>
+            <email>JasonTzimas@noreply.github.com</email>
+            <uri>https://github.com/JasonTzimas</uri>
+        </author>
+        <published>2026-02-22T11:19:15.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ArtemVerbov/Dinov3-For-Semantic-Segmentation: Dinov3 backbone adopted for semantic segmentation.]]></title>
@@ -180,7 +219,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2026-02-21T23:31:31.000Z</updated>
+        <updated>2026-02-22T18:33:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/SSPolisetti</uri>
         </author>
         <published>2026-02-16T16:04:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bryanlje/mds06-ml: Research archive containing data preparation scripts, experimental notebooks, and training logs for the custom Badminton AI models (Detection, Tracking, and Action Recognition).]]></title>
-        <id>https://github.com/bryanlje/mds06-ml</id>
-        <link href="https://github.com/bryanlje/mds06-ml"/>
-        <updated>2026-02-15T18:49:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/140489290?u=a22177131e020a91765a74cdf625d7859d11ffea&v=4" width="64" height="64" alt=""/><br/><div>Research archive containing data preparation scripts, experimental notebooks, and training logs for the custom Badminton AI models (Detection, Tracking, and Action Recognition).</div>]]></content>
-        <author>
-            <name>bryanlje</name>
-            <email>bryanlje@noreply.github.com</email>
-            <uri>https://github.com/bryanlje</uri>
-        </author>
-        <published>2026-02-15T09:55:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aminasgarovaa/building_segmentation_dinov3]]></title>
-        <id>https://github.com/aminasgarovaa/building_segmentation_dinov3</id>
-        <link href="https://github.com/aminasgarovaa/building_segmentation_dinov3"/>
-        <updated>2026-02-15T08:34:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/132748177?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>aminasgarovaa</name>
-            <email>aminasgarovaa@noreply.github.com</email>
-            <uri>https://github.com/aminasgarovaa</uri>
-        </author>
-        <published>2026-02-15T08:29:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[akhilesh17/Dinov3: Zero-shot object localization using DINO ViT patch-level feature similarity and heatmap visualization.]]></title>
-        <id>https://github.com/akhilesh17/Dinov3</id>
-        <link href="https://github.com/akhilesh17/Dinov3"/>
-        <updated>2026-02-14T22:16:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19328724?v=4" width="64" height="64" alt=""/><br/><div>Zero-shot object localization using DINO ViT patch-level feature similarity and heatmap visualization.</div>]]></content>
-        <author>
-            <name>akhilesh17</name>
-            <email>akhilesh17@noreply.github.com</email>
-            <uri>https://github.com/akhilesh17</uri>
-        </author>
-        <published>2026-02-14T21:45:32.000Z</published>
     </entry>
 </feed>
