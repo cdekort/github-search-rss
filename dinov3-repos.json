@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119697612?u=37a68a08bbf84ef9c713ac3f5ae7f32998c2e54e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DinoV3-Yolo26-Pipeline</div>",
-            "url": "https://github.com/pierrelgol/tea-ai",
-            "title": "pierrelgol/tea-ai: DinoV3-Yolo26-Pipeline",
-            "date_modified": "2026-02-22T23:49:09.000Z",
-            "date_published": "2026-02-22T10:58:01.000Z",
-            "author": {
-                "name": "pierrelgol",
-                "url": "https://github.com/pierrelgol"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-02-22T23:46:44.000Z",
+            "date_modified": "2026-02-23T23:30:42.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-02-22T23:22:19.000Z",
+            "date_modified": "2026-02-23T23:06:16.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -42,11 +31,55 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-02-22T22:24:00.000Z",
+            "date_modified": "2026-02-23T22:11:52.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119697612?u=37a68a08bbf84ef9c713ac3f5ae7f32998c2e54e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DinoV3-Yolo26-Pipeline</div>",
+            "url": "https://github.com/pierrelgol/tea-ai",
+            "title": "pierrelgol/tea-ai: DinoV3-Yolo26-Pipeline",
+            "date_modified": "2026-02-23T21:12:17.000Z",
+            "date_published": "2026-02-22T10:58:01.000Z",
+            "author": {
+                "name": "pierrelgol",
+                "url": "https://github.com/pierrelgol"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-02-23T17:51:45.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200913309?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Questo progetto implementa un framework di few-shot learning per la classificazione di immagini cellulari del dataset LIVECell utilizzando embedding estratti da DINOv3, un Vision Transformer pre-addestrato in modalità self-supervised.</div>",
+            "url": "https://github.com/lrnzslrn83/Few-Shot-Classification-on-LIVECell-using-DINOv3-Embeddings",
+            "title": "lrnzslrn83/Few-Shot-Classification-on-LIVECell-using-DINOv3-Embeddings: Questo progetto implementa un framework di few-shot learning per la classificazione di immagini cellulari del dataset LIVECell utilizzando embedding estratti da DINOv3, un Vision Transformer pre-addestrato in modalità self-supervised.",
+            "date_modified": "2026-02-23T11:03:36.000Z",
+            "date_published": "2026-02-23T10:51:59.000Z",
+            "author": {
+                "name": "lrnzslrn83",
+                "url": "https://github.com/lrnzslrn83"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39234389?u=ae80636b15492f4c8daf4ae3db5b0914b590513d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VICET is a deep learning project that utilizes a DINOv3-based Transformer model to virtually generate contrast-enhanced effects similar to Contrast-Enhanced CT (CECT) from Non-Contrast CT (NCCT) images.</div>",
+            "url": "https://github.com/qqaazz0222/VICET",
+            "title": "qqaazz0222/VICET: VICET is a deep learning project that utilizes a DINOv3-based Transformer model to virtually generate contrast-enhanced effects similar to Contrast-Enhanced CT (CECT) from Non-Contrast CT (NCCT) images.",
+            "date_modified": "2026-02-23T06:16:11.000Z",
+            "date_published": "2026-02-18T06:10:52.000Z",
+            "author": {
+                "name": "qqaazz0222",
+                "url": "https://github.com/qqaazz0222"
             }
         },
         {
@@ -72,6 +105,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=7500f66b0d147f3e1a9b035dc5dcce7f30abeaae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
+            "url": "https://github.com/jaychempan/V2-SAM",
+            "title": "jaychempan/V2-SAM: [CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
+            "date_modified": "2026-02-23T13:05:34.000Z",
+            "date_published": "2025-12-10T14:01:47.000Z",
+            "author": {
+                "name": "jaychempan",
+                "url": "https://github.com/jaychempan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59263685?u=644171ead2758667b101b888269925d338b05ff4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dinov3 backbone adopted for semantic segmentation.</div>",
             "url": "https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation",
             "title": "ArtemVerbov/Dinov3-For-Semantic-Segmentation: Dinov3 backbone adopted for semantic segmentation.",
@@ -91,17 +135,6 @@
             "author": {
                 "name": "JordiCan",
                 "url": "https://github.com/JordiCan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-02-21T21:58:35.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -160,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39234389?u=ae80636b15492f4c8daf4ae3db5b0914b590513d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VICET is a deep learning project that utilizes a DINOv3-based Transformer model to virtually generate contrast-enhanced effects similar to Contrast-Enhanced CT (CECT) from Non-Contrast CT (NCCT) images.</div>",
-            "url": "https://github.com/qqaazz0222/VICET",
-            "title": "qqaazz0222/VICET: VICET is a deep learning project that utilizes a DINOv3-based Transformer model to virtually generate contrast-enhanced effects similar to Contrast-Enhanced CT (CECT) from Non-Contrast CT (NCCT) images.",
-            "date_modified": "2026-02-18T16:52:24.000Z",
-            "date_published": "2026-02-18T06:10:52.000Z",
-            "author": {
-                "name": "qqaazz0222",
-                "url": "https://github.com/qqaazz0222"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
             "title": "GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
@@ -185,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2026-02-22T18:33:56.000Z",
+            "date_modified": "2026-02-23T22:44:29.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "gtom-pandas",
                 "url": "https://github.com/gtom-pandas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/230260834?u=471368a6660849509d32fe4033451edfe78ebf19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/bugfree-kartik/DINOv3-for-Human-Gesture-Understanding",
-            "title": "bugfree-kartik/DINOv3-for-Human-Gesture-Understanding",
-            "date_modified": "2026-02-16T23:32:12.000Z",
-            "date_published": "2026-02-16T22:20:40.000Z",
-            "author": {
-                "name": "bugfree-kartik",
-                "url": "https://github.com/bugfree-kartik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83924431?u=1a351f0e2c31a6c19136e8988090ebd3fe0c98bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/SSPolisetti/mnist-dinov3-classifier",
-            "title": "SSPolisetti/mnist-dinov3-classifier",
-            "date_modified": "2026-02-16T16:04:54.000Z",
-            "date_published": "2026-02-16T16:04:19.000Z",
-            "author": {
-                "name": "SSPolisetti",
-                "url": "https://github.com/SSPolisetti"
             }
         }
     ]
