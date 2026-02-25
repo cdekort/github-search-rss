@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
-            "url": "https://github.com/Abigail-amk/AI-training",
-            "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-02-23T23:30:42.000Z",
-            "date_published": "2026-02-15T00:26:11.000Z",
-            "author": {
-                "name": "Abigail-amk",
-                "url": "https://github.com/Abigail-amk"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-02-23T23:06:16.000Z",
+            "date_modified": "2026-02-25T00:33:31.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -28,21 +17,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-02-23T22:11:52.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156525690?u=859091d4e8fe94e40ba8c4ba1324563f3228fda3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.</div>",
+            "url": "https://github.com/Thanghuynh2808/Retail-Insight-Pipeline",
+            "title": "Thanghuynh2808/Retail-Insight-Pipeline: Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.",
+            "date_modified": "2026-02-24T23:53:55.000Z",
+            "date_published": "2026-02-03T02:40:51.000Z",
             "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
+                "name": "Thanghuynh2808",
+                "url": "https://github.com/Thanghuynh2808"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119697612?u=37a68a08bbf84ef9c713ac3f5ae7f32998c2e54e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DinoV3-Yolo26-Pipeline</div>",
             "url": "https://github.com/pierrelgol/tea-ai",
             "title": "pierrelgol/tea-ai: DinoV3-Yolo26-Pipeline",
-            "date_modified": "2026-02-23T21:12:17.000Z",
+            "date_modified": "2026-02-24T23:30:25.000Z",
             "date_published": "2026-02-22T10:58:01.000Z",
             "author": {
                 "name": "pierrelgol",
@@ -50,14 +39,80 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-02-24T23:24:49.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
+            "url": "https://github.com/Abigail-amk/AI-training",
+            "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
+            "date_modified": "2026-02-24T22:34:39.000Z",
+            "date_published": "2026-02-15T00:26:11.000Z",
+            "author": {
+                "name": "Abigail-amk",
+                "url": "https://github.com/Abigail-amk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143129517?u=08c01ddda9b18b64df039f0ac35a626c7a65c38d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chest X-Ray perception pipeline using DINOv3. Demonstrates lightweight decoders with frozen foundation backbones for both image classification (COVID vs. Healthy) and semantic segmentation (Lung Masking) in PyTorch.</div>",
+            "url": "https://github.com/violayhho/DinoX-Ray",
+            "title": "violayhho/DinoX-Ray: Chest X-Ray perception pipeline using DINOv3. Demonstrates lightweight decoders with frozen foundation backbones for both image classification (COVID vs. Healthy) and semantic segmentation (Lung Masking) in PyTorch.",
+            "date_modified": "2026-02-24T20:15:15.000Z",
+            "date_published": "2026-02-24T20:08:38.000Z",
+            "author": {
+                "name": "violayhho",
+                "url": "https://github.com/violayhho"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-02-23T17:51:45.000Z",
+            "date_modified": "2026-02-24T20:19:22.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53433086?u=165b43703aaa3163f65d4093a90f6ac2ce9473f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 based head depth estimation</div>",
+            "url": "https://github.com/jseobyun/FaceDepth",
+            "title": "jseobyun/FaceDepth: DINOv3 based head depth estimation",
+            "date_modified": "2026-02-24T08:52:16.000Z",
+            "date_published": "2025-09-15T09:13:54.000Z",
+            "author": {
+                "name": "jseobyun",
+                "url": "https://github.com/jseobyun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53433086?u=165b43703aaa3163f65d4093a90f6ac2ce9473f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 based face parsing network</div>",
+            "url": "https://github.com/jseobyun/FaceParsing",
+            "title": "jseobyun/FaceParsing: DINOv3 based face parsing network",
+            "date_modified": "2026-02-24T07:20:19.000Z",
+            "date_published": "2025-09-04T02:10:31.000Z",
+            "author": {
+                "name": "jseobyun",
+                "url": "https://github.com/jseobyun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39234389?u=ae80636b15492f4c8daf4ae3db5b0914b590513d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VIRAT is a deep learning project that utilizes a DINOv3-based Transformer model to anatomically align Non-Contrast CT (NCCT) images to Contrast-Enhanced CT (CECT) images, generating spatially registered virtual NCCTs (vNCCT) through contrast-invariant deformation.</div>",
+            "url": "https://github.com/qqaazz0222/VIRAT",
+            "title": "qqaazz0222/VIRAT: VIRAT is a deep learning project that utilizes a DINOv3-based Transformer model to anatomically align Non-Contrast CT (NCCT) images to Contrast-Enhanced CT (CECT) images, generating spatially registered virtual NCCTs (vNCCT) through contrast-invariant deformation.",
+            "date_modified": "2026-02-24T07:14:51.000Z",
+            "date_published": "2026-02-24T03:43:19.000Z",
+            "author": {
+                "name": "qqaazz0222",
+                "url": "https://github.com/qqaazz0222"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "jinlab-imvr",
                 "url": "https://github.com/jinlab-imvr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119516973?u=917229a4ec5343c28a54078b5489b129b10f528d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference</div>",
-            "url": "https://github.com/anastasiia-popova/compressed-medvision-classifier",
-            "title": "anastasiia-popova/compressed-medvision-classifier: Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference",
-            "date_modified": "2026-02-19T11:02:34.000Z",
-            "date_published": "2026-01-26T16:36:46.000Z",
-            "author": {
-                "name": "anastasiia-popova",
-                "url": "https://github.com/anastasiia-popova"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
-            "title": "GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
-            "date_modified": "2026-02-18T19:09:09.000Z",
-            "date_published": "2026-01-26T13:43:19.000Z",
-            "author": {
-                "name": "GIS-Remote-Sensing-Goettingen",
-                "url": "https://github.com/GIS-Remote-Sensing-Goettingen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
-            "title": "GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
-            "date_modified": "2026-02-18T10:30:34.000Z",
-            "date_published": "2026-02-02T13:58:10.000Z",
-            "author": {
-                "name": "GIS-Remote-Sensing-Goettingen",
-                "url": "https://github.com/GIS-Remote-Sensing-Goettingen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
-            "url": "https://github.com/facebookresearch/dinov3",
-            "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2026-02-23T22:44:29.000Z",
-            "date_published": "2025-08-07T14:11:34.000Z",
-            "author": {
-                "name": "facebookresearch",
-                "url": "https://github.com/facebookresearch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228737540?u=7df296779ddf735d9c87f5de6a614b569ec88c5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My solution for Kaggle CSIRO Image2Biomass Challenge</div>",
-            "url": "https://github.com/gtom-pandas/image2biomass",
-            "title": "gtom-pandas/image2biomass: My solution for Kaggle CSIRO Image2Biomass Challenge",
-            "date_modified": "2026-02-17T12:00:09.000Z",
-            "date_published": "2026-02-03T19:24:51.000Z",
-            "author": {
-                "name": "gtom-pandas",
-                "url": "https://github.com/gtom-pandas"
             }
         }
     ]
