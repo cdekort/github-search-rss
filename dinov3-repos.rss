@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-02-25T00:35:13.596Z</updated>
+    <updated>2026-02-26T00:30:41.736Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
+        <id>https://github.com/Abigail-amk/AI-training</id>
+        <link href="https://github.com/Abigail-amk/AI-training"/>
+        <updated>2026-02-25T23:58:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
+        <author>
+            <name>Abigail-amk</name>
+            <email>Abigail-amk@noreply.github.com</email>
+            <uri>https://github.com/Abigail-amk</uri>
+        </author>
+        <published>2026-02-15T00:26:11.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-02-25T00:33:31.000Z</updated>
+        <updated>2026-02-25T23:31:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -21,10 +34,75 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-02-25T22:18:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BeibeiIsFreshman/DINOv3_SAM: Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection]]></title>
+        <id>https://github.com/BeibeiIsFreshman/DINOv3_SAM</id>
+        <link href="https://github.com/BeibeiIsFreshman/DINOv3_SAM"/>
+        <updated>2026-02-25T18:25:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/146430099?v=4" width="64" height="64" alt=""/><br/><div>Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection</div>]]></content>
+        <author>
+            <name>BeibeiIsFreshman</name>
+            <email>BeibeiIsFreshman@noreply.github.com</email>
+            <uri>https://github.com/BeibeiIsFreshman</uri>
+        </author>
+        <published>2025-12-09T06:49:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[worship93keypad/dinov3]]></title>
+        <id>https://github.com/worship93keypad/dinov3</id>
+        <link href="https://github.com/worship93keypad/dinov3"/>
+        <updated>2026-02-25T14:05:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/259578465?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>worship93keypad</name>
+            <email>worship93keypad@noreply.github.com</email>
+            <uri>https://github.com/worship93keypad</uri>
+        </author>
+        <published>2026-02-25T14:03:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gaiadifilippo/Anatomically-Relevant-Frame-Selection-in-Laryngeal-Endoscopy: This repository contains code for classifying laryngeal endoscopic frames as anatomically relevant or not using DINOv3 embeddings and a trainable MLP. Includes interactive Jupyter widgets for active learning annotation to finetune the model to new dataset]]></title>
+        <id>https://github.com/gaiadifilippo/Anatomically-Relevant-Frame-Selection-in-Laryngeal-Endoscopy</id>
+        <link href="https://github.com/gaiadifilippo/Anatomically-Relevant-Frame-Selection-in-Laryngeal-Endoscopy"/>
+        <updated>2026-02-25T13:28:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215035633?v=4" width="64" height="64" alt=""/><br/><div>This repository contains code for classifying laryngeal endoscopic frames as anatomically relevant or not using DINOv3 embeddings and a trainable MLP. Includes interactive Jupyter widgets for active learning annotation to finetune the model to new dataset</div>]]></content>
+        <author>
+            <name>gaiadifilippo</name>
+            <email>gaiadifilippo@noreply.github.com</email>
+            <uri>https://github.com/gaiadifilippo</uri>
+        </author>
+        <published>2026-02-25T11:34:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Killuazyt/ChangVitDinov3: dinoV3  16的适配]]></title>
+        <id>https://github.com/Killuazyt/ChangVitDinov3</id>
+        <link href="https://github.com/Killuazyt/ChangVitDinov3"/>
+        <updated>2026-02-25T12:34:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/67639242?u=dbeef5de4d3e32ecc3c786929417e21429b2c649&v=4" width="64" height="64" alt=""/><br/><div>dinoV3  16的适配</div>]]></content>
+        <author>
+            <name>Killuazyt</name>
+            <email>Killuazyt@noreply.github.com</email>
+            <uri>https://github.com/Killuazyt</uri>
+        </author>
+        <published>2026-02-25T12:05:34.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Thanghuynh2808/Retail-Insight-Pipeline: Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.]]></title>
         <id>https://github.com/Thanghuynh2808/Retail-Insight-Pipeline</id>
         <link href="https://github.com/Thanghuynh2808/Retail-Insight-Pipeline"/>
-        <updated>2026-02-24T23:53:55.000Z</updated>
+        <updated>2026-02-25T08:01:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156525690?u=859091d4e8fe94e40ba8c4ba1324563f3228fda3&v=4" width="64" height="64" alt=""/><br/><div>Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.</div>]]></content>
         <author>
             <name>Thanghuynh2808</name>
@@ -47,32 +125,6 @@
         <published>2026-02-22T10:58:01.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-24T23:24:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
-        <id>https://github.com/Abigail-amk/AI-training</id>
-        <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-02-24T22:34:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
-        <author>
-            <name>Abigail-amk</name>
-            <email>Abigail-amk@noreply.github.com</email>
-            <uri>https://github.com/Abigail-amk</uri>
-        </author>
-        <published>2026-02-15T00:26:11.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[violayhho/DinoX-Ray: Chest X-Ray perception pipeline using DINOv3. Demonstrates lightweight decoders with frozen foundation backbones for both image classification (COVID vs. Healthy) and semantic segmentation (Lung Masking) in PyTorch.]]></title>
         <id>https://github.com/violayhho/DinoX-Ray</id>
         <link href="https://github.com/violayhho/DinoX-Ray"/>
@@ -89,7 +141,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-24T20:19:22.000Z</updated>
+        <updated>2026-02-25T09:36:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -125,19 +177,6 @@
         <published>2025-09-04T02:10:31.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[qqaazz0222/VIRAT: VIRAT is a deep learning project that utilizes a DINOv3-based Transformer model to anatomically align Non-Contrast CT (NCCT) images to Contrast-Enhanced CT (CECT) images, generating spatially registered virtual NCCTs (vNCCT) through contrast-invariant deformation.]]></title>
-        <id>https://github.com/qqaazz0222/VIRAT</id>
-        <link href="https://github.com/qqaazz0222/VIRAT"/>
-        <updated>2026-02-24T07:14:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39234389?u=ae80636b15492f4c8daf4ae3db5b0914b590513d&v=4" width="64" height="64" alt=""/><br/><div>VIRAT is a deep learning project that utilizes a DINOv3-based Transformer model to anatomically align Non-Contrast CT (NCCT) images to Contrast-Enhanced CT (CECT) images, generating spatially registered virtual NCCTs (vNCCT) through contrast-invariant deformation.</div>]]></content>
-        <author>
-            <name>qqaazz0222</name>
-            <email>qqaazz0222@noreply.github.com</email>
-            <uri>https://github.com/qqaazz0222</uri>
-        </author>
-        <published>2026-02-24T03:43:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lrnzslrn83/Few-Shot-Classification-on-LIVECell-using-DINOv3-Embeddings: Questo progetto implementa un framework di few-shot learning per la classificazione di immagini cellulari del dataset LIVECell utilizzando embedding estratti da DINOv3, un Vision Transformer pre-addestrato in modalità self-supervised.]]></title>
         <id>https://github.com/lrnzslrn83/Few-Shot-Classification-on-LIVECell-using-DINOv3-Embeddings</id>
         <link href="https://github.com/lrnzslrn83/Few-Shot-Classification-on-LIVECell-using-DINOv3-Embeddings"/>
@@ -149,19 +188,6 @@
             <uri>https://github.com/lrnzslrn83</uri>
         </author>
         <published>2026-02-23T10:51:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qqaazz0222/VICET: VICET is a deep learning project that utilizes a DINOv3-based Transformer model to virtually generate contrast-enhanced effects similar to Contrast-Enhanced CT (CECT) from Non-Contrast CT (NCCT) images.]]></title>
-        <id>https://github.com/qqaazz0222/VICET</id>
-        <link href="https://github.com/qqaazz0222/VICET"/>
-        <updated>2026-02-23T06:16:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39234389?u=ae80636b15492f4c8daf4ae3db5b0914b590513d&v=4" width="64" height="64" alt=""/><br/><div>VICET is a deep learning project that utilizes a DINOv3-based Transformer model to virtually generate contrast-enhanced effects similar to Contrast-Enhanced CT (CECT) from Non-Contrast CT (NCCT) images.</div>]]></content>
-        <author>
-            <name>qqaazz0222</name>
-            <email>qqaazz0222@noreply.github.com</email>
-            <uri>https://github.com/qqaazz0222</uri>
-        </author>
-        <published>2026-02-18T06:10:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nacho4412gg/nacho4412gg.github.io: 🦖 Explore DINOv3, a state-of-the-art backbone for computer vision models, now integrated with Hugging Face and PyTorch for enhanced performance and flexibility.]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/enot-style</uri>
         </author>
         <published>2026-01-08T21:52:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[grenademeister/mrfm-dino: DINOv3 based MRI foundation model]]></title>
-        <id>https://github.com/grenademeister/mrfm-dino</id>
-        <link href="https://github.com/grenademeister/mrfm-dino"/>
-        <updated>2026-02-20T02:36:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/83631703?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based MRI foundation model</div>]]></content>
-        <author>
-            <name>grenademeister</name>
-            <email>grenademeister@noreply.github.com</email>
-            <uri>https://github.com/grenademeister</uri>
-        </author>
-        <published>2026-02-20T02:36:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jinlab-imvr/DINOv3-FD: [2026 MIDL]"Incentivizing DINOv3 Adaptation for Medical Vision Tasks via Feature Disentanglement"]]></title>
-        <id>https://github.com/jinlab-imvr/DINOv3-FD</id>
-        <link href="https://github.com/jinlab-imvr/DINOv3-FD"/>
-        <updated>2026-02-19T14:17:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/163241502?v=4" width="64" height="64" alt=""/><br/><div>[2026 MIDL]"Incentivizing DINOv3 Adaptation for Medical Vision Tasks via Feature Disentanglement"</div>]]></content>
-        <author>
-            <name>jinlab-imvr</name>
-            <email>jinlab-imvr@noreply.github.com</email>
-            <uri>https://github.com/jinlab-imvr</uri>
-        </author>
-        <published>2025-11-29T12:33:45.000Z</published>
     </entry>
 </feed>
