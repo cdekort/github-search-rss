@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-02-25T23:58:23.000Z",
+            "date_modified": "2026-02-26T22:18:55.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-02-25T23:31:04.000Z",
+            "date_modified": "2026-02-26T21:51:15.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -28,10 +28,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108782764?u=ddbd92505579ca033fb62d41b61d3581b0c48782&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official repository for Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation. (DINOv3)</div>",
+            "url": "https://github.com/yifangao112/DinoUNet",
+            "title": "yifangao112/DinoUNet: Official repository for Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation. (DINOv3)",
+            "date_modified": "2026-02-26T21:07:20.000Z",
+            "date_published": "2025-08-27T23:00:58.000Z",
+            "author": {
+                "name": "yifangao112",
+                "url": "https://github.com/yifangao112"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-02-25T22:18:51.000Z",
+            "date_modified": "2026-02-26T20:50:22.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -39,14 +50,69 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184936763?u=ee4367d047fd9f716f531f26fc96695365e35ac0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fully containerized AI traffic analysis web app using FastAPI, OpenCV, and YOLOv8/DINOv3_convnext_ltdetr_tiny. Orchestrated with Docker Compose for seamless deployment and SQLite persistence.</div>",
+            "url": "https://github.com/Phasurab/Traffic-Analysis-System",
+            "title": "Phasurab/Traffic-Analysis-System: A fully containerized AI traffic analysis web app using FastAPI, OpenCV, and YOLOv8/DINOv3_convnext_ltdetr_tiny. Orchestrated with Docker Compose for seamless deployment and SQLite persistence.",
+            "date_modified": "2026-02-26T19:47:02.000Z",
+            "date_published": "2026-02-26T15:19:03.000Z",
+            "author": {
+                "name": "Phasurab",
+                "url": "https://github.com/Phasurab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79390474?u=d16d3b4a5527a411fa1c5f9cdca549af0ab24172&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder</div>",
+            "url": "https://github.com/LuizScarlet/AEIC",
+            "title": "LuizScarlet/AEIC: [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder",
+            "date_modified": "2026-02-26T12:05:58.000Z",
+            "date_published": "2026-02-26T11:18:03.000Z",
+            "author": {
+                "name": "LuizScarlet",
+                "url": "https://github.com/LuizScarlet"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215035633?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains code for classifying laryngeal endoscopic frames as anatomically relevant or not using DINOv3 embeddings and a trainable MLP. Includes interactive Jupyter widgets for active learning annotation to finetune the model to new dataset</div>",
+            "url": "https://github.com/gaiadifilippo/Anatomically-Relevant-Frame-Selection-in-Laryngeal-Endoscopy",
+            "title": "gaiadifilippo/Anatomically-Relevant-Frame-Selection-in-Laryngeal-Endoscopy: This repository contains code for classifying laryngeal endoscopic frames as anatomically relevant or not using DINOv3 embeddings and a trainable MLP. Includes interactive Jupyter widgets for active learning annotation to finetune the model to new dataset",
+            "date_modified": "2026-02-26T10:43:33.000Z",
+            "date_published": "2026-02-25T11:34:01.000Z",
+            "author": {
+                "name": "gaiadifilippo",
+                "url": "https://github.com/gaiadifilippo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156525690?u=859091d4e8fe94e40ba8c4ba1324563f3228fda3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.</div>",
+            "url": "https://github.com/Thanghuynh2808/Retail-Insight-Pipeline",
+            "title": "Thanghuynh2808/Retail-Insight-Pipeline: Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.",
+            "date_modified": "2026-02-26T05:22:38.000Z",
+            "date_published": "2026-02-03T02:40:51.000Z",
+            "author": {
+                "name": "Thanghuynh2808",
+                "url": "https://github.com/Thanghuynh2808"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146430099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection</div>",
             "url": "https://github.com/BeibeiIsFreshman/DINOv3_SAM",
             "title": "BeibeiIsFreshman/DINOv3_SAM: Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection",
-            "date_modified": "2026-02-25T18:25:52.000Z",
+            "date_modified": "2026-02-26T02:02:09.000Z",
             "date_published": "2025-12-09T06:49:32.000Z",
             "author": {
                 "name": "BeibeiIsFreshman",
                 "url": "https://github.com/BeibeiIsFreshman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-02-26T15:51:18.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -61,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215035633?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains code for classifying laryngeal endoscopic frames as anatomically relevant or not using DINOv3 embeddings and a trainable MLP. Includes interactive Jupyter widgets for active learning annotation to finetune the model to new dataset</div>",
-            "url": "https://github.com/gaiadifilippo/Anatomically-Relevant-Frame-Selection-in-Laryngeal-Endoscopy",
-            "title": "gaiadifilippo/Anatomically-Relevant-Frame-Selection-in-Laryngeal-Endoscopy: This repository contains code for classifying laryngeal endoscopic frames as anatomically relevant or not using DINOv3 embeddings and a trainable MLP. Includes interactive Jupyter widgets for active learning annotation to finetune the model to new dataset",
-            "date_modified": "2026-02-25T13:28:50.000Z",
-            "date_published": "2026-02-25T11:34:01.000Z",
-            "author": {
-                "name": "gaiadifilippo",
-                "url": "https://github.com/gaiadifilippo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67639242?u=dbeef5de4d3e32ecc3c786929417e21429b2c649&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinoV3  16的适配</div>",
             "url": "https://github.com/Killuazyt/ChangVitDinov3",
             "title": "Killuazyt/ChangVitDinov3: dinoV3  16的适配",
@@ -80,17 +135,6 @@
             "author": {
                 "name": "Killuazyt",
                 "url": "https://github.com/Killuazyt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156525690?u=859091d4e8fe94e40ba8c4ba1324563f3228fda3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.</div>",
-            "url": "https://github.com/Thanghuynh2808/Retail-Insight-Pipeline",
-            "title": "Thanghuynh2808/Retail-Insight-Pipeline: Automated Planogram Compliance system for retail shelves. Features: Panorama Stitching, Zero-shot SKU Detection (YOLO, DINOv3, LightGlue), and LLM-powered rule validation. Optimized for large-scale grocery shelf analysis in Vietnam.",
-            "date_modified": "2026-02-25T08:01:54.000Z",
-            "date_published": "2026-02-03T02:40:51.000Z",
-            "author": {
-                "name": "Thanghuynh2808",
-                "url": "https://github.com/Thanghuynh2808"
             }
         },
         {
@@ -113,17 +157,6 @@
             "author": {
                 "name": "violayhho",
                 "url": "https://github.com/violayhho"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-02-25T09:36:27.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "jaychempan",
                 "url": "https://github.com/jaychempan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59263685?u=644171ead2758667b101b888269925d338b05ff4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dinov3 backbone adopted for semantic segmentation.</div>",
-            "url": "https://github.com/ArtemVerbov/Dinov3-For-Semantic-Segmentation",
-            "title": "ArtemVerbov/Dinov3-For-Semantic-Segmentation: Dinov3 backbone adopted for semantic segmentation.",
-            "date_modified": "2026-02-21T14:12:59.000Z",
-            "date_published": "2026-01-25T07:01:47.000Z",
-            "author": {
-                "name": "ArtemVerbov",
-                "url": "https://github.com/ArtemVerbov"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90319800?u=3c3ff160ac34fc527751da1e443dc3c83e3c0a31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A deep learning pipeline for classifying galaxy morphologies from the Galaxy Zoo 2 dataset. It leverages the Hugging Face ecosystem to fine-tune state-of-the-art vision models using Parameter-Efficient Fine-Tuning (PEFT) techniques.</div>",
-            "url": "https://github.com/JordiCan/galaxy_image_classifier",
-            "title": "JordiCan/galaxy_image_classifier: A deep learning pipeline for classifying galaxy morphologies from the Galaxy Zoo 2 dataset. It leverages the Hugging Face ecosystem to fine-tune state-of-the-art vision models using Parameter-Efficient Fine-Tuning (PEFT) techniques.",
-            "date_modified": "2026-02-21T11:49:06.000Z",
-            "date_published": "2025-09-27T12:26:13.000Z",
-            "author": {
-                "name": "JordiCan",
-                "url": "https://github.com/JordiCan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260076530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal FastAPI service for generating image embeddings using Hugging Face Vision Transformer models.</div>",
-            "url": "https://github.com/enot-style/imbeddings",
-            "title": "enot-style/imbeddings: A minimal FastAPI service for generating image embeddings using Hugging Face Vision Transformer models.",
-            "date_modified": "2026-02-20T06:46:07.000Z",
-            "date_published": "2026-01-08T21:52:55.000Z",
-            "author": {
-                "name": "enot-style",
-                "url": "https://github.com/enot-style"
             }
         }
     ]
