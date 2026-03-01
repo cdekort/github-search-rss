@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-02-28T00:25:02.000Z",
+            "date_modified": "2026-03-01T00:33:30.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-02-28T00:01:54.000Z",
+            "date_modified": "2026-03-01T00:10:34.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -31,11 +31,44 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-02-27T23:11:21.000Z",
+            "date_modified": "2026-02-28T23:11:49.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleAICV:pytorch training examples.</div>",
+            "url": "https://github.com/zgcr/SimpleAICV_pytorch_training_examples",
+            "title": "zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.",
+            "date_modified": "2026-02-28T12:37:43.000Z",
+            "date_published": "2020-05-31T05:37:26.000Z",
+            "author": {
+                "name": "zgcr",
+                "url": "https://github.com/zgcr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119516973?u=917229a4ec5343c28a54078b5489b129b10f528d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference</div>",
+            "url": "https://github.com/anastasiia-popova/compressed-medvision-classifier",
+            "title": "anastasiia-popova/compressed-medvision-classifier: Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference",
+            "date_modified": "2026-02-28T11:22:23.000Z",
+            "date_published": "2026-01-26T16:36:46.000Z",
+            "author": {
+                "name": "anastasiia-popova",
+                "url": "https://github.com/anastasiia-popova"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241260634?u=7e8dafcabc11e3eb768a23df29b70229fd3504e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/kumararyan11/DinoV3_Traffic_Sign_Recognition",
+            "title": "kumararyan11/DinoV3_Traffic_Sign_Recognition",
+            "date_modified": "2026-02-28T08:52:34.000Z",
+            "date_published": "2026-02-28T08:20:35.000Z",
+            "author": {
+                "name": "kumararyan11",
+                "url": "https://github.com/kumararyan11"
             }
         },
         {
@@ -64,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184936763?u=ee4367d047fd9f716f531f26fc96695365e35ac0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fully containerized AI traffic analysis web app using FastAPI, OpenCV, and YOLOv8/DINOv3_convnext_ltdetr_tiny. Orchestrated with Docker Compose for seamless deployment and SQLite persistence.</div>",
             "url": "https://github.com/Phasurab/Traffic-Analysis-System",
             "title": "Phasurab/Traffic-Analysis-System: A fully containerized AI traffic analysis web app using FastAPI, OpenCV, and YOLOv8/DINOv3_convnext_ltdetr_tiny. Orchestrated with Docker Compose for seamless deployment and SQLite persistence.",
-            "date_modified": "2026-02-27T14:07:50.000Z",
+            "date_modified": "2026-02-28T03:04:13.000Z",
             "date_published": "2026-02-26T15:19:03.000Z",
             "author": {
                 "name": "Phasurab",
@@ -130,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-02-27T15:58:54.000Z",
+            "date_modified": "2026-02-28T05:24:23.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "jseobyun",
                 "url": "https://github.com/jseobyun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53433086?u=165b43703aaa3163f65d4093a90f6ac2ce9473f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 based face parsing network</div>",
-            "url": "https://github.com/jseobyun/FaceParsing",
-            "title": "jseobyun/FaceParsing: DINOv3 based face parsing network",
-            "date_modified": "2026-02-24T07:20:19.000Z",
-            "date_published": "2025-09-04T02:10:31.000Z",
-            "author": {
-                "name": "jseobyun",
-                "url": "https://github.com/jseobyun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200913309?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Questo progetto implementa un framework di few-shot learning per la classificazione di immagini cellulari del dataset LIVECell utilizzando embedding estratti da DINOv3, un Vision Transformer pre-addestrato in modalità self-supervised.</div>",
-            "url": "https://github.com/lrnzslrn83/Few-Shot-Classification-on-LIVECell-using-DINOv3-Embeddings",
-            "title": "lrnzslrn83/Few-Shot-Classification-on-LIVECell-using-DINOv3-Embeddings: Questo progetto implementa un framework di few-shot learning per la classificazione di immagini cellulari del dataset LIVECell utilizzando embedding estratti da DINOv3, un Vision Transformer pre-addestrato in modalità self-supervised.",
-            "date_modified": "2026-02-23T11:03:36.000Z",
-            "date_published": "2026-02-23T10:51:59.000Z",
-            "author": {
-                "name": "lrnzslrn83",
-                "url": "https://github.com/lrnzslrn83"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦖 Explore DINOv3, a state-of-the-art backbone for computer vision models, now integrated with Hugging Face and PyTorch for enhanced performance and flexibility.</div>",
-            "url": "https://github.com/Nacho4412gg/nacho4412gg.github.io",
-            "title": "Nacho4412gg/nacho4412gg.github.io: 🦖 Explore DINOv3, a state-of-the-art backbone for computer vision models, now integrated with Hugging Face and PyTorch for enhanced performance and flexibility.",
-            "date_modified": "2026-02-22T19:04:07.000Z",
-            "date_published": "2026-01-11T18:30:14.000Z",
-            "author": {
-                "name": "Nacho4412gg",
-                "url": "https://github.com/Nacho4412gg"
             }
         }
     ]
