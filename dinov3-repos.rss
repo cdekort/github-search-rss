@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-03-01T00:36:47.954Z</updated>
+    <updated>2026-03-02T00:32:21.537Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-03-02T00:23:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-03-01T00:33:30.000Z</updated>
+        <updated>2026-03-01T23:38:03.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -24,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-03-01T00:10:34.000Z</updated>
+        <updated>2026-03-01T23:15:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -34,17 +47,56 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-02-28T23:11:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <title type="html"><![CDATA[vfph55/DINOv3_cls: single cell image classification using DINOv3. ]]></title>
+        <id>https://github.com/vfph55/DINOv3_cls</id>
+        <link href="https://github.com/vfph55/DINOv3_cls"/>
+        <updated>2026-03-01T19:22:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/166525303?v=4" width="64" height="64" alt=""/><br/><div>single cell image classification using DINOv3. </div>]]></content>
         <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
+            <name>vfph55</name>
+            <email>vfph55@noreply.github.com</email>
+            <uri>https://github.com/vfph55</uri>
         </author>
-        <published>2020-05-31T11:42:52.000Z</published>
+        <published>2025-10-28T03:21:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krish-mal15/DINOv3-Surgical-Finetuning: Stanford SIMI Lab Pituitary Adenoma Project]]></title>
+        <id>https://github.com/Krish-mal15/DINOv3-Surgical-Finetuning</id>
+        <link href="https://github.com/Krish-mal15/DINOv3-Surgical-Finetuning"/>
+        <updated>2026-03-01T15:55:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156712020?v=4" width="64" height="64" alt=""/><br/><div>Stanford SIMI Lab Pituitary Adenoma Project</div>]]></content>
+        <author>
+            <name>Krish-mal15</name>
+            <email>Krish-mal15@noreply.github.com</email>
+            <uri>https://github.com/Krish-mal15</uri>
+        </author>
+        <published>2026-03-01T15:49:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-03-01T21:00:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kumararyan11/DinoV3_Traffic_Sign_Recognition]]></title>
+        <id>https://github.com/kumararyan11/DinoV3_Traffic_Sign_Recognition</id>
+        <link href="https://github.com/kumararyan11/DinoV3_Traffic_Sign_Recognition"/>
+        <updated>2026-03-01T05:58:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241260634?u=7e8dafcabc11e3eb768a23df29b70229fd3504e3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>kumararyan11</name>
+            <email>kumararyan11@noreply.github.com</email>
+            <uri>https://github.com/kumararyan11</uri>
+        </author>
+        <published>2026-02-28T08:20:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
@@ -71,19 +123,6 @@
             <uri>https://github.com/anastasiia-popova</uri>
         </author>
         <published>2026-01-26T16:36:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kumararyan11/DinoV3_Traffic_Sign_Recognition]]></title>
-        <id>https://github.com/kumararyan11/DinoV3_Traffic_Sign_Recognition</id>
-        <link href="https://github.com/kumararyan11/DinoV3_Traffic_Sign_Recognition"/>
-        <updated>2026-02-28T08:52:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241260634?u=7e8dafcabc11e3eb768a23df29b70229fd3504e3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>kumararyan11</name>
-            <email>kumararyan11@noreply.github.com</email>
-            <uri>https://github.com/kumararyan11</uri>
-        </author>
-        <published>2026-02-28T08:20:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[eerdil/spatial-ar-dinov3-uad]]></title>
@@ -190,19 +229,6 @@
         <published>2025-12-09T06:49:32.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-02-28T05:24:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[worship93keypad/dinov3]]></title>
         <id>https://github.com/worship93keypad/dinov3</id>
         <link href="https://github.com/worship93keypad/dinov3"/>
@@ -240,31 +266,5 @@
             <uri>https://github.com/pierrelgol</uri>
         </author>
         <published>2026-02-22T10:58:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[violayhho/DinoX-Ray: Chest X-Ray perception pipeline using DINOv3. Demonstrates lightweight decoders with frozen foundation backbones for both image classification (COVID vs. Healthy) and semantic segmentation (Lung Masking) in PyTorch.]]></title>
-        <id>https://github.com/violayhho/DinoX-Ray</id>
-        <link href="https://github.com/violayhho/DinoX-Ray"/>
-        <updated>2026-02-24T20:15:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143129517?u=08c01ddda9b18b64df039f0ac35a626c7a65c38d&v=4" width="64" height="64" alt=""/><br/><div>Chest X-Ray perception pipeline using DINOv3. Demonstrates lightweight decoders with frozen foundation backbones for both image classification (COVID vs. Healthy) and semantic segmentation (Lung Masking) in PyTorch.</div>]]></content>
-        <author>
-            <name>violayhho</name>
-            <email>violayhho@noreply.github.com</email>
-            <uri>https://github.com/violayhho</uri>
-        </author>
-        <published>2026-02-24T20:08:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jseobyun/FaceDepth: DINOv3 based head depth estimation]]></title>
-        <id>https://github.com/jseobyun/FaceDepth</id>
-        <link href="https://github.com/jseobyun/FaceDepth"/>
-        <updated>2026-02-24T08:52:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53433086?u=165b43703aaa3163f65d4093a90f6ac2ce9473f1&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 based head depth estimation</div>]]></content>
-        <author>
-            <name>jseobyun</name>
-            <email>jseobyun@noreply.github.com</email>
-            <uri>https://github.com/jseobyun</uri>
-        </author>
-        <published>2025-09-15T09:13:54.000Z</published>
     </entry>
 </feed>
