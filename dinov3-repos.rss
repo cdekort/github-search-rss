@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-03-02T00:32:21.537Z</updated>
+    <updated>2026-03-03T00:33:22.144Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-03-02T00:23:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-03-01T23:38:03.000Z</updated>
+        <updated>2026-03-03T00:23:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -37,7 +24,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-03-01T23:15:57.000Z</updated>
+        <updated>2026-03-03T00:00:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -45,6 +32,84 @@
             <uri>https://github.com/Nacho4412gg</uri>
         </author>
         <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-03-02T23:09:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANKULLUKAN/DINOv3_segmentation]]></title>
+        <id>https://github.com/ANKULLUKAN/DINOv3_segmentation</id>
+        <link href="https://github.com/ANKULLUKAN/DINOv3_segmentation"/>
+        <updated>2026-03-02T22:17:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/161634548?u=874d1159e6d5b65452d6de3af8afddef6804f529&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ANKULLUKAN</name>
+            <email>ANKULLUKAN@noreply.github.com</email>
+            <uri>https://github.com/ANKULLUKAN</uri>
+        </author>
+        <published>2026-03-02T22:03:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-03-02T17:35:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vincentamato/MLXDINOv3: A Swift implementation of Meta’s DINOv3 using MLX Swift.]]></title>
+        <id>https://github.com/vincentamato/MLXDINOv3</id>
+        <link href="https://github.com/vincentamato/MLXDINOv3"/>
+        <updated>2026-03-02T16:28:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31809647?u=ab78afa2c45862f82b343ff36be4fb1e3d0bb7f3&v=4" width="64" height="64" alt=""/><br/><div>A Swift implementation of Meta’s DINOv3 using MLX Swift.</div>]]></content>
+        <author>
+            <name>vincentamato</name>
+            <email>vincentamato@noreply.github.com</email>
+            <uri>https://github.com/vincentamato</uri>
+        </author>
+        <published>2025-11-13T00:07:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation]]></title>
+        <id>https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation</id>
+        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation"/>
+        <updated>2026-03-02T11:23:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>GIS-Remote-Sensing-Goettingen</name>
+            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
+            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
+        </author>
+        <published>2026-02-02T13:58:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phasurab/Traffic-Analysis-System: A fully containerized AI traffic analysis web app using FastAPI, OpenCV, and YOLOv8/DINOv3_convnext_ltdetr_tiny. Orchestrated with Docker Compose for seamless deployment and SQLite persistence.]]></title>
+        <id>https://github.com/Phasurab/Traffic-Analysis-System</id>
+        <link href="https://github.com/Phasurab/Traffic-Analysis-System"/>
+        <updated>2026-03-02T08:17:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/184936763?u=ee4367d047fd9f716f531f26fc96695365e35ac0&v=4" width="64" height="64" alt=""/><br/><div>A fully containerized AI traffic analysis web app using FastAPI, OpenCV, and YOLOv8/DINOv3_convnext_ltdetr_tiny. Orchestrated with Docker Compose for seamless deployment and SQLite persistence.</div>]]></content>
+        <author>
+            <name>Phasurab</name>
+            <email>Phasurab@noreply.github.com</email>
+            <uri>https://github.com/Phasurab</uri>
+        </author>
+        <published>2026-02-26T15:19:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[vfph55/DINOv3_cls: single cell image classification using DINOv3. ]]></title>
@@ -73,19 +138,6 @@
         <published>2026-03-01T15:49:18.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-03-01T21:00:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[kumararyan11/DinoV3_Traffic_Sign_Recognition]]></title>
         <id>https://github.com/kumararyan11/DinoV3_Traffic_Sign_Recognition</id>
         <link href="https://github.com/kumararyan11/DinoV3_Traffic_Sign_Recognition"/>
@@ -102,7 +154,7 @@
         <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
         <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
         <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
-        <updated>2026-02-28T12:37:43.000Z</updated>
+        <updated>2026-03-02T08:42:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
         <author>
             <name>zgcr</name>
@@ -151,23 +203,10 @@
         <published>2026-01-09T14:29:54.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phasurab/Traffic-Analysis-System: A fully containerized AI traffic analysis web app using FastAPI, OpenCV, and YOLOv8/DINOv3_convnext_ltdetr_tiny. Orchestrated with Docker Compose for seamless deployment and SQLite persistence.]]></title>
-        <id>https://github.com/Phasurab/Traffic-Analysis-System</id>
-        <link href="https://github.com/Phasurab/Traffic-Analysis-System"/>
-        <updated>2026-02-28T03:04:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/184936763?u=ee4367d047fd9f716f531f26fc96695365e35ac0&v=4" width="64" height="64" alt=""/><br/><div>A fully containerized AI traffic analysis web app using FastAPI, OpenCV, and YOLOv8/DINOv3_convnext_ltdetr_tiny. Orchestrated with Docker Compose for seamless deployment and SQLite persistence.</div>]]></content>
-        <author>
-            <name>Phasurab</name>
-            <email>Phasurab@noreply.github.com</email>
-            <uri>https://github.com/Phasurab</uri>
-        </author>
-        <published>2026-02-26T15:19:03.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[yifangao112/DinoUNet: Official repository for Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation. (DINOv3)]]></title>
         <id>https://github.com/yifangao112/DinoUNet</id>
         <link href="https://github.com/yifangao112/DinoUNet"/>
-        <updated>2026-02-26T21:07:20.000Z</updated>
+        <updated>2026-03-03T00:13:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108782764?u=ddbd92505579ca033fb62d41b61d3581b0c48782&v=4" width="64" height="64" alt=""/><br/><div>Official repository for Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation. (DINOv3)</div>]]></content>
         <author>
             <name>yifangao112</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/BeibeiIsFreshman</uri>
         </author>
         <published>2025-12-09T06:49:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[worship93keypad/dinov3]]></title>
-        <id>https://github.com/worship93keypad/dinov3</id>
-        <link href="https://github.com/worship93keypad/dinov3"/>
-        <updated>2026-02-25T14:05:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/259578465?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>worship93keypad</name>
-            <email>worship93keypad@noreply.github.com</email>
-            <uri>https://github.com/worship93keypad</uri>
-        </author>
-        <published>2026-02-25T14:03:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Killuazyt/ChangVitDinov3: dinoV3  16的适配]]></title>
-        <id>https://github.com/Killuazyt/ChangVitDinov3</id>
-        <link href="https://github.com/Killuazyt/ChangVitDinov3"/>
-        <updated>2026-02-25T12:34:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/67639242?u=dbeef5de4d3e32ecc3c786929417e21429b2c649&v=4" width="64" height="64" alt=""/><br/><div>dinoV3  16的适配</div>]]></content>
-        <author>
-            <name>Killuazyt</name>
-            <email>Killuazyt@noreply.github.com</email>
-            <uri>https://github.com/Killuazyt</uri>
-        </author>
-        <published>2026-02-25T12:05:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pierrelgol/tea-ai: DinoV3-Yolo26-Pipeline]]></title>
-        <id>https://github.com/pierrelgol/tea-ai</id>
-        <link href="https://github.com/pierrelgol/tea-ai"/>
-        <updated>2026-02-24T23:30:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119697612?u=37a68a08bbf84ef9c713ac3f5ae7f32998c2e54e&v=4" width="64" height="64" alt=""/><br/><div>DinoV3-Yolo26-Pipeline</div>]]></content>
-        <author>
-            <name>pierrelgol</name>
-            <email>pierrelgol@noreply.github.com</email>
-            <uri>https://github.com/pierrelgol</uri>
-        </author>
-        <published>2026-02-22T10:58:01.000Z</published>
     </entry>
 </feed>
