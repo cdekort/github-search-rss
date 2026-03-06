@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-03-05T00:32:55.192Z</updated>
+    <updated>2026-03-06T00:36:28.058Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[nshepperd/dinov3-jax]]></title>
-        <id>https://github.com/nshepperd/dinov3-jax</id>
-        <link href="https://github.com/nshepperd/dinov3-jax"/>
-        <updated>2026-03-04T23:24:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/406019?u=81b7778839b8a6436195e182cb3ed008b3b640d0&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[ryanlai666/PCB-Defect-CV-Benchmark: PCB-Defect CV benchmark: A comprehensive PyTorch evaluation benchmark comparing 6 state-of-the-art computer vision models (Faster R-CNN, ViT-Det, SME-YOLO, YOLO26, RT-DETR, DEIMv2/DINOv3) for real-time Printed Circuit Board (DeepPCB) defect detection.]]></title>
+        <id>https://github.com/ryanlai666/PCB-Defect-CV-Benchmark</id>
+        <link href="https://github.com/ryanlai666/PCB-Defect-CV-Benchmark"/>
+        <updated>2026-03-06T00:03:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99899065?v=4" width="64" height="64" alt=""/><br/><div>PCB-Defect CV benchmark: A comprehensive PyTorch evaluation benchmark comparing 6 state-of-the-art computer vision models (Faster R-CNN, ViT-Det, SME-YOLO, YOLO26, RT-DETR, DEIMv2/DINOv3) for real-time Printed Circuit Board (DeepPCB) defect detection.</div>]]></content>
         <author>
-            <name>nshepperd</name>
-            <email>nshepperd@noreply.github.com</email>
-            <uri>https://github.com/nshepperd</uri>
+            <name>ryanlai666</name>
+            <email>ryanlai666@noreply.github.com</email>
+            <uri>https://github.com/ryanlai666</uri>
         </author>
-        <published>2026-03-04T07:52:59.000Z</published>
+        <published>2026-03-05T21:38:27.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-03-04T22:50:04.000Z</updated>
+        <updated>2026-03-05T23:33:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -37,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-03-04T22:25:40.000Z</updated>
+        <updated>2026-03-05T23:11:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -50,7 +50,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-03-04T21:30:24.000Z</updated>
+        <updated>2026-03-05T22:21:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -60,10 +60,49 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[imdtouch/dinomaly: Optimized Dinomaly (CVPR 2025) with DINOv3 encoder for anomaly detection on MVTec AD]]></title>
+        <id>https://github.com/imdtouch/dinomaly</id>
+        <link href="https://github.com/imdtouch/dinomaly"/>
+        <updated>2026-03-05T16:55:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/253612686?v=4" width="64" height="64" alt=""/><br/><div>Optimized Dinomaly (CVPR 2025) with DINOv3 encoder for anomaly detection on MVTec AD</div>]]></content>
+        <author>
+            <name>imdtouch</name>
+            <email>imdtouch@noreply.github.com</email>
+            <uri>https://github.com/imdtouch</uri>
+        </author>
+        <published>2026-03-05T16:55:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-03-05T16:41:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gtom-pandas/image2biomass: My solution for Kaggle CSIRO Image2Biomass Challenge]]></title>
+        <id>https://github.com/gtom-pandas/image2biomass</id>
+        <link href="https://github.com/gtom-pandas/image2biomass"/>
+        <updated>2026-03-05T11:27:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/228737540?u=7df296779ddf735d9c87f5de6a614b569ec88c5d&v=4" width="64" height="64" alt=""/><br/><div>My solution for Kaggle CSIRO Image2Biomass Challenge</div>]]></content>
+        <author>
+            <name>gtom-pandas</name>
+            <email>gtom-pandas@noreply.github.com</email>
+            <uri>https://github.com/gtom-pandas</uri>
+        </author>
+        <published>2026-02-03T19:24:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SpAcY001/Deep-DSGG: Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.]]></title>
         <id>https://github.com/SpAcY001/Deep-DSGG</id>
         <link href="https://github.com/SpAcY001/Deep-DSGG"/>
-        <updated>2026-03-04T15:36:41.000Z</updated>
+        <updated>2026-03-05T07:23:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86396329?v=4" width="64" height="64" alt=""/><br/><div>Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.</div>]]></content>
         <author>
             <name>SpAcY001</name>
@@ -71,6 +110,19 @@
             <uri>https://github.com/SpAcY001</uri>
         </author>
         <published>2026-03-04T15:24:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nshepperd/dinov3-jax]]></title>
+        <id>https://github.com/nshepperd/dinov3-jax</id>
+        <link href="https://github.com/nshepperd/dinov3-jax"/>
+        <updated>2026-03-04T23:24:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/406019?u=81b7778839b8a6436195e182cb3ed008b3b640d0&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>nshepperd</name>
+            <email>nshepperd@noreply.github.com</email>
+            <uri>https://github.com/nshepperd</uri>
+        </author>
+        <published>2026-03-04T07:52:59.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[etornam45/mlx_dinov3: This is an implemetation of Dinov3 for mlx. the model is from Meta]]></title>
@@ -110,32 +162,6 @@
             <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
         </author>
         <published>2026-02-02T13:58:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gtom-pandas/image2biomass: My solution for Kaggle CSIRO Image2Biomass Challenge]]></title>
-        <id>https://github.com/gtom-pandas/image2biomass</id>
-        <link href="https://github.com/gtom-pandas/image2biomass"/>
-        <updated>2026-03-04T07:46:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/228737540?u=7df296779ddf735d9c87f5de6a614b569ec88c5d&v=4" width="64" height="64" alt=""/><br/><div>My solution for Kaggle CSIRO Image2Biomass Challenge</div>]]></content>
-        <author>
-            <name>gtom-pandas</name>
-            <email>gtom-pandas@noreply.github.com</email>
-            <uri>https://github.com/gtom-pandas</uri>
-        </author>
-        <published>2026-02-03T19:24:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-03-04T03:22:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[eerdil/spatial-ar-dinov3-uad]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/Krish-mal15</uri>
         </author>
         <published>2026-03-01T15:49:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
-        <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
-        <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
-        <updated>2026-03-02T08:42:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
-        <author>
-            <name>zgcr</name>
-            <email>zgcr@noreply.github.com</email>
-            <uri>https://github.com/zgcr</uri>
-        </author>
-        <published>2020-05-31T05:37:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[anastasiia-popova/compressed-medvision-classifier: Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference]]></title>
-        <id>https://github.com/anastasiia-popova/compressed-medvision-classifier</id>
-        <link href="https://github.com/anastasiia-popova/compressed-medvision-classifier"/>
-        <updated>2026-02-28T11:22:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119516973?u=917229a4ec5343c28a54078b5489b129b10f528d&v=4" width="64" height="64" alt=""/><br/><div>Post-training INT8 quantization and pruning for a DINOv3 ConvNeXt-Tiny MedMNIST classifier, optimized for CPU inference</div>]]></content>
-        <author>
-            <name>anastasiia-popova</name>
-            <email>anastasiia-popova@noreply.github.com</email>
-            <uri>https://github.com/anastasiia-popova</uri>
-        </author>
-        <published>2026-01-26T16:36:46.000Z</published>
     </entry>
 </feed>
