@@ -6,21 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-03-07T23:44:58.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an implemetation of Dinov3 for mlx. the model is from Meta</div>",
+            "url": "https://github.com/etornam45/mlx_dinov3",
+            "title": "etornam45/mlx_dinov3: This is an implemetation of Dinov3 for mlx. the model is from Meta",
+            "date_modified": "2026-03-09T00:17:47.000Z",
+            "date_published": "2026-03-04T01:04:12.000Z",
             "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
+                "name": "etornam45",
+                "url": "https://github.com/etornam45"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-03-07T20:10:39.000Z",
+            "date_modified": "2026-03-09T00:06:02.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-03-07T19:47:54.000Z",
+            "date_modified": "2026-03-08T23:42:00.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -39,11 +39,44 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-03-08T22:50:06.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113121134?u=fb9fe71e66890988f2aa9b1b88ffb5e50bb360ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>关于视觉大模型特征比较的实验。对比模型为DINOv3和CLIP，在SMVS、DISC21上比对图像检索任务。</div>",
+            "url": "https://github.com/Dioxane123/featureCompare",
+            "title": "Dioxane123/featureCompare: 关于视觉大模型特征比较的实验。对比模型为DINOv3和CLIP，在SMVS、DISC21上比对图像检索任务。",
+            "date_modified": "2026-03-08T15:25:55.000Z",
+            "date_published": "2026-01-18T09:10:57.000Z",
+            "author": {
+                "name": "Dioxane123",
+                "url": "https://github.com/Dioxane123"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/406019?u=81b7778839b8a6436195e182cb3ed008b3b640d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nshepperd/dinov3-jax",
+            "title": "nshepperd/dinov3-jax",
+            "date_modified": "2026-03-08T14:57:01.000Z",
+            "date_published": "2026-03-04T07:52:59.000Z",
+            "author": {
+                "name": "nshepperd",
+                "url": "https://github.com/nshepperd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178766753?u=4ca07d928af4333f4d356bb1ae116e61322df9da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Predicting pasture biomass from field photos using SigLIP embeddings, DINOv3 fine-tuning, and a learned stacking gate - Kaggle CSIRO competition</div>",
             "url": "https://github.com/HaveBlue-A/CSIRO-image2biomass",
             "title": "HaveBlue-A/CSIRO-image2biomass: Predicting pasture biomass from field photos using SigLIP embeddings, DINOv3 fine-tuning, and a learned stacking gate - Kaggle CSIRO competition",
-            "date_modified": "2026-03-07T16:51:54.000Z",
-            "date_published": "2026-03-07T16:06:40.000Z",
+            "date_modified": "2026-03-08T08:48:40.000Z",
+            "date_published": "2026-03-08T08:46:46.000Z",
             "author": {
                 "name": "HaveBlue-A",
                 "url": "https://github.com/HaveBlue-A"
@@ -97,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-03-06T19:07:14.000Z",
+            "date_modified": "2026-03-08T16:13:00.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -119,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65398844?u=c62d3c847068a2e476b71fd89d8add7eef4b3f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation</div>",
             "url": "https://github.com/wleilei/OV-DEIM",
             "title": "wleilei/OV-DEIM: [OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation",
-            "date_modified": "2026-03-07T08:06:33.000Z",
+            "date_modified": "2026-03-08T09:11:51.000Z",
             "date_published": "2026-03-02T07:23:29.000Z",
             "author": {
                 "name": "wleilei",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "imdtouch",
                 "url": "https://github.com/imdtouch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228737540?u=7df296779ddf735d9c87f5de6a614b569ec88c5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My solution for Kaggle CSIRO Image2Biomass Challenge</div>",
-            "url": "https://github.com/gtom-pandas/image2biomass",
-            "title": "gtom-pandas/image2biomass: My solution for Kaggle CSIRO Image2Biomass Challenge",
-            "date_modified": "2026-03-05T11:27:19.000Z",
-            "date_published": "2026-02-03T19:24:51.000Z",
-            "author": {
-                "name": "gtom-pandas",
-                "url": "https://github.com/gtom-pandas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86396329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.</div>",
-            "url": "https://github.com/SpAcY001/Deep-DSGG",
-            "title": "SpAcY001/Deep-DSGG: Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.",
-            "date_modified": "2026-03-05T07:23:54.000Z",
-            "date_published": "2026-03-04T15:24:47.000Z",
-            "author": {
-                "name": "SpAcY001",
-                "url": "https://github.com/SpAcY001"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/406019?u=81b7778839b8a6436195e182cb3ed008b3b640d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nshepperd/dinov3-jax",
-            "title": "nshepperd/dinov3-jax",
-            "date_modified": "2026-03-04T23:24:32.000Z",
-            "date_published": "2026-03-04T07:52:59.000Z",
-            "author": {
-                "name": "nshepperd",
-                "url": "https://github.com/nshepperd"
             }
         }
     ]
