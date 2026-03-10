@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an implemetation of Dinov3 for mlx. the model is from Meta</div>",
-            "url": "https://github.com/etornam45/mlx_dinov3",
-            "title": "etornam45/mlx_dinov3: This is an implemetation of Dinov3 for mlx. the model is from Meta",
-            "date_modified": "2026-03-09T00:17:47.000Z",
-            "date_published": "2026-03-04T01:04:12.000Z",
-            "author": {
-                "name": "etornam45",
-                "url": "https://github.com/etornam45"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-03-09T00:06:02.000Z",
+            "date_modified": "2026-03-09T22:53:36.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-03-08T23:42:00.000Z",
+            "date_modified": "2026-03-09T22:30:13.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -42,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-03-08T22:50:06.000Z",
+            "date_modified": "2026-03-09T21:37:40.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -50,14 +39,102 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleAICV:pytorch training examples.</div>",
+            "url": "https://github.com/zgcr/SimpleAICV_pytorch_training_examples",
+            "title": "zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.",
+            "date_modified": "2026-03-09T14:35:35.000Z",
+            "date_published": "2020-05-31T05:37:26.000Z",
+            "author": {
+                "name": "zgcr",
+                "url": "https://github.com/zgcr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-03-09T14:23:54.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113121134?u=fb9fe71e66890988f2aa9b1b88ffb5e50bb360ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>关于视觉大模型特征比较的实验。对比模型为DINOv3和CLIP，在SMVS、DISC21上比对图像检索任务。</div>",
             "url": "https://github.com/Dioxane123/featureCompare",
             "title": "Dioxane123/featureCompare: 关于视觉大模型特征比较的实验。对比模型为DINOv3和CLIP，在SMVS、DISC21上比对图像检索任务。",
-            "date_modified": "2026-03-08T15:25:55.000Z",
+            "date_modified": "2026-03-09T14:17:53.000Z",
             "date_published": "2026-01-18T09:10:57.000Z",
             "author": {
                 "name": "Dioxane123",
                 "url": "https://github.com/Dioxane123"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124685020?u=a9c7c62e3a41fcae3eb25be14cf7a1e51e92c24c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/RottenAppleBUAA/Teeth_dinov3_mmpose",
+            "title": "RottenAppleBUAA/Teeth_dinov3_mmpose",
+            "date_modified": "2026-03-09T14:12:59.000Z",
+            "date_published": "2026-03-09T07:44:07.000Z",
+            "author": {
+                "name": "RottenAppleBUAA",
+                "url": "https://github.com/RottenAppleBUAA"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
+            "title": "GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
+            "date_modified": "2026-03-09T12:13:06.000Z",
+            "date_published": "2026-01-26T13:43:19.000Z",
+            "author": {
+                "name": "GIS-Remote-Sensing-Goettingen",
+                "url": "https://github.com/GIS-Remote-Sensing-Goettingen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215585245?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yoga666996/dinov3",
+            "title": "yoga666996/dinov3",
+            "date_modified": "2026-03-09T07:03:28.000Z",
+            "date_published": "2025-08-15T14:45:55.000Z",
+            "author": {
+                "name": "yoga666996",
+                "url": "https://github.com/yoga666996"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78217505?u=59afd41ea1471eba52e373419c8dee50cffce37c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zhaoshuo1223/rf-detr-dinov3",
+            "title": "zhaoshuo1223/rf-detr-dinov3",
+            "date_modified": "2026-03-09T06:17:14.000Z",
+            "date_published": "2026-03-09T06:16:02.000Z",
+            "author": {
+                "name": "zhaoshuo1223",
+                "url": "https://github.com/zhaoshuo1223"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145271671?u=ef65cafc0fb9d6011bbc661ebf2914a3682624d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/691292605/DINOv3_PSPNet",
+            "title": "691292605/DINOv3_PSPNet",
+            "date_modified": "2026-03-09T01:28:11.000Z",
+            "date_published": "2026-03-06T05:15:23.000Z",
+            "author": {
+                "name": "691292605",
+                "url": "https://github.com/691292605"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an implemetation of Dinov3 for mlx. the model is from Meta</div>",
+            "url": "https://github.com/etornam45/mlx_dinov3",
+            "title": "etornam45/mlx_dinov3: This is an implemetation of Dinov3 for mlx. the model is from Meta",
+            "date_modified": "2026-03-09T00:17:47.000Z",
+            "date_published": "2026-03-04T01:04:12.000Z",
+            "author": {
+                "name": "etornam45",
+                "url": "https://github.com/etornam45"
             }
         },
         {
@@ -119,22 +196,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18535373?u=3ca95f84c29e5bfabaf63fcd11eca6cf4a32d345&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[ICLR 2026] The implementation of the paper Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors</div>",
             "url": "https://github.com/ymxlzgy/FoundAD",
             "title": "ymxlzgy/FoundAD: [ICLR 2026] The implementation of the paper Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors",
-            "date_modified": "2026-03-06T14:11:15.000Z",
+            "date_modified": "2026-03-09T07:18:27.000Z",
             "date_published": "2025-08-15T12:28:54.000Z",
             "author": {
                 "name": "ymxlzgy",
                 "url": "https://github.com/ymxlzgy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-03-08T16:13:00.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "wleilei",
                 "url": "https://github.com/wleilei"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145271671?u=ef65cafc0fb9d6011bbc661ebf2914a3682624d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/691292605/DINOv3_PSPNet",
-            "title": "691292605/DINOv3_PSPNet",
-            "date_modified": "2026-03-06T10:40:13.000Z",
-            "date_published": "2026-03-06T05:15:23.000Z",
-            "author": {
-                "name": "691292605",
-                "url": "https://github.com/691292605"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11711303?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TorchTitan playground for distributed training with NanoGPT and DINOv3 SSL pre-training examples.</div>",
-            "url": "https://github.com/Roulbac/titanpg",
-            "title": "Roulbac/titanpg: TorchTitan playground for distributed training with NanoGPT and DINOv3 SSL pre-training examples.",
-            "date_modified": "2026-03-07T08:20:37.000Z",
-            "date_published": "2026-02-17T13:14:16.000Z",
-            "author": {
-                "name": "Roulbac",
-                "url": "https://github.com/Roulbac"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>From Misclassification to Outliers: Joint Reliability Assessment in Classification</div>",
-            "url": "https://github.com/Intellindust-AI-Lab/SUREPlus",
-            "title": "Intellindust-AI-Lab/SUREPlus: From Misclassification to Outliers: Joint Reliability Assessment in Classification",
-            "date_modified": "2026-03-06T15:43:39.000Z",
-            "date_published": "2025-10-28T03:23:29.000Z",
-            "author": {
-                "name": "Intellindust-AI-Lab",
-                "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99899065?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PCB-Defect CV benchmark: A comprehensive PyTorch evaluation benchmark comparing 6 state-of-the-art computer vision models (Faster R-CNN, ViT-Det, SME-YOLO, YOLO26, RT-DETR, DEIMv2/DINOv3) for real-time Printed Circuit Board (DeepPCB) defect detection.</div>",
-            "url": "https://github.com/ryanlai666/PCB-Defect-CV-Benchmark",
-            "title": "ryanlai666/PCB-Defect-CV-Benchmark: PCB-Defect CV benchmark: A comprehensive PyTorch evaluation benchmark comparing 6 state-of-the-art computer vision models (Faster R-CNN, ViT-Det, SME-YOLO, YOLO26, RT-DETR, DEIMv2/DINOv3) for real-time Printed Circuit Board (DeepPCB) defect detection.",
-            "date_modified": "2026-03-06T00:03:40.000Z",
-            "date_published": "2026-03-05T21:38:27.000Z",
-            "author": {
-                "name": "ryanlai666",
-                "url": "https://github.com/ryanlai666"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109537572?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.</div>",
-            "url": "https://github.com/Pavan-Naga-207/DSGG",
-            "title": "Pavan-Naga-207/DSGG: Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.",
-            "date_modified": "2026-03-06T01:14:12.000Z",
-            "date_published": "2026-03-05T19:05:00.000Z",
-            "author": {
-                "name": "Pavan-Naga-207",
-                "url": "https://github.com/Pavan-Naga-207"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/253612686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Optimized Dinomaly (CVPR 2025) with DINOv3 encoder for anomaly detection on MVTec AD</div>",
-            "url": "https://github.com/imdtouch/dinomaly",
-            "title": "imdtouch/dinomaly: Optimized Dinomaly (CVPR 2025) with DINOv3 encoder for anomaly detection on MVTec AD",
-            "date_modified": "2026-03-05T16:55:23.000Z",
-            "date_published": "2026-03-05T16:55:12.000Z",
-            "author": {
-                "name": "imdtouch",
-                "url": "https://github.com/imdtouch"
             }
         }
     ]

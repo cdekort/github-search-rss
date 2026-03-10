@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-03-09T00:32:55.457Z</updated>
+    <updated>2026-03-10T00:29:41.894Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[etornam45/mlx_dinov3: This is an implemetation of Dinov3 for mlx. the model is from Meta]]></title>
-        <id>https://github.com/etornam45/mlx_dinov3</id>
-        <link href="https://github.com/etornam45/mlx_dinov3"/>
-        <updated>2026-03-09T00:17:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4" width="64" height="64" alt=""/><br/><div>This is an implemetation of Dinov3 for mlx. the model is from Meta</div>]]></content>
-        <author>
-            <name>etornam45</name>
-            <email>etornam45@noreply.github.com</email>
-            <uri>https://github.com/etornam45</uri>
-        </author>
-        <published>2026-03-04T01:04:12.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-03-09T00:06:02.000Z</updated>
+        <updated>2026-03-09T22:53:36.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -37,7 +24,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-03-08T23:42:00.000Z</updated>
+        <updated>2026-03-09T22:30:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -50,7 +37,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-03-08T22:50:06.000Z</updated>
+        <updated>2026-03-09T21:37:40.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -60,10 +47,36 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
+        <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
+        <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
+        <updated>2026-03-09T14:35:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
+        <author>
+            <name>zgcr</name>
+            <email>zgcr@noreply.github.com</email>
+            <uri>https://github.com/zgcr</uri>
+        </author>
+        <published>2020-05-31T05:37:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-03-09T14:23:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dioxane123/featureCompare: 关于视觉大模型特征比较的实验。对比模型为DINOv3和CLIP，在SMVS、DISC21上比对图像检索任务。]]></title>
         <id>https://github.com/Dioxane123/featureCompare</id>
         <link href="https://github.com/Dioxane123/featureCompare"/>
-        <updated>2026-03-08T15:25:55.000Z</updated>
+        <updated>2026-03-09T14:17:53.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113121134?u=fb9fe71e66890988f2aa9b1b88ffb5e50bb360ad&v=4" width="64" height="64" alt=""/><br/><div>关于视觉大模型特征比较的实验。对比模型为DINOv3和CLIP，在SMVS、DISC21上比对图像检索任务。</div>]]></content>
         <author>
             <name>Dioxane123</name>
@@ -71,6 +84,84 @@
             <uri>https://github.com/Dioxane123</uri>
         </author>
         <published>2026-01-18T09:10:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RottenAppleBUAA/Teeth_dinov3_mmpose]]></title>
+        <id>https://github.com/RottenAppleBUAA/Teeth_dinov3_mmpose</id>
+        <link href="https://github.com/RottenAppleBUAA/Teeth_dinov3_mmpose"/>
+        <updated>2026-03-09T14:12:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/124685020?u=a9c7c62e3a41fcae3eb25be14cf7a1e51e92c24c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>RottenAppleBUAA</name>
+            <email>RottenAppleBUAA@noreply.github.com</email>
+            <uri>https://github.com/RottenAppleBUAA</uri>
+        </author>
+        <published>2026-03-09T07:44:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion]]></title>
+        <id>https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion</id>
+        <link href="https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion"/>
+        <updated>2026-03-09T12:13:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231213492?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>GIS-Remote-Sensing-Goettingen</name>
+            <email>GIS-Remote-Sensing-Goettingen@noreply.github.com</email>
+            <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
+        </author>
+        <published>2026-01-26T13:43:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yoga666996/dinov3]]></title>
+        <id>https://github.com/yoga666996/dinov3</id>
+        <link href="https://github.com/yoga666996/dinov3"/>
+        <updated>2026-03-09T07:03:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215585245?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>yoga666996</name>
+            <email>yoga666996@noreply.github.com</email>
+            <uri>https://github.com/yoga666996</uri>
+        </author>
+        <published>2025-08-15T14:45:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhaoshuo1223/rf-detr-dinov3]]></title>
+        <id>https://github.com/zhaoshuo1223/rf-detr-dinov3</id>
+        <link href="https://github.com/zhaoshuo1223/rf-detr-dinov3"/>
+        <updated>2026-03-09T06:17:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/78217505?u=59afd41ea1471eba52e373419c8dee50cffce37c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhaoshuo1223</name>
+            <email>zhaoshuo1223@noreply.github.com</email>
+            <uri>https://github.com/zhaoshuo1223</uri>
+        </author>
+        <published>2026-03-09T06:16:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[691292605/DINOv3_PSPNet]]></title>
+        <id>https://github.com/691292605/DINOv3_PSPNet</id>
+        <link href="https://github.com/691292605/DINOv3_PSPNet"/>
+        <updated>2026-03-09T01:28:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145271671?u=ef65cafc0fb9d6011bbc661ebf2914a3682624d7&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>691292605</name>
+            <email>691292605@noreply.github.com</email>
+            <uri>https://github.com/691292605</uri>
+        </author>
+        <published>2026-03-06T05:15:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[etornam45/mlx_dinov3: This is an implemetation of Dinov3 for mlx. the model is from Meta]]></title>
+        <id>https://github.com/etornam45/mlx_dinov3</id>
+        <link href="https://github.com/etornam45/mlx_dinov3"/>
+        <updated>2026-03-09T00:17:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4" width="64" height="64" alt=""/><br/><div>This is an implemetation of Dinov3 for mlx. the model is from Meta</div>]]></content>
+        <author>
+            <name>etornam45</name>
+            <email>etornam45@noreply.github.com</email>
+            <uri>https://github.com/etornam45</uri>
+        </author>
+        <published>2026-03-04T01:04:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[nshepperd/dinov3-jax]]></title>
@@ -141,7 +232,7 @@
         <title type="html"><![CDATA[ymxlzgy/FoundAD: [ICLR 2026] The implementation of the paper Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors]]></title>
         <id>https://github.com/ymxlzgy/FoundAD</id>
         <link href="https://github.com/ymxlzgy/FoundAD"/>
-        <updated>2026-03-06T14:11:15.000Z</updated>
+        <updated>2026-03-09T07:18:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18535373?u=3ca95f84c29e5bfabaf63fcd11eca6cf4a32d345&v=4" width="64" height="64" alt=""/><br/><div>[ICLR 2026] The implementation of the paper Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors</div>]]></content>
         <author>
             <name>ymxlzgy</name>
@@ -149,19 +240,6 @@
             <uri>https://github.com/ymxlzgy</uri>
         </author>
         <published>2025-08-15T12:28:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-03-08T16:13:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[yeqingmo/dinov3keratocodex1]]></title>
@@ -188,83 +266,5 @@
             <uri>https://github.com/wleilei</uri>
         </author>
         <published>2026-03-02T07:23:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[691292605/DINOv3_PSPNet]]></title>
-        <id>https://github.com/691292605/DINOv3_PSPNet</id>
-        <link href="https://github.com/691292605/DINOv3_PSPNet"/>
-        <updated>2026-03-06T10:40:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145271671?u=ef65cafc0fb9d6011bbc661ebf2914a3682624d7&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>691292605</name>
-            <email>691292605@noreply.github.com</email>
-            <uri>https://github.com/691292605</uri>
-        </author>
-        <published>2026-03-06T05:15:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roulbac/titanpg: TorchTitan playground for distributed training with NanoGPT and DINOv3 SSL pre-training examples.]]></title>
-        <id>https://github.com/Roulbac/titanpg</id>
-        <link href="https://github.com/Roulbac/titanpg"/>
-        <updated>2026-03-07T08:20:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11711303?v=4" width="64" height="64" alt=""/><br/><div>TorchTitan playground for distributed training with NanoGPT and DINOv3 SSL pre-training examples.</div>]]></content>
-        <author>
-            <name>Roulbac</name>
-            <email>Roulbac@noreply.github.com</email>
-            <uri>https://github.com/Roulbac</uri>
-        </author>
-        <published>2026-02-17T13:14:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/SUREPlus: From Misclassification to Outliers: Joint Reliability Assessment in Classification]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/SUREPlus</id>
-        <link href="https://github.com/Intellindust-AI-Lab/SUREPlus"/>
-        <updated>2026-03-06T15:43:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>From Misclassification to Outliers: Joint Reliability Assessment in Classification</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2025-10-28T03:23:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ryanlai666/PCB-Defect-CV-Benchmark: PCB-Defect CV benchmark: A comprehensive PyTorch evaluation benchmark comparing 6 state-of-the-art computer vision models (Faster R-CNN, ViT-Det, SME-YOLO, YOLO26, RT-DETR, DEIMv2/DINOv3) for real-time Printed Circuit Board (DeepPCB) defect detection.]]></title>
-        <id>https://github.com/ryanlai666/PCB-Defect-CV-Benchmark</id>
-        <link href="https://github.com/ryanlai666/PCB-Defect-CV-Benchmark"/>
-        <updated>2026-03-06T00:03:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99899065?v=4" width="64" height="64" alt=""/><br/><div>PCB-Defect CV benchmark: A comprehensive PyTorch evaluation benchmark comparing 6 state-of-the-art computer vision models (Faster R-CNN, ViT-Det, SME-YOLO, YOLO26, RT-DETR, DEIMv2/DINOv3) for real-time Printed Circuit Board (DeepPCB) defect detection.</div>]]></content>
-        <author>
-            <name>ryanlai666</name>
-            <email>ryanlai666@noreply.github.com</email>
-            <uri>https://github.com/ryanlai666</uri>
-        </author>
-        <published>2026-03-05T21:38:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pavan-Naga-207/DSGG: Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.]]></title>
-        <id>https://github.com/Pavan-Naga-207/DSGG</id>
-        <link href="https://github.com/Pavan-Naga-207/DSGG"/>
-        <updated>2026-03-06T01:14:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/109537572?v=4" width="64" height="64" alt=""/><br/><div>Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.</div>]]></content>
-        <author>
-            <name>Pavan-Naga-207</name>
-            <email>Pavan-Naga-207@noreply.github.com</email>
-            <uri>https://github.com/Pavan-Naga-207</uri>
-        </author>
-        <published>2026-03-05T19:05:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[imdtouch/dinomaly: Optimized Dinomaly (CVPR 2025) with DINOv3 encoder for anomaly detection on MVTec AD]]></title>
-        <id>https://github.com/imdtouch/dinomaly</id>
-        <link href="https://github.com/imdtouch/dinomaly"/>
-        <updated>2026-03-05T16:55:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/253612686?v=4" width="64" height="64" alt=""/><br/><div>Optimized Dinomaly (CVPR 2025) with DINOv3 encoder for anomaly detection on MVTec AD</div>]]></content>
-        <author>
-            <name>imdtouch</name>
-            <email>imdtouch@noreply.github.com</email>
-            <uri>https://github.com/imdtouch</uri>
-        </author>
-        <published>2026-03-05T16:55:12.000Z</published>
     </entry>
 </feed>
