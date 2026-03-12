@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-03-11T00:29:55.815Z</updated>
+    <updated>2026-03-12T00:27:55.028Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
+        <id>https://github.com/Abigail-amk/AI-training</id>
+        <link href="https://github.com/Abigail-amk/AI-training"/>
+        <updated>2026-03-12T00:13:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
+        <author>
+            <name>Abigail-amk</name>
+            <email>Abigail-amk@noreply.github.com</email>
+            <uri>https://github.com/Abigail-amk</uri>
+        </author>
+        <published>2026-02-15T00:26:11.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-03-11T00:14:57.000Z</updated>
+        <updated>2026-03-11T23:50:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -24,7 +37,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-03-10T23:25:41.000Z</updated>
+        <updated>2026-03-11T23:00:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -37,7 +50,7 @@
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-03-10T22:47:32.000Z</updated>
+        <updated>2026-03-11T21:53:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -47,23 +60,23 @@
         <published>2026-03-10T00:27:58.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
-        <id>https://github.com/Abigail-amk/AI-training</id>
-        <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-03-10T22:32:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
+        <title type="html"><![CDATA[Segretto/dinov3_segdepth: DinoV3 model with dual head for segmentation and monocular depth estimation]]></title>
+        <id>https://github.com/Segretto/dinov3_segdepth</id>
+        <link href="https://github.com/Segretto/dinov3_segdepth"/>
+        <updated>2026-03-11T19:36:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40543489?u=ce0e5a45e8d67d390ed3f4868a27f0e5bf52efff&v=4" width="64" height="64" alt=""/><br/><div>DinoV3 model with dual head for segmentation and monocular depth estimation</div>]]></content>
         <author>
-            <name>Abigail-amk</name>
-            <email>Abigail-amk@noreply.github.com</email>
-            <uri>https://github.com/Abigail-amk</uri>
+            <name>Segretto</name>
+            <email>Segretto@noreply.github.com</email>
+            <uri>https://github.com/Segretto</uri>
         </author>
-        <published>2026-02-15T00:26:11.000Z</published>
+        <published>2026-03-11T19:30:50.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2026-03-10T18:41:58.000Z</updated>
+        <updated>2026-03-11T21:41:37.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -73,10 +86,36 @@
         <published>2025-08-07T14:11:34.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[alexrvandam/DINOSAR_v2: DINOSAR v2 — DINOv3 Species Auto-Recovery version 2: Multi-modal Bayesian species delimitation and recognition for hyperdiverse insect taxa]]></title>
+        <id>https://github.com/alexrvandam/DINOSAR_v2</id>
+        <link href="https://github.com/alexrvandam/DINOSAR_v2"/>
+        <updated>2026-03-11T14:23:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41234756?u=1040994becfdf37f04c66156a1c22ae6ab4de703&v=4" width="64" height="64" alt=""/><br/><div>DINOSAR v2 — DINOv3 Species Auto-Recovery version 2: Multi-modal Bayesian species delimitation and recognition for hyperdiverse insect taxa</div>]]></content>
+        <author>
+            <name>alexrvandam</name>
+            <email>alexrvandam@noreply.github.com</email>
+            <uri>https://github.com/alexrvandam</uri>
+        </author>
+        <published>2026-03-09T15:21:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[usbt0p/product-matching-hackudc-inditex: Winner project of the HackUDC 2026 Inditex AI challenge. From a photo of an outfit and given the Zara catalog, identify all the individual pieces the model is wearing.]]></title>
+        <id>https://github.com/usbt0p/product-matching-hackudc-inditex</id>
+        <link href="https://github.com/usbt0p/product-matching-hackudc-inditex"/>
+        <updated>2026-03-11T09:52:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/116091929?u=bacafaae71e5e3b85a8de60e6efa37ada38329a1&v=4" width="64" height="64" alt=""/><br/><div>Winner project of the HackUDC 2026 Inditex AI challenge. From a photo of an outfit and given the Zara catalog, identify all the individual pieces the model is wearing.</div>]]></content>
+        <author>
+            <name>usbt0p</name>
+            <email>usbt0p@noreply.github.com</email>
+            <uri>https://github.com/usbt0p</uri>
+        </author>
+        <published>2026-02-28T23:39:38.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-03-10T19:31:46.000Z</updated>
+        <updated>2026-03-11T19:13:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -89,7 +128,7 @@
         <title type="html"><![CDATA[LuizScarlet/AEIC: [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder]]></title>
         <id>https://github.com/LuizScarlet/AEIC</id>
         <link href="https://github.com/LuizScarlet/AEIC"/>
-        <updated>2026-03-10T14:07:00.000Z</updated>
+        <updated>2026-03-11T07:36:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/79390474?u=d16d3b4a5527a411fa1c5f9cdca549af0ab24172&v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder</div>]]></content>
         <author>
             <name>LuizScarlet</name>
@@ -138,19 +177,6 @@
         <published>2026-03-09T07:44:07.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[alexrvandam/DINOSAR_v2: DINOSAR v2 — DINOv3 Species Auto-Recovery version 2: Multi-modal Bayesian species delimitation and recognition for hyperdiverse insect taxa]]></title>
-        <id>https://github.com/alexrvandam/DINOSAR_v2</id>
-        <link href="https://github.com/alexrvandam/DINOSAR_v2"/>
-        <updated>2026-03-10T10:09:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41234756?u=1040994becfdf37f04c66156a1c22ae6ab4de703&v=4" width="64" height="64" alt=""/><br/><div>DINOSAR v2 — DINOv3 Species Auto-Recovery version 2: Multi-modal Bayesian species delimitation and recognition for hyperdiverse insect taxa</div>]]></content>
-        <author>
-            <name>alexrvandam</name>
-            <email>alexrvandam@noreply.github.com</email>
-            <uri>https://github.com/alexrvandam</uri>
-        </author>
-        <published>2026-03-09T15:21:07.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChenRongpeng1998/DinoV3-DDetr]]></title>
         <id>https://github.com/ChenRongpeng1998/DinoV3-DDetr</id>
         <link href="https://github.com/ChenRongpeng1998/DinoV3-DDetr"/>
@@ -180,7 +206,7 @@
         <title type="html"><![CDATA[wleilei/OV-DEIM: [OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation]]></title>
         <id>https://github.com/wleilei/OV-DEIM</id>
         <link href="https://github.com/wleilei/OV-DEIM"/>
-        <updated>2026-03-10T01:01:20.000Z</updated>
+        <updated>2026-03-11T06:27:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65398844?u=c62d3c847068a2e476b71fd89d8add7eef4b3f67&v=4" width="64" height="64" alt=""/><br/><div>[OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation</div>]]></content>
         <author>
             <name>wleilei</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/zhaoshuo1223</uri>
         </author>
         <published>2026-03-09T06:16:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[691292605/DINOv3_PSPNet]]></title>
-        <id>https://github.com/691292605/DINOv3_PSPNet</id>
-        <link href="https://github.com/691292605/DINOv3_PSPNet"/>
-        <updated>2026-03-09T01:28:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145271671?u=ef65cafc0fb9d6011bbc661ebf2914a3682624d7&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>691292605</name>
-            <email>691292605@noreply.github.com</email>
-            <uri>https://github.com/691292605</uri>
-        </author>
-        <published>2026-03-06T05:15:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[etornam45/mlx_dinov3: This is an implemetation of Dinov3 for mlx. the model is from Meta]]></title>
-        <id>https://github.com/etornam45/mlx_dinov3</id>
-        <link href="https://github.com/etornam45/mlx_dinov3"/>
-        <updated>2026-03-09T00:17:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4" width="64" height="64" alt=""/><br/><div>This is an implemetation of Dinov3 for mlx. the model is from Meta</div>]]></content>
-        <author>
-            <name>etornam45</name>
-            <email>etornam45@noreply.github.com</email>
-            <uri>https://github.com/etornam45</uri>
-        </author>
-        <published>2026-03-04T01:04:12.000Z</published>
     </entry>
 </feed>
