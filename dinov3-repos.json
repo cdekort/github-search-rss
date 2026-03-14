@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-03-13T00:03:53.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-03-12T22:40:58.000Z",
+            "date_modified": "2026-03-13T23:08:39.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -31,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-03-12T22:26:47.000Z",
+            "date_modified": "2026-03-13T22:54:55.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -42,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-03-12T22:05:48.000Z",
+            "date_modified": "2026-03-13T22:33:01.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -50,10 +39,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-03-13T21:45:33.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
             "title": "GIS-Remote-Sensing-Goettingen/dinov3-LWF-Segmentation-erosion",
-            "date_modified": "2026-03-12T15:10:51.000Z",
+            "date_modified": "2026-03-13T09:54:18.000Z",
             "date_published": "2026-01-26T13:43:19.000Z",
             "author": {
                 "name": "GIS-Remote-Sensing-Goettingen",
@@ -61,10 +61,43 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124685020?u=a9c7c62e3a41fcae3eb25be14cf7a1e51e92c24c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/RottenAppleBUAA/Teeth_dinov3_mmpose",
+            "title": "RottenAppleBUAA/Teeth_dinov3_mmpose",
+            "date_modified": "2026-03-13T08:02:58.000Z",
+            "date_published": "2026-03-09T07:44:07.000Z",
+            "author": {
+                "name": "RottenAppleBUAA",
+                "url": "https://github.com/RottenAppleBUAA"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89193350?u=4e8014a4ace96548c22529d1b258724c63995e08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-modal AI-generated content detection: image, video, and audio. Benchmarks, training code (DINOv2, DINOv3, ReStraV, BreathNet), and evaluation pipeline for real vs. synthetic classification with calibration-aware metrics.</div>",
+            "url": "https://github.com/rustyneuron01/AI-Generated-Content-Detection",
+            "title": "rustyneuron01/AI-Generated-Content-Detection: Multi-modal AI-generated content detection: image, video, and audio. Benchmarks, training code (DINOv2, DINOv3, ReStraV, BreathNet), and evaluation pipeline for real vs. synthetic classification with calibration-aware metrics.",
+            "date_modified": "2026-03-13T07:07:27.000Z",
+            "date_published": "2025-05-14T06:26:10.000Z",
+            "author": {
+                "name": "rustyneuron01",
+                "url": "https://github.com/rustyneuron01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-03-13T01:53:24.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79390474?u=d16d3b4a5527a411fa1c5f9cdca549af0ab24172&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder</div>",
             "url": "https://github.com/LuizScarlet/AEIC",
             "title": "LuizScarlet/AEIC: [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder",
-            "date_modified": "2026-03-12T13:45:25.000Z",
+            "date_modified": "2026-03-13T07:20:13.000Z",
             "date_published": "2026-02-26T11:18:03.000Z",
             "author": {
                 "name": "LuizScarlet",
@@ -97,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2026-03-13T00:17:15.000Z",
+            "date_modified": "2026-03-13T20:19:53.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -127,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-03-12T12:41:59.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116614798?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fine-Grained Few-Shot Classification with DINOv3</div>",
             "url": "https://github.com/syxscott/Radiolaria-DINOv3",
             "title": "syxscott/Radiolaria-DINOv3: Fine-Grained Few-Shot Classification with DINOv3",
@@ -146,17 +168,6 @@
             "author": {
                 "name": "syxscott",
                 "url": "https://github.com/syxscott"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124685020?u=a9c7c62e3a41fcae3eb25be14cf7a1e51e92c24c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/RottenAppleBUAA/Teeth_dinov3_mmpose",
-            "title": "RottenAppleBUAA/Teeth_dinov3_mmpose",
-            "date_modified": "2026-03-10T10:45:03.000Z",
-            "date_published": "2026-03-09T07:44:07.000Z",
-            "author": {
-                "name": "RottenAppleBUAA",
-                "url": "https://github.com/RottenAppleBUAA"
             }
         },
         {
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65398844?u=c62d3c847068a2e476b71fd89d8add7eef4b3f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation</div>",
             "url": "https://github.com/wleilei/OV-DEIM",
             "title": "wleilei/OV-DEIM: [OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation",
-            "date_modified": "2026-03-12T13:10:50.000Z",
+            "date_modified": "2026-03-13T14:17:51.000Z",
             "date_published": "2026-03-02T07:23:29.000Z",
             "author": {
                 "name": "wleilei",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Dioxane123",
                 "url": "https://github.com/Dioxane123"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215585245?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yoga666996/dinov3",
-            "title": "yoga666996/dinov3",
-            "date_modified": "2026-03-09T07:03:28.000Z",
-            "date_published": "2025-08-15T14:45:55.000Z",
-            "author": {
-                "name": "yoga666996",
-                "url": "https://github.com/yoga666996"
             }
         }
     ]
