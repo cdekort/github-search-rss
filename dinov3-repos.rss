@@ -2,42 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-03-17T00:31:49.611Z</updated>
+    <updated>2026-03-18T00:34:31.234Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
-        <id>https://github.com/Abigail-amk/AI-training</id>
-        <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-03-17T00:17:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
-        <author>
-            <name>Abigail-amk</name>
-            <email>Abigail-amk@noreply.github.com</email>
-            <uri>https://github.com/Abigail-amk</uri>
-        </author>
-        <published>2026-02-15T00:26:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-03-16T23:54:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-03-16T23:06:04.000Z</updated>
+        <updated>2026-03-18T00:25:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -50,7 +24,7 @@
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-03-16T21:39:04.000Z</updated>
+        <updated>2026-03-17T22:29:23.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -60,10 +34,101 @@
         <published>2026-03-10T00:27:58.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
+        <id>https://github.com/Abigail-amk/AI-training</id>
+        <link href="https://github.com/Abigail-amk/AI-training"/>
+        <updated>2026-03-17T21:46:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
+        <author>
+            <name>Abigail-amk</name>
+            <email>Abigail-amk@noreply.github.com</email>
+            <uri>https://github.com/Abigail-amk</uri>
+        </author>
+        <published>2026-02-15T00:26:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-03-17T21:01:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jbadger3/DINODistillery: A library for distilling DINOv3 models for use in mobile and embedded systems]]></title>
+        <id>https://github.com/jbadger3/DINODistillery</id>
+        <link href="https://github.com/jbadger3/DINODistillery"/>
+        <updated>2026-03-17T20:57:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22161798?u=7c282effe474f93732e213f91bb509805a5f6f52&v=4" width="64" height="64" alt=""/><br/><div>A library for distilling DINOv3 models for use in mobile and embedded systems</div>]]></content>
+        <author>
+            <name>jbadger3</name>
+            <email>jbadger3@noreply.github.com</email>
+            <uri>https://github.com/jbadger3</uri>
+        </author>
+        <published>2026-01-09T14:29:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jasper2326/dinov3-auto-research]]></title>
+        <id>https://github.com/jasper2326/dinov3-auto-research</id>
+        <link href="https://github.com/jasper2326/dinov3-auto-research"/>
+        <updated>2026-03-17T13:18:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24251084?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jasper2326</name>
+            <email>jasper2326@noreply.github.com</email>
+            <uri>https://github.com/jasper2326</uri>
+        </author>
+        <published>2026-03-17T09:31:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wslx123456-eng/lxlxdinov3: dinov3]]></title>
+        <id>https://github.com/wslx123456-eng/lxlxdinov3</id>
+        <link href="https://github.com/wslx123456-eng/lxlxdinov3"/>
+        <updated>2026-03-17T13:14:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/237747161?v=4" width="64" height="64" alt=""/><br/><div>dinov3</div>]]></content>
+        <author>
+            <name>wslx123456-eng</name>
+            <email>wslx123456-eng@noreply.github.com</email>
+            <uri>https://github.com/wslx123456-eng</uri>
+        </author>
+        <published>2026-03-17T08:46:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[moses-song/dfu_model: dinov3 + mask2formers]]></title>
+        <id>https://github.com/moses-song/dfu_model</id>
+        <link href="https://github.com/moses-song/dfu_model"/>
+        <updated>2026-03-17T12:22:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/169234815?v=4" width="64" height="64" alt=""/><br/><div>dinov3 + mask2formers</div>]]></content>
+        <author>
+            <name>moses-song</name>
+            <email>moses-song@noreply.github.com</email>
+            <uri>https://github.com/moses-song</uri>
+        </author>
+        <published>2026-03-17T12:17:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zhazhupai603/dinov3]]></title>
+        <id>https://github.com/Zhazhupai603/dinov3</id>
+        <link href="https://github.com/Zhazhupai603/dinov3"/>
+        <updated>2026-03-17T12:01:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/205886915?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Zhazhupai603</name>
+            <email>Zhazhupai603@noreply.github.com</email>
+            <uri>https://github.com/Zhazhupai603</uri>
+        </author>
+        <published>2026-03-17T12:01:16.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[wangeason666/dinov3_plantc]]></title>
         <id>https://github.com/wangeason666/dinov3_plantc</id>
         <link href="https://github.com/wangeason666/dinov3_plantc"/>
-        <updated>2026-03-16T18:51:05.000Z</updated>
+        <updated>2026-03-17T07:20:12.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/142576606?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>wangeason666</name>
@@ -71,6 +136,19 @@
             <uri>https://github.com/wangeason666</uri>
         </author>
         <published>2026-03-16T18:26:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HySonLab/PHAROS-AIF-MIH: Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis]]></title>
+        <id>https://github.com/HySonLab/PHAROS-AIF-MIH</id>
+        <link href="https://github.com/HySonLab/PHAROS-AIF-MIH"/>
+        <updated>2026-03-17T04:49:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108565956?v=4" width="64" height="64" alt=""/><br/><div>Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis</div>]]></content>
+        <author>
+            <name>HySonLab</name>
+            <email>HySonLab@noreply.github.com</email>
+            <uri>https://github.com/HySonLab</uri>
+        </author>
+        <published>2026-03-13T13:45:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
@@ -115,7 +193,7 @@
         <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
         <id>https://github.com/jaychempan/V2-SAM</id>
         <link href="https://github.com/jaychempan/V2-SAM"/>
-        <updated>2026-03-16T10:16:58.000Z</updated>
+        <updated>2026-03-17T14:38:36.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=7500f66b0d147f3e1a9b035dc5dcce7f30abeaae&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
         <author>
             <name>jaychempan</name>
@@ -128,7 +206,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-03-16T19:13:33.000Z</updated>
+        <updated>2026-03-17T02:32:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -138,23 +216,10 @@
         <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HySonLab/PHAROS-AIF-MIH: Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis]]></title>
-        <id>https://github.com/HySonLab/PHAROS-AIF-MIH</id>
-        <link href="https://github.com/HySonLab/PHAROS-AIF-MIH"/>
-        <updated>2026-03-16T06:37:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108565956?v=4" width="64" height="64" alt=""/><br/><div>Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis</div>]]></content>
-        <author>
-            <name>HySonLab</name>
-            <email>HySonLab@noreply.github.com</email>
-            <uri>https://github.com/HySonLab</uri>
-        </author>
-        <published>2026-03-13T13:45:56.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ymxlzgy/FoundAD: [ICLR 2026] The implementation of the paper Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors]]></title>
         <id>https://github.com/ymxlzgy/FoundAD</id>
         <link href="https://github.com/ymxlzgy/FoundAD"/>
-        <updated>2026-03-16T03:07:49.000Z</updated>
+        <updated>2026-03-17T01:48:40.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18535373?u=3ca95f84c29e5bfabaf63fcd11eca6cf4a32d345&v=4" width="64" height="64" alt=""/><br/><div>[ICLR 2026] The implementation of the paper Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors</div>]]></content>
         <author>
             <name>ymxlzgy</name>
@@ -201,70 +266,5 @@
             <uri>https://github.com/Dionysus1022</uri>
         </author>
         <published>2026-03-15T10:17:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wenwenqqq/dinov3-vis-heatmap: 推理dinov3，用魔搭的模型适配github官方代码进行可视化特征相似性的热力图]]></title>
-        <id>https://github.com/wenwenqqq/dinov3-vis-heatmap</id>
-        <link href="https://github.com/wenwenqqq/dinov3-vis-heatmap"/>
-        <updated>2026-03-14T14:53:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/130841756?v=4" width="64" height="64" alt=""/><br/><div>推理dinov3，用魔搭的模型适配github官方代码进行可视化特征相似性的热力图</div>]]></content>
-        <author>
-            <name>wenwenqqq</name>
-            <email>wenwenqqq@noreply.github.com</email>
-            <uri>https://github.com/wenwenqqq</uri>
-        </author>
-        <published>2026-03-14T14:53:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KimotaQY/MM-DINO: MM-DINO: DINOv3-Based Universal Framework for Uni and Multi-Modal Remote Sensing Image Semantic Segmentation]]></title>
-        <id>https://github.com/KimotaQY/MM-DINO</id>
-        <link href="https://github.com/KimotaQY/MM-DINO"/>
-        <updated>2026-03-16T03:07:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76574810?v=4" width="64" height="64" alt=""/><br/><div>MM-DINO: DINOv3-Based Universal Framework for Uni and Multi-Modal Remote Sensing Image Semantic Segmentation</div>]]></content>
-        <author>
-            <name>KimotaQY</name>
-            <email>KimotaQY@noreply.github.com</email>
-            <uri>https://github.com/KimotaQY</uri>
-        </author>
-        <published>2025-12-12T10:48:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RottenAppleBUAA/Teeth_dinov3_mmpose]]></title>
-        <id>https://github.com/RottenAppleBUAA/Teeth_dinov3_mmpose</id>
-        <link href="https://github.com/RottenAppleBUAA/Teeth_dinov3_mmpose"/>
-        <updated>2026-03-13T08:02:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/124685020?u=a9c7c62e3a41fcae3eb25be14cf7a1e51e92c24c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>RottenAppleBUAA</name>
-            <email>RottenAppleBUAA@noreply.github.com</email>
-            <uri>https://github.com/RottenAppleBUAA</uri>
-        </author>
-        <published>2026-03-09T07:44:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rustyneuron01/AI-Generated-Content-Detection: Multi-modal AI-generated content detection: image, video, and audio. Benchmarks, training code (DINOv2, DINOv3, ReStraV, BreathNet), and evaluation pipeline for real vs. synthetic classification with calibration-aware metrics.]]></title>
-        <id>https://github.com/rustyneuron01/AI-Generated-Content-Detection</id>
-        <link href="https://github.com/rustyneuron01/AI-Generated-Content-Detection"/>
-        <updated>2026-03-13T07:07:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89193350?u=4e8014a4ace96548c22529d1b258724c63995e08&v=4" width="64" height="64" alt=""/><br/><div>Multi-modal AI-generated content detection: image, video, and audio. Benchmarks, training code (DINOv2, DINOv3, ReStraV, BreathNet), and evaluation pipeline for real vs. synthetic classification with calibration-aware metrics.</div>]]></content>
-        <author>
-            <name>rustyneuron01</name>
-            <email>rustyneuron01@noreply.github.com</email>
-            <uri>https://github.com/rustyneuron01</uri>
-        </author>
-        <published>2025-05-14T06:26:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LuizScarlet/AEIC: [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder]]></title>
-        <id>https://github.com/LuizScarlet/AEIC</id>
-        <link href="https://github.com/LuizScarlet/AEIC"/>
-        <updated>2026-03-13T07:20:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/79390474?u=d16d3b4a5527a411fa1c5f9cdca549af0ab24172&v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder</div>]]></content>
-        <author>
-            <name>LuizScarlet</name>
-            <email>LuizScarlet@noreply.github.com</email>
-            <uri>https://github.com/LuizScarlet</uri>
-        </author>
-        <published>2026-02-26T11:18:03.000Z</published>
     </entry>
 </feed>
