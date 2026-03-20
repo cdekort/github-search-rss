@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-03-19T00:13:38.000Z",
+            "date_modified": "2026-03-20T00:01:07.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-03-18T23:57:42.000Z",
+            "date_modified": "2026-03-19T23:45:28.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -28,10 +28,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174746481?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-model dog breed classification using DINOv3, C-RADIOv4, SigLIP 2, and stacking ensembles. Built for Petus.</div>",
+            "url": "https://github.com/199-biotechnologies/petus-breed-ml",
+            "title": "199-biotechnologies/petus-breed-ml: Multi-model dog breed classification using DINOv3, C-RADIOv4, SigLIP 2, and stacking ensembles. Built for Petus.",
+            "date_modified": "2026-03-19T23:30:33.000Z",
+            "date_published": "2026-03-19T20:58:42.000Z",
+            "author": {
+                "name": "199-biotechnologies",
+                "url": "https://github.com/199-biotechnologies"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-03-18T23:33:26.000Z",
+            "date_modified": "2026-03-19T23:21:46.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -39,14 +50,135 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150726549?u=b178e3db0dc87b1999eed412534bc85788af5af2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/xiaoyachong/xps_dinov3",
+            "title": "xiaoyachong/xps_dinov3",
+            "date_modified": "2026-03-19T22:43:01.000Z",
+            "date_published": "2026-03-19T17:41:53.000Z",
+            "author": {
+                "name": "xiaoyachong",
+                "url": "https://github.com/xiaoyachong"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-03-18T22:42:06.000Z",
+            "date_modified": "2026-03-19T22:30:04.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/229105566?u=4b73ef92a9f56aa896e5d55312c0cc75b1dbf1c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project studies how different visual encoders affect the performance of a latent world model for action-conditioned prediction and planning. Using DINO-WM as the backbone, we keep the transition model and planning pipeline as fixed as possible, and compare representations such as DINOv2, V-JEPA 2, DINOv3, DINO-Tok, and VFM-VAE.</div>",
+            "url": "https://github.com/mrtanke/dino-wm-representation-study",
+            "title": "mrtanke/dino-wm-representation-study: This project studies how different visual encoders affect the performance of a latent world model for action-conditioned prediction and planning. Using DINO-WM as the backbone, we keep the transition model and planning pipeline as fixed as possible, and compare representations such as DINOv2, V-JEPA 2, DINOv3, DINO-Tok, and VFM-VAE.",
+            "date_modified": "2026-03-19T22:28:40.000Z",
+            "date_published": "2026-03-19T08:38:41.000Z",
+            "author": {
+                "name": "mrtanke",
+                "url": "https://github.com/mrtanke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22161798?u=7c282effe474f93732e213f91bb509805a5f6f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A library for distilling DINOv3 models for use in mobile and embedded systems</div>",
+            "url": "https://github.com/jbadger3/DINODistillery",
+            "title": "jbadger3/DINODistillery: A library for distilling DINOv3 models for use in mobile and embedded systems",
+            "date_modified": "2026-03-19T18:09:27.000Z",
+            "date_published": "2026-01-09T14:29:54.000Z",
+            "author": {
+                "name": "jbadger3",
+                "url": "https://github.com/jbadger3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7621221?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3, ported to equinox</div>",
+            "url": "https://github.com/MorizzG/dinov3-equinox",
+            "title": "MorizzG/dinov3-equinox: DINOv3, ported to equinox",
+            "date_modified": "2026-03-19T18:08:06.000Z",
+            "date_published": "2025-08-16T19:58:39.000Z",
+            "author": {
+                "name": "MorizzG",
+                "url": "https://github.com/MorizzG"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-03-19T17:45:12.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99476725?u=b505dfeb92dd2a08972635df9e9dde8ddefa0c83&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Lomitongery/dinov3-pspnet-voc",
+            "title": "Lomitongery/dinov3-pspnet-voc",
+            "date_modified": "2026-03-19T14:52:40.000Z",
+            "date_published": "2026-03-15T15:39:51.000Z",
+            "author": {
+                "name": "Lomitongery",
+                "url": "https://github.com/Lomitongery"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119697612?u=37a68a08bbf84ef9c713ac3f5ae7f32998c2e54e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DinoV3-Yolo26-Pipeline</div>",
+            "url": "https://github.com/pierrelgol/tea-ai",
+            "title": "pierrelgol/tea-ai: DinoV3-Yolo26-Pipeline",
+            "date_modified": "2026-03-19T14:53:48.000Z",
+            "date_published": "2026-02-22T10:58:01.000Z",
+            "author": {
+                "name": "pierrelgol",
+                "url": "https://github.com/pierrelgol"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
+            "title": "GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
+            "date_modified": "2026-03-19T13:44:39.000Z",
+            "date_published": "2026-02-02T13:58:10.000Z",
+            "author": {
+                "name": "GIS-Remote-Sensing-Goettingen",
+                "url": "https://github.com/GIS-Remote-Sensing-Goettingen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
+            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
+            "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
+            "date_modified": "2026-03-19T15:22:29.000Z",
+            "date_published": "2026-03-16T10:28:22.000Z",
+            "author": {
+                "name": "Intellindust-AI-Lab",
+                "url": "https://github.com/Intellindust-AI-Lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57102493?u=0e453539f69ff2e7c4b53c257a87b47d7366be1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。</div>",
+            "url": "https://github.com/CSsaan/SceneRecognitionCNN",
+            "title": "CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。",
+            "date_modified": "2026-03-19T08:58:59.000Z",
+            "date_published": "2025-10-17T06:20:34.000Z",
+            "author": {
+                "name": "CSsaan",
+                "url": "https://github.com/CSsaan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=7500f66b0d147f3e1a9b035dc5dcce7f30abeaae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
+            "url": "https://github.com/jaychempan/V2-SAM",
+            "title": "jaychempan/V2-SAM: [CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
+            "date_modified": "2026-03-19T12:41:55.000Z",
+            "date_published": "2025-12-10T14:01:47.000Z",
+            "author": {
+                "name": "jaychempan",
+                "url": "https://github.com/jaychempan"
             }
         },
         {
@@ -61,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-03-18T16:33:49.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122221130?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/popkesnoek/DINOv3-Breastcancer-H-E-slide-gene-transcriptomics-",
             "title": "popkesnoek/DINOv3-Breastcancer-H-E-slide-gene-transcriptomics-",
@@ -80,17 +201,6 @@
             "author": {
                 "name": "popkesnoek",
                 "url": "https://github.com/popkesnoek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=7500f66b0d147f3e1a9b035dc5dcce7f30abeaae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
-            "url": "https://github.com/jaychempan/V2-SAM",
-            "title": "jaychempan/V2-SAM: [CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
-            "date_modified": "2026-03-18T14:59:04.000Z",
-            "date_published": "2025-12-10T14:01:47.000Z",
-            "author": {
-                "name": "jaychempan",
-                "url": "https://github.com/jaychempan"
             }
         },
         {
@@ -113,116 +223,6 @@
             "author": {
                 "name": "jx1100370217",
                 "url": "https://github.com/jx1100370217"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200878715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Ann-wyy/DINOv3_Pre",
-            "title": "Ann-wyy/DINOv3_Pre",
-            "date_modified": "2026-03-18T07:24:10.000Z",
-            "date_published": "2026-03-18T05:17:38.000Z",
-            "author": {
-                "name": "Ann-wyy",
-                "url": "https://github.com/Ann-wyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108565956?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis</div>",
-            "url": "https://github.com/HySonLab/PHAROS-AIF-MIH",
-            "title": "HySonLab/PHAROS-AIF-MIH: Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis",
-            "date_modified": "2026-03-18T04:16:50.000Z",
-            "date_published": "2026-03-13T13:45:56.000Z",
-            "author": {
-                "name": "HySonLab",
-                "url": "https://github.com/HySonLab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237747161?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3</div>",
-            "url": "https://github.com/wslx123456-eng/lxlxdinov3",
-            "title": "wslx123456-eng/lxlxdinov3: dinov3",
-            "date_modified": "2026-03-18T02:51:43.000Z",
-            "date_published": "2026-03-17T08:46:05.000Z",
-            "author": {
-                "name": "wslx123456-eng",
-                "url": "https://github.com/wslx123456-eng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22161798?u=7c282effe474f93732e213f91bb509805a5f6f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A library for distilling DINOv3 models for use in mobile and embedded systems</div>",
-            "url": "https://github.com/jbadger3/DINODistillery",
-            "title": "jbadger3/DINODistillery: A library for distilling DINOv3 models for use in mobile and embedded systems",
-            "date_modified": "2026-03-17T20:57:26.000Z",
-            "date_published": "2026-01-09T14:29:54.000Z",
-            "author": {
-                "name": "jbadger3",
-                "url": "https://github.com/jbadger3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24251084?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jasper2326/dinov3-auto-research",
-            "title": "jasper2326/dinov3-auto-research",
-            "date_modified": "2026-03-17T13:18:34.000Z",
-            "date_published": "2026-03-17T09:31:50.000Z",
-            "author": {
-                "name": "jasper2326",
-                "url": "https://github.com/jasper2326"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169234815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 + mask2formers</div>",
-            "url": "https://github.com/moses-song/dfu_model",
-            "title": "moses-song/dfu_model: dinov3 + mask2formers",
-            "date_modified": "2026-03-17T12:22:09.000Z",
-            "date_published": "2026-03-17T12:17:01.000Z",
-            "author": {
-                "name": "moses-song",
-                "url": "https://github.com/moses-song"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/205886915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Zhazhupai603/dinov3",
-            "title": "Zhazhupai603/dinov3",
-            "date_modified": "2026-03-17T12:01:17.000Z",
-            "date_published": "2026-03-17T12:01:16.000Z",
-            "author": {
-                "name": "Zhazhupai603",
-                "url": "https://github.com/Zhazhupai603"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142576606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/wangeason666/dinov3_plantc",
-            "title": "wangeason666/dinov3_plantc",
-            "date_modified": "2026-03-17T07:20:12.000Z",
-            "date_published": "2026-03-16T18:26:15.000Z",
-            "author": {
-                "name": "wangeason666",
-                "url": "https://github.com/wangeason666"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleAICV:pytorch training examples.</div>",
-            "url": "https://github.com/zgcr/SimpleAICV_pytorch_training_examples",
-            "title": "zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.",
-            "date_modified": "2026-03-18T03:54:01.000Z",
-            "date_published": "2020-05-31T05:37:26.000Z",
-            "author": {
-                "name": "zgcr",
-                "url": "https://github.com/zgcr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231213492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
-            "title": "GIS-Remote-Sensing-Goettingen/Dinov3-LWF-Segmentation",
-            "date_modified": "2026-03-16T10:58:23.000Z",
-            "date_published": "2026-02-02T13:58:10.000Z",
-            "author": {
-                "name": "GIS-Remote-Sensing-Goettingen",
-                "url": "https://github.com/GIS-Remote-Sensing-Goettingen"
             }
         }
     ]
