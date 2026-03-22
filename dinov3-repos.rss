@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-03-21T00:31:23.538Z</updated>
+    <updated>2026-03-22T00:35:02.703Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-03-21T00:02:05.000Z</updated>
+        <updated>2026-03-21T23:31:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-03-20T23:46:53.000Z</updated>
+        <updated>2026-03-21T23:15:40.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -37,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-03-20T23:23:35.000Z</updated>
+        <updated>2026-03-21T22:52:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -50,7 +50,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-03-20T22:33:36.000Z</updated>
+        <updated>2026-03-21T22:02:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -60,10 +60,36 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[mrtanke/dino-wm-representation-study: This project studies how different visual encoders affect the performance of a latent world model for action-conditioned prediction and planning. Using DINO-WM as the backbone, we keep the transition model and planning pipeline as fixed as possible, and compare representations such as DINOv2, V-JEPA 2, DINOv3, DINO-Tok, and VFM-VAE.]]></title>
+        <id>https://github.com/mrtanke/dino-wm-representation-study</id>
+        <link href="https://github.com/mrtanke/dino-wm-representation-study"/>
+        <updated>2026-03-21T18:14:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/229105566?u=4b73ef92a9f56aa896e5d55312c0cc75b1dbf1c7&v=4" width="64" height="64" alt=""/><br/><div>This project studies how different visual encoders affect the performance of a latent world model for action-conditioned prediction and planning. Using DINO-WM as the backbone, we keep the transition model and planning pipeline as fixed as possible, and compare representations such as DINOv2, V-JEPA 2, DINOv3, DINO-Tok, and VFM-VAE.</div>]]></content>
+        <author>
+            <name>mrtanke</name>
+            <email>mrtanke@noreply.github.com</email>
+            <uri>https://github.com/mrtanke</uri>
+        </author>
+        <published>2026-03-19T08:38:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[potato-ding/zhuoxi-pyra_dinov3]]></title>
+        <id>https://github.com/potato-ding/zhuoxi-pyra_dinov3</id>
+        <link href="https://github.com/potato-ding/zhuoxi-pyra_dinov3"/>
+        <updated>2026-03-21T15:57:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129148802?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>potato-ding</name>
+            <email>potato-ding@noreply.github.com</email>
+            <uri>https://github.com/potato-ding</uri>
+        </author>
+        <published>2026-03-21T15:57:59.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[199-biotechnologies/petus-breed-ml: Multi-model dog breed classification using DINOv3, C-RADIOv4, SigLIP 2, and stacking ensembles. Built for Petus.]]></title>
         <id>https://github.com/199-biotechnologies/petus-breed-ml</id>
         <link href="https://github.com/199-biotechnologies/petus-breed-ml"/>
-        <updated>2026-03-20T19:49:33.000Z</updated>
+        <updated>2026-03-21T15:23:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/174746481?v=4" width="64" height="64" alt=""/><br/><div>Multi-model dog breed classification using DINOv3, C-RADIOv4, SigLIP 2, and stacking ensembles. Built for Petus.</div>]]></content>
         <author>
             <name>199-biotechnologies</name>
@@ -73,23 +99,49 @@
         <published>2026-03-19T20:58:42.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-03-20T13:57:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
+        <id>https://github.com/jaychempan/V2-SAM</id>
+        <link href="https://github.com/jaychempan/V2-SAM"/>
+        <updated>2026-03-21T18:28:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=7500f66b0d147f3e1a9b035dc5dcce7f30abeaae&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
         <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
+            <name>jaychempan</name>
+            <email>jaychempan@noreply.github.com</email>
+            <uri>https://github.com/jaychempan</uri>
         </author>
-        <published>2025-04-10T08:23:51.000Z</published>
+        <published>2025-12-10T14:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
+        <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
+        <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
+        <updated>2026-03-21T08:06:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
+        <author>
+            <name>zgcr</name>
+            <email>zgcr@noreply.github.com</email>
+            <uri>https://github.com/zgcr</uri>
+        </author>
+        <published>2020-05-31T05:37:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tobiashyk/DINOv3-finetune]]></title>
+        <id>https://github.com/Tobiashyk/DINOv3-finetune</id>
+        <link href="https://github.com/Tobiashyk/DINOv3-finetune"/>
+        <updated>2026-03-21T04:16:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198170627?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Tobiashyk</name>
+            <email>Tobiashyk@noreply.github.com</email>
+            <uri>https://github.com/Tobiashyk</uri>
+        </author>
+        <published>2025-12-12T09:46:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
         <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
         <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-03-20T23:34:23.000Z</updated>
+        <updated>2026-03-21T16:11:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -99,10 +151,23 @@
         <published>2026-03-16T10:28:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-03-21T06:01:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2026-03-20T18:04:17.000Z</updated>
+        <updated>2026-03-21T16:54:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -136,19 +201,6 @@
             <uri>https://github.com/xiaoyachong</uri>
         </author>
         <published>2026-03-19T17:41:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mrtanke/dino-wm-representation-study: This project studies how different visual encoders affect the performance of a latent world model for action-conditioned prediction and planning. Using DINO-WM as the backbone, we keep the transition model and planning pipeline as fixed as possible, and compare representations such as DINOv2, V-JEPA 2, DINOv3, DINO-Tok, and VFM-VAE.]]></title>
-        <id>https://github.com/mrtanke/dino-wm-representation-study</id>
-        <link href="https://github.com/mrtanke/dino-wm-representation-study"/>
-        <updated>2026-03-19T22:28:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/229105566?u=4b73ef92a9f56aa896e5d55312c0cc75b1dbf1c7&v=4" width="64" height="64" alt=""/><br/><div>This project studies how different visual encoders affect the performance of a latent world model for action-conditioned prediction and planning. Using DINO-WM as the backbone, we keep the transition model and planning pipeline as fixed as possible, and compare representations such as DINOv2, V-JEPA 2, DINOv3, DINO-Tok, and VFM-VAE.</div>]]></content>
-        <author>
-            <name>mrtanke</name>
-            <email>mrtanke@noreply.github.com</email>
-            <uri>https://github.com/mrtanke</uri>
-        </author>
-        <published>2026-03-19T08:38:41.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jbadger3/DINODistillery: A library for distilling DINOv3 models for use in mobile and embedded systems]]></title>
@@ -214,57 +266,5 @@
             <uri>https://github.com/GIS-Remote-Sensing-Goettingen</uri>
         </author>
         <published>2026-02-02T13:58:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSsaan/SceneRecognitionCNN: 基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。]]></title>
-        <id>https://github.com/CSsaan/SceneRecognitionCNN</id>
-        <link href="https://github.com/CSsaan/SceneRecognitionCNN"/>
-        <updated>2026-03-19T08:58:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57102493?u=0e453539f69ff2e7c4b53c257a87b47d7366be1b&v=4" width="64" height="64" alt=""/><br/><div>基于卷积神经网络的场景识别系统，用于自然场景环境分类任务。该系统支持多种深度学习模型架构，包括ResNet系列和DINOv3，并提供了高效的训练和推理流程。</div>]]></content>
-        <author>
-            <name>CSsaan</name>
-            <email>CSsaan@noreply.github.com</email>
-            <uri>https://github.com/CSsaan</uri>
-        </author>
-        <published>2025-10-17T06:20:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
-        <id>https://github.com/jaychempan/V2-SAM</id>
-        <link href="https://github.com/jaychempan/V2-SAM"/>
-        <updated>2026-03-20T00:34:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=7500f66b0d147f3e1a9b035dc5dcce7f30abeaae&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
-        <author>
-            <name>jaychempan</name>
-            <email>jaychempan@noreply.github.com</email>
-            <uri>https://github.com/jaychempan</uri>
-        </author>
-        <published>2025-12-10T14:01:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ji-da-cs/Tennis-Stroke-Classifier: CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation]]></title>
-        <id>https://github.com/ji-da-cs/Tennis-Stroke-Classifier</id>
-        <link href="https://github.com/ji-da-cs/Tennis-Stroke-Classifier"/>
-        <updated>2026-03-18T16:51:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/247511394?v=4" width="64" height="64" alt=""/><br/><div>CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation</div>]]></content>
-        <author>
-            <name>ji-da-cs</name>
-            <email>ji-da-cs@noreply.github.com</email>
-            <uri>https://github.com/ji-da-cs</uri>
-        </author>
-        <published>2025-12-03T04:24:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[popkesnoek/DINOv3-Breastcancer-H-E-slide-gene-transcriptomics-]]></title>
-        <id>https://github.com/popkesnoek/DINOv3-Breastcancer-H-E-slide-gene-transcriptomics-</id>
-        <link href="https://github.com/popkesnoek/DINOv3-Breastcancer-H-E-slide-gene-transcriptomics-"/>
-        <updated>2026-03-18T15:13:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/122221130?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>popkesnoek</name>
-            <email>popkesnoek@noreply.github.com</email>
-            <uri>https://github.com/popkesnoek</uri>
-        </author>
-        <published>2026-03-18T15:07:48.000Z</published>
     </entry>
 </feed>
