@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-03-25T00:15:40.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-03-24T23:20:41.000Z",
+            "date_modified": "2026-03-26T00:31:15.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -31,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-03-24T23:04:36.000Z",
+            "date_modified": "2026-03-26T00:14:52.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -42,11 +31,132 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-03-24T22:41:44.000Z",
+            "date_modified": "2026-03-25T23:50:24.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
                 "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-03-25T22:55:06.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing dinov3 capability for RF signal detection</div>",
+            "url": "https://github.com/Trudes808/Dinov3-RF-Signal-Detection",
+            "title": "Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection",
+            "date_modified": "2026-03-25T22:30:17.000Z",
+            "date_published": "2026-01-15T18:45:48.000Z",
+            "author": {
+                "name": "Trudes808",
+                "url": "https://github.com/Trudes808"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22161798?u=7c282effe474f93732e213f91bb509805a5f6f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A library for distilling DINOv3 models for use in mobile and embedded systems</div>",
+            "url": "https://github.com/jbadger3/DINODistillery",
+            "title": "jbadger3/DINODistillery: A library for distilling DINOv3 models for use in mobile and embedded systems",
+            "date_modified": "2026-03-25T20:21:05.000Z",
+            "date_published": "2026-01-09T14:29:54.000Z",
+            "author": {
+                "name": "jbadger3",
+                "url": "https://github.com/jbadger3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/247511394?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation</div>",
+            "url": "https://github.com/ji-da-cs/Tennis-Stroke-Classifier",
+            "title": "ji-da-cs/Tennis-Stroke-Classifier: CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation",
+            "date_modified": "2026-03-25T19:45:34.000Z",
+            "date_published": "2025-12-03T04:24:51.000Z",
+            "author": {
+                "name": "ji-da-cs",
+                "url": "https://github.com/ji-da-cs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-03-25T17:15:17.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141856401?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/annakhosrovyan/dinov3",
+            "title": "annakhosrovyan/dinov3",
+            "date_modified": "2026-03-25T12:40:51.000Z",
+            "date_published": "2026-03-12T11:27:39.000Z",
+            "author": {
+                "name": "annakhosrovyan",
+                "url": "https://github.com/annakhosrovyan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74490157?u=5f8eba098feac7c7fb418fab3bcd901e91cdf86a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Conditional Y-GAN pipeline for photorealistic image reconstruction using a dual-encoder setup, where one of the encoders is DINOv3</div>",
+            "url": "https://github.com/jj15warrior/cyGAN",
+            "title": "jj15warrior/cyGAN: Conditional Y-GAN pipeline for photorealistic image reconstruction using a dual-encoder setup, where one of the encoders is DINOv3",
+            "date_modified": "2026-03-25T12:08:05.000Z",
+            "date_published": "2026-03-25T12:07:37.000Z",
+            "author": {
+                "name": "jj15warrior",
+                "url": "https://github.com/jj15warrior"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124685020?u=a9c7c62e3a41fcae3eb25be14cf7a1e51e92c24c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/RottenAppleBUAA/Teeth_dinov3_mmpose",
+            "title": "RottenAppleBUAA/Teeth_dinov3_mmpose",
+            "date_modified": "2026-03-25T07:40:27.000Z",
+            "date_published": "2026-03-09T07:44:07.000Z",
+            "author": {
+                "name": "RottenAppleBUAA",
+                "url": "https://github.com/RottenAppleBUAA"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128392320?u=5e1857d60d740145c1d95662979e884447b9a957&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Phyll AI is a fully offline crop diagnostic platform. It features a modular architecture where users download models specifically trained for their specific crops (e.g., Rice, Tomato). It allows swapping backbones like DINOv3 or MobileNet based on device hardware, providing high-precision, research-backed leaf analysis anywhere.</div>",
+            "url": "https://github.com/S0L0-MAN/PhyllAi",
+            "title": "S0L0-MAN/PhyllAi: Phyll AI is a fully offline crop diagnostic platform. It features a modular architecture where users download models specifically trained for their specific crops (e.g., Rice, Tomato). It allows swapping backbones like DINOv3 or MobileNet based on device hardware, providing high-precision, research-backed leaf analysis anywhere.",
+            "date_modified": "2026-03-25T07:35:21.000Z",
+            "date_published": "2026-03-23T06:31:20.000Z",
+            "author": {
+                "name": "S0L0-MAN",
+                "url": "https://github.com/S0L0-MAN"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
+            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
+            "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
+            "date_modified": "2026-03-25T23:55:55.000Z",
+            "date_published": "2026-03-16T10:28:22.000Z",
+            "author": {
+                "name": "Intellindust-AI-Lab",
+                "url": "https://github.com/Intellindust-AI-Lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/697600?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.</div>",
+            "url": "https://github.com/timlawrenz/stratum-hq",
+            "title": "timlawrenz/stratum-hq: Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.",
+            "date_modified": "2026-03-25T01:08:36.000Z",
+            "date_published": "2026-03-23T14:30:09.000Z",
+            "author": {
+                "name": "timlawrenz",
+                "url": "https://github.com/timlawrenz"
             }
         },
         {
@@ -58,17 +168,6 @@
             "author": {
                 "name": "devMuniz02",
                 "url": "https://github.com/devMuniz02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-03-24T17:08:43.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -105,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124685020?u=a9c7c62e3a41fcae3eb25be14cf7a1e51e92c24c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/RottenAppleBUAA/Teeth_dinov3_mmpose",
-            "title": "RottenAppleBUAA/Teeth_dinov3_mmpose",
-            "date_modified": "2026-03-24T04:24:25.000Z",
-            "date_published": "2026-03-09T07:44:07.000Z",
-            "author": {
-                "name": "RottenAppleBUAA",
-                "url": "https://github.com/RottenAppleBUAA"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113265581?u=1b4bd00a0d442320033bfea738b6d787cd38e8e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Switch the backbone of mask2former to DINOv3 for instance segmentation</div>",
             "url": "https://github.com/Carti-97/DINOv3-Mask2former",
             "title": "Carti-97/DINOv3-Mask2former: Switch the backbone of mask2former to DINOv3 for instance segmentation",
@@ -135,94 +223,6 @@
             "author": {
                 "name": "Intellindust-AI-Lab",
                 "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/697600?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.</div>",
-            "url": "https://github.com/timlawrenz/stratum-hq",
-            "title": "timlawrenz/stratum-hq: Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.",
-            "date_modified": "2026-03-24T01:48:44.000Z",
-            "date_published": "2026-03-23T14:30:09.000Z",
-            "author": {
-                "name": "timlawrenz",
-                "url": "https://github.com/timlawrenz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72434716?u=c96b52bf071cb36af5bb8212a640bc23ad88ae58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/divided7/DINOv3Toolkits",
-            "title": "divided7/DINOv3Toolkits",
-            "date_modified": "2026-03-24T01:27:00.000Z",
-            "date_published": "2026-03-24T01:26:26.000Z",
-            "author": {
-                "name": "divided7",
-                "url": "https://github.com/divided7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150726549?u=b178e3db0dc87b1999eed412534bc85788af5af2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/xiaoyachong/xps_dinov3",
-            "title": "xiaoyachong/xps_dinov3",
-            "date_modified": "2026-03-23T22:38:37.000Z",
-            "date_published": "2026-03-19T17:41:53.000Z",
-            "author": {
-                "name": "xiaoyachong",
-                "url": "https://github.com/xiaoyachong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22161798?u=7c282effe474f93732e213f91bb509805a5f6f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A library for distilling DINOv3 models for use in mobile and embedded systems</div>",
-            "url": "https://github.com/jbadger3/DINODistillery",
-            "title": "jbadger3/DINODistillery: A library for distilling DINOv3 models for use in mobile and embedded systems",
-            "date_modified": "2026-03-23T21:20:33.000Z",
-            "date_published": "2026-01-09T14:29:54.000Z",
-            "author": {
-                "name": "jbadger3",
-                "url": "https://github.com/jbadger3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128392320?u=5e1857d60d740145c1d95662979e884447b9a957&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Phyll AI is a fully offline crop diagnostic platform. It features a modular architecture where users download models specifically trained for their specific crops (e.g., Rice, Tomato). It allows swapping backbones like DINOv3 or MobileNet based on device hardware, providing high-precision, research-backed leaf analysis anywhere.</div>",
-            "url": "https://github.com/S0L0-MAN/PhyllAi",
-            "title": "S0L0-MAN/PhyllAi: Phyll AI is a fully offline crop diagnostic platform. It features a modular architecture where users download models specifically trained for their specific crops (e.g., Rice, Tomato). It allows swapping backbones like DINOv3 or MobileNet based on device hardware, providing high-precision, research-backed leaf analysis anywhere.",
-            "date_modified": "2026-03-23T06:32:14.000Z",
-            "date_published": "2026-03-23T06:31:20.000Z",
-            "author": {
-                "name": "S0L0-MAN",
-                "url": "https://github.com/S0L0-MAN"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53433086?u=165b43703aaa3163f65d4093a90f6ac2ce9473f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 based face parsing network</div>",
-            "url": "https://github.com/jseobyun/FaceParsing",
-            "title": "jseobyun/FaceParsing: DINOv3 based face parsing network",
-            "date_modified": "2026-03-23T02:05:39.000Z",
-            "date_published": "2025-09-04T02:10:31.000Z",
-            "author": {
-                "name": "jseobyun",
-                "url": "https://github.com/jseobyun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34813326?u=cfb482cf2f15d1fe0b1f3756eadf4d79a6c9225b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINO v3 模型训练和微调项目 - 基于 python 的视觉模型训练工具</div>",
-            "url": "https://github.com/njujiangxiang/dinov3",
-            "title": "njujiangxiang/dinov3: DINO v3 模型训练和微调项目 - 基于 python 的视觉模型训练工具",
-            "date_modified": "2026-03-22T12:51:23.000Z",
-            "date_published": "2026-03-04T09:33:47.000Z",
-            "author": {
-                "name": "njujiangxiang",
-                "url": "https://github.com/njujiangxiang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141856401?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/annakhosrovyan/dinov3",
-            "title": "annakhosrovyan/dinov3",
-            "date_modified": "2026-03-22T11:07:59.000Z",
-            "date_published": "2026-03-12T11:27:39.000Z",
-            "author": {
-                "name": "annakhosrovyan",
-                "url": "https://github.com/annakhosrovyan"
             }
         }
     ]
