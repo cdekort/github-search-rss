@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-03-30T23:54:41.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-03-30T22:13:18.000Z",
+            "date_modified": "2026-03-31T22:58:41.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -31,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-03-30T21:58:04.000Z",
+            "date_modified": "2026-03-31T22:44:08.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -39,14 +28,113 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing dinov3 capability for RF signal detection</div>",
+            "url": "https://github.com/Trudes808/Dinov3-RF-Signal-Detection",
+            "title": "Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection",
+            "date_modified": "2026-03-31T22:37:45.000Z",
+            "date_published": "2026-01-15T18:45:48.000Z",
+            "author": {
+                "name": "Trudes808",
+                "url": "https://github.com/Trudes808"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-03-30T21:34:54.000Z",
+            "date_modified": "2026-03-31T22:21:21.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
                 "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-03-31T21:30:58.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201610101?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/riji-2006/DINOv3-PSPNet",
+            "title": "riji-2006/DINOv3-PSPNet",
+            "date_modified": "2026-03-31T16:14:13.000Z",
+            "date_published": "2026-03-31T16:14:08.000Z",
+            "author": {
+                "name": "riji-2006",
+                "url": "https://github.com/riji-2006"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-03-31T12:46:55.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77967831?u=86db5595e170b8fe213443687d77448c400c613c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>利用dinov3强大的特征提取能力，实现工业上的异常检测</div>",
+            "url": "https://github.com/Smilelin-Hu/Dinov3_c_plus_plus_infer",
+            "title": "Smilelin-Hu/Dinov3_c_plus_plus_infer: 利用dinov3强大的特征提取能力，实现工业上的异常检测",
+            "date_modified": "2026-03-31T08:00:41.000Z",
+            "date_published": "2026-03-26T06:38:26.000Z",
+            "author": {
+                "name": "Smilelin-Hu",
+                "url": "https://github.com/Smilelin-Hu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22448548?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026] Official repository for the paper:  \"INSID3: Training-Free In-Context Segmentation with DINOv3\"</div>",
+            "url": "https://github.com/visinf/INSID3",
+            "title": "visinf/INSID3: [CVPR 2026] Official repository for the paper:  \"INSID3: Training-Free In-Context Segmentation with DINOv3\"",
+            "date_modified": "2026-04-01T00:28:43.000Z",
+            "date_published": "2026-03-27T12:34:06.000Z",
+            "author": {
+                "name": "visinf",
+                "url": "https://github.com/visinf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239550850?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>缺陷检测</div>",
+            "url": "https://github.com/c2078353676-source/AD_DINOv3",
+            "title": "c2078353676-source/AD_DINOv3: 缺陷检测",
+            "date_modified": "2026-03-31T07:13:06.000Z",
+            "date_published": "2026-03-31T07:12:17.000Z",
+            "author": {
+                "name": "c2078353676-source",
+                "url": "https://github.com/c2078353676-source"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84672557?u=08b29a60647d711ab5b0bcceef56a8bdf414d1f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Super image for action recognition via DINOv3</div>",
+            "url": "https://github.com/Rik-Sarkar-07/SIFAR-DINOv3",
+            "title": "Rik-Sarkar-07/SIFAR-DINOv3: Super image for action recognition via DINOv3",
+            "date_modified": "2026-03-31T05:19:25.000Z",
+            "date_published": "2026-03-20T03:40:13.000Z",
+            "author": {
+                "name": "Rik-Sarkar-07",
+                "url": "https://github.com/Rik-Sarkar-07"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177684917?u=b1149d71cf881044d3800605141e6db702f6aaff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HHMI take home task of interview for task2 - image feature extraction of EM using divov3</div>",
+            "url": "https://github.com/chenli-git/EM_feature_extraction_dinoV3_hhmi",
+            "title": "chenli-git/EM_feature_extraction_dinoV3_hhmi: HHMI take home task of interview for task2 - image feature extraction of EM using divov3",
+            "date_modified": "2026-03-31T04:21:37.000Z",
+            "date_published": "2026-03-31T03:57:55.000Z",
+            "author": {
+                "name": "chenli-git",
+                "url": "https://github.com/chenli-git"
             }
         },
         {
@@ -61,32 +149,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22448548?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026] Official repository for the paper:  \"INSID3: Training-Free In-Context Segmentation with DINOv3\"</div>",
-            "url": "https://github.com/visinf/INSID3",
-            "title": "visinf/INSID3: [CVPR 2026] Official repository for the paper:  \"INSID3: Training-Free In-Context Segmentation with DINOv3\"",
-            "date_modified": "2026-03-30T20:05:32.000Z",
-            "date_published": "2026-03-27T12:34:06.000Z",
-            "author": {
-                "name": "visinf",
-                "url": "https://github.com/visinf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-03-30T15:58:13.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2026-03-30T19:50:37.000Z",
+            "date_modified": "2026-03-31T17:44:06.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -127,21 +193,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177684917?u=b1149d71cf881044d3800605141e6db702f6aaff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HHMI take home task of interview for task2 - image feature extraction of EM using divov3</div>",
-            "url": "https://github.com/chenli-git/dinov3_EM_hhmi",
-            "title": "chenli-git/dinov3_EM_hhmi: HHMI take home task of interview for task2 - image feature extraction of EM using divov3",
-            "date_modified": "2026-03-30T04:14:32.000Z",
-            "date_published": "2026-03-30T04:10:39.000Z",
-            "author": {
-                "name": "chenli-git",
-                "url": "https://github.com/chenli-git"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=7500f66b0d147f3e1a9b035dc5dcce7f30abeaae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
             "url": "https://github.com/jaychempan/V2-SAM",
             "title": "jaychempan/V2-SAM: [CVPR'26] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
-            "date_modified": "2026-03-30T08:15:24.000Z",
+            "date_modified": "2026-03-31T02:41:15.000Z",
             "date_published": "2025-12-10T14:01:47.000Z",
             "author": {
                 "name": "jaychempan",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "qjl1104",
                 "url": "https://github.com/qjl1104"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleAICV:pytorch training examples.</div>",
-            "url": "https://github.com/zgcr/SimpleAICV_pytorch_training_examples",
-            "title": "zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.",
-            "date_modified": "2026-03-28T10:36:22.000Z",
-            "date_published": "2020-05-31T05:37:26.000Z",
-            "author": {
-                "name": "zgcr",
-                "url": "https://github.com/zgcr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128392320?u=5e1857d60d740145c1d95662979e884447b9a957&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Phyll AI is a fully offline crop diagnostic platform. It features a modular architecture where users download models specifically trained for their specific crops (e.g., Rice, Tomato). It allows swapping backbones like DINOv3 or MobileNet based on device hardware, providing high-precision, research-backed leaf analysis anywhere.</div>",
-            "url": "https://github.com/S0L0-MAN/PhyllAi",
-            "title": "S0L0-MAN/PhyllAi: Phyll AI is a fully offline crop diagnostic platform. It features a modular architecture where users download models specifically trained for their specific crops (e.g., Rice, Tomato). It allows swapping backbones like DINOv3 or MobileNet based on device hardware, providing high-precision, research-backed leaf analysis anywhere.",
-            "date_modified": "2026-03-28T09:57:20.000Z",
-            "date_published": "2026-03-23T06:31:20.000Z",
-            "author": {
-                "name": "S0L0-MAN",
-                "url": "https://github.com/S0L0-MAN"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99476725?u=b505dfeb92dd2a08972635df9e9dde8ddefa0c83&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Lomitongery/dinov3-pspnet-voc",
-            "title": "Lomitongery/dinov3-pspnet-voc",
-            "date_modified": "2026-03-28T09:47:09.000Z",
-            "date_published": "2026-03-15T15:39:51.000Z",
-            "author": {
-                "name": "Lomitongery",
-                "url": "https://github.com/Lomitongery"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
-            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
-            "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
-            "date_modified": "2026-03-30T07:44:30.000Z",
-            "date_published": "2026-03-16T10:28:22.000Z",
-            "author": {
-                "name": "Intellindust-AI-Lab",
-                "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17559987?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/narrowsnap/dinov3_eomt",
-            "title": "narrowsnap/dinov3_eomt",
-            "date_modified": "2026-03-27T03:29:58.000Z",
-            "date_published": "2026-03-27T03:28:42.000Z",
-            "author": {
-                "name": "narrowsnap",
-                "url": "https://github.com/narrowsnap"
             }
         }
     ]
