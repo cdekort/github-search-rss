@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-04-04T00:34:48.670Z</updated>
+    <updated>2026-04-05T00:39:19.867Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-04-04T23:51:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-04-03T23:30:29.000Z</updated>
+        <updated>2026-04-04T22:18:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -24,7 +37,7 @@
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-04-03T23:15:24.000Z</updated>
+        <updated>2026-04-04T22:04:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -34,23 +47,10 @@
         <published>2026-02-15T00:26:11.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[visinf/INSID3: [CVPR 2026] Official repository for the paper:  "INSID3: Training-Free In-Context Segmentation with DINOv3"]]></title>
-        <id>https://github.com/visinf/INSID3</id>
-        <link href="https://github.com/visinf/INSID3"/>
-        <updated>2026-04-03T23:19:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22448548?v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026] Official repository for the paper:  "INSID3: Training-Free In-Context Segmentation with DINOv3"</div>]]></content>
-        <author>
-            <name>visinf</name>
-            <email>visinf@noreply.github.com</email>
-            <uri>https://github.com/visinf</uri>
-        </author>
-        <published>2026-03-27T12:34:06.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-04-03T22:52:55.000Z</updated>
+        <updated>2026-04-04T21:40:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -60,17 +60,56 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-04-03T22:03:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <title type="html"><![CDATA[visinf/INSID3: [CVPR 2026] Official repository for the paper:  "INSID3: Training-Free In-Context Segmentation with DINOv3"]]></title>
+        <id>https://github.com/visinf/INSID3</id>
+        <link href="https://github.com/visinf/INSID3"/>
+        <updated>2026-04-04T18:45:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22448548?v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026] Official repository for the paper:  "INSID3: Training-Free In-Context Segmentation with DINOv3"</div>]]></content>
         <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
+            <name>visinf</name>
+            <email>visinf@noreply.github.com</email>
+            <uri>https://github.com/visinf</uri>
         </author>
-        <published>2020-05-31T11:42:52.000Z</published>
+        <published>2026-03-27T12:34:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[suphawutq56789/Triple-YOLOv26-DINOv3-]]></title>
+        <id>https://github.com/suphawutq56789/Triple-YOLOv26-DINOv3-</id>
+        <link href="https://github.com/suphawutq56789/Triple-YOLOv26-DINOv3-"/>
+        <updated>2026-04-04T17:53:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/226243536?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>suphawutq56789</name>
+            <email>suphawutq56789@noreply.github.com</email>
+            <uri>https://github.com/suphawutq56789</uri>
+        </author>
+        <published>2026-04-04T17:53:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A1C1NY/dinoV3_ToothVLM]]></title>
+        <id>https://github.com/A1C1NY/dinoV3_ToothVLM</id>
+        <link href="https://github.com/A1C1NY/dinoV3_ToothVLM"/>
+        <updated>2026-04-04T16:41:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>A1C1NY</name>
+            <email>A1C1NY@noreply.github.com</email>
+            <uri>https://github.com/A1C1NY</uri>
+        </author>
+        <published>2026-04-04T12:24:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhouchanggeng/dinov3_fintiune]]></title>
+        <id>https://github.com/zhouchanggeng/dinov3_fintiune</id>
+        <link href="https://github.com/zhouchanggeng/dinov3_fintiune"/>
+        <updated>2026-04-04T10:07:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31927968?u=d94b0345c1e8d322797ac7512308f9ba83132f66&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhouchanggeng</name>
+            <email>zhouchanggeng@noreply.github.com</email>
+            <uri>https://github.com/zhouchanggeng</uri>
+        </author>
+        <published>2026-04-04T09:50:16.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[marjanstoimcev/DINOv3distill]]></title>
@@ -180,7 +219,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-04-02T13:17:20.000Z</updated>
+        <updated>2026-04-04T13:29:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/HORIZONHealthcare</uri>
         </author>
         <published>2026-04-01T10:26:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TrifuRazvan/TV3S-DINOv3: Attempt to use DINOv3 as backbone for TV3S]]></title>
-        <id>https://github.com/TrifuRazvan/TV3S-DINOv3</id>
-        <link href="https://github.com/TrifuRazvan/TV3S-DINOv3"/>
-        <updated>2026-04-01T13:09:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/127941708?v=4" width="64" height="64" alt=""/><br/><div>Attempt to use DINOv3 as backbone for TV3S</div>]]></content>
-        <author>
-            <name>TrifuRazvan</name>
-            <email>TrifuRazvan@noreply.github.com</email>
-            <uri>https://github.com/TrifuRazvan</uri>
-        </author>
-        <published>2026-04-01T10:36:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[c2078353676-source/Defect_DINOv3_AACM]]></title>
-        <id>https://github.com/c2078353676-source/Defect_DINOv3_AACM</id>
-        <link href="https://github.com/c2078353676-source/Defect_DINOv3_AACM"/>
-        <updated>2026-04-01T07:13:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/239550850?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>c2078353676-source</name>
-            <email>c2078353676-source@noreply.github.com</email>
-            <uri>https://github.com/c2078353676-source</uri>
-        </author>
-        <published>2026-04-01T07:11:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohit-robo/anomaly_dinov3]]></title>
-        <id>https://github.com/Mohit-robo/anomaly_dinov3</id>
-        <link href="https://github.com/Mohit-robo/anomaly_dinov3"/>
-        <updated>2026-04-01T05:53:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/82194525?u=24bb7b247a4a8556a4d4389933fad2166c872101&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Mohit-robo</name>
-            <email>Mohit-robo@noreply.github.com</email>
-            <uri>https://github.com/Mohit-robo</uri>
-        </author>
-        <published>2026-03-10T13:12:43.000Z</published>
     </entry>
 </feed>
