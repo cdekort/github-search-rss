@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-04-06T00:28:50.000Z",
+            "date_modified": "2026-04-06T23:18:42.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-04-06T00:13:35.000Z",
+            "date_modified": "2026-04-06T23:04:28.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-04-05T23:50:57.000Z",
+            "date_modified": "2026-04-06T22:41:35.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -42,11 +42,55 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-04-05T23:01:15.000Z",
+            "date_modified": "2026-04-06T21:53:37.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237532180?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.</div>",
+            "url": "https://github.com/gongzhijie535-ctrl/DINO-Lens",
+            "title": "gongzhijie535-ctrl/DINO-Lens: An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.",
+            "date_modified": "2026-04-06T19:16:02.000Z",
+            "date_published": "2026-04-06T16:54:49.000Z",
+            "author": {
+                "name": "gongzhijie535-ctrl",
+                "url": "https://github.com/gongzhijie535-ctrl"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/273119048?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/marjanstoimcev/DINOv3distill",
+            "title": "marjanstoimcev/DINOv3distill",
+            "date_modified": "2026-04-06T14:50:06.000Z",
+            "date_published": "2026-04-03T18:00:51.000Z",
+            "author": {
+                "name": "marjanstoimcev",
+                "url": "https://github.com/marjanstoimcev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/A1C1NY/dinoV3_ToothVLM",
+            "title": "A1C1NY/dinoV3_ToothVLM",
+            "date_modified": "2026-04-06T14:14:47.000Z",
+            "date_published": "2026-04-04T12:24:24.000Z",
+            "author": {
+                "name": "A1C1NY",
+                "url": "https://github.com/A1C1NY"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23581364?u=83cb4b5ba079c7bda6c78e294503fff52da00638&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Identity-preserving image-to-video generation: vision-grounded prompt simplification via Qwen3-VL, Lightning LoRA 4-step inference, and SAM3-masked DINOv3 candidate reranking for fluid 720p video from a single reference image.</div>",
+            "url": "https://github.com/debajyotidasgupta/IdentityFlow",
+            "title": "debajyotidasgupta/IdentityFlow: Identity-preserving image-to-video generation: vision-grounded prompt simplification via Qwen3-VL, Lightning LoRA 4-step inference, and SAM3-masked DINOv3 candidate reranking for fluid 720p video from a single reference image.",
+            "date_modified": "2026-04-06T16:37:23.000Z",
+            "date_published": "2026-03-25T22:36:57.000Z",
+            "author": {
+                "name": "debajyotidasgupta",
+                "url": "https://github.com/debajyotidasgupta"
             }
         },
         {
@@ -61,14 +105,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/A1C1NY/dinoV3_ToothVLM",
-            "title": "A1C1NY/dinoV3_ToothVLM",
-            "date_modified": "2026-04-05T03:35:58.000Z",
-            "date_published": "2026-04-04T12:24:24.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-04-06T01:59:07.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
-                "name": "A1C1NY",
-                "url": "https://github.com/A1C1NY"
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -102,17 +146,6 @@
             "author": {
                 "name": "zhouchanggeng",
                 "url": "https://github.com/zhouchanggeng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/273119048?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/marjanstoimcev/DINOv3distill",
-            "title": "marjanstoimcev/DINOv3distill",
-            "date_modified": "2026-04-03T18:35:14.000Z",
-            "date_published": "2026-04-03T18:00:51.000Z",
-            "author": {
-                "name": "marjanstoimcev",
-                "url": "https://github.com/marjanstoimcev"
             }
         },
         {
@@ -185,44 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
             "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
             "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
-            "date_modified": "2026-04-05T04:29:56.000Z",
+            "date_modified": "2026-04-06T16:39:55.000Z",
             "date_published": "2026-03-16T10:28:22.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
                 "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-04-05T08:19:28.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169234815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 + mask2formers</div>",
-            "url": "https://github.com/moses-song/dfu_model",
-            "title": "moses-song/dfu_model: dinov3 + mask2formers",
-            "date_modified": "2026-04-02T10:58:37.000Z",
-            "date_published": "2026-03-17T12:17:01.000Z",
-            "author": {
-                "name": "moses-song",
-                "url": "https://github.com/moses-song"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9141898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experiment with Dinov3 Fine-Tuning on the downstream task of detecting whether doors in an image are open or closed</div>",
-            "url": "https://github.com/oilst/dino_door_detection",
-            "title": "oilst/dino_door_detection: Experiment with Dinov3 Fine-Tuning on the downstream task of detecting whether doors in an image are open or closed",
-            "date_modified": "2026-04-02T09:22:03.000Z",
-            "date_published": "2026-04-02T09:21:59.000Z",
-            "author": {
-                "name": "oilst",
-                "url": "https://github.com/oilst"
             }
         }
     ]
