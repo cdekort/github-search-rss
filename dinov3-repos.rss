@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-04-07T00:38:17.863Z</updated>
+    <updated>2026-04-08T00:38:33.367Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-04-06T23:18:42.000Z</updated>
+        <updated>2026-04-07T23:14:45.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-04-06T23:04:28.000Z</updated>
+        <updated>2026-04-07T23:00:11.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -37,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-04-06T22:41:35.000Z</updated>
+        <updated>2026-04-07T22:38:03.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -50,7 +50,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-04-06T21:53:37.000Z</updated>
+        <updated>2026-04-07T21:48:37.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -60,10 +60,62 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-04-07T15:20:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[moses-song/dfu_model: dinov3 + mask2formers]]></title>
+        <id>https://github.com/moses-song/dfu_model</id>
+        <link href="https://github.com/moses-song/dfu_model"/>
+        <updated>2026-04-07T08:03:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/169234815?v=4" width="64" height="64" alt=""/><br/><div>dinov3 + mask2formers</div>]]></content>
+        <author>
+            <name>moses-song</name>
+            <email>moses-song@noreply.github.com</email>
+            <uri>https://github.com/moses-song</uri>
+        </author>
+        <published>2026-03-17T12:17:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhouchanggeng/dinov3_fintiune]]></title>
+        <id>https://github.com/zhouchanggeng/dinov3_fintiune</id>
+        <link href="https://github.com/zhouchanggeng/dinov3_fintiune"/>
+        <updated>2026-04-07T07:11:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31927968?u=d94b0345c1e8d322797ac7512308f9ba83132f66&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhouchanggeng</name>
+            <email>zhouchanggeng@noreply.github.com</email>
+            <uri>https://github.com/zhouchanggeng</uri>
+        </author>
+        <published>2026-04-04T09:50:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[691292605/DINOv3_PSPNet]]></title>
+        <id>https://github.com/691292605/DINOv3_PSPNet</id>
+        <link href="https://github.com/691292605/DINOv3_PSPNet"/>
+        <updated>2026-04-07T05:15:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145271671?u=ef65cafc0fb9d6011bbc661ebf2914a3682624d7&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>691292605</name>
+            <email>691292605@noreply.github.com</email>
+            <uri>https://github.com/691292605</uri>
+        </author>
+        <published>2026-03-06T05:15:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[gongzhijie535-ctrl/DINO-Lens: An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.]]></title>
         <id>https://github.com/gongzhijie535-ctrl/DINO-Lens</id>
         <link href="https://github.com/gongzhijie535-ctrl/DINO-Lens"/>
-        <updated>2026-04-06T19:16:02.000Z</updated>
+        <updated>2026-04-07T04:51:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/237532180?v=4" width="64" height="64" alt=""/><br/><div>An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.</div>]]></content>
         <author>
             <name>gongzhijie535-ctrl</name>
@@ -125,23 +177,10 @@
         <published>2026-02-26T11:18:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-04-06T01:59:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[visinf/INSID3: [CVPR 2026] Official repository for the paper:  "INSID3: Training-Free In-Context Segmentation with DINOv3"]]></title>
         <id>https://github.com/visinf/INSID3</id>
         <link href="https://github.com/visinf/INSID3"/>
-        <updated>2026-04-05T17:54:09.000Z</updated>
+        <updated>2026-04-08T00:28:41.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22448548?v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026] Official repository for the paper:  "INSID3: Training-Free In-Context Segmentation with DINOv3"</div>]]></content>
         <author>
             <name>visinf</name>
@@ -162,19 +201,6 @@
             <uri>https://github.com/suphawutq56789</uri>
         </author>
         <published>2026-04-04T17:53:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhouchanggeng/dinov3_fintiune]]></title>
-        <id>https://github.com/zhouchanggeng/dinov3_fintiune</id>
-        <link href="https://github.com/zhouchanggeng/dinov3_fintiune"/>
-        <updated>2026-04-04T10:07:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31927968?u=d94b0345c1e8d322797ac7512308f9ba83132f66&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhouchanggeng</name>
-            <email>zhouchanggeng@noreply.github.com</email>
-            <uri>https://github.com/zhouchanggeng</uri>
-        </author>
-        <published>2026-04-04T09:50:16.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/TimZhang001</uri>
         </author>
         <published>2026-04-01T12:36:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[timlawrenz/stratum-hq: Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.]]></title>
-        <id>https://github.com/timlawrenz/stratum-hq</id>
-        <link href="https://github.com/timlawrenz/stratum-hq"/>
-        <updated>2026-04-02T22:15:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/697600?v=4" width="64" height="64" alt=""/><br/><div>Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.</div>]]></content>
-        <author>
-            <name>timlawrenz</name>
-            <email>timlawrenz@noreply.github.com</email>
-            <uri>https://github.com/timlawrenz</uri>
-        </author>
-        <published>2026-03-23T14:30:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
-        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-04-06T16:39:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2026-03-16T10:28:22.000Z</published>
     </entry>
 </feed>
