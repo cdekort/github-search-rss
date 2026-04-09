@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-04-08T00:38:33.367Z</updated>
+    <updated>2026-04-09T00:32:09.370Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-04-07T23:14:45.000Z</updated>
+        <updated>2026-04-09T00:20:43.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-04-07T23:00:11.000Z</updated>
+        <updated>2026-04-09T00:06:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -37,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-04-07T22:38:03.000Z</updated>
+        <updated>2026-04-08T23:44:24.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -50,7 +50,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-04-07T21:48:37.000Z</updated>
+        <updated>2026-04-08T22:54:12.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -60,10 +60,23 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[natthawin0614/csiro-image2biomass: 🥇 Top 10.1% Kaggle solution · Predicting pasture biomass from images using DINOv3 + FiLM · Two-stream architecture · Final R²: 0.723 (Public) / 0.613 (Private)]]></title>
+        <id>https://github.com/natthawin0614/csiro-image2biomass</id>
+        <link href="https://github.com/natthawin0614/csiro-image2biomass"/>
+        <updated>2026-04-08T22:13:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/125456739?u=7c0d5344d02a31b8d949c442ba2bd29172299bc3&v=4" width="64" height="64" alt=""/><br/><div>🥇 Top 10.1% Kaggle solution · Predicting pasture biomass from images using DINOv3 + FiLM · Two-stream architecture · Final R²: 0.723 (Public) / 0.613 (Private)</div>]]></content>
+        <author>
+            <name>natthawin0614</name>
+            <email>natthawin0614@noreply.github.com</email>
+            <uri>https://github.com/natthawin0614</uri>
+        </author>
+        <published>2026-04-08T21:14:24.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-04-07T15:20:34.000Z</updated>
+        <updated>2026-04-08T15:40:49.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -71,6 +84,71 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A1C1NY/dinoV3_ToothVLM]]></title>
+        <id>https://github.com/A1C1NY/dinoV3_ToothVLM</id>
+        <link href="https://github.com/A1C1NY/dinoV3_ToothVLM"/>
+        <updated>2026-04-08T14:19:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>A1C1NY</name>
+            <email>A1C1NY@noreply.github.com</email>
+            <uri>https://github.com/A1C1NY</uri>
+        </author>
+        <published>2026-04-04T12:24:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[suphawutq56789/Triple-YOLOv26-DINOv3]]></title>
+        <id>https://github.com/suphawutq56789/Triple-YOLOv26-DINOv3</id>
+        <link href="https://github.com/suphawutq56789/Triple-YOLOv26-DINOv3"/>
+        <updated>2026-04-08T09:03:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/226243536?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>suphawutq56789</name>
+            <email>suphawutq56789@noreply.github.com</email>
+            <uri>https://github.com/suphawutq56789</uri>
+        </author>
+        <published>2026-04-04T17:53:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gongzhijie535-ctrl/DINO-Lens: An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.]]></title>
+        <id>https://github.com/gongzhijie535-ctrl/DINO-Lens</id>
+        <link href="https://github.com/gongzhijie535-ctrl/DINO-Lens"/>
+        <updated>2026-04-08T09:03:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/237532180?v=4" width="64" height="64" alt=""/><br/><div>An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.</div>]]></content>
+        <author>
+            <name>gongzhijie535-ctrl</name>
+            <email>gongzhijie535-ctrl@noreply.github.com</email>
+            <uri>https://github.com/gongzhijie535-ctrl</uri>
+        </author>
+        <published>2026-04-06T16:54:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[littlechicken139/Three-Stage-Cervical-TCT-Smear-Detection-Framework: A Three-Stage Cervical TCT Smear Detection Framework Based on YOLOv11 and DINOv3]]></title>
+        <id>https://github.com/littlechicken139/Three-Stage-Cervical-TCT-Smear-Detection-Framework</id>
+        <link href="https://github.com/littlechicken139/Three-Stage-Cervical-TCT-Smear-Detection-Framework"/>
+        <updated>2026-04-08T07:53:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148323040?u=dfe3f99879ffaf191e486c95a3438c400c325173&v=4" width="64" height="64" alt=""/><br/><div>A Three-Stage Cervical TCT Smear Detection Framework Based on YOLOv11 and DINOv3</div>]]></content>
+        <author>
+            <name>littlechicken139</name>
+            <email>littlechicken139@noreply.github.com</email>
+            <uri>https://github.com/littlechicken139</uri>
+        </author>
+        <published>2026-04-08T07:52:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jarvisyjw/salad_dinov3: Adapting SALAD to dinov3 backbone.]]></title>
+        <id>https://github.com/jarvisyjw/salad_dinov3</id>
+        <link href="https://github.com/jarvisyjw/salad_dinov3"/>
+        <updated>2026-04-08T08:02:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75066365?u=e7c9dbf7d2deacbdb1f3710301c2f31c77e6f247&v=4" width="64" height="64" alt=""/><br/><div>Adapting SALAD to dinov3 backbone.</div>]]></content>
+        <author>
+            <name>jarvisyjw</name>
+            <email>jarvisyjw@noreply.github.com</email>
+            <uri>https://github.com/jarvisyjw</uri>
+        </author>
+        <published>2026-04-08T04:39:57.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[moses-song/dfu_model: dinov3 + mask2formers]]></title>
@@ -112,19 +190,6 @@
         <published>2026-03-06T05:15:23.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[gongzhijie535-ctrl/DINO-Lens: An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.]]></title>
-        <id>https://github.com/gongzhijie535-ctrl/DINO-Lens</id>
-        <link href="https://github.com/gongzhijie535-ctrl/DINO-Lens"/>
-        <updated>2026-04-07T04:51:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/237532180?v=4" width="64" height="64" alt=""/><br/><div>An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.</div>]]></content>
-        <author>
-            <name>gongzhijie535-ctrl</name>
-            <email>gongzhijie535-ctrl@noreply.github.com</email>
-            <uri>https://github.com/gongzhijie535-ctrl</uri>
-        </author>
-        <published>2026-04-06T16:54:49.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[marjanstoimcev/DINOv3distill]]></title>
         <id>https://github.com/marjanstoimcev/DINOv3distill</id>
         <link href="https://github.com/marjanstoimcev/DINOv3distill"/>
@@ -136,19 +201,6 @@
             <uri>https://github.com/marjanstoimcev</uri>
         </author>
         <published>2026-04-03T18:00:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A1C1NY/dinoV3_ToothVLM]]></title>
-        <id>https://github.com/A1C1NY/dinoV3_ToothVLM</id>
-        <link href="https://github.com/A1C1NY/dinoV3_ToothVLM"/>
-        <updated>2026-04-06T14:14:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>A1C1NY</name>
-            <email>A1C1NY@noreply.github.com</email>
-            <uri>https://github.com/A1C1NY</uri>
-        </author>
-        <published>2026-04-04T12:24:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[debajyotidasgupta/IdentityFlow: Identity-preserving image-to-video generation: vision-grounded prompt simplification via Qwen3-VL, Lightning LoRA 4-step inference, and SAM3-masked DINOv3 candidate reranking for fluid 720p video from a single reference image.]]></title>
@@ -180,7 +232,7 @@
         <title type="html"><![CDATA[visinf/INSID3: [CVPR 2026] Official repository for the paper:  "INSID3: Training-Free In-Context Segmentation with DINOv3"]]></title>
         <id>https://github.com/visinf/INSID3</id>
         <link href="https://github.com/visinf/INSID3"/>
-        <updated>2026-04-08T00:28:41.000Z</updated>
+        <updated>2026-04-08T19:23:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22448548?v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026] Official repository for the paper:  "INSID3: Training-Free In-Context Segmentation with DINOv3"</div>]]></content>
         <author>
             <name>visinf</name>
@@ -188,19 +240,6 @@
             <uri>https://github.com/visinf</uri>
         </author>
         <published>2026-03-27T12:34:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[suphawutq56789/Triple-YOLOv26-DINOv3]]></title>
-        <id>https://github.com/suphawutq56789/Triple-YOLOv26-DINOv3</id>
-        <link href="https://github.com/suphawutq56789/Triple-YOLOv26-DINOv3"/>
-        <updated>2026-04-05T21:14:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/226243536?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>suphawutq56789</name>
-            <email>suphawutq56789@noreply.github.com</email>
-            <uri>https://github.com/suphawutq56789</uri>
-        </author>
-        <published>2026-04-04T17:53:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection]]></title>
@@ -227,44 +266,5 @@
             <uri>https://github.com/annakhosrovyan</uri>
         </author>
         <published>2026-03-12T11:27:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BarryWangQwQ/NeuroHydra: A Generalizable DINOv3–Mamba Framework for Multimodal Biomedical AI]]></title>
-        <id>https://github.com/BarryWangQwQ/NeuroHydra</id>
-        <link href="https://github.com/BarryWangQwQ/NeuroHydra"/>
-        <updated>2026-04-03T08:48:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46416337?u=701e376366b51dfe54c5afc6dc10ac7cb50338e3&v=4" width="64" height="64" alt=""/><br/><div>A Generalizable DINOv3–Mamba Framework for Multimodal Biomedical AI</div>]]></content>
-        <author>
-            <name>BarryWangQwQ</name>
-            <email>BarryWangQwQ@noreply.github.com</email>
-            <uri>https://github.com/BarryWangQwQ</uri>
-        </author>
-        <published>2026-01-12T23:14:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chenli-git/dinoV3_EM_hhmi: using dinoV3 to do image feature extraction]]></title>
-        <id>https://github.com/chenli-git/dinoV3_EM_hhmi</id>
-        <link href="https://github.com/chenli-git/dinoV3_EM_hhmi"/>
-        <updated>2026-04-03T04:27:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/177684917?u=b1149d71cf881044d3800605141e6db702f6aaff&v=4" width="64" height="64" alt=""/><br/><div>using dinoV3 to do image feature extraction</div>]]></content>
-        <author>
-            <name>chenli-git</name>
-            <email>chenli-git@noreply.github.com</email>
-            <uri>https://github.com/chenli-git</uri>
-        </author>
-        <published>2026-04-01T04:45:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TimZhang001/dinov3App]]></title>
-        <id>https://github.com/TimZhang001/dinov3App</id>
-        <link href="https://github.com/TimZhang001/dinov3App"/>
-        <updated>2026-04-03T02:14:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7878012?u=8e27b2587e813f8c98e41fdee60b2fafbe734360&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>TimZhang001</name>
-            <email>TimZhang001@noreply.github.com</email>
-            <uri>https://github.com/TimZhang001</uri>
-        </author>
-        <published>2026-04-01T12:36:49.000Z</published>
     </entry>
 </feed>
