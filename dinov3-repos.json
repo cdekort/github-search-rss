@@ -6,10 +6,32 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing dinov3 capability for RF signal detection</div>",
+            "url": "https://github.com/Trudes808/Dinov3-RF-Signal-Detection",
+            "title": "Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection",
+            "date_modified": "2026-04-14T00:15:46.000Z",
+            "date_published": "2026-01-15T18:45:48.000Z",
+            "author": {
+                "name": "Trudes808",
+                "url": "https://github.com/Trudes808"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-04-14T00:13:59.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-04-13T00:07:38.000Z",
+            "date_modified": "2026-04-13T23:21:08.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-04-12T23:53:21.000Z",
+            "date_modified": "2026-04-13T23:06:20.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-04-12T23:31:45.000Z",
+            "date_modified": "2026-04-13T22:44:18.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -39,25 +61,69 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-04-12T22:43:34.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-04-13T16:37:28.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing dinov3 capability for RF signal detection</div>",
-            "url": "https://github.com/Trudes808/Dinov3-RF-Signal-Detection",
-            "title": "Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection",
-            "date_modified": "2026-04-12T22:34:51.000Z",
-            "date_published": "2026-01-15T18:45:48.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222135877?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Inuscq/DINOv3-PSPNet-VOC",
+            "title": "Inuscq/DINOv3-PSPNet-VOC",
+            "date_modified": "2026-04-13T11:52:03.000Z",
+            "date_published": "2026-04-13T09:37:48.000Z",
             "author": {
-                "name": "Trudes808",
-                "url": "https://github.com/Trudes808"
+                "name": "Inuscq",
+                "url": "https://github.com/Inuscq"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146430099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection</div>",
+            "url": "https://github.com/BeibeiIsFreshman/DINOv3_SAM",
+            "title": "BeibeiIsFreshman/DINOv3_SAM: Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection",
+            "date_modified": "2026-04-13T08:28:38.000Z",
+            "date_published": "2025-12-09T06:49:32.000Z",
+            "author": {
+                "name": "BeibeiIsFreshman",
+                "url": "https://github.com/BeibeiIsFreshman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31629553?u=17ed525dad83c128b982126cdd4d005cd2fcc0af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/neerajk/dinov3_inference",
+            "title": "neerajk/dinov3_inference",
+            "date_modified": "2026-04-13T08:06:23.000Z",
+            "date_published": "2026-04-13T07:19:47.000Z",
+            "author": {
+                "name": "neerajk",
+                "url": "https://github.com/neerajk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114334054?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/SMALLCODE321/dinov3_gem",
+            "title": "SMALLCODE321/dinov3_gem",
+            "date_modified": "2026-04-13T07:20:46.000Z",
+            "date_published": "2026-01-20T10:34:42.000Z",
+            "author": {
+                "name": "SMALLCODE321",
+                "url": "https://github.com/SMALLCODE321"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79390474?u=d16d3b4a5527a411fa1c5f9cdca549af0ab24172&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder</div>",
+            "url": "https://github.com/LuizScarlet/AEIC",
+            "title": "LuizScarlet/AEIC: [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder",
+            "date_modified": "2026-04-13T03:51:39.000Z",
+            "date_published": "2026-02-26T11:18:03.000Z",
+            "author": {
+                "name": "LuizScarlet",
+                "url": "https://github.com/LuizScarlet"
             }
         },
         {
@@ -116,14 +182,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-04-12T04:50:31.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104980585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AXERA-TECH/dinov3.AXERA",
+            "title": "AXERA-TECH/dinov3.AXERA",
+            "date_modified": "2026-04-13T02:57:21.000Z",
+            "date_published": "2026-04-10T07:39:40.000Z",
             "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
+                "name": "AXERA-TECH",
+                "url": "https://github.com/AXERA-TECH"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "raviolihui",
                 "url": "https://github.com/raviolihui"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136863723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 in pure, dependency-free Python</div>",
-            "url": "https://github.com/RyanKim17920/nanoDINOv3",
-            "title": "RyanKim17920/nanoDINOv3: DINOv3 in pure, dependency-free Python",
-            "date_modified": "2026-04-10T03:27:13.000Z",
-            "date_published": "2026-03-11T23:25:35.000Z",
-            "author": {
-                "name": "RyanKim17920",
-                "url": "https://github.com/RyanKim17920"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76574810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MM-DINO: DINOv3-Based Universal Framework for Uni and Multi-Modal Remote Sensing Image Semantic Segmentation, tgrs, 2026.</div>",
-            "url": "https://github.com/KimotaQY/MM-DINO",
-            "title": "KimotaQY/MM-DINO: MM-DINO: DINOv3-Based Universal Framework for Uni and Multi-Modal Remote Sensing Image Semantic Segmentation, tgrs, 2026.",
-            "date_modified": "2026-04-10T03:20:15.000Z",
-            "date_published": "2025-12-12T10:48:51.000Z",
-            "author": {
-                "name": "KimotaQY",
-                "url": "https://github.com/KimotaQY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107895512?u=548e13cd73fd6af72a8bac61fd603681236d3b10&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extraction of SVG features from DINOv3 activations from all layers, then training a linear world model.</div>",
-            "url": "https://github.com/Nadir-Kutluozen/svg_reconstruction_dinov3",
-            "title": "Nadir-Kutluozen/svg_reconstruction_dinov3: Extraction of SVG features from DINOv3 activations from all layers, then training a linear world model.",
-            "date_modified": "2026-04-09T19:26:42.000Z",
-            "date_published": "2026-04-09T18:59:09.000Z",
-            "author": {
-                "name": "Nadir-Kutluozen",
-                "url": "https://github.com/Nadir-Kutluozen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22448548?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026 Oral] Official repository for the paper:  \"INSID3: Training-Free In-Context Segmentation with DINOv3\"</div>",
-            "url": "https://github.com/visinf/INSID3",
-            "title": "visinf/INSID3: [CVPR 2026 Oral] Official repository for the paper:  \"INSID3: Training-Free In-Context Segmentation with DINOv3\"",
-            "date_modified": "2026-04-13T00:04:11.000Z",
-            "date_published": "2026-03-27T12:34:06.000Z",
-            "author": {
-                "name": "visinf",
-                "url": "https://github.com/visinf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=04d0b5e83521c563b6493c9ab3fc34f2fc6141bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
-            "url": "https://github.com/jaychempan/V2-SAM",
-            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
-            "date_modified": "2026-04-11T14:55:19.000Z",
-            "date_published": "2025-12-10T14:01:47.000Z",
-            "author": {
-                "name": "jaychempan",
-                "url": "https://github.com/jaychempan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116091929?u=bacafaae71e5e3b85a8de60e6efa37ada38329a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Winner project of the HackUDC 2026 Inditex AI challenge. From a photo of an outfit and given the Zara catalog, identify all the individual pieces the model is wearing.</div>",
-            "url": "https://github.com/usbt0p/product-matching-hackudc-inditex",
-            "title": "usbt0p/product-matching-hackudc-inditex: Winner project of the HackUDC 2026 Inditex AI challenge. From a photo of an outfit and given the Zara catalog, identify all the individual pieces the model is wearing.",
-            "date_modified": "2026-04-09T08:38:59.000Z",
-            "date_published": "2026-02-28T23:39:38.000Z",
-            "author": {
-                "name": "usbt0p",
-                "url": "https://github.com/usbt0p"
             }
         }
     ]
