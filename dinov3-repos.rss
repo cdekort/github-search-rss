@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-04-15T00:43:05.486Z</updated>
+    <updated>2026-04-16T00:44:15.474Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[yangtiming/Dinov3-ViT5]]></title>
-        <id>https://github.com/yangtiming/Dinov3-ViT5</id>
-        <link href="https://github.com/yangtiming/Dinov3-ViT5"/>
-        <updated>2026-04-15T00:26:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54707723?u=3b9e46c84f30bf1ea3b5e970982e8f070b776b8c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>yangtiming</name>
-            <email>yangtiming@noreply.github.com</email>
-            <uri>https://github.com/yangtiming</uri>
-        </author>
-        <published>2026-04-15T00:19:57.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-04-14T23:36:11.000Z</updated>
+        <updated>2026-04-16T00:30:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -34,23 +21,23 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection]]></title>
-        <id>https://github.com/Trudes808/Dinov3-RF-Signal-Detection</id>
-        <link href="https://github.com/Trudes808/Dinov3-RF-Signal-Detection"/>
-        <updated>2026-04-14T23:22:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>testing dinov3 capability for RF signal detection</div>]]></content>
+        <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
+        <id>https://github.com/danniel-dd/AEIC</id>
+        <link href="https://github.com/danniel-dd/AEIC"/>
+        <updated>2026-04-15T23:35:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
-            <name>Trudes808</name>
-            <email>Trudes808@noreply.github.com</email>
-            <uri>https://github.com/Trudes808</uri>
+            <name>danniel-dd</name>
+            <email>danniel-dd@noreply.github.com</email>
+            <uri>https://github.com/danniel-dd</uri>
         </author>
-        <published>2026-01-15T18:45:48.000Z</published>
+        <published>2026-03-10T00:27:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-04-14T21:56:33.000Z</updated>
+        <updated>2026-04-15T23:21:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -63,7 +50,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-04-14T21:13:05.000Z</updated>
+        <updated>2026-04-15T23:00:23.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -71,6 +58,58 @@
             <uri>https://github.com/Nacho4412gg</uri>
         </author>
         <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TienHao-Wang/PDSDNet-For-Chemical-plant-Pipeline-dual-head-segmentation-network-based-on-DINOv3: This network is designed specifically for pipeline extraction within chemical industrial parks and can also be used for road extraction.]]></title>
+        <id>https://github.com/TienHao-Wang/PDSDNet-For-Chemical-plant-Pipeline-dual-head-segmentation-network-based-on-DINOv3</id>
+        <link href="https://github.com/TienHao-Wang/PDSDNet-For-Chemical-plant-Pipeline-dual-head-segmentation-network-based-on-DINOv3"/>
+        <updated>2026-04-15T03:11:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121088895?v=4" width="64" height="64" alt=""/><br/><div>This network is designed specifically for pipeline extraction within chemical industrial parks and can also be used for road extraction.</div>]]></content>
+        <author>
+            <name>TienHao-Wang</name>
+            <email>TienHao-Wang@noreply.github.com</email>
+            <uri>https://github.com/TienHao-Wang</uri>
+        </author>
+        <published>2026-04-15T03:10:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trudes808/Dinov3-RF-Signal-Detection: testing dinov3 capability for RF signal detection]]></title>
+        <id>https://github.com/Trudes808/Dinov3-RF-Signal-Detection</id>
+        <link href="https://github.com/Trudes808/Dinov3-RF-Signal-Detection"/>
+        <updated>2026-04-15T01:57:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>testing dinov3 capability for RF signal detection</div>]]></content>
+        <author>
+            <name>Trudes808</name>
+            <email>Trudes808@noreply.github.com</email>
+            <uri>https://github.com/Trudes808</uri>
+        </author>
+        <published>2026-01-15T18:45:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yangtiming/Dinov3-ViT5]]></title>
+        <id>https://github.com/yangtiming/Dinov3-ViT5</id>
+        <link href="https://github.com/yangtiming/Dinov3-ViT5"/>
+        <updated>2026-04-15T01:25:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54707723?u=3b9e46c84f30bf1ea3b5e970982e8f070b776b8c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>yangtiming</name>
+            <email>yangtiming@noreply.github.com</email>
+            <uri>https://github.com/yangtiming</uri>
+        </author>
+        <published>2026-04-15T00:19:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-04-15T07:55:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[umair-sabir/dinov3-image-classifier]]></title>
@@ -102,7 +141,7 @@
         <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
         <id>https://github.com/jaychempan/V2-SAM</id>
         <link href="https://github.com/jaychempan/V2-SAM"/>
-        <updated>2026-04-14T17:35:49.000Z</updated>
+        <updated>2026-04-15T01:06:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=04d0b5e83521c563b6493c9ab3fc34f2fc6141bb&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
         <author>
             <name>jaychempan</name>
@@ -110,19 +149,6 @@
             <uri>https://github.com/jaychempan</uri>
         </author>
         <published>2025-12-10T14:01:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
-        <id>https://github.com/danniel-dd/AEIC</id>
-        <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-04-14T17:07:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
-        <author>
-            <name>danniel-dd</name>
-            <email>danniel-dd@noreply.github.com</email>
-            <uri>https://github.com/danniel-dd</uri>
-        </author>
-        <published>2026-03-10T00:27:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[suzuna0831/dinov3-mask2former]]></title>
@@ -149,19 +175,6 @@
             <uri>https://github.com/RyanKim17920</uri>
         </author>
         <published>2026-03-11T23:25:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-04-14T01:11:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inuscq/DINOv3-PSPNet-VOC]]></title>
@@ -219,7 +232,7 @@
         <title type="html"><![CDATA[LuizScarlet/AEIC: [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder]]></title>
         <id>https://github.com/LuizScarlet/AEIC</id>
         <link href="https://github.com/LuizScarlet/AEIC"/>
-        <updated>2026-04-14T12:13:17.000Z</updated>
+        <updated>2026-04-15T10:19:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/79390474?u=d16d3b4a5527a411fa1c5f9cdca549af0ab24172&v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder</div>]]></content>
         <author>
             <name>LuizScarlet</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/jslmmfboom-coder</uri>
         </author>
         <published>2026-04-10T11:24:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dioxane123/featureCompare: 关于视觉大模型特征比较的实验。对比模型为DINOv3和CLIP，在SMVS、DISC21上比对图像检索任务。]]></title>
-        <id>https://github.com/Dioxane123/featureCompare</id>
-        <link href="https://github.com/Dioxane123/featureCompare"/>
-        <updated>2026-04-11T09:45:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113121134?u=fb9fe71e66890988f2aa9b1b88ffb5e50bb360ad&v=4" width="64" height="64" alt=""/><br/><div>关于视觉大模型特征比较的实验。对比模型为DINOv3和CLIP，在SMVS、DISC21上比对图像检索任务。</div>]]></content>
-        <author>
-            <name>Dioxane123</name>
-            <email>Dioxane123@noreply.github.com</email>
-            <uri>https://github.com/Dioxane123</uri>
-        </author>
-        <published>2026-01-18T09:10:57.000Z</published>
     </entry>
 </feed>
