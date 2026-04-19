@@ -6,14 +6,91 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
+            "url": "https://github.com/Abigail-amk/AI-training",
+            "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
+            "date_modified": "2026-04-19T00:36:31.000Z",
+            "date_published": "2026-02-15T00:26:11.000Z",
+            "author": {
+                "name": "Abigail-amk",
+                "url": "https://github.com/Abigail-amk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104282235?u=aebfc3d291196d747ca0f9a7b0a8a6172b873425&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Do new vision foundation models actually help on medical imaging? SAM 3.1 vs DINOv3 vs PraNet on polyp segmentation — plus the prompt-engineering trick that closes most of the gap.</div>",
+            "url": "https://github.com/tylergibbs1/gutcheck",
+            "title": "tylergibbs1/gutcheck: Do new vision foundation models actually help on medical imaging? SAM 3.1 vs DINOv3 vs PraNet on polyp segmentation — plus the prompt-engineering trick that closes most of the gap.",
+            "date_modified": "2026-04-19T00:18:39.000Z",
+            "date_published": "2026-04-19T00:11:14.000Z",
+            "author": {
+                "name": "tylergibbs1",
+                "url": "https://github.com/tylergibbs1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nacho4412gg/dinov3",
+            "title": "Nacho4412gg/dinov3",
+            "date_modified": "2026-04-19T00:14:33.000Z",
+            "date_published": "2026-01-11T18:24:22.000Z",
+            "author": {
+                "name": "Nacho4412gg",
+                "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-04-18T23:25:25.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-04-17T22:41:20.000Z",
+            "date_modified": "2026-04-18T19:01:38.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
                 "url": "https://github.com/danniel-dd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277220008?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/bruceyang831-creator/dinov3",
+            "title": "bruceyang831-creator/dinov3",
+            "date_modified": "2026-04-18T08:39:55.000Z",
+            "date_published": "2026-04-18T08:39:55.000Z",
+            "author": {
+                "name": "bruceyang831-creator",
+                "url": "https://github.com/bruceyang831-creator"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192959239?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ma950628/DINOv3",
+            "title": "ma950628/DINOv3",
+            "date_modified": "2026-04-18T08:37:36.000Z",
+            "date_published": "2026-04-18T02:43:20.000Z",
+            "author": {
+                "name": "ma950628",
+                "url": "https://github.com/ma950628"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222135877?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Inuscq/DINOv3-PSPNet-VOC",
+            "title": "Inuscq/DINOv3-PSPNet-VOC",
+            "date_modified": "2026-04-18T06:17:41.000Z",
+            "date_published": "2026-04-13T09:37:48.000Z",
+            "author": {
+                "name": "Inuscq",
+                "url": "https://github.com/Inuscq"
             }
         },
         {
@@ -25,39 +102,6 @@
             "author": {
                 "name": "Alvaro2304",
                 "url": "https://github.com/Alvaro2304"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
-            "url": "https://github.com/Abigail-amk/AI-training",
-            "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-04-17T22:27:25.000Z",
-            "date_published": "2026-02-15T00:26:11.000Z",
-            "author": {
-                "name": "Abigail-amk",
-                "url": "https://github.com/Abigail-amk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nacho4412gg/dinov3",
-            "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-04-17T22:06:04.000Z",
-            "date_published": "2026-01-11T18:24:22.000Z",
-            "author": {
-                "name": "Nacho4412gg",
-                "url": "https://github.com/Nacho4412gg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-04-18T00:38:13.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
             }
         },
         {
@@ -97,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22448548?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026 Oral] \"INSID3: Training-Free In-Context Segmentation with DINOv3\"</div>",
             "url": "https://github.com/visinf/INSID3",
             "title": "visinf/INSID3: [CVPR 2026 Oral] \"INSID3: Training-Free In-Context Segmentation with DINOv3\"",
-            "date_modified": "2026-04-17T18:33:22.000Z",
+            "date_modified": "2026-04-18T13:53:07.000Z",
             "date_published": "2026-03-27T12:34:06.000Z",
             "author": {
                 "name": "visinf",
@@ -135,17 +179,6 @@
             "author": {
                 "name": "Augustine-2049",
                 "url": "https://github.com/Augustine-2049"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222135877?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Inuscq/DINOv3-PSPNet-VOC",
-            "title": "Inuscq/DINOv3-PSPNet-VOC",
-            "date_modified": "2026-04-16T10:20:07.000Z",
-            "date_published": "2026-04-13T09:37:48.000Z",
-            "author": {
-                "name": "Inuscq",
-                "url": "https://github.com/Inuscq"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "yangtiming",
                 "url": "https://github.com/yangtiming"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17540256?u=8317774cc43329b355b60f49f0ae43a688b6e787&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/umair-sabir/dinov3-image-classifier",
-            "title": "umair-sabir/dinov3-image-classifier",
-            "date_modified": "2026-04-14T20:25:33.000Z",
-            "date_published": "2026-04-10T08:44:58.000Z",
-            "author": {
-                "name": "umair-sabir",
-                "url": "https://github.com/umair-sabir"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100310971?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/VoErik/dinov3-atlas",
-            "title": "VoErik/dinov3-atlas",
-            "date_modified": "2026-04-14T19:18:11.000Z",
-            "date_published": "2026-04-14T18:06:51.000Z",
-            "author": {
-                "name": "VoErik",
-                "url": "https://github.com/VoErik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=04d0b5e83521c563b6493c9ab3fc34f2fc6141bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
-            "url": "https://github.com/jaychempan/V2-SAM",
-            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
-            "date_modified": "2026-04-15T01:06:30.000Z",
-            "date_published": "2025-12-10T14:01:47.000Z",
-            "author": {
-                "name": "jaychempan",
-                "url": "https://github.com/jaychempan"
             }
         }
     ]

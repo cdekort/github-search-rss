@@ -2,16 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-04-18T00:38:17.562Z</updated>
+    <updated>2026-04-19T00:42:54.564Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
+        <id>https://github.com/Abigail-amk/AI-training</id>
+        <link href="https://github.com/Abigail-amk/AI-training"/>
+        <updated>2026-04-19T00:36:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
+        <author>
+            <name>Abigail-amk</name>
+            <email>Abigail-amk@noreply.github.com</email>
+            <uri>https://github.com/Abigail-amk</uri>
+        </author>
+        <published>2026-02-15T00:26:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tylergibbs1/gutcheck: Do new vision foundation models actually help on medical imaging? SAM 3.1 vs DINOv3 vs PraNet on polyp segmentation — plus the prompt-engineering trick that closes most of the gap.]]></title>
+        <id>https://github.com/tylergibbs1/gutcheck</id>
+        <link href="https://github.com/tylergibbs1/gutcheck"/>
+        <updated>2026-04-19T00:18:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104282235?u=aebfc3d291196d747ca0f9a7b0a8a6172b873425&v=4" width="64" height="64" alt=""/><br/><div>Do new vision foundation models actually help on medical imaging? SAM 3.1 vs DINOv3 vs PraNet on polyp segmentation — plus the prompt-engineering trick that closes most of the gap.</div>]]></content>
+        <author>
+            <name>tylergibbs1</name>
+            <email>tylergibbs1@noreply.github.com</email>
+            <uri>https://github.com/tylergibbs1</uri>
+        </author>
+        <published>2026-04-19T00:11:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-04-19T00:14:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-04-18T23:25:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-04-17T22:41:20.000Z</updated>
+        <updated>2026-04-18T19:01:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -19,6 +71,45 @@
             <uri>https://github.com/danniel-dd</uri>
         </author>
         <published>2026-03-10T00:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bruceyang831-creator/dinov3]]></title>
+        <id>https://github.com/bruceyang831-creator/dinov3</id>
+        <link href="https://github.com/bruceyang831-creator/dinov3"/>
+        <updated>2026-04-18T08:39:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/277220008?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>bruceyang831-creator</name>
+            <email>bruceyang831-creator@noreply.github.com</email>
+            <uri>https://github.com/bruceyang831-creator</uri>
+        </author>
+        <published>2026-04-18T08:39:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ma950628/DINOv3]]></title>
+        <id>https://github.com/ma950628/DINOv3</id>
+        <link href="https://github.com/ma950628/DINOv3"/>
+        <updated>2026-04-18T08:37:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192959239?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ma950628</name>
+            <email>ma950628@noreply.github.com</email>
+            <uri>https://github.com/ma950628</uri>
+        </author>
+        <published>2026-04-18T02:43:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inuscq/DINOv3-PSPNet-VOC]]></title>
+        <id>https://github.com/Inuscq/DINOv3-PSPNet-VOC</id>
+        <link href="https://github.com/Inuscq/DINOv3-PSPNet-VOC"/>
+        <updated>2026-04-18T06:17:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222135877?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Inuscq</name>
+            <email>Inuscq@noreply.github.com</email>
+            <uri>https://github.com/Inuscq</uri>
+        </author>
+        <published>2026-04-13T09:37:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alvaro2304/dinov3-aerial-seg: testing meta's chmv2]]></title>
@@ -32,45 +123,6 @@
             <uri>https://github.com/Alvaro2304</uri>
         </author>
         <published>2026-04-17T21:59:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
-        <id>https://github.com/Abigail-amk/AI-training</id>
-        <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-04-17T22:27:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
-        <author>
-            <name>Abigail-amk</name>
-            <email>Abigail-amk@noreply.github.com</email>
-            <uri>https://github.com/Abigail-amk</uri>
-        </author>
-        <published>2026-02-15T00:26:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-04-17T22:06:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-04-18T00:38:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nadir-Kutluozen/svg_reconstruction_dinov3: Extraction of SVG features from DINOv3 activations from all layers, then training a linear world model.]]></title>
@@ -115,7 +167,7 @@
         <title type="html"><![CDATA[visinf/INSID3: [CVPR 2026 Oral] "INSID3: Training-Free In-Context Segmentation with DINOv3"]]></title>
         <id>https://github.com/visinf/INSID3</id>
         <link href="https://github.com/visinf/INSID3"/>
-        <updated>2026-04-17T18:33:22.000Z</updated>
+        <updated>2026-04-18T13:53:07.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22448548?v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026 Oral] "INSID3: Training-Free In-Context Segmentation with DINOv3"</div>]]></content>
         <author>
             <name>visinf</name>
@@ -162,19 +214,6 @@
             <uri>https://github.com/Augustine-2049</uri>
         </author>
         <published>2026-04-16T12:43:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inuscq/DINOv3-PSPNet-VOC]]></title>
-        <id>https://github.com/Inuscq/DINOv3-PSPNet-VOC</id>
-        <link href="https://github.com/Inuscq/DINOv3-PSPNet-VOC"/>
-        <updated>2026-04-16T10:20:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222135877?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Inuscq</name>
-            <email>Inuscq@noreply.github.com</email>
-            <uri>https://github.com/Inuscq</uri>
-        </author>
-        <published>2026-04-13T09:37:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dioxane123/featureCompare: 关于视觉大模型特征比较的实验。对比模型为DINOv3和CLIP，在SMVS、DISC21上比对图像检索任务。]]></title>
@@ -227,44 +266,5 @@
             <uri>https://github.com/yangtiming</uri>
         </author>
         <published>2026-04-15T00:19:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[umair-sabir/dinov3-image-classifier]]></title>
-        <id>https://github.com/umair-sabir/dinov3-image-classifier</id>
-        <link href="https://github.com/umair-sabir/dinov3-image-classifier"/>
-        <updated>2026-04-14T20:25:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/17540256?u=8317774cc43329b355b60f49f0ae43a688b6e787&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>umair-sabir</name>
-            <email>umair-sabir@noreply.github.com</email>
-            <uri>https://github.com/umair-sabir</uri>
-        </author>
-        <published>2026-04-10T08:44:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VoErik/dinov3-atlas]]></title>
-        <id>https://github.com/VoErik/dinov3-atlas</id>
-        <link href="https://github.com/VoErik/dinov3-atlas"/>
-        <updated>2026-04-14T19:18:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/100310971?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>VoErik</name>
-            <email>VoErik@noreply.github.com</email>
-            <uri>https://github.com/VoErik</uri>
-        </author>
-        <published>2026-04-14T18:06:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
-        <id>https://github.com/jaychempan/V2-SAM</id>
-        <link href="https://github.com/jaychempan/V2-SAM"/>
-        <updated>2026-04-15T01:06:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=04d0b5e83521c563b6493c9ab3fc34f2fc6141bb&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
-        <author>
-            <name>jaychempan</name>
-            <email>jaychempan@noreply.github.com</email>
-            <uri>https://github.com/jaychempan</uri>
-        </author>
-        <published>2025-12-10T14:01:47.000Z</published>
     </entry>
 </feed>
