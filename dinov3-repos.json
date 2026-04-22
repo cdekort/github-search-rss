@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-04-21T00:11:12.000Z",
+            "date_modified": "2026-04-22T00:29:41.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5556521?u=d6ca49ea6294af95c95c75ad2c94620fd8950381&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>",
+            "url": "https://github.com/yberreby/dinov3-in1k-probes",
+            "title": "yberreby/dinov3-in1k-probes: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).",
+            "date_modified": "2026-04-21T23:56:21.000Z",
+            "date_published": "2025-11-16T20:03:12.000Z",
+            "author": {
+                "name": "yberreby",
+                "url": "https://github.com/yberreby"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-04-20T23:56:50.000Z",
+            "date_modified": "2026-04-21T23:49:09.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-04-20T23:33:27.000Z",
+            "date_modified": "2026-04-21T23:12:26.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-04-20T22:44:16.000Z",
+            "date_modified": "2026-04-21T21:48:59.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -50,10 +61,65 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255370388?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>",
+            "url": "https://github.com/BASE-Laboratory/BraggTrack",
+            "title": "BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.",
+            "date_modified": "2026-04-21T21:11:17.000Z",
+            "date_published": "2026-04-09T12:12:24.000Z",
+            "author": {
+                "name": "BASE-Laboratory",
+                "url": "https://github.com/BASE-Laboratory"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-04-21T11:27:52.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114906506?u=94bd6c934e980f983a6f6eca0f747f552ef20fcb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>",
+            "url": "https://github.com/onlylrs/Modern-Vit-Adapter",
+            "title": "onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ",
+            "date_modified": "2026-04-21T12:25:11.000Z",
+            "date_published": "2026-04-03T08:10:59.000Z",
+            "author": {
+                "name": "onlylrs",
+                "url": "https://github.com/onlylrs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153300507?u=402b609353db44c1031e5d2fe73716e344ec5575&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/rakib034/Kidney-stone-detection-from-CT-scan-images-using-DINOv3-and-YOLO-model",
+            "title": "rakib034/Kidney-stone-detection-from-CT-scan-images-using-DINOv3-and-YOLO-model",
+            "date_modified": "2026-04-21T07:29:59.000Z",
+            "date_published": "2026-04-21T07:24:56.000Z",
+            "author": {
+                "name": "rakib034",
+                "url": "https://github.com/rakib034"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/A1C1NY/dinoV3_ToothVLM",
+            "title": "A1C1NY/dinoV3_ToothVLM",
+            "date_modified": "2026-04-21T02:24:48.000Z",
+            "date_published": "2026-04-04T12:24:24.000Z",
+            "author": {
+                "name": "A1C1NY",
+                "url": "https://github.com/A1C1NY"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22448548?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026 Oral] \"INSID3: Training-Free In-Context Segmentation with DINOv3\"</div>",
             "url": "https://github.com/visinf/INSID3",
             "title": "visinf/INSID3: [CVPR 2026 Oral] \"INSID3: Training-Free In-Context Segmentation with DINOv3\"",
-            "date_modified": "2026-04-20T23:58:56.000Z",
+            "date_modified": "2026-04-21T12:14:06.000Z",
             "date_published": "2026-03-27T12:34:06.000Z",
             "author": {
                 "name": "visinf",
@@ -83,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-04-20T21:28:23.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128392320?u=5e1857d60d740145c1d95662979e884447b9a957&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Phyll AI is a fully offline crop diagnostic platform. It features a modular architecture where users download models specifically trained for their specific crops (e.g., Rice, Tomato). It allows swapping backbones like DINOv3 or MobileNet based on device hardware, providing high-precision, research-backed leaf analysis anywhere.</div>",
             "url": "https://github.com/S0L0-MAN/PhyllAi",
             "title": "S0L0-MAN/PhyllAi: Phyll AI is a fully offline crop diagnostic platform. It features a modular architecture where users download models specifically trained for their specific crops (e.g., Rice, Tomato). It allows swapping backbones like DINOv3 or MobileNet based on device hardware, providing high-precision, research-backed leaf analysis anywhere.",
@@ -108,44 +163,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
             "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
             "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
-            "date_modified": "2026-04-20T11:34:44.000Z",
+            "date_modified": "2026-04-21T20:23:31.000Z",
             "date_published": "2026-03-16T10:28:22.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
                 "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221105898?u=365a928ee85cb063560c6570285166bdfecd1387&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Run unionpoint/vit_small_plus_patch16_dinov3.ft_plantdoc_384 privately via Venice.ai - Zero tracking, uncensored</div>",
-            "url": "https://github.com/Damacol/unionpoint-vit_small_plus_patch16_dinov3.ft_plantdoc_384",
-            "title": "Damacol/unionpoint-vit_small_plus_patch16_dinov3.ft_plantdoc_384: Run unionpoint/vit_small_plus_patch16_dinov3.ft_plantdoc_384 privately via Venice.ai - Zero tracking, uncensored",
-            "date_modified": "2026-04-20T01:41:04.000Z",
-            "date_published": "2026-04-20T01:40:58.000Z",
-            "author": {
-                "name": "Damacol",
-                "url": "https://github.com/Damacol"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221105898?u=365a928ee85cb063560c6570285166bdfecd1387&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI: facebook/dinov3-vitl16-pretrain-sat493m</div>",
-            "url": "https://github.com/Damacol/facebook-dinov3-vitl16-pretrain-sat493m",
-            "title": "Damacol/facebook-dinov3-vitl16-pretrain-sat493m: AI: facebook/dinov3-vitl16-pretrain-sat493m",
-            "date_modified": "2026-04-19T23:57:41.000Z",
-            "date_published": "2026-04-17T00:36:26.000Z",
-            "author": {
-                "name": "Damacol",
-                "url": "https://github.com/Damacol"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221105898?u=365a928ee85cb063560c6570285166bdfecd1387&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI: facebook/dinov3-vitl16-pretrain-lvd1689m</div>",
-            "url": "https://github.com/Damacol/facebook-dinov3-vitl16-pretrain-lvd1689m",
-            "title": "Damacol/facebook-dinov3-vitl16-pretrain-lvd1689m: AI: facebook/dinov3-vitl16-pretrain-lvd1689m",
-            "date_modified": "2026-04-19T23:30:25.000Z",
-            "date_published": "2026-04-16T19:26:25.000Z",
-            "author": {
-                "name": "Damacol",
-                "url": "https://github.com/Damacol"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Inuscq",
                 "url": "https://github.com/Inuscq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49289647?u=09eaa3844a4356a408339d51fe8ef831b4efac78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing meta's chmv2</div>",
-            "url": "https://github.com/Alvaro2304/dinov3-aerial-seg",
-            "title": "Alvaro2304/dinov3-aerial-seg: testing meta's chmv2",
-            "date_modified": "2026-04-17T22:37:04.000Z",
-            "date_published": "2026-04-17T21:59:51.000Z",
-            "author": {
-                "name": "Alvaro2304",
-                "url": "https://github.com/Alvaro2304"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107895512?u=548e13cd73fd6af72a8bac61fd603681236d3b10&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extraction of SVG features from DINOv3 activations from all layers, then training a linear world model.</div>",
-            "url": "https://github.com/Nadir-Kutluozen/svg_reconstruction_dinov3",
-            "title": "Nadir-Kutluozen/svg_reconstruction_dinov3: Extraction of SVG features from DINOv3 activations from all layers, then training a linear world model.",
-            "date_modified": "2026-04-17T20:02:13.000Z",
-            "date_published": "2026-04-09T18:59:09.000Z",
-            "author": {
-                "name": "Nadir-Kutluozen",
-                "url": "https://github.com/Nadir-Kutluozen"
             }
         }
     ]
