@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61335329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[Accepted by MIDL 2026] A training-free 3D ultrasound registration framework that fuses vision foundation model (DINOv3)-derived semantic features with point-cloud-based geometric features to handle large inter-volume motion.</div>",
+            "url": "https://github.com/MedICL-VU/VFMStitch",
+            "title": "MedICL-VU/VFMStitch: [Accepted by MIDL 2026] A training-free 3D ultrasound registration framework that fuses vision foundation model (DINOv3)-derived semantic features with point-cloud-based geometric features to handle large inter-volume motion.",
+            "date_modified": "2026-04-25T00:05:34.000Z",
+            "date_published": "2026-04-24T19:52:56.000Z",
+            "author": {
+                "name": "MedICL-VU",
+                "url": "https://github.com/MedICL-VU"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-04-23T23:53:29.000Z",
+            "date_modified": "2026-04-24T22:36:13.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-04-23T23:38:18.000Z",
+            "date_modified": "2026-04-24T22:21:21.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-04-23T23:16:15.000Z",
+            "date_modified": "2026-04-24T21:59:15.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-04-23T22:27:34.000Z",
+            "date_modified": "2026-04-24T20:07:05.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -50,10 +61,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142688529?u=84541cc9a24f5103d113aee39eb7654fea4095ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered predictive navigation assistant for visually impaired students that uses DINOv3 semantic perception, JEPA world modeling, cognitive mapping, YOLOE open-vocabulary detection, EasyOCR landmark reading, and AttnLRP explainability to enable trustworthy, map free campus navigation with real time voice guidance.</div>",
+            "url": "https://github.com/rayyan-merchant/Vision-to-Voice",
+            "title": "rayyan-merchant/Vision-to-Voice: AI-powered predictive navigation assistant for visually impaired students that uses DINOv3 semantic perception, JEPA world modeling, cognitive mapping, YOLOE open-vocabulary detection, EasyOCR landmark reading, and AttnLRP explainability to enable trustworthy, map free campus navigation with real time voice guidance.",
+            "date_modified": "2026-04-24T19:52:32.000Z",
+            "date_published": "2026-04-24T19:17:45.000Z",
+            "author": {
+                "name": "rayyan-merchant",
+                "url": "https://github.com/rayyan-merchant"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-04-24T00:26:03.000Z",
+            "date_modified": "2026-04-24T17:19:28.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -61,14 +83,36 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121088895?u=c798c061dbd7c35831d09f6ad24bc792602d2a65&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This network is designed specifically for pipeline extraction within chemical industrial parks and can also be used for road extraction.</div>",
+            "url": "https://github.com/TienHao-Wang/PDSDNet-For-Chemical-plant-Pipeline-dual-head-segmentation-network-based-on-DINOv3",
+            "title": "TienHao-Wang/PDSDNet-For-Chemical-plant-Pipeline-dual-head-segmentation-network-based-on-DINOv3: This network is designed specifically for pipeline extraction within chemical industrial parks and can also be used for road extraction.",
+            "date_modified": "2026-04-24T07:53:57.000Z",
+            "date_published": "2026-04-15T03:10:58.000Z",
+            "author": {
+                "name": "TienHao-Wang",
+                "url": "https://github.com/TienHao-Wang"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99130111?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Beats Specialized Detectors: A Simple Foundation Model Baseline for Image Forensics</div>",
             "url": "https://github.com/Irennnne/DINOv3-IML",
             "title": "Irennnne/DINOv3-IML: DINOv3 Beats Specialized Detectors: A Simple Foundation Model Baseline for Image Forensics",
-            "date_modified": "2026-04-23T17:14:52.000Z",
+            "date_modified": "2026-04-24T02:48:29.000Z",
             "date_published": "2026-04-14T09:06:01.000Z",
             "author": {
                 "name": "Irennnne",
                 "url": "https://github.com/Irennnne"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76574810?u=56eb4167f42c078f747635e93655be03134b9412&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MM-DINO: DINOv3-Based Universal Framework for Uni and Multi-Modal Remote Sensing Image Semantic Segmentation, tgrs, 2026.</div>",
+            "url": "https://github.com/KimotaQY/MM-DINO",
+            "title": "KimotaQY/MM-DINO: MM-DINO: DINOv3-Based Universal Framework for Uni and Multi-Modal Remote Sensing Image Semantic Segmentation, tgrs, 2026.",
+            "date_modified": "2026-04-24T01:14:53.000Z",
+            "date_published": "2025-12-12T10:48:51.000Z",
+            "author": {
+                "name": "KimotaQY",
+                "url": "https://github.com/KimotaQY"
             }
         },
         {
@@ -119,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
             "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
             "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
-            "date_modified": "2026-04-23T15:23:15.000Z",
+            "date_modified": "2026-04-24T12:36:32.000Z",
             "date_published": "2026-03-16T10:28:22.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "yberreby",
                 "url": "https://github.com/yberreby"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255370388?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>",
-            "url": "https://github.com/BASE-Laboratory/BraggTrack",
-            "title": "BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.",
-            "date_modified": "2026-04-21T21:11:17.000Z",
-            "date_published": "2026-04-09T12:12:24.000Z",
-            "author": {
-                "name": "BASE-Laboratory",
-                "url": "https://github.com/BASE-Laboratory"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114906506?u=94bd6c934e980f983a6f6eca0f747f552ef20fcb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>",
-            "url": "https://github.com/onlylrs/Modern-Vit-Adapter",
-            "title": "onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ",
-            "date_modified": "2026-04-21T12:25:11.000Z",
-            "date_published": "2026-04-03T08:10:59.000Z",
-            "author": {
-                "name": "onlylrs",
-                "url": "https://github.com/onlylrs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153300507?u=402b609353db44c1031e5d2fe73716e344ec5575&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/rakib034/Kidney-stone-detection-from-CT-scan-images-using-DINOv3-and-YOLO-model",
-            "title": "rakib034/Kidney-stone-detection-from-CT-scan-images-using-DINOv3-and-YOLO-model",
-            "date_modified": "2026-04-21T07:29:59.000Z",
-            "date_published": "2026-04-21T07:24:56.000Z",
-            "author": {
-                "name": "rakib034",
-                "url": "https://github.com/rakib034"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/A1C1NY/dinoV3_ToothVLM",
-            "title": "A1C1NY/dinoV3_ToothVLM",
-            "date_modified": "2026-04-21T02:24:48.000Z",
-            "date_published": "2026-04-04T12:24:24.000Z",
-            "author": {
-                "name": "A1C1NY",
-                "url": "https://github.com/A1C1NY"
             }
         }
     ]
