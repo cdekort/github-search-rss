@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-04-25T00:40:10.595Z</updated>
+    <updated>2026-04-26T00:44:37.071Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[MedICL-VU/VFMStitch: [Accepted by MIDL 2026] A training-free 3D ultrasound registration framework that fuses vision foundation model (DINOv3)-derived semantic features with point-cloud-based geometric features to handle large inter-volume motion.]]></title>
-        <id>https://github.com/MedICL-VU/VFMStitch</id>
-        <link href="https://github.com/MedICL-VU/VFMStitch"/>
-        <updated>2026-04-25T00:05:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61335329?v=4" width="64" height="64" alt=""/><br/><div>[Accepted by MIDL 2026] A training-free 3D ultrasound registration framework that fuses vision foundation model (DINOv3)-derived semantic features with point-cloud-based geometric features to handle large inter-volume motion.</div>]]></content>
-        <author>
-            <name>MedICL-VU</name>
-            <email>MedICL-VU@noreply.github.com</email>
-            <uri>https://github.com/MedICL-VU</uri>
-        </author>
-        <published>2026-04-24T19:52:56.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-04-24T22:36:13.000Z</updated>
+        <updated>2026-04-26T00:23:32.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -37,7 +24,7 @@
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-04-24T22:21:21.000Z</updated>
+        <updated>2026-04-26T00:08:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -50,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-04-24T21:59:15.000Z</updated>
+        <updated>2026-04-25T23:46:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -60,10 +47,23 @@
         <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shakib-IO/DinoSegmentation: Apply DINOv3 for Segmentaion]]></title>
+        <id>https://github.com/Shakib-IO/DinoSegmentation</id>
+        <link href="https://github.com/Shakib-IO/DinoSegmentation"/>
+        <updated>2026-04-25T23:28:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65369990?u=176d4dc39714591e6ca6f803102b3f5134828a43&v=4" width="64" height="64" alt=""/><br/><div>Apply DINOv3 for Segmentaion</div>]]></content>
+        <author>
+            <name>Shakib-IO</name>
+            <email>Shakib-IO@noreply.github.com</email>
+            <uri>https://github.com/Shakib-IO</uri>
+        </author>
+        <published>2026-04-25T07:08:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-04-24T20:07:05.000Z</updated>
+        <updated>2026-04-25T22:57:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -73,10 +73,23 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[m2b3/dinov3-in1k-probes: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).]]></title>
+        <id>https://github.com/m2b3/dinov3-in1k-probes</id>
+        <link href="https://github.com/m2b3/dinov3-in1k-probes"/>
+        <updated>2026-04-25T19:41:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121910956?v=4" width="64" height="64" alt=""/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>]]></content>
+        <author>
+            <name>m2b3</name>
+            <email>m2b3@noreply.github.com</email>
+            <uri>https://github.com/m2b3</uri>
+        </author>
+        <published>2025-11-16T20:03:12.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[rayyan-merchant/Vision-to-Voice: AI-powered predictive navigation assistant for visually impaired students that uses DINOv3 semantic perception, JEPA world modeling, cognitive mapping, YOLOE open-vocabulary detection, EasyOCR landmark reading, and AttnLRP explainability to enable trustworthy, map free campus navigation with real time voice guidance.]]></title>
         <id>https://github.com/rayyan-merchant/Vision-to-Voice</id>
         <link href="https://github.com/rayyan-merchant/Vision-to-Voice"/>
-        <updated>2026-04-24T19:52:32.000Z</updated>
+        <updated>2026-04-25T07:11:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/142688529?u=84541cc9a24f5103d113aee39eb7654fea4095ee&v=4" width="64" height="64" alt=""/><br/><div>AI-powered predictive navigation assistant for visually impaired students that uses DINOv3 semantic perception, JEPA world modeling, cognitive mapping, YOLOE open-vocabulary detection, EasyOCR landmark reading, and AttnLRP explainability to enable trustworthy, map free campus navigation with real time voice guidance.</div>]]></content>
         <author>
             <name>rayyan-merchant</name>
@@ -84,6 +97,45 @@
             <uri>https://github.com/rayyan-merchant</uri>
         </author>
         <published>2026-04-24T19:17:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kaleidoscopedddd/Patho-Trace-DINO: Breast Cancer AI Diagnosis System based on DINOv3]]></title>
+        <id>https://github.com/kaleidoscopedddd/Patho-Trace-DINO</id>
+        <link href="https://github.com/kaleidoscopedddd/Patho-Trace-DINO"/>
+        <updated>2026-04-25T06:46:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204691669?v=4" width="64" height="64" alt=""/><br/><div>Breast Cancer AI Diagnosis System based on DINOv3</div>]]></content>
+        <author>
+            <name>kaleidoscopedddd</name>
+            <email>kaleidoscopedddd@noreply.github.com</email>
+            <uri>https://github.com/kaleidoscopedddd</uri>
+        </author>
+        <published>2026-04-25T06:32:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bartender2723/dinov3]]></title>
+        <id>https://github.com/bartender2723/dinov3</id>
+        <link href="https://github.com/bartender2723/dinov3"/>
+        <updated>2026-04-25T05:34:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45897399?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>bartender2723</name>
+            <email>bartender2723@noreply.github.com</email>
+            <uri>https://github.com/bartender2723</uri>
+        </author>
+        <published>2026-04-25T05:34:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MedICL-VU/VFMStitch: [MIDL 2026] A training-free 3D ultrasound registration framework that fuses vision foundation model (DINOv3)-derived semantic features with point-cloud-based geometric features to handle large inter-volume motion.]]></title>
+        <id>https://github.com/MedICL-VU/VFMStitch</id>
+        <link href="https://github.com/MedICL-VU/VFMStitch"/>
+        <updated>2026-04-25T23:16:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61335329?v=4" width="64" height="64" alt=""/><br/><div>[MIDL 2026] A training-free 3D ultrasound registration framework that fuses vision foundation model (DINOv3)-derived semantic features with point-cloud-based geometric features to handle large inter-volume motion.</div>]]></content>
+        <author>
+            <name>MedICL-VU</name>
+            <email>MedICL-VU@noreply.github.com</email>
+            <uri>https://github.com/MedICL-VU</uri>
+        </author>
+        <published>2026-04-24T19:52:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
@@ -193,7 +245,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
         <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
         <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-04-24T12:36:32.000Z</updated>
+        <updated>2026-04-25T20:35:14.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -214,57 +266,5 @@
             <uri>https://github.com/Trudes808</uri>
         </author>
         <published>2026-01-15T18:45:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mosscoder/mpg-ai-edge: This project focuses on developing a Unitree Go2 robot as a platform for environmental monitoring. Specifically, we conduct inference with DINOv3 vision encoder on a NVIDIA Jetson embedded device. A core feature of this project is the ability to precisely geotag captured images by synchronizing them with RTK (Real-Time Kinematic) GPS data.]]></title>
-        <id>https://github.com/mosscoder/mpg-ai-edge</id>
-        <link href="https://github.com/mosscoder/mpg-ai-edge"/>
-        <updated>2026-04-22T20:41:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/17579844?u=6655553fd6c668316eb5658e3a7d0997f4d80806&v=4" width="64" height="64" alt=""/><br/><div>This project focuses on developing a Unitree Go2 robot as a platform for environmental monitoring. Specifically, we conduct inference with DINOv3 vision encoder on a NVIDIA Jetson embedded device. A core feature of this project is the ability to precisely geotag captured images by synchronizing them with RTK (Real-Time Kinematic) GPS data.</div>]]></content>
-        <author>
-            <name>mosscoder</name>
-            <email>mosscoder@noreply.github.com</email>
-            <uri>https://github.com/mosscoder</uri>
-        </author>
-        <published>2025-06-02T19:36:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[go-restream/UniADet: 基于 UniADet 论文的代码复现。冻结 DINOv3 ViT-L/16 作为视觉骨干网络，通过 原型对比训练（Prototypical Contrastive Training） 学习极少量的可学习权重参数，实现通用异常检测。]]></title>
-        <id>https://github.com/go-restream/UniADet</id>
-        <link href="https://github.com/go-restream/UniADet"/>
-        <updated>2026-04-23T21:06:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/220109223?u=353dc80da2956b41c6e01b8584df00f7987f047f&v=4" width="64" height="64" alt=""/><br/><div>基于 UniADet 论文的代码复现。冻结 DINOv3 ViT-L/16 作为视觉骨干网络，通过 原型对比训练（Prototypical Contrastive Training） 学习极少量的可学习权重参数，实现通用异常检测。</div>]]></content>
-        <author>
-            <name>go-restream</name>
-            <email>go-restream@noreply.github.com</email>
-            <uri>https://github.com/go-restream</uri>
-        </author>
-        <published>2026-04-22T01:44:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pavan-Naga-207/DSGG: Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.]]></title>
-        <id>https://github.com/Pavan-Naga-207/DSGG</id>
-        <link href="https://github.com/Pavan-Naga-207/DSGG"/>
-        <updated>2026-04-22T08:59:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/109537572?v=4" width="64" height="64" alt=""/><br/><div>Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.</div>]]></content>
-        <author>
-            <name>Pavan-Naga-207</name>
-            <email>Pavan-Naga-207@noreply.github.com</email>
-            <uri>https://github.com/Pavan-Naga-207</uri>
-        </author>
-        <published>2026-03-05T19:05:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yberreby/dinov3-in1k-probes: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).]]></title>
-        <id>https://github.com/yberreby/dinov3-in1k-probes</id>
-        <link href="https://github.com/yberreby/dinov3-in1k-probes"/>
-        <updated>2026-04-22T03:36:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5556521?u=d6ca49ea6294af95c95c75ad2c94620fd8950381&v=4" width="64" height="64" alt=""/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>]]></content>
-        <author>
-            <name>yberreby</name>
-            <email>yberreby@noreply.github.com</email>
-            <uri>https://github.com/yberreby</uri>
-        </author>
-        <published>2025-11-16T20:03:12.000Z</published>
     </entry>
 </feed>
