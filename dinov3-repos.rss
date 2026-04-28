@@ -2,42 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-04-27T00:44:53.236Z</updated>
+    <updated>2026-04-28T00:47:28.274Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-04-27T00:29:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-04-26T23:39:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-04-26T21:20:24.000Z</updated>
+        <updated>2026-04-28T00:07:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -50,7 +24,7 @@
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-04-26T20:33:53.000Z</updated>
+        <updated>2026-04-27T23:50:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -60,10 +34,75 @@
         <published>2026-02-15T00:26:11.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-04-27T23:21:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-04-27T19:44:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mlnjsh/computer-vision-book: Computer Vision: From Foundations to Frontier — a 20-chapter modern CV book covering classical CV, deep learning, ViTs, foundation models (DINOv3, SAM 3), VLMs, diffusion, 3D Gaussian Splatting, VLA, and edge deployment. By Milan Amrut Joshi.]]></title>
+        <id>https://github.com/mlnjsh/computer-vision-book</id>
+        <link href="https://github.com/mlnjsh/computer-vision-book"/>
+        <updated>2026-04-27T16:14:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7221088?u=9b8c9df411cc37868625c31cfa29255fcd642ea3&v=4" width="64" height="64" alt=""/><br/><div>Computer Vision: From Foundations to Frontier — a 20-chapter modern CV book covering classical CV, deep learning, ViTs, foundation models (DINOv3, SAM 3), VLMs, diffusion, 3D Gaussian Splatting, VLA, and edge deployment. By Milan Amrut Joshi.</div>]]></content>
+        <author>
+            <name>mlnjsh</name>
+            <email>mlnjsh@noreply.github.com</email>
+            <uri>https://github.com/mlnjsh</uri>
+        </author>
+        <published>2026-04-27T15:00:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TrifuRazvan/TV3S-DINOv3: Attempt to use DINOv3 as backbone for TV3S]]></title>
+        <id>https://github.com/TrifuRazvan/TV3S-DINOv3</id>
+        <link href="https://github.com/TrifuRazvan/TV3S-DINOv3"/>
+        <updated>2026-04-27T15:29:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/127941708?v=4" width="64" height="64" alt=""/><br/><div>Attempt to use DINOv3 as backbone for TV3S</div>]]></content>
+        <author>
+            <name>TrifuRazvan</name>
+            <email>TrifuRazvan@noreply.github.com</email>
+            <uri>https://github.com/TrifuRazvan</uri>
+        </author>
+        <published>2026-04-01T10:36:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tianyuqic1/fine_agent_v2: DINOv3 + LLM intelligent training and inference system]]></title>
+        <id>https://github.com/tianyuqic1/fine_agent_v2</id>
+        <link href="https://github.com/tianyuqic1/fine_agent_v2"/>
+        <updated>2026-04-27T10:03:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/125626258?u=4ff624e31b2541de7b6abb6a3f776e73b3dbd317&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 + LLM intelligent training and inference system</div>]]></content>
+        <author>
+            <name>tianyuqic1</name>
+            <email>tianyuqic1@noreply.github.com</email>
+            <uri>https://github.com/tianyuqic1</uri>
+        </author>
+        <published>2026-04-27T10:03:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[narrowsnap/dinov3_eomt]]></title>
         <id>https://github.com/narrowsnap/dinov3_eomt</id>
         <link href="https://github.com/narrowsnap/dinov3_eomt"/>
-        <updated>2026-04-26T13:27:01.000Z</updated>
+        <updated>2026-04-27T08:50:59.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/17559987?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>narrowsnap</name>
@@ -71,6 +110,45 @@
             <uri>https://github.com/narrowsnap</uri>
         </author>
         <published>2026-03-27T03:28:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.]]></title>
+        <id>https://github.com/BASE-Laboratory/BraggTrack</id>
+        <link href="https://github.com/BASE-Laboratory/BraggTrack"/>
+        <updated>2026-04-27T07:32:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/255370388?v=4" width="64" height="64" alt=""/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>]]></content>
+        <author>
+            <name>BASE-Laboratory</name>
+            <email>BASE-Laboratory@noreply.github.com</email>
+            <uri>https://github.com/BASE-Laboratory</uri>
+        </author>
+        <published>2026-04-09T12:12:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[javpower/dinov3-yolo26]]></title>
+        <id>https://github.com/javpower/dinov3-yolo26</id>
+        <link href="https://github.com/javpower/dinov3-yolo26"/>
+        <updated>2026-04-27T06:24:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46469687?u=b29eb401b3ef661532b52ae59b85574ad3d75630&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>javpower</name>
+            <email>javpower@noreply.github.com</email>
+            <uri>https://github.com/javpower</uri>
+        </author>
+        <published>2026-04-27T01:59:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[m2b3/dinov3-in1k-probes: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).]]></title>
+        <id>https://github.com/m2b3/dinov3-in1k-probes</id>
+        <link href="https://github.com/m2b3/dinov3-in1k-probes"/>
+        <updated>2026-04-27T08:33:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121910956?v=4" width="64" height="64" alt=""/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>]]></content>
+        <author>
+            <name>m2b3</name>
+            <email>m2b3@noreply.github.com</email>
+            <uri>https://github.com/m2b3</uri>
+        </author>
+        <published>2025-11-16T20:03:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Enidewitz/dino_demo: some test in dinov3]]></title>
@@ -97,19 +175,6 @@
             <uri>https://github.com/Shakib-IO</uri>
         </author>
         <published>2026-04-25T07:08:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[m2b3/dinov3-in1k-probes: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).]]></title>
-        <id>https://github.com/m2b3/dinov3-in1k-probes</id>
-        <link href="https://github.com/m2b3/dinov3-in1k-probes"/>
-        <updated>2026-04-25T19:41:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121910956?v=4" width="64" height="64" alt=""/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>]]></content>
-        <author>
-            <name>m2b3</name>
-            <email>m2b3@noreply.github.com</email>
-            <uri>https://github.com/m2b3</uri>
-        </author>
-        <published>2025-11-16T20:03:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[rayyan-merchant/Vision-to-Voice: AI-powered predictive navigation assistant for visually impaired students that uses DINOv3 semantic perception, JEPA world modeling, cognitive mapping, YOLOE open-vocabulary detection, EasyOCR landmark reading, and AttnLRP explainability to enable trustworthy, map free campus navigation with real time voice guidance.]]></title>
@@ -167,7 +232,7 @@
         <title type="html"><![CDATA[onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ]]></title>
         <id>https://github.com/onlylrs/Modern-Vit-Adapter</id>
         <link href="https://github.com/onlylrs/Modern-Vit-Adapter"/>
-        <updated>2026-04-26T04:58:55.000Z</updated>
+        <updated>2026-04-27T08:15:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114906506?u=94bd6c934e980f983a6f6eca0f747f552ef20fcb&v=4" width="64" height="64" alt=""/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>]]></content>
         <author>
             <name>onlylrs</name>
@@ -180,7 +245,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-04-26T08:49:37.000Z</updated>
+        <updated>2026-04-27T07:25:48.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -201,70 +266,5 @@
             <uri>https://github.com/TienHao-Wang</uri>
         </author>
         <published>2026-04-15T03:10:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irennnne/DINOv3-IML: DINOv3 Beats Specialized Detectors: A Simple Foundation Model Baseline for Image Forensics]]></title>
-        <id>https://github.com/Irennnne/DINOv3-IML</id>
-        <link href="https://github.com/Irennnne/DINOv3-IML"/>
-        <updated>2026-04-24T02:48:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99130111?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Beats Specialized Detectors: A Simple Foundation Model Baseline for Image Forensics</div>]]></content>
-        <author>
-            <name>Irennnne</name>
-            <email>Irennnne@noreply.github.com</email>
-            <uri>https://github.com/Irennnne</uri>
-        </author>
-        <published>2026-04-14T09:06:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KimotaQY/MM-DINO: MM-DINO: DINOv3-Based Universal Framework for Uni and Multi-Modal Remote Sensing Image Semantic Segmentation, tgrs, 2026.]]></title>
-        <id>https://github.com/KimotaQY/MM-DINO</id>
-        <link href="https://github.com/KimotaQY/MM-DINO"/>
-        <updated>2026-04-24T01:14:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76574810?u=56eb4167f42c078f747635e93655be03134b9412&v=4" width="64" height="64" alt=""/><br/><div>MM-DINO: DINOv3-Based Universal Framework for Uni and Multi-Modal Remote Sensing Image Semantic Segmentation, tgrs, 2026.</div>]]></content>
-        <author>
-            <name>KimotaQY</name>
-            <email>KimotaQY@noreply.github.com</email>
-            <uri>https://github.com/KimotaQY</uri>
-        </author>
-        <published>2025-12-12T10:48:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inuscq/DINOv3-PSPNet-VOC]]></title>
-        <id>https://github.com/Inuscq/DINOv3-PSPNet-VOC</id>
-        <link href="https://github.com/Inuscq/DINOv3-PSPNet-VOC"/>
-        <updated>2026-04-23T11:58:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222135877?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Inuscq</name>
-            <email>Inuscq@noreply.github.com</email>
-            <uri>https://github.com/Inuscq</uri>
-        </author>
-        <published>2026-04-13T09:37:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ma950628/DINOv3]]></title>
-        <id>https://github.com/ma950628/DINOv3</id>
-        <link href="https://github.com/ma950628/DINOv3"/>
-        <updated>2026-04-23T07:53:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192959239?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ma950628</name>
-            <email>ma950628@noreply.github.com</email>
-            <uri>https://github.com/ma950628</uri>
-        </author>
-        <published>2026-04-18T02:43:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMALLCODE321/dinov3_gem]]></title>
-        <id>https://github.com/SMALLCODE321/dinov3_gem</id>
-        <link href="https://github.com/SMALLCODE321/dinov3_gem"/>
-        <updated>2026-04-23T07:18:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114334054?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>SMALLCODE321</name>
-            <email>SMALLCODE321@noreply.github.com</email>
-            <uri>https://github.com/SMALLCODE321</uri>
-        </author>
-        <published>2026-01-20T10:34:42.000Z</published>
     </entry>
 </feed>
