@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-05-02T00:13:10.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-05-01T00:30:25.000Z",
+            "date_modified": "2026-05-01T23:02:16.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-05-01T00:06:22.000Z",
+            "date_modified": "2026-05-01T22:46:12.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-04-30T23:23:56.000Z",
+            "date_modified": "2026-05-01T22:22:23.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -39,21 +50,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-04-30T22:23:18.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39020847?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/annasshaikh/Unsupervised-DinoV3-Segmentation",
+            "title": "annasshaikh/Unsupervised-DinoV3-Segmentation",
+            "date_modified": "2026-05-01T19:05:21.000Z",
+            "date_published": "2026-04-28T20:11:50.000Z",
             "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
+                "name": "annasshaikh",
+                "url": "https://github.com/annasshaikh"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61151361?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Codebase to get started with simple DINOV3 model for training and evaluation on the task of surgical action triplet recognition on the new MultiBypassT40 dataset.</div>",
             "url": "https://github.com/CAMMA-public/multibypasstriplets2026_starter_kit",
             "title": "CAMMA-public/multibypasstriplets2026_starter_kit: Codebase to get started with simple DINOV3 model for training and evaluation on the task of surgical action triplet recognition on the new MultiBypassT40 dataset.",
-            "date_modified": "2026-04-30T16:56:39.000Z",
+            "date_modified": "2026-05-01T16:48:48.000Z",
             "date_published": "2026-04-27T15:02:28.000Z",
             "author": {
                 "name": "CAMMA-public",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127941708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Attempt to use DINOv3 as backbone for TV3S</div>",
             "url": "https://github.com/TrifuRazvan/TV3S-DINOv3",
             "title": "TrifuRazvan/TV3S-DINOv3: Attempt to use DINOv3 as backbone for TV3S",
-            "date_modified": "2026-04-30T15:41:53.000Z",
+            "date_modified": "2026-05-01T11:31:36.000Z",
             "date_published": "2026-04-01T10:36:22.000Z",
             "author": {
                 "name": "TrifuRazvan",
@@ -72,10 +83,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67821839?u=b9da0b206ba8bc61b2b0c167c492d3b202551671&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 TensorRT 推理加速</div>",
+            "url": "https://github.com/ianen/DINOv3-TRT-Acceleration",
+            "title": "ianen/DINOv3-TRT-Acceleration: DINOv3 TensorRT 推理加速",
+            "date_modified": "2026-05-01T10:09:39.000Z",
+            "date_published": "2026-04-29T09:46:06.000Z",
+            "author": {
+                "name": "ianen",
+                "url": "https://github.com/ianen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3例子</div>",
+            "url": "https://github.com/little51/dinov3-samples",
+            "title": "little51/dinov3-samples: dinov3例子",
+            "date_modified": "2026-05-01T09:58:01.000Z",
+            "date_published": "2025-09-16T04:51:48.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-04-30T13:53:45.000Z",
+            "date_modified": "2026-05-01T10:13:57.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -146,39 +179,6 @@
             "author": {
                 "name": "MacroSony",
                 "url": "https://github.com/MacroSony"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39020847?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/annasshaikh/Unsupervised-DinoV3-Segmentation",
-            "title": "annasshaikh/Unsupervised-DinoV3-Segmentation",
-            "date_modified": "2026-04-29T16:15:00.000Z",
-            "date_published": "2026-04-28T20:11:50.000Z",
-            "author": {
-                "name": "annasshaikh",
-                "url": "https://github.com/annasshaikh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3例子</div>",
-            "url": "https://github.com/little51/dinov3-samples",
-            "title": "little51/dinov3-samples: dinov3例子",
-            "date_modified": "2026-04-29T14:09:50.000Z",
-            "date_published": "2025-09-16T04:51:48.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67821839?u=b9da0b206ba8bc61b2b0c167c492d3b202551671&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 TensorRT 推理加速</div>",
-            "url": "https://github.com/ianen/DINOv3-TRT-Acceleration",
-            "title": "ianen/DINOv3-TRT-Acceleration: DINOv3 TensorRT 推理加速",
-            "date_modified": "2026-04-29T09:46:07.000Z",
-            "date_published": "2026-04-29T09:46:06.000Z",
-            "author": {
-                "name": "ianen",
-                "url": "https://github.com/ianen"
             }
         },
         {
