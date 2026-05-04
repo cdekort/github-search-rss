@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-05-03T00:49:40.365Z</updated>
+    <updated>2026-05-04T00:48:23.379Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
+        <id>https://github.com/Abigail-amk/AI-training</id>
+        <link href="https://github.com/Abigail-amk/AI-training"/>
+        <updated>2026-05-04T00:45:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
+        <author>
+            <name>Abigail-amk</name>
+            <email>Abigail-amk@noreply.github.com</email>
+            <uri>https://github.com/Abigail-amk</uri>
+        </author>
+        <published>2026-02-15T00:26:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-05-04T00:22:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-05-03T00:46:13.000Z</updated>
+        <updated>2026-05-03T23:33:58.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -19,6 +45,32 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
+        <id>https://github.com/danniel-dd/AEIC</id>
+        <link href="https://github.com/danniel-dd/AEIC"/>
+        <updated>2026-05-03T22:24:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
+        <author>
+            <name>danniel-dd</name>
+            <email>danniel-dd@noreply.github.com</email>
+            <uri>https://github.com/danniel-dd</uri>
+        </author>
+        <published>2026-03-10T00:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacroSony/inat-detection-dinov3]]></title>
+        <id>https://github.com/MacroSony/inat-detection-dinov3</id>
+        <link href="https://github.com/MacroSony/inat-detection-dinov3"/>
+        <updated>2026-05-03T05:51:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113079719?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>MacroSony</name>
+            <email>MacroSony@noreply.github.com</email>
+            <uri>https://github.com/MacroSony</uri>
+        </author>
+        <published>2026-04-29T16:17:33.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[choi0312/dinov3-vit-lora-deepfake-detection: DINOv3 ViT-L/16 LoRA-based deepfake detection pipeline.]]></title>
@@ -34,49 +86,10 @@
         <published>2026-05-02T23:55:39.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
-        <id>https://github.com/danniel-dd/AEIC</id>
-        <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-05-02T21:45:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
-        <author>
-            <name>danniel-dd</name>
-            <email>danniel-dd@noreply.github.com</email>
-            <uri>https://github.com/danniel-dd</uri>
-        </author>
-        <published>2026-03-10T00:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
-        <id>https://github.com/Abigail-amk/AI-training</id>
-        <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-05-02T21:03:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
-        <author>
-            <name>Abigail-amk</name>
-            <email>Abigail-amk@noreply.github.com</email>
-            <uri>https://github.com/Abigail-amk</uri>
-        </author>
-        <published>2026-02-15T00:26:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-05-02T19:52:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ianen/DINOv3-TRT-Acceleration: DINOv3 TensorRT 推理加速]]></title>
         <id>https://github.com/ianen/DINOv3-TRT-Acceleration</id>
         <link href="https://github.com/ianen/DINOv3-TRT-Acceleration"/>
-        <updated>2026-05-02T16:08:26.000Z</updated>
+        <updated>2026-05-03T04:24:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/67821839?u=b9da0b206ba8bc61b2b0c167c492d3b202551671&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 TensorRT 推理加速</div>]]></content>
         <author>
             <name>ianen</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/cat825339867-boop</uri>
         </author>
         <published>2026-04-23T06:59:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacroSony/inat-detection-dinov3]]></title>
-        <id>https://github.com/MacroSony/inat-detection-dinov3</id>
-        <link href="https://github.com/MacroSony/inat-detection-dinov3"/>
-        <updated>2026-04-29T22:47:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113079719?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>MacroSony</name>
-            <email>MacroSony@noreply.github.com</email>
-            <uri>https://github.com/MacroSony</uri>
-        </author>
-        <published>2026-04-29T16:17:33.000Z</published>
     </entry>
 </feed>

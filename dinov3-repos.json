@@ -6,14 +6,58 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
+            "url": "https://github.com/Abigail-amk/AI-training",
+            "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
+            "date_modified": "2026-05-04T00:45:16.000Z",
+            "date_published": "2026-02-15T00:26:11.000Z",
+            "author": {
+                "name": "Abigail-amk",
+                "url": "https://github.com/Abigail-amk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nacho4412gg/dinov3",
+            "title": "Nacho4412gg/dinov3",
+            "date_modified": "2026-05-04T00:22:50.000Z",
+            "date_published": "2026-01-11T18:24:22.000Z",
+            "author": {
+                "name": "Nacho4412gg",
+                "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-05-03T00:46:13.000Z",
+            "date_modified": "2026-05-03T23:33:58.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
+            "url": "https://github.com/danniel-dd/AEIC",
+            "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
+            "date_modified": "2026-05-03T22:24:16.000Z",
+            "date_published": "2026-03-10T00:27:58.000Z",
+            "author": {
+                "name": "danniel-dd",
+                "url": "https://github.com/danniel-dd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113079719?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MacroSony/inat-detection-dinov3",
+            "title": "MacroSony/inat-detection-dinov3",
+            "date_modified": "2026-05-03T05:51:33.000Z",
+            "date_published": "2026-04-29T16:17:33.000Z",
+            "author": {
+                "name": "MacroSony",
+                "url": "https://github.com/MacroSony"
             }
         },
         {
@@ -28,43 +72,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
-            "url": "https://github.com/danniel-dd/AEIC",
-            "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-05-02T21:45:00.000Z",
-            "date_published": "2026-03-10T00:27:58.000Z",
-            "author": {
-                "name": "danniel-dd",
-                "url": "https://github.com/danniel-dd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
-            "url": "https://github.com/Abigail-amk/AI-training",
-            "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-05-02T21:03:11.000Z",
-            "date_published": "2026-02-15T00:26:11.000Z",
-            "author": {
-                "name": "Abigail-amk",
-                "url": "https://github.com/Abigail-amk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nacho4412gg/dinov3",
-            "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-05-02T19:52:30.000Z",
-            "date_published": "2026-01-11T18:24:22.000Z",
-            "author": {
-                "name": "Nacho4412gg",
-                "url": "https://github.com/Nacho4412gg"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67821839?u=b9da0b206ba8bc61b2b0c167c492d3b202551671&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 TensorRT 推理加速</div>",
             "url": "https://github.com/ianen/DINOv3-TRT-Acceleration",
             "title": "ianen/DINOv3-TRT-Acceleration: DINOv3 TensorRT 推理加速",
-            "date_modified": "2026-05-02T16:08:26.000Z",
+            "date_modified": "2026-05-03T04:24:31.000Z",
             "date_published": "2026-04-29T09:46:06.000Z",
             "author": {
                 "name": "ianen",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cat825339867-boop",
                 "url": "https://github.com/cat825339867-boop"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113079719?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MacroSony/inat-detection-dinov3",
-            "title": "MacroSony/inat-detection-dinov3",
-            "date_modified": "2026-04-29T22:47:02.000Z",
-            "date_published": "2026-04-29T16:17:33.000Z",
-            "author": {
-                "name": "MacroSony",
-                "url": "https://github.com/MacroSony"
             }
         }
     ]
