@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-05-10T00:41:54.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
-            "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-05-09T22:31:08.000Z",
+            "date_modified": "2026-05-11T00:37:13.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -31,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-05-09T22:16:14.000Z",
+            "date_modified": "2026-05-11T00:22:07.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -42,11 +31,55 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-05-09T21:53:19.000Z",
+            "date_modified": "2026-05-10T23:58:36.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
                 "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-05-10T23:07:53.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>",
+            "url": "https://github.com/YoussefAboelwafa/M2Retinexformer",
+            "title": "YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ",
+            "date_modified": "2026-05-10T21:55:22.000Z",
+            "date_published": "2026-01-04T14:18:52.000Z",
+            "author": {
+                "name": "YoussefAboelwafa",
+                "url": "https://github.com/YoussefAboelwafa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142688529?u=84541cc9a24f5103d113aee39eb7654fea4095ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered predictive navigation assistant for visually impaired students that uses DINOv3 semantic perception, JEPA world modeling, cognitive mapping, YOLOE open-vocabulary detection, EasyOCR landmark reading, and AttnLRP explainability to enable trustworthy, map free campus navigation with real time voice guidance.</div>",
+            "url": "https://github.com/rayyan-merchant/Vision-to-Voice",
+            "title": "rayyan-merchant/Vision-to-Voice: AI-powered predictive navigation assistant for visually impaired students that uses DINOv3 semantic perception, JEPA world modeling, cognitive mapping, YOLOE open-vocabulary detection, EasyOCR landmark reading, and AttnLRP explainability to enable trustworthy, map free campus navigation with real time voice guidance.",
+            "date_modified": "2026-05-10T12:39:23.000Z",
+            "date_published": "2026-04-24T19:17:45.000Z",
+            "author": {
+                "name": "rayyan-merchant",
+                "url": "https://github.com/rayyan-merchant"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 add peft for pretrain</div>",
+            "url": "https://github.com/jingwang7236/dinov3-peft",
+            "title": "jingwang7236/dinov3-peft: dinov3 add peft for pretrain",
+            "date_modified": "2026-05-10T02:33:11.000Z",
+            "date_published": "2026-05-10T02:33:11.000Z",
+            "author": {
+                "name": "jingwang7236",
+                "url": "https://github.com/jingwang7236"
             }
         },
         {
@@ -80,17 +113,6 @@
             "author": {
                 "name": "sandrapraveen",
                 "url": "https://github.com/sandrapraveen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>",
-            "url": "https://github.com/YoussefAboelwafa/M2Retinexformer",
-            "title": "YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ",
-            "date_modified": "2026-05-09T17:19:03.000Z",
-            "date_published": "2026-01-04T14:18:52.000Z",
-            "author": {
-                "name": "YoussefAboelwafa",
-                "url": "https://github.com/YoussefAboelwafa"
             }
         },
         {
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-05-09T14:36:22.000Z",
+            "date_modified": "2026-05-10T14:00:22.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "timlawrenz",
                 "url": "https://github.com/timlawrenz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34812849?u=f54048d30bb01293ca51bf5aae52f2f1f6115bb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research-oriented Faster R-CNN style object detector using DINOv3 backbones for Action Genome, designed for scene graph generation and spatio-temporal visual understanding pipelines.</div>",
-            "url": "https://github.com/Saurabh-Srivastava1/DINOv3-ActionGenome-Detector",
-            "title": "Saurabh-Srivastava1/DINOv3-ActionGenome-Detector: Research-oriented Faster R-CNN style object detector using DINOv3 backbones for Action Genome, designed for scene graph generation and spatio-temporal visual understanding pipelines.",
-            "date_modified": "2026-05-07T20:13:06.000Z",
-            "date_published": "2026-05-07T15:29:30.000Z",
-            "author": {
-                "name": "Saurabh-Srivastava1",
-                "url": "https://github.com/Saurabh-Srivastava1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109537572?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.</div>",
-            "url": "https://github.com/Pavan-Naga-207/DSGG",
-            "title": "Pavan-Naga-207/DSGG: Modernizing Dynamic Scene Graph Generation by integrating Vision Transformer (ViT-Large) backbones and DINOv3 foundation models into the STTran framework. Targeted for SOTA performance on the Action Genome dataset.",
-            "date_modified": "2026-05-07T16:57:08.000Z",
-            "date_published": "2026-03-05T19:05:00.000Z",
-            "author": {
-                "name": "Pavan-Naga-207",
-                "url": "https://github.com/Pavan-Naga-207"
             }
         }
     ]
