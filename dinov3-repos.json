@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-05-11T00:37:13.000Z",
+            "date_modified": "2026-05-12T00:15:25.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/205385736?u=81958194314caac77d3b3d273039d47bd34cf104&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Public-safe computer vision and applied AI portfolio with anonymized case studies.</div>",
+            "url": "https://github.com/KalboussiAla/computer-vision-portfolio",
+            "title": "KalboussiAla/computer-vision-portfolio: Public-safe computer vision and applied AI portfolio with anonymized case studies.",
+            "date_modified": "2026-05-12T00:00:18.000Z",
+            "date_published": "2026-05-11T17:44:08.000Z",
+            "author": {
+                "name": "KalboussiAla",
+                "url": "https://github.com/KalboussiAla"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-05-11T00:22:07.000Z",
+            "date_modified": "2026-05-11T23:59:41.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-05-10T23:58:36.000Z",
+            "date_modified": "2026-05-11T23:35:49.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-05-10T23:07:53.000Z",
+            "date_modified": "2026-05-11T22:43:16.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -50,14 +61,146 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34812849?u=f54048d30bb01293ca51bf5aae52f2f1f6115bb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research-oriented Faster R-CNN style object detector using DINOv3 backbones for Action Genome, designed for scene graph generation and spatio-temporal visual understanding pipelines.</div>",
+            "url": "https://github.com/Saurabh-Srivastava1/DINOv3-ActionGenome-Detector",
+            "title": "Saurabh-Srivastava1/DINOv3-ActionGenome-Detector: Research-oriented Faster R-CNN style object detector using DINOv3 backbones for Action Genome, designed for scene graph generation and spatio-temporal visual understanding pipelines.",
+            "date_modified": "2026-05-11T19:08:35.000Z",
+            "date_published": "2026-05-07T15:29:30.000Z",
+            "author": {
+                "name": "Saurabh-Srivastava1",
+                "url": "https://github.com/Saurabh-Srivastava1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55192008?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/kimz1121/dinov3_test",
+            "title": "kimz1121/dinov3_test",
+            "date_modified": "2026-05-11T17:41:49.000Z",
+            "date_published": "2026-05-11T05:14:55.000Z",
+            "author": {
+                "name": "kimz1121",
+                "url": "https://github.com/kimz1121"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15923399?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A semantic change detection project, implementing DinoV3&amp;ViTDet on Hi-UCD.</div>",
+            "url": "https://github.com/fx-bonnefont/vitdet-scd",
+            "title": "fx-bonnefont/vitdet-scd: A semantic change detection project, implementing DinoV3&ViTDet on Hi-UCD.",
+            "date_modified": "2026-05-11T16:19:20.000Z",
+            "date_published": "2026-05-08T20:09:46.000Z",
+            "author": {
+                "name": "fx-bonnefont",
+                "url": "https://github.com/fx-bonnefont"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>",
             "url": "https://github.com/YoussefAboelwafa/M2Retinexformer",
             "title": "YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ",
-            "date_modified": "2026-05-10T21:55:22.000Z",
+            "date_modified": "2026-05-11T18:40:36.000Z",
             "date_published": "2026-01-04T14:18:52.000Z",
             "author": {
                 "name": "YoussefAboelwafa",
                 "url": "https://github.com/YoussefAboelwafa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3训练示例</div>",
+            "url": "https://github.com/little51/dinov3-train",
+            "title": "little51/dinov3-train: DINOv3训练示例",
+            "date_modified": "2026-05-11T13:59:13.000Z",
+            "date_published": "2025-09-26T13:47:21.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3例子</div>",
+            "url": "https://github.com/little51/dinov3-samples",
+            "title": "little51/dinov3-samples: dinov3例子",
+            "date_modified": "2026-05-11T13:54:44.000Z",
+            "date_published": "2025-09-16T04:51:48.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
+            "url": "https://github.com/little51/dinov3-course",
+            "title": "little51/dinov3-course: 《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
+            "date_modified": "2026-05-11T13:52:55.000Z",
+            "date_published": "2026-05-03T12:40:56.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-05-11T09:33:40.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177388102?u=8e9a42ee1d93e3b08521bc10b9d37a6c0b686e0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>YOLO-PCB项目模型训练和改进探索仓库（基于ultralytics和DINOV3_YOLO）</div>",
+            "url": "https://github.com/Koooki3/YOLO_PCB",
+            "title": "Koooki3/YOLO_PCB: YOLO-PCB项目模型训练和改进探索仓库（基于ultralytics和DINOV3_YOLO）",
+            "date_modified": "2026-05-11T09:23:51.000Z",
+            "date_published": "2026-05-11T09:23:50.000Z",
+            "author": {
+                "name": "Koooki3",
+                "url": "https://github.com/Koooki3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 add peft for pretrain</div>",
+            "url": "https://github.com/jingwang7236/dinov3-peft",
+            "title": "jingwang7236/dinov3-peft: dinov3 add peft for pretrain",
+            "date_modified": "2026-05-11T09:17:36.000Z",
+            "date_published": "2026-05-10T02:33:11.000Z",
+            "author": {
+                "name": "jingwang7236",
+                "url": "https://github.com/jingwang7236"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67639242?u=dbeef5de4d3e32ecc3c786929417e21429b2c649&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Killuazyt/agentwithcd-sam3-dinov3-",
+            "title": "Killuazyt/agentwithcd-sam3-dinov3-",
+            "date_modified": "2026-05-11T09:03:39.000Z",
+            "date_published": "2026-03-30T08:01:09.000Z",
+            "author": {
+                "name": "Killuazyt",
+                "url": "https://github.com/Killuazyt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156773791?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/qsb2333/dinov3",
+            "title": "qsb2333/dinov3",
+            "date_modified": "2026-05-11T07:38:33.000Z",
+            "date_published": "2026-05-11T07:33:36.000Z",
+            "author": {
+                "name": "qsb2333",
+                "url": "https://github.com/qsb2333"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121883629?u=75698369f8754f4233abef85f958b179dfb6d87a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Kaggle Silver Medal solution for CSIRO Image2Biomass Prediction with DINOv3 dual-view regression and GBDT ensemble.</div>",
+            "url": "https://github.com/mayin0902/csiro-image2biomass-silver",
+            "title": "mayin0902/csiro-image2biomass-silver: Kaggle Silver Medal solution for CSIRO Image2Biomass Prediction with DINOv3 dual-view regression and GBDT ensemble.",
+            "date_modified": "2026-05-11T03:56:45.000Z",
+            "date_published": "2026-05-11T03:02:23.000Z",
+            "author": {
+                "name": "mayin0902",
+                "url": "https://github.com/mayin0902"
             }
         },
         {
@@ -72,28 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 add peft for pretrain</div>",
-            "url": "https://github.com/jingwang7236/dinov3-peft",
-            "title": "jingwang7236/dinov3-peft: dinov3 add peft for pretrain",
-            "date_modified": "2026-05-10T02:33:11.000Z",
-            "date_published": "2026-05-10T02:33:11.000Z",
-            "author": {
-                "name": "jingwang7236",
-                "url": "https://github.com/jingwang7236"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3例子</div>",
-            "url": "https://github.com/little51/dinov3-samples",
-            "title": "little51/dinov3-samples: dinov3例子",
-            "date_modified": "2026-05-09T21:40:16.000Z",
-            "date_published": "2025-09-16T04:51:48.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152717049?u=def345e75da794e35e00fea946e49ea55d19b7c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hybrid DINOv3 + CNN pipeline for generalizable CIED segmentation and hierarchical manufacturer-model classification in chest X-rays. ACR 2026.</div>",
             "url": "https://github.com/alyrraza/cied-detection-acr2026",
             "title": "alyrraza/cied-detection-acr2026: Hybrid DINOv3 + CNN pipeline for generalizable CIED segmentation and hierarchical manufacturer-model classification in chest X-rays. ACR 2026.",
@@ -102,127 +223,6 @@
             "author": {
                 "name": "alyrraza",
                 "url": "https://github.com/alyrraza"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149661379?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PyTorch project exploring semantic segmentation using DINOv3 features and custom dense prediction architectures.</div>",
-            "url": "https://github.com/sandrapraveen/dinov3-semantic-segmentation",
-            "title": "sandrapraveen/dinov3-semantic-segmentation: PyTorch project exploring semantic segmentation using DINOv3 features and custom dense prediction architectures.",
-            "date_modified": "2026-05-09T17:59:36.000Z",
-            "date_published": "2026-05-09T17:07:49.000Z",
-            "author": {
-                "name": "sandrapraveen",
-                "url": "https://github.com/sandrapraveen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192959239?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ma950628/DINOv3",
-            "title": "ma950628/DINOv3",
-            "date_modified": "2026-05-09T08:41:25.000Z",
-            "date_published": "2026-04-18T02:43:20.000Z",
-            "author": {
-                "name": "ma950628",
-                "url": "https://github.com/ma950628"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49848900?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zzq1zh/Text-Conditoned-DINOV3",
-            "title": "zzq1zh/Text-Conditoned-DINOV3",
-            "date_modified": "2026-05-09T03:29:47.000Z",
-            "date_published": "2026-04-23T05:09:45.000Z",
-            "author": {
-                "name": "zzq1zh",
-                "url": "https://github.com/zzq1zh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
-            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
-            "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
-            "date_modified": "2026-05-09T23:20:40.000Z",
-            "date_published": "2026-03-16T10:28:22.000Z",
-            "author": {
-                "name": "Intellindust-AI-Lab",
-                "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15923399?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A semantic change detection project, implementing DinoV3&amp;ViTDet on Hi-UCD.</div>",
-            "url": "https://github.com/fx-bonnefont/vitdet-scd",
-            "title": "fx-bonnefont/vitdet-scd: A semantic change detection project, implementing DinoV3&ViTDet on Hi-UCD.",
-            "date_modified": "2026-05-08T20:13:42.000Z",
-            "date_published": "2026-05-08T20:09:46.000Z",
-            "author": {
-                "name": "fx-bonnefont",
-                "url": "https://github.com/fx-bonnefont"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-05-10T14:00:22.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195096201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pretraining DINOv3 with different features for Earth Observation downstream tasks</div>",
-            "url": "https://github.com/raviolihui/DINOv3-earth-observation",
-            "title": "raviolihui/DINOv3-earth-observation: Pretraining DINOv3 with different features for Earth Observation downstream tasks",
-            "date_modified": "2026-05-08T14:09:21.000Z",
-            "date_published": "2026-05-08T14:03:33.000Z",
-            "author": {
-                "name": "raviolihui",
-                "url": "https://github.com/raviolihui"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101958827?u=7ff23cebed45475db80641b2cfd474d0fba67c65&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hybrid framework combining GAN-based augmentation, self-supervised DINOv3 ViT, and CNN + spectral clustering for interpretable image forgery detection.</div>",
-            "url": "https://github.com/AsRo1/GAN-DINOv3-CMFD",
-            "title": "AsRo1/GAN-DINOv3-CMFD: Hybrid framework combining GAN-based augmentation, self-supervised DINOv3 ViT, and CNN + spectral clustering for interpretable image forgery detection.",
-            "date_modified": "2026-05-08T12:41:45.000Z",
-            "date_published": "2026-05-08T12:38:26.000Z",
-            "author": {
-                "name": "AsRo1",
-                "url": "https://github.com/AsRo1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127941708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Attempt to use DINOv3 as backbone for TV3S</div>",
-            "url": "https://github.com/TrifuRazvan/TV3S-DINOv3",
-            "title": "TrifuRazvan/TV3S-DINOv3: Attempt to use DINOv3 as backbone for TV3S",
-            "date_modified": "2026-05-08T12:25:39.000Z",
-            "date_published": "2026-04-01T10:36:22.000Z",
-            "author": {
-                "name": "TrifuRazvan",
-                "url": "https://github.com/TrifuRazvan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113079719?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MacroSony/inat-detection-dinov3",
-            "title": "MacroSony/inat-detection-dinov3",
-            "date_modified": "2026-05-08T04:16:58.000Z",
-            "date_published": "2026-04-29T16:17:33.000Z",
-            "author": {
-                "name": "MacroSony",
-                "url": "https://github.com/MacroSony"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/697600?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.</div>",
-            "url": "https://github.com/timlawrenz/stratum-hq",
-            "title": "timlawrenz/stratum-hq: Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.",
-            "date_modified": "2026-05-08T00:26:30.000Z",
-            "date_published": "2026-03-23T14:30:09.000Z",
-            "author": {
-                "name": "timlawrenz",
-                "url": "https://github.com/timlawrenz"
             }
         }
     ]
