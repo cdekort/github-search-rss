@@ -2,42 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-05-14T00:53:10.954Z</updated>
+    <updated>2026-05-15T00:50:27.381Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-05-14T00:34:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
-        <id>https://github.com/danniel-dd/AEIC</id>
-        <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-05-13T23:19:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
-        <author>
-            <name>danniel-dd</name>
-            <email>danniel-dd@noreply.github.com</email>
-            <uri>https://github.com/danniel-dd</uri>
-        </author>
-        <published>2026-03-10T00:27:58.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-05-13T23:04:16.000Z</updated>
+        <updated>2026-05-15T00:50:00.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -50,7 +24,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-05-13T22:40:49.000Z</updated>
+        <updated>2026-05-15T00:28:20.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -58,6 +32,149 @@
             <uri>https://github.com/Nacho4412gg</uri>
         </author>
         <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-05-14T23:40:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
+        <id>https://github.com/danniel-dd/AEIC</id>
+        <link href="https://github.com/danniel-dd/AEIC"/>
+        <updated>2026-05-14T21:39:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
+        <author>
+            <name>danniel-dd</name>
+            <email>danniel-dd@noreply.github.com</email>
+            <uri>https://github.com/danniel-dd</uri>
+        </author>
+        <published>2026-03-10T00:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhoujiwhen/dinov3]]></title>
+        <id>https://github.com/zhoujiwhen/dinov3</id>
+        <link href="https://github.com/zhoujiwhen/dinov3"/>
+        <updated>2026-05-14T16:33:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/284698625?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhoujiwhen</name>
+            <email>zhoujiwhen@noreply.github.com</email>
+            <uri>https://github.com/zhoujiwhen</uri>
+        </author>
+        <published>2026-05-14T15:19:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ]]></title>
+        <id>https://github.com/YoussefAboelwafa/M2Retinexformer</id>
+        <link href="https://github.com/YoussefAboelwafa/M2Retinexformer"/>
+        <updated>2026-05-14T14:55:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4" width="64" height="64" alt=""/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>]]></content>
+        <author>
+            <name>YoussefAboelwafa</name>
+            <email>YoussefAboelwafa@noreply.github.com</email>
+            <uri>https://github.com/YoussefAboelwafa</uri>
+        </author>
+        <published>2026-01-04T14:18:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ma950628/DINOv3]]></title>
+        <id>https://github.com/ma950628/DINOv3</id>
+        <link href="https://github.com/ma950628/DINOv3"/>
+        <updated>2026-05-14T11:29:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192959239?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ma950628</name>
+            <email>ma950628@noreply.github.com</email>
+            <uri>https://github.com/ma950628</uri>
+        </author>
+        <published>2026-04-18T02:43:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Augustine-2049/CV: Study material, start from Encoder like DINOv3]]></title>
+        <id>https://github.com/Augustine-2049/CV</id>
+        <link href="https://github.com/Augustine-2049/CV"/>
+        <updated>2026-05-14T10:45:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65893128?u=1f6929f27b246f56d731b2091f2ed381bb75f29e&v=4" width="64" height="64" alt=""/><br/><div>Study material, start from Encoder like DINOv3</div>]]></content>
+        <author>
+            <name>Augustine-2049</name>
+            <email>Augustine-2049@noreply.github.com</email>
+            <uri>https://github.com/Augustine-2049</uri>
+        </author>
+        <published>2026-04-16T12:43:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
+        <id>https://github.com/jingwang7236/dinov3-sw</id>
+        <link href="https://github.com/jingwang7236/dinov3-sw"/>
+        <updated>2026-05-14T07:39:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jingwang7236</name>
+            <email>jingwang7236@noreply.github.com</email>
+            <uri>https://github.com/jingwang7236</uri>
+        </author>
+        <published>2026-05-13T06:44:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cat825339867-boop/dino_test: 测试一下dinov3]]></title>
+        <id>https://github.com/cat825339867-boop/dino_test</id>
+        <link href="https://github.com/cat825339867-boop/dino_test"/>
+        <updated>2026-05-14T07:18:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/254819555?v=4" width="64" height="64" alt=""/><br/><div>测试一下dinov3</div>]]></content>
+        <author>
+            <name>cat825339867-boop</name>
+            <email>cat825339867-boop@noreply.github.com</email>
+            <uri>https://github.com/cat825339867-boop</uri>
+        </author>
+        <published>2026-04-23T06:59:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R2525/PolyForge-DinoV3-ImageSearch]]></title>
+        <id>https://github.com/R2525/PolyForge-DinoV3-ImageSearch</id>
+        <link href="https://github.com/R2525/PolyForge-DinoV3-ImageSearch"/>
+        <updated>2026-05-14T06:10:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104773657?u=e9e87508303999e5b7f47186758ab081d165c986&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>R2525</name>
+            <email>R2525@noreply.github.com</email>
+            <uri>https://github.com/R2525</uri>
+        </author>
+        <published>2026-05-14T06:06:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FankChen/Dinov3-DPT]]></title>
+        <id>https://github.com/FankChen/Dinov3-DPT</id>
+        <link href="https://github.com/FankChen/Dinov3-DPT"/>
+        <updated>2026-05-14T02:39:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/122890530?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>FankChen</name>
+            <email>FankChen@noreply.github.com</email>
+            <uri>https://github.com/FankChen</uri>
+        </author>
+        <published>2026-05-12T11:45:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[little51/dinov3-course: 《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
+        <id>https://github.com/little51/dinov3-course</id>
+        <link href="https://github.com/little51/dinov3-course"/>
+        <updated>2026-05-14T01:34:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
+        <author>
+            <name>little51</name>
+            <email>little51@noreply.github.com</email>
+            <uri>https://github.com/little51</uri>
+        </author>
+        <published>2026-05-03T12:40:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
@@ -86,19 +203,6 @@
         <published>2026-04-28T10:40:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
-        <id>https://github.com/jingwang7236/dinov3-sw</id>
-        <link href="https://github.com/jingwang7236/dinov3-sw"/>
-        <updated>2026-05-13T10:22:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jingwang7236</name>
-            <email>jingwang7236@noreply.github.com</email>
-            <uri>https://github.com/jingwang7236</uri>
-        </author>
-        <published>2026-05-13T06:44:47.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[guantongpeng/dinov3]]></title>
         <id>https://github.com/guantongpeng/dinov3</id>
         <link href="https://github.com/guantongpeng/dinov3"/>
@@ -110,19 +214,6 @@
             <uri>https://github.com/guantongpeng</uri>
         </author>
         <published>2026-05-13T08:42:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[little51/dinov3-course: 《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
-        <id>https://github.com/little51/dinov3-course</id>
-        <link href="https://github.com/little51/dinov3-course"/>
-        <updated>2026-05-13T10:13:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
-        <author>
-            <name>little51</name>
-            <email>little51@noreply.github.com</email>
-            <uri>https://github.com/little51</uri>
-        </author>
-        <published>2026-05-03T12:40:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[shivangi911/Dinov3_localization]]></title>
@@ -175,96 +266,5 @@
             <uri>https://github.com/TienHao-Wang</uri>
         </author>
         <published>2026-05-12T07:29:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FankChen/Dinov3-DPT]]></title>
-        <id>https://github.com/FankChen/Dinov3-DPT</id>
-        <link href="https://github.com/FankChen/Dinov3-DPT"/>
-        <updated>2026-05-12T12:22:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/122890530?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>FankChen</name>
-            <email>FankChen@noreply.github.com</email>
-            <uri>https://github.com/FankChen</uri>
-        </author>
-        <published>2026-05-12T11:45:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gishuang/dinov3-arcgis-v2321-rs311-unified-hotfix: Using MetaDinov3 training]]></title>
-        <id>https://github.com/gishuang/dinov3-arcgis-v2321-rs311-unified-hotfix</id>
-        <link href="https://github.com/gishuang/dinov3-arcgis-v2321-rs311-unified-hotfix"/>
-        <updated>2026-05-12T08:18:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8254478?v=4" width="64" height="64" alt=""/><br/><div>Using MetaDinov3 training</div>]]></content>
-        <author>
-            <name>gishuang</name>
-            <email>gishuang@noreply.github.com</email>
-            <uri>https://github.com/gishuang</uri>
-        </author>
-        <published>2026-05-12T07:03:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ma950628/DINOv3]]></title>
-        <id>https://github.com/ma950628/DINOv3</id>
-        <link href="https://github.com/ma950628/DINOv3"/>
-        <updated>2026-05-12T07:06:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192959239?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ma950628</name>
-            <email>ma950628@noreply.github.com</email>
-            <uri>https://github.com/ma950628</uri>
-        </author>
-        <published>2026-04-18T02:43:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jingwang7236/dinov3-peft: dinov3 add peft for pretrain]]></title>
-        <id>https://github.com/jingwang7236/dinov3-peft</id>
-        <link href="https://github.com/jingwang7236/dinov3-peft"/>
-        <updated>2026-05-12T01:26:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div>dinov3 add peft for pretrain</div>]]></content>
-        <author>
-            <name>jingwang7236</name>
-            <email>jingwang7236@noreply.github.com</email>
-            <uri>https://github.com/jingwang7236</uri>
-        </author>
-        <published>2026-05-10T02:33:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saurabh-Srivastava1/DINOv3-ActionGenome-Detector: Research-oriented Faster R-CNN style object detector using DINOv3 backbones for Action Genome, designed for scene graph generation and spatio-temporal visual understanding pipelines.]]></title>
-        <id>https://github.com/Saurabh-Srivastava1/DINOv3-ActionGenome-Detector</id>
-        <link href="https://github.com/Saurabh-Srivastava1/DINOv3-ActionGenome-Detector"/>
-        <updated>2026-05-11T19:08:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34812849?u=f54048d30bb01293ca51bf5aae52f2f1f6115bb7&v=4" width="64" height="64" alt=""/><br/><div>Research-oriented Faster R-CNN style object detector using DINOv3 backbones for Action Genome, designed for scene graph generation and spatio-temporal visual understanding pipelines.</div>]]></content>
-        <author>
-            <name>Saurabh-Srivastava1</name>
-            <email>Saurabh-Srivastava1@noreply.github.com</email>
-            <uri>https://github.com/Saurabh-Srivastava1</uri>
-        </author>
-        <published>2026-05-07T15:29:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fx-bonnefont/vitdet-scd: A semantic change detection project, implementing DinoV3&ViTDet on Hi-UCD.]]></title>
-        <id>https://github.com/fx-bonnefont/vitdet-scd</id>
-        <link href="https://github.com/fx-bonnefont/vitdet-scd"/>
-        <updated>2026-05-11T16:19:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15923399?v=4" width="64" height="64" alt=""/><br/><div>A semantic change detection project, implementing DinoV3&amp;ViTDet on Hi-UCD.</div>]]></content>
-        <author>
-            <name>fx-bonnefont</name>
-            <email>fx-bonnefont@noreply.github.com</email>
-            <uri>https://github.com/fx-bonnefont</uri>
-        </author>
-        <published>2026-05-08T20:09:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ]]></title>
-        <id>https://github.com/YoussefAboelwafa/M2Retinexformer</id>
-        <link href="https://github.com/YoussefAboelwafa/M2Retinexformer"/>
-        <updated>2026-05-11T18:40:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4" width="64" height="64" alt=""/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>]]></content>
-        <author>
-            <name>YoussefAboelwafa</name>
-            <email>YoussefAboelwafa@noreply.github.com</email>
-            <uri>https://github.com/YoussefAboelwafa</uri>
-        </author>
-        <published>2026-01-04T14:18:52.000Z</published>
     </entry>
 </feed>
