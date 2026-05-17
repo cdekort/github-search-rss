@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-05-16T00:47:46.579Z</updated>
+    <updated>2026-05-17T00:52:30.139Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
-        <id>https://github.com/Abigail-amk/AI-training</id>
-        <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-05-16T00:35:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
-        <author>
-            <name>Abigail-amk</name>
-            <email>Abigail-amk@noreply.github.com</email>
-            <uri>https://github.com/Abigail-amk</uri>
-        </author>
-        <published>2026-02-15T00:26:11.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
         <id>https://github.com/little51/dinov3-course</id>
         <link href="https://github.com/little51/dinov3-course"/>
-        <updated>2026-05-16T00:20:49.000Z</updated>
+        <updated>2026-05-17T00:36:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
         <author>
             <name>little51</name>
@@ -34,49 +21,10 @@
         <published>2026-05-03T12:40:56.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-05-16T00:13:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kingwingfly/burn_dinov3: DINOv3 with burn & Rust]]></title>
-        <id>https://github.com/kingwingfly/burn_dinov3</id>
-        <link href="https://github.com/kingwingfly/burn_dinov3"/>
-        <updated>2026-05-15T23:40:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 with burn &amp; Rust</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-15T18:24:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
-        <id>https://github.com/dlidgett/AD-DINOv3</id>
-        <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-05-15T23:24:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
-        <author>
-            <name>dlidgett</name>
-            <email>dlidgett@noreply.github.com</email>
-            <uri>https://github.com/dlidgett</uri>
-        </author>
-        <published>2020-05-31T11:42:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-05-15T21:16:01.000Z</updated>
+        <updated>2026-05-16T23:17:07.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -86,10 +34,101 @@
         <published>2026-03-10T00:27:58.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
+        <id>https://github.com/Abigail-amk/AI-training</id>
+        <link href="https://github.com/Abigail-amk/AI-training"/>
+        <updated>2026-05-16T23:03:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
+        <author>
+            <name>Abigail-amk</name>
+            <email>Abigail-amk@noreply.github.com</email>
+            <uri>https://github.com/Abigail-amk</uri>
+        </author>
+        <published>2026-02-15T00:26:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-05-16T22:41:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
+        <id>https://github.com/dlidgett/AD-DINOv3</id>
+        <link href="https://github.com/dlidgett/AD-DINOv3"/>
+        <updated>2026-05-16T21:53:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
+        <author>
+            <name>dlidgett</name>
+            <email>dlidgett@noreply.github.com</email>
+            <uri>https://github.com/dlidgett</uri>
+        </author>
+        <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[etornam45/mlx_dinov3: This is an implemetation of Dinov3 for mlx. the model is from Meta]]></title>
+        <id>https://github.com/etornam45/mlx_dinov3</id>
+        <link href="https://github.com/etornam45/mlx_dinov3"/>
+        <updated>2026-05-16T21:26:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4" width="64" height="64" alt=""/><br/><div>This is an implemetation of Dinov3 for mlx. the model is from Meta</div>]]></content>
+        <author>
+            <name>etornam45</name>
+            <email>etornam45@noreply.github.com</email>
+            <uri>https://github.com/etornam45</uri>
+        </author>
+        <published>2026-03-04T01:04:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kingwingfly/burn_dinov3: DINOv3 with burn & Rust]]></title>
+        <id>https://github.com/kingwingfly/burn_dinov3</id>
+        <link href="https://github.com/kingwingfly/burn_dinov3"/>
+        <updated>2026-05-16T19:23:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 with burn &amp; Rust</div>]]></content>
+        <author>
+            <name>kingwingfly</name>
+            <email>kingwingfly@noreply.github.com</email>
+            <uri>https://github.com/kingwingfly</uri>
+        </author>
+        <published>2026-05-15T18:24:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MorizzG/dinov3-equinox: DINOv3, ported to equinox]]></title>
+        <id>https://github.com/MorizzG/dinov3-equinox</id>
+        <link href="https://github.com/MorizzG/dinov3-equinox"/>
+        <updated>2026-05-16T18:33:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7621221?v=4" width="64" height="64" alt=""/><br/><div>DINOv3, ported to equinox</div>]]></content>
+        <author>
+            <name>MorizzG</name>
+            <email>MorizzG@noreply.github.com</email>
+            <uri>https://github.com/MorizzG</uri>
+        </author>
+        <published>2025-08-16T19:58:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YanivGranitBGU/dinov3]]></title>
+        <id>https://github.com/YanivGranitBGU/dinov3</id>
+        <link href="https://github.com/YanivGranitBGU/dinov3"/>
+        <updated>2026-05-16T13:55:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/187634415?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>YanivGranitBGU</name>
+            <email>YanivGranitBGU@noreply.github.com</email>
+            <uri>https://github.com/YanivGranitBGU</uri>
+        </author>
+        <published>2026-04-28T10:40:22.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[sftwarekk/DINOv3_in_CQ500]]></title>
         <id>https://github.com/sftwarekk/DINOv3_in_CQ500</id>
         <link href="https://github.com/sftwarekk/DINOv3_in_CQ500"/>
-        <updated>2026-05-15T16:50:58.000Z</updated>
+        <updated>2026-05-16T11:45:20.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89841329?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>sftwarekk</name>
@@ -99,10 +138,62 @@
         <published>2026-05-15T12:59:11.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iljung1106/QureHeadCT-DINOv3-Multi-Slice-Attention]]></title>
+        <id>https://github.com/iljung1106/QureHeadCT-DINOv3-Multi-Slice-Attention</id>
+        <link href="https://github.com/iljung1106/QureHeadCT-DINOv3-Multi-Slice-Attention"/>
+        <updated>2026-05-16T11:20:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57632108?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>iljung1106</name>
+            <email>iljung1106@noreply.github.com</email>
+            <uri>https://github.com/iljung1106</uri>
+        </author>
+        <published>2026-05-16T05:29:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ycoliver/dinov3-lora: cv课程的final project：在local feature matching task的dinov3 lora微调]]></title>
+        <id>https://github.com/ycoliver/dinov3-lora</id>
+        <link href="https://github.com/ycoliver/dinov3-lora"/>
+        <updated>2026-05-16T09:05:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/140424407?v=4" width="64" height="64" alt=""/><br/><div>cv课程的final project：在local feature matching task的dinov3 lora微调</div>]]></content>
+        <author>
+            <name>ycoliver</name>
+            <email>ycoliver@noreply.github.com</email>
+            <uri>https://github.com/ycoliver</uri>
+        </author>
+        <published>2026-05-16T06:22:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FankChen/Dinov3-DPT]]></title>
+        <id>https://github.com/FankChen/Dinov3-DPT</id>
+        <link href="https://github.com/FankChen/Dinov3-DPT"/>
+        <updated>2026-05-16T04:16:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/122890530?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>FankChen</name>
+            <email>FankChen@noreply.github.com</email>
+            <uri>https://github.com/FankChen</uri>
+        </author>
+        <published>2026-05-12T11:45:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ma950628/DINOv3]]></title>
+        <id>https://github.com/ma950628/DINOv3</id>
+        <link href="https://github.com/ma950628/DINOv3"/>
+        <updated>2026-05-16T01:28:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192959239?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ma950628</name>
+            <email>ma950628@noreply.github.com</email>
+            <uri>https://github.com/ma950628</uri>
+        </author>
+        <published>2026-04-18T02:43:20.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-05-15T15:22:23.000Z</updated>
+        <updated>2026-05-16T05:19:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -110,19 +201,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MorizzG/dinov3-equinox: DINOv3, ported to equinox]]></title>
-        <id>https://github.com/MorizzG/dinov3-equinox</id>
-        <link href="https://github.com/MorizzG/dinov3-equinox"/>
-        <updated>2026-05-15T13:07:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7621221?v=4" width="64" height="64" alt=""/><br/><div>DINOv3, ported to equinox</div>]]></content>
-        <author>
-            <name>MorizzG</name>
-            <email>MorizzG@noreply.github.com</email>
-            <uri>https://github.com/MorizzG</uri>
-        </author>
-        <published>2025-08-16T19:58:39.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[zhoujiwhen/dinov3]]></title>
@@ -177,94 +255,16 @@
         <published>2026-05-12T07:29:05.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ]]></title>
-        <id>https://github.com/YoussefAboelwafa/M2Retinexformer</id>
-        <link href="https://github.com/YoussefAboelwafa/M2Retinexformer"/>
-        <updated>2026-05-15T11:14:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4" width="64" height="64" alt=""/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>]]></content>
+        <title type="html"><![CDATA[tbtiberiu/deforge-ai: DeForge-AI: A robust framework for AI-generated image detection, combining a DINOv3 Vision Transformer with high-frequency forensic noise analysis.]]></title>
+        <id>https://github.com/tbtiberiu/deforge-ai</id>
+        <link href="https://github.com/tbtiberiu/deforge-ai"/>
+        <updated>2026-05-16T10:34:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39851604?u=3d9b426e373191b76959a2bee242974113b112ff&v=4" width="64" height="64" alt=""/><br/><div>DeForge-AI: A robust framework for AI-generated image detection, combining a DINOv3 Vision Transformer with high-frequency forensic noise analysis.</div>]]></content>
         <author>
-            <name>YoussefAboelwafa</name>
-            <email>YoussefAboelwafa@noreply.github.com</email>
-            <uri>https://github.com/YoussefAboelwafa</uri>
+            <name>tbtiberiu</name>
+            <email>tbtiberiu@noreply.github.com</email>
+            <uri>https://github.com/tbtiberiu</uri>
         </author>
-        <published>2026-01-04T14:18:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ma950628/DINOv3]]></title>
-        <id>https://github.com/ma950628/DINOv3</id>
-        <link href="https://github.com/ma950628/DINOv3"/>
-        <updated>2026-05-14T11:29:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192959239?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ma950628</name>
-            <email>ma950628@noreply.github.com</email>
-            <uri>https://github.com/ma950628</uri>
-        </author>
-        <published>2026-04-18T02:43:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Augustine-2049/CV: Study material, start from Encoder like DINOv3]]></title>
-        <id>https://github.com/Augustine-2049/CV</id>
-        <link href="https://github.com/Augustine-2049/CV"/>
-        <updated>2026-05-14T10:45:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65893128?u=1f6929f27b246f56d731b2091f2ed381bb75f29e&v=4" width="64" height="64" alt=""/><br/><div>Study material, start from Encoder like DINOv3</div>]]></content>
-        <author>
-            <name>Augustine-2049</name>
-            <email>Augustine-2049@noreply.github.com</email>
-            <uri>https://github.com/Augustine-2049</uri>
-        </author>
-        <published>2026-04-16T12:43:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cat825339867-boop/dino_test: 测试一下dinov3]]></title>
-        <id>https://github.com/cat825339867-boop/dino_test</id>
-        <link href="https://github.com/cat825339867-boop/dino_test"/>
-        <updated>2026-05-14T07:18:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/254819555?v=4" width="64" height="64" alt=""/><br/><div>测试一下dinov3</div>]]></content>
-        <author>
-            <name>cat825339867-boop</name>
-            <email>cat825339867-boop@noreply.github.com</email>
-            <uri>https://github.com/cat825339867-boop</uri>
-        </author>
-        <published>2026-04-23T06:59:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R2525/PolyForge-DinoV3-ImageSearch]]></title>
-        <id>https://github.com/R2525/PolyForge-DinoV3-ImageSearch</id>
-        <link href="https://github.com/R2525/PolyForge-DinoV3-ImageSearch"/>
-        <updated>2026-05-14T06:10:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104773657?u=e9e87508303999e5b7f47186758ab081d165c986&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>R2525</name>
-            <email>R2525@noreply.github.com</email>
-            <uri>https://github.com/R2525</uri>
-        </author>
-        <published>2026-05-14T06:06:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FankChen/Dinov3-DPT]]></title>
-        <id>https://github.com/FankChen/Dinov3-DPT</id>
-        <link href="https://github.com/FankChen/Dinov3-DPT"/>
-        <updated>2026-05-14T02:39:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/122890530?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>FankChen</name>
-            <email>FankChen@noreply.github.com</email>
-            <uri>https://github.com/FankChen</uri>
-        </author>
-        <published>2026-05-12T11:45:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YanivGranitBGU/dinov3]]></title>
-        <id>https://github.com/YanivGranitBGU/dinov3</id>
-        <link href="https://github.com/YanivGranitBGU/dinov3"/>
-        <updated>2026-05-13T15:38:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/187634415?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>YanivGranitBGU</name>
-            <email>YanivGranitBGU@noreply.github.com</email>
-            <uri>https://github.com/YanivGranitBGU</uri>
-        </author>
-        <published>2026-04-28T10:40:22.000Z</published>
+        <published>2026-05-01T07:35:16.000Z</published>
     </entry>
 </feed>
