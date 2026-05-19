@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
+            "url": "https://github.com/dlidgett/AD-DINOv3",
+            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
+            "date_modified": "2026-05-19T00:40:22.000Z",
+            "date_published": "2020-05-31T11:42:52.000Z",
+            "author": {
+                "name": "dlidgett",
+                "url": "https://github.com/dlidgett"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-05-17T23:54:32.000Z",
+            "date_modified": "2026-05-18T22:26:07.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-05-17T23:40:45.000Z",
+            "date_modified": "2026-05-18T22:11:12.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -28,10 +39,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70521489?u=0b7a485c3759c88ae34ef961942cb5638a61ca1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Training-free and finetuned semantic correspondence using DINOv2, DINOv3, and SAM. Keypoints are matched by comparing dense patch features with argmax or windowed soft-argmax, with MNN verification and score-level ensemble fusion. Benchmarked on SPair-71k, PF-Pascal, PF-Willow, and AP-10K.</div>",
+            "url": "https://github.com/Hesam-AHT/Semantic-Correspondence-with-Visual-Foundation-Models",
+            "title": "Hesam-AHT/Semantic-Correspondence-with-Visual-Foundation-Models: Training-free and finetuned semantic correspondence using DINOv2, DINOv3, and SAM. Keypoints are matched by comparing dense patch features with argmax or windowed soft-argmax, with MNN verification and score-level ensemble fusion. Benchmarked on SPair-71k, PF-Pascal, PF-Willow, and AP-10K.",
+            "date_modified": "2026-05-18T22:03:19.000Z",
+            "date_published": "2026-04-05T16:52:59.000Z",
+            "author": {
+                "name": "Hesam-AHT",
+                "url": "https://github.com/Hesam-AHT"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-05-17T23:20:05.000Z",
+            "date_modified": "2026-05-18T21:47:42.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -39,14 +61,157 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
-            "url": "https://github.com/dlidgett/AD-DINOv3",
-            "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-05-17T22:31:55.000Z",
-            "date_published": "2020-05-31T11:42:52.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-05-18T20:27:29.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
-                "name": "dlidgett",
-                "url": "https://github.com/dlidgett"
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39851604?u=3d9b426e373191b76959a2bee242974113b112ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DeForge-AI: A robust framework for AI-generated image detection, combining a DINOv3 Vision Transformer with high-frequency forensic noise analysis.</div>",
+            "url": "https://github.com/tbtiberiu/DeForge-AI",
+            "title": "tbtiberiu/DeForge-AI: DeForge-AI: A robust framework for AI-generated image detection, combining a DINOv3 Vision Transformer with high-frequency forensic noise analysis.",
+            "date_modified": "2026-05-18T19:59:46.000Z",
+            "date_published": "2026-05-01T07:35:16.000Z",
+            "author": {
+                "name": "tbtiberiu",
+                "url": "https://github.com/tbtiberiu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75620312?u=8806c49054eb4620ae51aa548c5f08997486b21e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.</div>",
+            "url": "https://github.com/johnamit/motoreid",
+            "title": "johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.",
+            "date_modified": "2026-05-18T18:32:21.000Z",
+            "date_published": "2026-01-14T18:42:24.000Z",
+            "author": {
+                "name": "johnamit",
+                "url": "https://github.com/johnamit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94051134?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Venchy52100/Dinov3_KNN",
+            "title": "Venchy52100/Dinov3_KNN",
+            "date_modified": "2026-05-18T17:13:37.000Z",
+            "date_published": "2026-05-18T15:27:07.000Z",
+            "author": {
+                "name": "Venchy52100",
+                "url": "https://github.com/Venchy52100"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122860615?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Pollen Grain Similarity Analyzer</div>",
+            "url": "https://github.com/ethanhaines/NEST",
+            "title": "ethanhaines/NEST: DINOv3 Pollen Grain Similarity Analyzer",
+            "date_modified": "2026-05-18T17:00:00.000Z",
+            "date_published": "2026-02-09T19:06:54.000Z",
+            "author": {
+                "name": "ethanhaines",
+                "url": "https://github.com/ethanhaines"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166850127?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/YarinPerez/DinoV3",
+            "title": "YarinPerez/DinoV3",
+            "date_modified": "2026-05-18T16:39:56.000Z",
+            "date_published": "2026-05-18T16:34:10.000Z",
+            "author": {
+                "name": "YarinPerez",
+                "url": "https://github.com/YarinPerez"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122890530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/FankChen/Dinov3-DPT",
+            "title": "FankChen/Dinov3-DPT",
+            "date_modified": "2026-05-18T15:03:31.000Z",
+            "date_published": "2026-05-12T11:45:37.000Z",
+            "author": {
+                "name": "FankChen",
+                "url": "https://github.com/FankChen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68198130?u=6a9b87af1d8b6a5686fe1af7451d13c7cb0f4d13&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of \"TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation\" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.</div>",
+            "url": "https://github.com/longxiang-ai/TransNormal",
+            "title": "longxiang-ai/TransNormal: Official implementation of \"TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation\" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.",
+            "date_modified": "2026-05-18T09:54:23.000Z",
+            "date_published": "2026-01-30T05:10:23.000Z",
+            "author": {
+                "name": "longxiang-ai",
+                "url": "https://github.com/longxiang-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155403845?u=7b12510d033e7468a617f771ff77ccc111cd1264&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detectron2 training and COCO tooling for blood-cell detection: six-run benchmarks, ViTDet / DINOv3 ConvNeXt, shared helpers and annotation pipelines.</div>",
+            "url": "https://github.com/Dadda25/BloodCell",
+            "title": "Dadda25/BloodCell: Detectron2 training and COCO tooling for blood-cell detection: six-run benchmarks, ViTDet / DINOv3 ConvNeXt, shared helpers and annotation pipelines.",
+            "date_modified": "2026-05-18T09:00:47.000Z",
+            "date_published": "2026-05-18T08:01:35.000Z",
+            "author": {
+                "name": "Dadda25",
+                "url": "https://github.com/Dadda25"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255370388?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>",
+            "url": "https://github.com/BASE-Laboratory/BraggTrack",
+            "title": "BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.",
+            "date_modified": "2026-05-18T08:51:05.000Z",
+            "date_published": "2026-04-09T12:12:24.000Z",
+            "author": {
+                "name": "BASE-Laboratory",
+                "url": "https://github.com/BASE-Laboratory"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jingwang7236/dinov3-sw",
+            "title": "jingwang7236/dinov3-sw",
+            "date_modified": "2026-05-18T08:34:15.000Z",
+            "date_published": "2026-05-13T06:44:47.000Z",
+            "author": {
+                "name": "jingwang7236",
+                "url": "https://github.com/jingwang7236"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131532087?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>测试</div>",
+            "url": "https://github.com/LishijieG/dinov3-mamba",
+            "title": "LishijieG/dinov3-mamba: 测试",
+            "date_modified": "2026-05-18T07:22:50.000Z",
+            "date_published": "2026-05-18T07:10:06.000Z",
+            "author": {
+                "name": "LishijieG",
+                "url": "https://github.com/LishijieG"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131532087?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3</div>",
+            "url": "https://github.com/LishijieG/dinov3",
+            "title": "LishijieG/dinov3: dinov3",
+            "date_modified": "2026-05-18T06:47:04.000Z",
+            "date_published": "2026-05-18T06:47:03.000Z",
+            "author": {
+                "name": "LishijieG",
+                "url": "https://github.com/LishijieG"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156055574?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Kenshy18/Dinov3_postprocess_Windows_UI",
+            "title": "Kenshy18/Dinov3_postprocess_Windows_UI",
+            "date_modified": "2026-05-18T05:02:19.000Z",
+            "date_published": "2026-05-18T04:58:52.000Z",
+            "author": {
+                "name": "Kenshy18",
+                "url": "https://github.com/Kenshy18"
             }
         },
         {
@@ -58,171 +223,6 @@
             "author": {
                 "name": "MorizzG",
                 "url": "https://github.com/MorizzG"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148323040?u=dfe3f99879ffaf191e486c95a3438c400c325173&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Three-Stage Cervical TCT Smear Detection Framework Based on YOLOv11 and DINOv3</div>",
-            "url": "https://github.com/littlechicken139/Three-Stage-Cervical-TCT-Smear-Detection-Framework",
-            "title": "littlechicken139/Three-Stage-Cervical-TCT-Smear-Detection-Framework: A Three-Stage Cervical TCT Smear Detection Framework Based on YOLOv11 and DINOv3",
-            "date_modified": "2026-05-17T16:52:29.000Z",
-            "date_published": "2026-04-08T07:52:11.000Z",
-            "author": {
-                "name": "littlechicken139",
-                "url": "https://github.com/littlechicken139"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62345916?u=0a00fd92e877be8fa155be221e673908a83a25f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Improved DINOV3-based Segmentation Method</div>",
-            "url": "https://github.com/datar001/DINO-Seg",
-            "title": "datar001/DINO-Seg: An Improved DINOV3-based Segmentation Method",
-            "date_modified": "2026-05-17T13:26:26.000Z",
-            "date_published": "2025-12-02T10:49:18.000Z",
-            "author": {
-                "name": "datar001",
-                "url": "https://github.com/datar001"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255370388?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>",
-            "url": "https://github.com/BASE-Laboratory/BraggTrack",
-            "title": "BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.",
-            "date_modified": "2026-05-17T10:57:21.000Z",
-            "date_published": "2026-04-09T12:12:24.000Z",
-            "author": {
-                "name": "BASE-Laboratory",
-                "url": "https://github.com/BASE-Laboratory"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
-            "url": "https://github.com/little51/dinov3-course",
-            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-05-17T12:50:27.000Z",
-            "date_published": "2026-05-03T12:40:56.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99476725?u=b505dfeb92dd2a08972635df9e9dde8ddefa0c83&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Lomitongery/dinov3-eomt-voc",
-            "title": "Lomitongery/dinov3-eomt-voc",
-            "date_modified": "2026-05-17T09:46:47.000Z",
-            "date_published": "2026-05-17T06:37:17.000Z",
-            "author": {
-                "name": "Lomitongery",
-                "url": "https://github.com/Lomitongery"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99476725?u=b505dfeb92dd2a08972635df9e9dde8ddefa0c83&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Lomitongery/dinov3-pspnet-voc",
-            "title": "Lomitongery/dinov3-pspnet-voc",
-            "date_modified": "2026-05-17T06:38:17.000Z",
-            "date_published": "2026-03-15T15:39:51.000Z",
-            "author": {
-                "name": "Lomitongery",
-                "url": "https://github.com/Lomitongery"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39851604?u=3d9b426e373191b76959a2bee242974113b112ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DeForge-AI: A robust framework for AI-generated image detection, combining a DINOv3 Vision Transformer with high-frequency forensic noise analysis.</div>",
-            "url": "https://github.com/tbtiberiu/deforge-ai",
-            "title": "tbtiberiu/deforge-ai: DeForge-AI: A robust framework for AI-generated image detection, combining a DINOv3 Vision Transformer with high-frequency forensic noise analysis.",
-            "date_modified": "2026-05-17T06:13:48.000Z",
-            "date_published": "2026-05-01T07:35:16.000Z",
-            "author": {
-                "name": "tbtiberiu",
-                "url": "https://github.com/tbtiberiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114805815?u=1fea22574bb7cc1b478dbf3e6237532d2ecb27b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an implemetation of Dinov3 for mlx. the model is from Meta</div>",
-            "url": "https://github.com/etornam45/mlx_dinov3",
-            "title": "etornam45/mlx_dinov3: This is an implemetation of Dinov3 for mlx. the model is from Meta",
-            "date_modified": "2026-05-16T21:26:05.000Z",
-            "date_published": "2026-03-04T01:04:12.000Z",
-            "author": {
-                "name": "etornam45",
-                "url": "https://github.com/etornam45"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 with burn &amp; Rust</div>",
-            "url": "https://github.com/kingwingfly/burn_dinov3",
-            "title": "kingwingfly/burn_dinov3: DINOv3 with burn & Rust",
-            "date_modified": "2026-05-16T19:23:08.000Z",
-            "date_published": "2026-05-15T18:24:57.000Z",
-            "author": {
-                "name": "kingwingfly",
-                "url": "https://github.com/kingwingfly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187634415?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/YanivGranitBGU/dinov3",
-            "title": "YanivGranitBGU/dinov3",
-            "date_modified": "2026-05-16T13:55:18.000Z",
-            "date_published": "2026-04-28T10:40:22.000Z",
-            "author": {
-                "name": "YanivGranitBGU",
-                "url": "https://github.com/YanivGranitBGU"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89841329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sftwarekk/DINOv3_in_CQ500",
-            "title": "sftwarekk/DINOv3_in_CQ500",
-            "date_modified": "2026-05-16T11:45:20.000Z",
-            "date_published": "2026-05-15T12:59:11.000Z",
-            "author": {
-                "name": "sftwarekk",
-                "url": "https://github.com/sftwarekk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57632108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/iljung1106/QureHeadCT-DINOv3-Multi-Slice-Attention",
-            "title": "iljung1106/QureHeadCT-DINOv3-Multi-Slice-Attention",
-            "date_modified": "2026-05-16T11:20:01.000Z",
-            "date_published": "2026-05-16T05:29:57.000Z",
-            "author": {
-                "name": "iljung1106",
-                "url": "https://github.com/iljung1106"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140424407?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cv课程的final project：在local feature matching task的dinov3 lora微调</div>",
-            "url": "https://github.com/ycoliver/dinov3-lora",
-            "title": "ycoliver/dinov3-lora: cv课程的final project：在local feature matching task的dinov3 lora微调",
-            "date_modified": "2026-05-16T09:05:04.000Z",
-            "date_published": "2026-05-16T06:22:12.000Z",
-            "author": {
-                "name": "ycoliver",
-                "url": "https://github.com/ycoliver"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122890530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/FankChen/Dinov3-DPT",
-            "title": "FankChen/Dinov3-DPT",
-            "date_modified": "2026-05-16T04:16:43.000Z",
-            "date_published": "2026-05-12T11:45:37.000Z",
-            "author": {
-                "name": "FankChen",
-                "url": "https://github.com/FankChen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192959239?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ma950628/DINOv3",
-            "title": "ma950628/DINOv3",
-            "date_modified": "2026-05-16T01:28:37.000Z",
-            "date_published": "2026-04-18T02:43:20.000Z",
-            "author": {
-                "name": "ma950628",
-                "url": "https://github.com/ma950628"
             }
         }
     ]
