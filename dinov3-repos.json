@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
-            "url": "https://github.com/danniel-dd/AEIC",
-            "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-05-23T23:31:21.000Z",
-            "date_published": "2026-03-10T00:27:58.000Z",
-            "author": {
-                "name": "danniel-dd",
-                "url": "https://github.com/danniel-dd"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-05-23T23:17:23.000Z",
+            "date_modified": "2026-05-25T00:43:58.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-05-23T22:55:37.000Z",
+            "date_modified": "2026-05-25T00:22:07.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -42,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-05-23T22:05:30.000Z",
+            "date_modified": "2026-05-24T23:35:11.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -50,14 +39,80 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
+            "url": "https://github.com/danniel-dd/AEIC",
+            "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
+            "date_modified": "2026-05-24T22:22:33.000Z",
+            "date_published": "2026-03-10T00:27:58.000Z",
+            "author": {
+                "name": "danniel-dd",
+                "url": "https://github.com/danniel-dd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114906506?u=9d2d20c013595ccbe8f3b6c47e4184fd7666b37d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>",
+            "url": "https://github.com/onlylrs/Modern-Vit-Adapter",
+            "title": "onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ",
+            "date_modified": "2026-05-24T16:05:58.000Z",
+            "date_published": "2026-04-03T08:10:59.000Z",
+            "author": {
+                "name": "onlylrs",
+                "url": "https://github.com/onlylrs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
             "url": "https://github.com/little51/dinov3-course",
             "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-05-23T14:20:42.000Z",
+            "date_modified": "2026-05-24T13:48:17.000Z",
             "date_published": "2026-05-03T12:40:56.000Z",
             "author": {
                 "name": "little51",
                 "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154767772?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 + MMSegmentation + UAVid 语义分割上手教程 (面向零 AI 基础)</div>",
+            "url": "https://github.com/RalphCBY/dinov3-mmseg-tutorial",
+            "title": "RalphCBY/dinov3-mmseg-tutorial: DINOv3 + MMSegmentation + UAVid 语义分割上手教程 (面向零 AI 基础)",
+            "date_modified": "2026-05-24T10:21:13.000Z",
+            "date_published": "2026-05-24T08:41:06.000Z",
+            "author": {
+                "name": "RalphCBY",
+                "url": "https://github.com/RalphCBY"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3.</div>",
+            "url": "https://github.com/guantongpeng/dinov3",
+            "title": "guantongpeng/dinov3: Reference PyTorch implementation and models for DINOv3.",
+            "date_modified": "2026-05-24T09:43:32.000Z",
+            "date_published": "2026-05-13T08:42:02.000Z",
+            "author": {
+                "name": "guantongpeng",
+                "url": "https://github.com/guantongpeng"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92076934?u=d4e4bbbe487da593e641f244ec3333ed08b87250&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised Industrial Screws Anomaly Detection using DINOv3 + FAISS</div>",
+            "url": "https://github.com/Basimbaqai/DINOInspect",
+            "title": "Basimbaqai/DINOInspect: Unsupervised Industrial Screws Anomaly Detection using DINOv3 + FAISS",
+            "date_modified": "2026-05-24T20:47:43.000Z",
+            "date_published": "2026-05-24T09:01:11.000Z",
+            "author": {
+                "name": "Basimbaqai",
+                "url": "https://github.com/Basimbaqai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194391759?u=9b7a20906e02672967641316dbab1573d09149ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Finalist solution for UGM Data Analytics Competition, featuring a reproducible anti-spoofing pipeline with DINOv3, FSFM, TTA, and probability-gated ensemble refinement.</div>",
+            "url": "https://github.com/ElFariss/ugm-dac-2026-anti-spoofing",
+            "title": "ElFariss/ugm-dac-2026-anti-spoofing: Finalist solution for UGM Data Analytics Competition, featuring a reproducible anti-spoofing pipeline with DINOv3, FSFM, TTA, and probability-gated ensemble refinement.",
+            "date_modified": "2026-05-24T06:06:48.000Z",
+            "date_published": "2026-05-22T14:36:22.000Z",
+            "author": {
+                "name": "ElFariss",
+                "url": "https://github.com/ElFariss"
             }
         },
         {
@@ -108,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-05-22T13:51:26.000Z",
+            "date_modified": "2026-05-24T07:03:24.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -135,17 +190,6 @@
             "author": {
                 "name": "TrifuRazvan",
                 "url": "https://github.com/TrifuRazvan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3.</div>",
-            "url": "https://github.com/guantongpeng/dinov3",
-            "title": "guantongpeng/dinov3: Reference PyTorch implementation and models for DINOv3.",
-            "date_modified": "2026-05-22T09:01:11.000Z",
-            "date_published": "2026-05-13T08:42:02.000Z",
-            "author": {
-                "name": "guantongpeng",
-                "url": "https://github.com/guantongpeng"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "raviolihui",
                 "url": "https://github.com/raviolihui"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169234815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 + mask2formers</div>",
-            "url": "https://github.com/moses-song/dfu_model",
-            "title": "moses-song/dfu_model: dinov3 + mask2formers",
-            "date_modified": "2026-05-21T11:50:23.000Z",
-            "date_published": "2026-03-17T12:17:01.000Z",
-            "author": {
-                "name": "moses-song",
-                "url": "https://github.com/moses-song"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3, sft, lora, distillation</div>",
-            "url": "https://github.com/jingwang7236/dinov3",
-            "title": "jingwang7236/dinov3: dinov3, sft, lora, distillation",
-            "date_modified": "2026-05-21T09:04:10.000Z",
-            "date_published": "2026-05-21T09:00:11.000Z",
-            "author": {
-                "name": "jingwang7236",
-                "url": "https://github.com/jingwang7236"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148323040?u=dfe3f99879ffaf191e486c95a3438c400c325173&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Three-Stage Cervical TCT Smear Detection Framework Based on YOLOv11 and DINOv3</div>",
-            "url": "https://github.com/littlechicken139/Three-Stage-Cervical-TCT-Smear-Detection-Framework",
-            "title": "littlechicken139/Three-Stage-Cervical-TCT-Smear-Detection-Framework: A Three-Stage Cervical TCT Smear Detection Framework Based on YOLOv11 and DINOv3",
-            "date_modified": "2026-05-20T15:37:26.000Z",
-            "date_published": "2026-04-08T07:52:11.000Z",
-            "author": {
-                "name": "littlechicken139",
-                "url": "https://github.com/littlechicken139"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121088895?u=c798c061dbd7c35831d09f6ad24bc792602d2a65&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Pipeline Extraction Network for Chemical Industrial Parks Based on Dinov3</div>",
-            "url": "https://github.com/TienHao-Wang/CDBNet",
-            "title": "TienHao-Wang/CDBNet: A Pipeline Extraction Network for Chemical Industrial Parks Based on Dinov3",
-            "date_modified": "2026-05-20T15:37:53.000Z",
-            "date_published": "2026-05-12T07:29:05.000Z",
-            "author": {
-                "name": "TienHao-Wang",
-                "url": "https://github.com/TienHao-Wang"
             }
         }
     ]
