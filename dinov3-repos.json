@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-05-25T23:43:52.000Z",
+            "date_modified": "2026-05-26T23:38:29.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-05-25T23:28:31.000Z",
+            "date_modified": "2026-05-26T23:23:50.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-05-25T23:04:56.000Z",
+            "date_modified": "2026-05-26T23:01:17.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -42,11 +42,99 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-05-25T22:12:07.000Z",
+            "date_modified": "2026-05-26T22:12:07.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>",
+            "url": "https://github.com/YoussefAboelwafa/M2Retinexformer",
+            "title": "YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ",
+            "date_modified": "2026-05-26T17:09:48.000Z",
+            "date_published": "2026-01-04T14:18:52.000Z",
+            "author": {
+                "name": "YoussefAboelwafa",
+                "url": "https://github.com/YoussefAboelwafa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92076934?u=d4e4bbbe487da593e641f244ec3333ed08b87250&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised Industrial Screws Anomaly Detection using DINOv3 + FAISS</div>",
+            "url": "https://github.com/Basimbaqai/DINOInspect",
+            "title": "Basimbaqai/DINOInspect: Unsupervised Industrial Screws Anomaly Detection using DINOv3 + FAISS",
+            "date_modified": "2026-05-26T15:10:59.000Z",
+            "date_published": "2026-05-24T09:01:11.000Z",
+            "author": {
+                "name": "Basimbaqai",
+                "url": "https://github.com/Basimbaqai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75241080?u=189d6db364005998fe5d9f3c30cd99749fd1a910&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/wujx99/dinov3",
+            "title": "wujx99/dinov3",
+            "date_modified": "2026-05-26T14:58:20.000Z",
+            "date_published": "2026-05-26T14:43:38.000Z",
+            "author": {
+                "name": "wujx99",
+                "url": "https://github.com/wujx99"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-05-26T14:38:22.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/284698625?u=1512c3c6e32617014a00737bf0d14d1fcdc33861&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zhoujiwhen/dinov3_swin",
+            "title": "zhoujiwhen/dinov3_swin",
+            "date_modified": "2026-05-26T12:14:14.000Z",
+            "date_published": "2026-05-22T06:57:30.000Z",
+            "author": {
+                "name": "zhoujiwhen",
+                "url": "https://github.com/zhoujiwhen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15890263?u=b6eef93c87457de7a65f3f2436e28e41b7f13ab3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Benchmarking self-supervised learning algorithms (DINOv3, DINOv2, MAE, MoCo v3) on the RiceSEG rice leaf segmentation dataset</div>",
+            "url": "https://github.com/jdetras/dino_riceseg",
+            "title": "jdetras/dino_riceseg: Benchmarking self-supervised learning algorithms (DINOv3, DINOv2, MAE, MoCo v3) on the RiceSEG rice leaf segmentation dataset",
+            "date_modified": "2026-05-26T08:54:08.000Z",
+            "date_published": "2026-05-26T08:49:24.000Z",
+            "author": {
+                "name": "jdetras",
+                "url": "https://github.com/jdetras"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114906506?u=9d2d20c013595ccbe8f3b6c47e4184fd7666b37d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>",
+            "url": "https://github.com/onlylrs/Modern-Vit-Adapter",
+            "title": "onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ",
+            "date_modified": "2026-05-26T05:45:38.000Z",
+            "date_published": "2026-04-03T08:10:59.000Z",
+            "author": {
+                "name": "onlylrs",
+                "url": "https://github.com/onlylrs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=3d19ac91e616869bc8fa2793d2a21c5c7f734f2f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
+            "url": "https://github.com/jaychempan/V2-SAM",
+            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
+            "date_modified": "2026-05-26T01:38:09.000Z",
+            "date_published": "2025-12-10T14:01:47.000Z",
+            "author": {
+                "name": "jaychempan",
+                "url": "https://github.com/jaychempan"
             }
         },
         {
@@ -72,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92076934?u=d4e4bbbe487da593e641f244ec3333ed08b87250&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised Industrial Screws Anomaly Detection using DINOv3 + FAISS</div>",
-            "url": "https://github.com/Basimbaqai/DINOInspect",
-            "title": "Basimbaqai/DINOInspect: Unsupervised Industrial Screws Anomaly Detection using DINOv3 + FAISS",
-            "date_modified": "2026-05-25T15:04:00.000Z",
-            "date_published": "2026-05-24T09:01:11.000Z",
-            "author": {
-                "name": "Basimbaqai",
-                "url": "https://github.com/Basimbaqai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3.</div>",
             "url": "https://github.com/guantongpeng/dinov3",
             "title": "guantongpeng/dinov3: Reference PyTorch implementation and models for DINOv3.",
@@ -91,17 +168,6 @@
             "author": {
                 "name": "guantongpeng",
                 "url": "https://github.com/guantongpeng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-05-25T12:28:45.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -119,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
             "url": "https://github.com/little51/dinov3-course",
             "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-05-25T13:00:02.000Z",
+            "date_modified": "2026-05-26T11:03:46.000Z",
             "date_published": "2026-05-03T12:40:56.000Z",
             "author": {
                 "name": "little51",
@@ -135,17 +201,6 @@
             "author": {
                 "name": "RalphCBY",
                 "url": "https://github.com/RalphCBY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114906506?u=9d2d20c013595ccbe8f3b6c47e4184fd7666b37d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>",
-            "url": "https://github.com/onlylrs/Modern-Vit-Adapter",
-            "title": "onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ",
-            "date_modified": "2026-05-24T16:05:58.000Z",
-            "date_published": "2026-04-03T08:10:59.000Z",
-            "author": {
-                "name": "onlylrs",
-                "url": "https://github.com/onlylrs"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "Zwggg02",
                 "url": "https://github.com/Zwggg02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36752999?u=5f103a26d0dd3a7b00cdcf22199e5aee6f69de0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kshitijrajsharma/dinov3-hot-ablation",
-            "title": "kshitijrajsharma/dinov3-hot-ablation",
-            "date_modified": "2026-05-23T08:04:01.000Z",
-            "date_published": "2026-05-20T22:53:07.000Z",
-            "author": {
-                "name": "kshitijrajsharma",
-                "url": "https://github.com/kshitijrajsharma"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jingwang7236/dinov3-sw",
-            "title": "jingwang7236/dinov3-sw",
-            "date_modified": "2026-05-23T08:02:43.000Z",
-            "date_published": "2026-05-13T06:44:47.000Z",
-            "author": {
-                "name": "jingwang7236",
-                "url": "https://github.com/jingwang7236"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62020011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Project page for our CVPR 2026 Workshop paper on transfer learning for industrial inspection.</div>",
-            "url": "https://github.com/comsee-research/dinov3-industrial-inspection",
-            "title": "comsee-research/dinov3-industrial-inspection: Project page for our CVPR 2026 Workshop paper on transfer learning for industrial inspection.",
-            "date_modified": "2026-05-22T11:45:07.000Z",
-            "date_published": "2026-05-22T11:06:54.000Z",
-            "author": {
-                "name": "comsee-research",
-                "url": "https://github.com/comsee-research"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127941708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Attempt to use DINOv3 as backbone for TV3S</div>",
-            "url": "https://github.com/TrifuRazvan/TV3S-DINOv3",
-            "title": "TrifuRazvan/TV3S-DINOv3: Attempt to use DINOv3 as backbone for TV3S",
-            "date_modified": "2026-05-22T09:32:00.000Z",
-            "date_published": "2026-04-01T10:36:22.000Z",
-            "author": {
-                "name": "TrifuRazvan",
-                "url": "https://github.com/TrifuRazvan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/284698625?u=1512c3c6e32617014a00737bf0d14d1fcdc33861&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zhoujiwhen/dinov3_swin",
-            "title": "zhoujiwhen/dinov3_swin",
-            "date_modified": "2026-05-22T08:47:58.000Z",
-            "date_published": "2026-05-22T06:57:30.000Z",
-            "author": {
-                "name": "zhoujiwhen",
-                "url": "https://github.com/zhoujiwhen"
             }
         }
     ]
