@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-05-26T23:38:29.000Z",
+            "date_modified": "2026-05-28T00:16:03.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-05-26T23:23:50.000Z",
+            "date_modified": "2026-05-28T00:02:05.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-05-26T23:01:17.000Z",
+            "date_modified": "2026-05-27T23:41:05.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -39,14 +39,102 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171810387?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spatial gene expression prediction from H&amp;E histology patches — DINOv3 vs UNI</div>",
+            "url": "https://github.com/Systemfailed01/spatial-gene-expression-cv",
+            "title": "Systemfailed01/spatial-gene-expression-cv: Spatial gene expression prediction from H&E histology patches — DINOv3 vs UNI",
+            "date_modified": "2026-05-27T23:22:28.000Z",
+            "date_published": "2026-05-25T20:30:04.000Z",
+            "author": {
+                "name": "Systemfailed01",
+                "url": "https://github.com/Systemfailed01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-05-26T22:12:07.000Z",
+            "date_modified": "2026-05-27T22:53:48.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
                 "url": "https://github.com/dlidgett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162182212?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINO3D-YOLO: Real-Time 3D Object Detection with DINOv3 Self-Supervised ViT Backbone in YOLO Architecture</div>",
+            "url": "https://github.com/dns-smitk/dino3d-yolo",
+            "title": "dns-smitk/dino3d-yolo: DINO3D-YOLO: Real-Time 3D Object Detection with DINOv3 Self-Supervised ViT Backbone in YOLO Architecture",
+            "date_modified": "2026-05-27T16:30:51.000Z",
+            "date_published": "2026-05-27T16:29:04.000Z",
+            "author": {
+                "name": "dns-smitk",
+                "url": "https://github.com/dns-smitk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleAICV:pytorch training examples.</div>",
+            "url": "https://github.com/zgcr/SimpleAICV_pytorch_training_examples",
+            "title": "zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.",
+            "date_modified": "2026-05-27T14:20:12.000Z",
+            "date_published": "2020-05-31T05:37:26.000Z",
+            "author": {
+                "name": "zgcr",
+                "url": "https://github.com/zgcr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-05-27T13:26:36.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119120275?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOV3</div>",
+            "url": "https://github.com/azaaa7/My_model",
+            "title": "azaaa7/My_model: DINOV3",
+            "date_modified": "2026-05-27T08:41:47.000Z",
+            "date_published": "2026-05-19T07:46:44.000Z",
+            "author": {
+                "name": "azaaa7",
+                "url": "https://github.com/azaaa7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3.</div>",
+            "url": "https://github.com/guantongpeng/dinov3",
+            "title": "guantongpeng/dinov3: Reference PyTorch implementation and models for DINOv3.",
+            "date_modified": "2026-05-27T06:18:53.000Z",
+            "date_published": "2026-05-13T08:42:02.000Z",
+            "author": {
+                "name": "guantongpeng",
+                "url": "https://github.com/guantongpeng"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241089274?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Desktop app for batch-tagging and captioning image datasets using three specialized taggers (JTP PILOT v2, JTP-3 Hydra, DINOv3) and a Qwen 3.5 VLM — built on top of ComfyUI with full fp8/mxfp8 quantization support..</div>",
+            "url": "https://github.com/lexterslab/Batcap",
+            "title": "lexterslab/Batcap: Desktop app for batch-tagging and captioning image datasets using three specialized taggers (JTP PILOT v2, JTP-3 Hydra, DINOv3) and a Qwen 3.5 VLM — built on top of ComfyUI with full fp8/mxfp8 quantization support..",
+            "date_modified": "2026-05-27T04:33:23.000Z",
+            "date_published": "2026-05-25T11:44:11.000Z",
+            "author": {
+                "name": "lexterslab",
+                "url": "https://github.com/lexterslab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/284698625?u=1512c3c6e32617014a00737bf0d14d1fcdc33861&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zhoujiwhen/dinov3_swin",
+            "title": "zhoujiwhen/dinov3_swin",
+            "date_modified": "2026-05-27T03:22:29.000Z",
+            "date_published": "2026-05-22T06:57:30.000Z",
+            "author": {
+                "name": "zhoujiwhen",
+                "url": "https://github.com/zhoujiwhen"
             }
         },
         {
@@ -83,28 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-05-26T14:38:22.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/284698625?u=1512c3c6e32617014a00737bf0d14d1fcdc33861&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zhoujiwhen/dinov3_swin",
-            "title": "zhoujiwhen/dinov3_swin",
-            "date_modified": "2026-05-26T12:14:14.000Z",
-            "date_published": "2026-05-22T06:57:30.000Z",
-            "author": {
-                "name": "zhoujiwhen",
-                "url": "https://github.com/zhoujiwhen"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15890263?u=b6eef93c87457de7a65f3f2436e28e41b7f13ab3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Benchmarking self-supervised learning algorithms (DINOv3, DINOv2, MAE, MoCo v3) on the RiceSEG rice leaf segmentation dataset</div>",
             "url": "https://github.com/jdetras/dino_riceseg",
             "title": "jdetras/dino_riceseg: Benchmarking self-supervised learning algorithms (DINOv3, DINOv2, MAE, MoCo v3) on the RiceSEG rice leaf segmentation dataset",
@@ -130,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=3d19ac91e616869bc8fa2793d2a21c5c7f734f2f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
             "url": "https://github.com/jaychempan/V2-SAM",
             "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
-            "date_modified": "2026-05-26T01:38:09.000Z",
+            "date_modified": "2026-05-27T12:02:38.000Z",
             "date_published": "2025-12-10T14:01:47.000Z",
             "author": {
                 "name": "jaychempan",
@@ -149,80 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89841329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sftwarekk/DINOv3_in_CQ500",
-            "title": "sftwarekk/DINOv3_in_CQ500",
-            "date_modified": "2026-05-25T16:37:33.000Z",
-            "date_published": "2026-05-15T12:59:11.000Z",
-            "author": {
-                "name": "sftwarekk",
-                "url": "https://github.com/sftwarekk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3.</div>",
-            "url": "https://github.com/guantongpeng/dinov3",
-            "title": "guantongpeng/dinov3: Reference PyTorch implementation and models for DINOv3.",
-            "date_modified": "2026-05-25T13:06:16.000Z",
-            "date_published": "2026-05-13T08:42:02.000Z",
-            "author": {
-                "name": "guantongpeng",
-                "url": "https://github.com/guantongpeng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241089274?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Desktop app for batch-tagging and captioning image datasets using three specialized taggers (JTP PILOT v2, JTP-3 Hydra, DINOv3) and a Qwen 3.5 VLM — built on top of ComfyUI with full fp8/mxfp8 quantization support..</div>",
-            "url": "https://github.com/lexterslab/Batcap",
-            "title": "lexterslab/Batcap: Desktop app for batch-tagging and captioning image datasets using three specialized taggers (JTP PILOT v2, JTP-3 Hydra, DINOv3) and a Qwen 3.5 VLM — built on top of ComfyUI with full fp8/mxfp8 quantization support..",
-            "date_modified": "2026-05-25T11:57:56.000Z",
-            "date_published": "2026-05-25T11:44:11.000Z",
-            "author": {
-                "name": "lexterslab",
-                "url": "https://github.com/lexterslab"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
             "url": "https://github.com/little51/dinov3-course",
             "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-05-26T11:03:46.000Z",
+            "date_modified": "2026-05-27T14:30:59.000Z",
             "date_published": "2026-05-03T12:40:56.000Z",
             "author": {
                 "name": "little51",
                 "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154767772?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 + MMSegmentation + UAVid 语义分割上手教程 (面向零 AI 基础)</div>",
-            "url": "https://github.com/RalphCBY/dinov3-mmseg-tutorial",
-            "title": "RalphCBY/dinov3-mmseg-tutorial: DINOv3 + MMSegmentation + UAVid 语义分割上手教程 (面向零 AI 基础)",
-            "date_modified": "2026-05-25T05:09:58.000Z",
-            "date_published": "2026-05-24T08:41:06.000Z",
-            "author": {
-                "name": "RalphCBY",
-                "url": "https://github.com/RalphCBY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194391759?u=9b7a20906e02672967641316dbab1573d09149ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Finalist solution for UGM Data Analytics Competition, featuring a reproducible anti-spoofing pipeline with DINOv3, FSFM, TTA, and probability-gated ensemble refinement.</div>",
-            "url": "https://github.com/ElFariss/ugm-dac-2026-anti-spoofing",
-            "title": "ElFariss/ugm-dac-2026-anti-spoofing: Finalist solution for UGM Data Analytics Competition, featuring a reproducible anti-spoofing pipeline with DINOv3, FSFM, TTA, and probability-gated ensemble refinement.",
-            "date_modified": "2026-05-24T06:06:48.000Z",
-            "date_published": "2026-05-22T14:36:22.000Z",
-            "author": {
-                "name": "ElFariss",
-                "url": "https://github.com/ElFariss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152305188?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>buiding dinov3 sif</div>",
-            "url": "https://github.com/Zwggg02/build-dinov3-sif",
-            "title": "Zwggg02/build-dinov3-sif: buiding dinov3 sif",
-            "date_modified": "2026-05-23T09:07:33.000Z",
-            "date_published": "2026-05-23T08:58:01.000Z",
-            "author": {
-                "name": "Zwggg02",
-                "url": "https://github.com/Zwggg02"
             }
         }
     ]
