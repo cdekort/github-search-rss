@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-05-30T00:53:45.297Z</updated>
+    <updated>2026-05-31T00:58:18.665Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
+        <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
+        <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
+        <updated>2026-05-31T00:15:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
+        <author>
+            <name>zgcr</name>
+            <email>zgcr@noreply.github.com</email>
+            <uri>https://github.com/zgcr</uri>
+        </author>
+        <published>2020-05-31T05:37:26.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-05-29T22:58:52.000Z</updated>
+        <updated>2026-05-30T23:40:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -24,7 +37,7 @@
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-05-29T22:45:05.000Z</updated>
+        <updated>2026-05-30T23:26:10.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -37,7 +50,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-05-29T22:23:34.000Z</updated>
+        <updated>2026-05-30T23:04:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -50,7 +63,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-05-29T21:35:36.000Z</updated>
+        <updated>2026-05-30T22:16:52.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -60,10 +73,49 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, leptos and onnx.]]></title>
+        <id>https://github.com/kingwingfly/lets_embed</id>
+        <link href="https://github.com/kingwingfly/lets_embed"/>
+        <updated>2026-05-30T15:42:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, leptos and onnx.</div>]]></content>
+        <author>
+            <name>kingwingfly</name>
+            <email>kingwingfly@noreply.github.com</email>
+            <uri>https://github.com/kingwingfly</uri>
+        </author>
+        <published>2026-05-17T07:13:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
+        <id>https://github.com/jaychempan/V2-SAM</id>
+        <link href="https://github.com/jaychempan/V2-SAM"/>
+        <updated>2026-05-30T10:05:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=3d19ac91e616869bc8fa2793d2a21c5c7f734f2f&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
+        <author>
+            <name>jaychempan</name>
+            <email>jaychempan@noreply.github.com</email>
+            <uri>https://github.com/jaychempan</uri>
+        </author>
+        <published>2025-12-10T14:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhoujiwhen/dinov3-swin-distill-7B-with-gram]]></title>
+        <id>https://github.com/zhoujiwhen/dinov3-swin-distill-7B-with-gram</id>
+        <link href="https://github.com/zhoujiwhen/dinov3-swin-distill-7B-with-gram"/>
+        <updated>2026-05-30T02:17:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/284698625?u=1512c3c6e32617014a00737bf0d14d1fcdc33861&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhoujiwhen</name>
+            <email>zhoujiwhen@noreply.github.com</email>
+            <uri>https://github.com/zhoujiwhen</uri>
+        </author>
+        <published>2026-05-29T11:06:02.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
         <id>https://github.com/little51/dinov3-course</id>
         <link href="https://github.com/little51/dinov3-course"/>
-        <updated>2026-05-29T14:25:51.000Z</updated>
+        <updated>2026-05-30T01:33:09.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
         <author>
             <name>little51</name>
@@ -76,7 +128,7 @@
         <title type="html"><![CDATA[visinf/INSID3: [CVPR 2026 Oral] "INSID3: Training-Free In-Context Segmentation with DINOv3"]]></title>
         <id>https://github.com/visinf/INSID3</id>
         <link href="https://github.com/visinf/INSID3"/>
-        <updated>2026-05-29T12:58:27.000Z</updated>
+        <updated>2026-05-30T11:47:53.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22448548?v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026 Oral] "INSID3: Training-Free In-Context Segmentation with DINOv3"</div>]]></content>
         <author>
             <name>visinf</name>
@@ -97,19 +149,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhoujiwhen/dinov3-swin-distill-7B-with-gram]]></title>
-        <id>https://github.com/zhoujiwhen/dinov3-swin-distill-7B-with-gram</id>
-        <link href="https://github.com/zhoujiwhen/dinov3-swin-distill-7B-with-gram"/>
-        <updated>2026-05-29T11:23:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/284698625?u=1512c3c6e32617014a00737bf0d14d1fcdc33861&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhoujiwhen</name>
-            <email>zhoujiwhen@noreply.github.com</email>
-            <uri>https://github.com/zhoujiwhen</uri>
-        </author>
-        <published>2026-05-29T11:06:02.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
@@ -227,44 +266,5 @@
             <uri>https://github.com/dns-smitk</uri>
         </author>
         <published>2026-05-27T16:29:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
-        <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
-        <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
-        <updated>2026-05-27T14:20:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
-        <author>
-            <name>zgcr</name>
-            <email>zgcr@noreply.github.com</email>
-            <uri>https://github.com/zgcr</uri>
-        </author>
-        <published>2020-05-31T05:37:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[azaaa7/My_model: DINOV3]]></title>
-        <id>https://github.com/azaaa7/My_model</id>
-        <link href="https://github.com/azaaa7/My_model"/>
-        <updated>2026-05-27T08:41:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119120275?v=4" width="64" height="64" alt=""/><br/><div>DINOV3</div>]]></content>
-        <author>
-            <name>azaaa7</name>
-            <email>azaaa7@noreply.github.com</email>
-            <uri>https://github.com/azaaa7</uri>
-        </author>
-        <published>2026-05-19T07:46:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhoujiwhen/dinov3_swin]]></title>
-        <id>https://github.com/zhoujiwhen/dinov3_swin</id>
-        <link href="https://github.com/zhoujiwhen/dinov3_swin"/>
-        <updated>2026-05-27T03:22:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/284698625?u=1512c3c6e32617014a00737bf0d14d1fcdc33861&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhoujiwhen</name>
-            <email>zhoujiwhen@noreply.github.com</email>
-            <uri>https://github.com/zhoujiwhen</uri>
-        </author>
-        <published>2026-05-22T06:57:30.000Z</published>
     </entry>
 </feed>
