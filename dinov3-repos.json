@@ -6,10 +6,65 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10432619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling</div>",
+            "url": "https://github.com/Msrikrishna/robot-manipulation-lerobot",
+            "title": "Msrikrishna/robot-manipulation-lerobot: DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling",
+            "date_modified": "2026-06-07T00:44:22.000Z",
+            "date_published": "2026-06-03T07:20:33.000Z",
+            "author": {
+                "name": "Msrikrishna",
+                "url": "https://github.com/Msrikrishna"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
+            "url": "https://github.com/little51/dinov3-course",
+            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
+            "date_modified": "2026-06-07T00:41:29.000Z",
+            "date_published": "2026-05-03T12:40:56.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
+            "url": "https://github.com/danniel-dd/AEIC",
+            "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
+            "date_modified": "2026-06-06T22:51:42.000Z",
+            "date_published": "2026-03-10T00:27:58.000Z",
+            "author": {
+                "name": "danniel-dd",
+                "url": "https://github.com/danniel-dd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
+            "url": "https://github.com/Abigail-amk/AI-training",
+            "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
+            "date_modified": "2026-06-06T22:37:06.000Z",
+            "date_published": "2026-02-15T00:26:11.000Z",
+            "author": {
+                "name": "Abigail-amk",
+                "url": "https://github.com/Abigail-amk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nacho4412gg/dinov3",
+            "title": "Nacho4412gg/dinov3",
+            "date_modified": "2026-06-06T22:12:51.000Z",
+            "date_published": "2026-01-11T18:24:22.000Z",
+            "author": {
+                "name": "Nacho4412gg",
+                "url": "https://github.com/Nacho4412gg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-06-06T00:16:01.000Z",
+            "date_modified": "2026-06-06T21:23:15.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -17,14 +72,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
-            "url": "https://github.com/little51/dinov3-course",
-            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-06-05T23:57:40.000Z",
-            "date_published": "2026-05-03T12:40:56.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42720971?u=d33a961281e8a5d54ae3ff14af56c1485f26db25&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproducible code for evaluating DINOv3 image-retrieval robustness under JPEG compression using Oxford-IIIT Pets.</div>",
+            "url": "https://github.com/jihyounchoi/dinov3-jpeg-retrieval",
+            "title": "jihyounchoi/dinov3-jpeg-retrieval: Reproducible code for evaluating DINOv3 image-retrieval robustness under JPEG compression using Oxford-IIIT Pets.",
+            "date_modified": "2026-06-06T10:56:06.000Z",
+            "date_published": "2026-06-06T10:50:58.000Z",
             "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
+                "name": "jihyounchoi",
+                "url": "https://github.com/jihyounchoi"
             }
         },
         {
@@ -36,50 +91,6 @@
             "author": {
                 "name": "kingwingfly",
                 "url": "https://github.com/kingwingfly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
-            "url": "https://github.com/danniel-dd/AEIC",
-            "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-06-05T21:44:51.000Z",
-            "date_published": "2026-03-10T00:27:58.000Z",
-            "author": {
-                "name": "danniel-dd",
-                "url": "https://github.com/danniel-dd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
-            "url": "https://github.com/Abigail-amk/AI-training",
-            "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-06-05T21:28:47.000Z",
-            "date_published": "2026-02-15T00:26:11.000Z",
-            "author": {
-                "name": "Abigail-amk",
-                "url": "https://github.com/Abigail-amk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10432619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling</div>",
-            "url": "https://github.com/Msrikrishna/robot-manipulation-lerobot",
-            "title": "Msrikrishna/robot-manipulation-lerobot: DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling",
-            "date_modified": "2026-06-05T21:15:19.000Z",
-            "date_published": "2026-06-03T07:20:33.000Z",
-            "author": {
-                "name": "Msrikrishna",
-                "url": "https://github.com/Msrikrishna"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nacho4412gg/dinov3",
-            "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-06-05T21:02:57.000Z",
-            "date_published": "2026-01-11T18:24:22.000Z",
-            "author": {
-                "name": "Nacho4412gg",
-                "url": "https://github.com/Nacho4412gg"
             }
         },
         {
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-06-05T23:34:29.000Z",
+            "date_modified": "2026-06-06T20:36:36.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "vikiehm",
                 "url": "https://github.com/vikiehm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175413625?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-based representation learning for UAV small object detection.</div>",
-            "url": "https://github.com/xmlyh177/dinov3-uav-small-object-detection",
-            "title": "xmlyh177/dinov3-uav-small-object-detection: DINOv3-based representation learning for UAV small object detection.",
-            "date_modified": "2026-06-04T15:00:04.000Z",
-            "date_published": "2026-06-04T11:29:01.000Z",
-            "author": {
-                "name": "xmlyh177",
-                "url": "https://github.com/xmlyh177"
             }
         }
     ]

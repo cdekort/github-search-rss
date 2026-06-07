@@ -2,16 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-06-06T00:55:12.832Z</updated>
+    <updated>2026-06-07T01:01:36.359Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Msrikrishna/robot-manipulation-lerobot: DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling]]></title>
+        <id>https://github.com/Msrikrishna/robot-manipulation-lerobot</id>
+        <link href="https://github.com/Msrikrishna/robot-manipulation-lerobot"/>
+        <updated>2026-06-07T00:44:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10432619?v=4" width="64" height="64" alt=""/><br/><div>DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling</div>]]></content>
+        <author>
+            <name>Msrikrishna</name>
+            <email>Msrikrishna@noreply.github.com</email>
+            <uri>https://github.com/Msrikrishna</uri>
+        </author>
+        <published>2026-06-03T07:20:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
+        <id>https://github.com/little51/dinov3-course</id>
+        <link href="https://github.com/little51/dinov3-course"/>
+        <updated>2026-06-07T00:41:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
+        <author>
+            <name>little51</name>
+            <email>little51@noreply.github.com</email>
+            <uri>https://github.com/little51</uri>
+        </author>
+        <published>2026-05-03T12:40:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
+        <id>https://github.com/danniel-dd/AEIC</id>
+        <link href="https://github.com/danniel-dd/AEIC"/>
+        <updated>2026-06-06T22:51:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
+        <author>
+            <name>danniel-dd</name>
+            <email>danniel-dd@noreply.github.com</email>
+            <uri>https://github.com/danniel-dd</uri>
+        </author>
+        <published>2026-03-10T00:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
+        <id>https://github.com/Abigail-amk/AI-training</id>
+        <link href="https://github.com/Abigail-amk/AI-training"/>
+        <updated>2026-06-06T22:37:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
+        <author>
+            <name>Abigail-amk</name>
+            <email>Abigail-amk@noreply.github.com</email>
+            <uri>https://github.com/Abigail-amk</uri>
+        </author>
+        <published>2026-02-15T00:26:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
+        <id>https://github.com/Nacho4412gg/dinov3</id>
+        <link href="https://github.com/Nacho4412gg/dinov3"/>
+        <updated>2026-06-06T22:12:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Nacho4412gg</name>
+            <email>Nacho4412gg@noreply.github.com</email>
+            <uri>https://github.com/Nacho4412gg</uri>
+        </author>
+        <published>2026-01-11T18:24:22.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-06-06T00:16:01.000Z</updated>
+        <updated>2026-06-06T21:23:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -21,17 +86,17 @@
         <published>2020-05-31T11:42:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
-        <id>https://github.com/little51/dinov3-course</id>
-        <link href="https://github.com/little51/dinov3-course"/>
-        <updated>2026-06-05T23:57:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
+        <title type="html"><![CDATA[jihyounchoi/dinov3-jpeg-retrieval: Reproducible code for evaluating DINOv3 image-retrieval robustness under JPEG compression using Oxford-IIIT Pets.]]></title>
+        <id>https://github.com/jihyounchoi/dinov3-jpeg-retrieval</id>
+        <link href="https://github.com/jihyounchoi/dinov3-jpeg-retrieval"/>
+        <updated>2026-06-06T10:56:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42720971?u=d33a961281e8a5d54ae3ff14af56c1485f26db25&v=4" width="64" height="64" alt=""/><br/><div>Reproducible code for evaluating DINOv3 image-retrieval robustness under JPEG compression using Oxford-IIIT Pets.</div>]]></content>
         <author>
-            <name>little51</name>
-            <email>little51@noreply.github.com</email>
-            <uri>https://github.com/little51</uri>
+            <name>jihyounchoi</name>
+            <email>jihyounchoi@noreply.github.com</email>
+            <uri>https://github.com/jihyounchoi</uri>
         </author>
-        <published>2026-05-03T12:40:56.000Z</published>
+        <published>2026-06-06T10:50:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora and cloudflare.]]></title>
@@ -45,58 +110,6 @@
             <uri>https://github.com/kingwingfly</uri>
         </author>
         <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
-        <id>https://github.com/danniel-dd/AEIC</id>
-        <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-06-05T21:44:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
-        <author>
-            <name>danniel-dd</name>
-            <email>danniel-dd@noreply.github.com</email>
-            <uri>https://github.com/danniel-dd</uri>
-        </author>
-        <published>2026-03-10T00:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
-        <id>https://github.com/Abigail-amk/AI-training</id>
-        <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-06-05T21:28:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
-        <author>
-            <name>Abigail-amk</name>
-            <email>Abigail-amk@noreply.github.com</email>
-            <uri>https://github.com/Abigail-amk</uri>
-        </author>
-        <published>2026-02-15T00:26:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Msrikrishna/robot-manipulation-lerobot: DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling]]></title>
-        <id>https://github.com/Msrikrishna/robot-manipulation-lerobot</id>
-        <link href="https://github.com/Msrikrishna/robot-manipulation-lerobot"/>
-        <updated>2026-06-05T21:15:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10432619?v=4" width="64" height="64" alt=""/><br/><div>DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling</div>]]></content>
-        <author>
-            <name>Msrikrishna</name>
-            <email>Msrikrishna@noreply.github.com</email>
-            <uri>https://github.com/Msrikrishna</uri>
-        </author>
-        <published>2026-06-03T07:20:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
-        <id>https://github.com/Nacho4412gg/dinov3</id>
-        <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-06-05T21:02:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Nacho4412gg</name>
-            <email>Nacho4412gg@noreply.github.com</email>
-            <uri>https://github.com/Nacho4412gg</uri>
-        </author>
-        <published>2026-01-11T18:24:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ethanhaines/NEST: DINOv3 Pollen Grain Similarity Analyzer]]></title>
@@ -128,7 +141,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-06-05T23:34:29.000Z</updated>
+        <updated>2026-06-06T20:36:36.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/vikiehm</uri>
         </author>
         <published>2026-03-26T08:58:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xmlyh177/dinov3-uav-small-object-detection: DINOv3-based representation learning for UAV small object detection.]]></title>
-        <id>https://github.com/xmlyh177/dinov3-uav-small-object-detection</id>
-        <link href="https://github.com/xmlyh177/dinov3-uav-small-object-detection"/>
-        <updated>2026-06-04T15:00:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/175413625?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based representation learning for UAV small object detection.</div>]]></content>
-        <author>
-            <name>xmlyh177</name>
-            <email>xmlyh177@noreply.github.com</email>
-            <uri>https://github.com/xmlyh177</uri>
-        </author>
-        <published>2026-06-04T11:29:01.000Z</published>
     </entry>
 </feed>
