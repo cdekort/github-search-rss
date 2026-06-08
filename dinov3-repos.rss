@@ -2,42 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-06-07T01:01:36.359Z</updated>
+    <updated>2026-06-08T01:01:21.794Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Msrikrishna/robot-manipulation-lerobot: DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling]]></title>
-        <id>https://github.com/Msrikrishna/robot-manipulation-lerobot</id>
-        <link href="https://github.com/Msrikrishna/robot-manipulation-lerobot"/>
-        <updated>2026-06-07T00:44:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10432619?v=4" width="64" height="64" alt=""/><br/><div>DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling</div>]]></content>
-        <author>
-            <name>Msrikrishna</name>
-            <email>Msrikrishna@noreply.github.com</email>
-            <uri>https://github.com/Msrikrishna</uri>
-        </author>
-        <published>2026-06-03T07:20:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
-        <id>https://github.com/little51/dinov3-course</id>
-        <link href="https://github.com/little51/dinov3-course"/>
-        <updated>2026-06-07T00:41:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
-        <author>
-            <name>little51</name>
-            <email>little51@noreply.github.com</email>
-            <uri>https://github.com/little51</uri>
-        </author>
-        <published>2026-05-03T12:40:56.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.]]></title>
         <id>https://github.com/danniel-dd/AEIC</id>
         <link href="https://github.com/danniel-dd/AEIC"/>
-        <updated>2026-06-06T22:51:42.000Z</updated>
+        <updated>2026-06-07T23:16:48.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88410491?v=4" width="64" height="64" alt=""/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>]]></content>
         <author>
             <name>danniel-dd</name>
@@ -50,7 +24,7 @@
         <title type="html"><![CDATA[Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.]]></title>
         <id>https://github.com/Abigail-amk/AI-training</id>
         <link href="https://github.com/Abigail-amk/AI-training"/>
-        <updated>2026-06-06T22:37:06.000Z</updated>
+        <updated>2026-06-07T23:02:42.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204875701?v=4" width="64" height="64" alt=""/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>]]></content>
         <author>
             <name>Abigail-amk</name>
@@ -63,7 +37,7 @@
         <title type="html"><![CDATA[Nacho4412gg/dinov3]]></title>
         <id>https://github.com/Nacho4412gg/dinov3</id>
         <link href="https://github.com/Nacho4412gg/dinov3"/>
-        <updated>2026-06-06T22:12:51.000Z</updated>
+        <updated>2026-06-07T22:41:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204909044?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Nacho4412gg</name>
@@ -76,7 +50,7 @@
         <title type="html"><![CDATA[dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.]]></title>
         <id>https://github.com/dlidgett/AD-DINOv3</id>
         <link href="https://github.com/dlidgett/AD-DINOv3"/>
-        <updated>2026-06-06T21:23:15.000Z</updated>
+        <updated>2026-06-07T21:51:42.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66205403?v=4" width="64" height="64" alt=""/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>]]></content>
         <author>
             <name>dlidgett</name>
@@ -84,6 +58,71 @@
             <uri>https://github.com/dlidgett</uri>
         </author>
         <published>2020-05-31T11:42:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EnesDemir143/autolens-ai: 8-class vehicle body type classifier using DINOv3, EfficientNet-B2, ResNet18, and MobileNetV4. Custom-curated dataset, ONNX export, HuggingFace models, Gradio and React/FastAPI demos.]]></title>
+        <id>https://github.com/EnesDemir143/autolens-ai</id>
+        <link href="https://github.com/EnesDemir143/autolens-ai"/>
+        <updated>2026-06-07T14:00:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149578916?u=4dec59fff501e2b148596db1eda0bcec236aa3ac&v=4" width="64" height="64" alt=""/><br/><div>8-class vehicle body type classifier using DINOv3, EfficientNet-B2, ResNet18, and MobileNetV4. Custom-curated dataset, ONNX export, HuggingFace models, Gradio and React/FastAPI demos.</div>]]></content>
+        <author>
+            <name>EnesDemir143</name>
+            <email>EnesDemir143@noreply.github.com</email>
+            <uri>https://github.com/EnesDemir143</uri>
+        </author>
+        <published>2026-05-06T20:37:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
+        <id>https://github.com/little51/dinov3-course</id>
+        <link href="https://github.com/little51/dinov3-course"/>
+        <updated>2026-06-07T13:30:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
+        <author>
+            <name>little51</name>
+            <email>little51@noreply.github.com</email>
+            <uri>https://github.com/little51</uri>
+        </author>
+        <published>2026-05-03T12:40:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ToxicAC/gazelle-maingood-dinov3]]></title>
+        <id>https://github.com/ToxicAC/gazelle-maingood-dinov3</id>
+        <link href="https://github.com/ToxicAC/gazelle-maingood-dinov3"/>
+        <updated>2026-06-07T10:39:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76192349?u=137e8668409318fb53c6eda28c09192f979e68ef&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ToxicAC</name>
+            <email>ToxicAC@noreply.github.com</email>
+            <uri>https://github.com/ToxicAC</uri>
+        </author>
+        <published>2026-06-07T10:38:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kshitijrajsharma/dinov3-hot-ablation]]></title>
+        <id>https://github.com/kshitijrajsharma/dinov3-hot-ablation</id>
+        <link href="https://github.com/kshitijrajsharma/dinov3-hot-ablation"/>
+        <updated>2026-06-07T01:18:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36752999?u=5f103a26d0dd3a7b00cdcf22199e5aee6f69de0b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>kshitijrajsharma</name>
+            <email>kshitijrajsharma@noreply.github.com</email>
+            <uri>https://github.com/kshitijrajsharma</uri>
+        </author>
+        <published>2026-05-20T22:53:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Msrikrishna/robot-manipulation-lerobot: DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling]]></title>
+        <id>https://github.com/Msrikrishna/robot-manipulation-lerobot</id>
+        <link href="https://github.com/Msrikrishna/robot-manipulation-lerobot"/>
+        <updated>2026-06-07T00:44:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10432619?v=4" width="64" height="64" alt=""/><br/><div>DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling</div>]]></content>
+        <author>
+            <name>Msrikrishna</name>
+            <email>Msrikrishna@noreply.github.com</email>
+            <uri>https://github.com/Msrikrishna</uri>
+        </author>
+        <published>2026-06-03T07:20:33.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jihyounchoi/dinov3-jpeg-retrieval: Reproducible code for evaluating DINOv3 image-retrieval robustness under JPEG compression using Oxford-IIIT Pets.]]></title>
@@ -125,23 +164,10 @@
         <published>2026-02-09T19:06:54.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kshitijrajsharma/dinov3-hot-ablation]]></title>
-        <id>https://github.com/kshitijrajsharma/dinov3-hot-ablation</id>
-        <link href="https://github.com/kshitijrajsharma/dinov3-hot-ablation"/>
-        <updated>2026-06-05T17:22:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36752999?u=5f103a26d0dd3a7b00cdcf22199e5aee6f69de0b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>kshitijrajsharma</name>
-            <email>kshitijrajsharma@noreply.github.com</email>
-            <uri>https://github.com/kshitijrajsharma</uri>
-        </author>
-        <published>2026-05-20T22:53:07.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-06-06T20:36:36.000Z</updated>
+        <updated>2026-06-07T15:35:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/silenthustlepge</uri>
         </author>
         <published>2026-06-05T04:43:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EnesDemir143/autolens-ai: 8-class vehicle body type classifier using DINOv3, EfficientNet-B2, ResNet18, and MobileNetV4. Custom-curated dataset, ONNX export, HuggingFace models, Gradio and React/FastAPI demos.]]></title>
-        <id>https://github.com/EnesDemir143/autolens-ai</id>
-        <link href="https://github.com/EnesDemir143/autolens-ai"/>
-        <updated>2026-06-05T12:34:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149578916?u=4dec59fff501e2b148596db1eda0bcec236aa3ac&v=4" width="64" height="64" alt=""/><br/><div>8-class vehicle body type classifier using DINOv3, EfficientNet-B2, ResNet18, and MobileNetV4. Custom-curated dataset, ONNX export, HuggingFace models, Gradio and React/FastAPI demos.</div>]]></content>
-        <author>
-            <name>EnesDemir143</name>
-            <email>EnesDemir143@noreply.github.com</email>
-            <uri>https://github.com/EnesDemir143</uri>
-        </author>
-        <published>2026-05-06T20:37:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vikiehm/geo-lora: CVPR 2026, Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach]]></title>
-        <id>https://github.com/vikiehm/geo-lora</id>
-        <link href="https://github.com/vikiehm/geo-lora"/>
-        <updated>2026-06-05T00:35:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63308779?u=d4e36099b8637e5e86dc81b5d6fd470eb085c41a&v=4" width="64" height="64" alt=""/><br/><div>CVPR 2026, Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach</div>]]></content>
-        <author>
-            <name>vikiehm</name>
-            <email>vikiehm@noreply.github.com</email>
-            <uri>https://github.com/vikiehm</uri>
-        </author>
-        <published>2026-03-26T08:58:09.000Z</published>
     </entry>
 </feed>
