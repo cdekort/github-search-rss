@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
             "url": "https://github.com/danniel-dd/AEIC",
             "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-06-14T00:23:25.000Z",
+            "date_modified": "2026-06-14T23:13:39.000Z",
             "date_published": "2026-03-10T00:27:58.000Z",
             "author": {
                 "name": "danniel-dd",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204875701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.</div>",
             "url": "https://github.com/Abigail-amk/AI-training",
             "title": "Abigail-amk/AI-training: 🤖 Enhance programming education by fine-tuning the Phi-3 Mini model to deliver well-structured, documented code responses, ensuring best practices in coding.",
-            "date_modified": "2026-06-14T00:08:57.000Z",
+            "date_modified": "2026-06-14T22:58:36.000Z",
             "date_published": "2026-02-15T00:26:11.000Z",
             "author": {
                 "name": "Abigail-amk",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Nacho4412gg/dinov3",
             "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-06-13T23:44:56.000Z",
+            "date_modified": "2026-06-14T22:35:49.000Z",
             "date_published": "2026-01-11T18:24:22.000Z",
             "author": {
                 "name": "Nacho4412gg",
@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-06-13T22:53:01.000Z",
+            "date_modified": "2026-06-14T21:45:12.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -50,10 +50,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108314617?u=30cd33578398e203077235eaa7068e507231ec27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/logcho/dinov3",
+            "title": "logcho/dinov3",
+            "date_modified": "2026-06-14T19:13:18.000Z",
+            "date_published": "2026-06-12T20:25:17.000Z",
+            "author": {
+                "name": "logcho",
+                "url": "https://github.com/logcho"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6470030?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.</div>",
             "url": "https://github.com/vzeman/tarmac",
             "title": "vzeman/tarmac: Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.",
-            "date_modified": "2026-06-13T22:43:37.000Z",
+            "date_modified": "2026-06-14T18:53:40.000Z",
             "date_published": "2026-06-13T03:45:38.000Z",
             "author": {
                 "name": "vzeman",
@@ -61,14 +72,58 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora and cloudflare.</div>",
+            "url": "https://github.com/kingwingfly/lets_embed",
+            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora and cloudflare.",
+            "date_modified": "2026-06-14T17:25:50.000Z",
+            "date_published": "2026-05-17T07:13:23.000Z",
+            "author": {
+                "name": "kingwingfly",
+                "url": "https://github.com/kingwingfly"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35953653?u=56615709b30608202d983620791e03fe26eeb4d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Editor-only UE plugin for exporting StaticMesh thumbnails and ingesting DINOv3 vectors into Jade AI Services.</div>",
             "url": "https://github.com/WICKKKKK/UnrealSceneAssembly",
             "title": "WICKKKKK/UnrealSceneAssembly: Editor-only UE plugin for exporting StaticMesh thumbnails and ingesting DINOv3 vectors into Jade AI Services.",
-            "date_modified": "2026-06-13T18:04:45.000Z",
+            "date_modified": "2026-06-14T15:36:27.000Z",
             "date_published": "2026-06-01T09:02:51.000Z",
             "author": {
                 "name": "WICKKKKK",
                 "url": "https://github.com/WICKKKKK"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93417785?u=d440ae2d10134f9277e2fefe8a0cd9c79830ea8d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Idk507/Dinov3-explore",
+            "title": "Idk507/Dinov3-explore",
+            "date_modified": "2026-06-14T15:35:07.000Z",
+            "date_published": "2026-05-22T02:57:10.000Z",
+            "author": {
+                "name": "Idk507",
+                "url": "https://github.com/Idk507"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81596017?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>3D infant hippocampus MRI segmentation by adapting frozen DINO foundation-model features</div>",
+            "url": "https://github.com/annayah/VolSegInfantHippocampi",
+            "title": "annayah/VolSegInfantHippocampi: 3D infant hippocampus MRI segmentation by adapting frozen DINO foundation-model features",
+            "date_modified": "2026-06-14T12:28:46.000Z",
+            "date_published": "2026-06-14T11:09:17.000Z",
+            "author": {
+                "name": "annayah",
+                "url": "https://github.com/annayah"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165764559?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.</div>",
+            "url": "https://github.com/xiaofangZH/Bio-inspired-MOT",
+            "title": "xiaofangZH/Bio-inspired-MOT: This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.",
+            "date_modified": "2026-06-14T08:35:24.000Z",
+            "date_published": "2026-06-10T01:58:47.000Z",
+            "author": {
+                "name": "xiaofangZH",
+                "url": "https://github.com/xiaofangZH"
             }
         },
         {
@@ -91,17 +146,6 @@
             "author": {
                 "name": "azaaa7",
                 "url": "https://github.com/azaaa7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora and cloudflare.</div>",
-            "url": "https://github.com/kingwingfly/lets_embed",
-            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora and cloudflare.",
-            "date_modified": "2026-06-13T08:40:39.000Z",
-            "date_published": "2026-05-17T07:13:23.000Z",
-            "author": {
-                "name": "kingwingfly",
-                "url": "https://github.com/kingwingfly"
             }
         },
         {
@@ -138,21 +182,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108314617?u=30cd33578398e203077235eaa7068e507231ec27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/logcho/dinov3",
-            "title": "logcho/dinov3",
-            "date_modified": "2026-06-12T20:25:18.000Z",
-            "date_published": "2026-06-12T20:25:17.000Z",
-            "author": {
-                "name": "logcho",
-                "url": "https://github.com/logcho"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22061354?u=85958590e830978d143753e86f915d89db7da6f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command-line tool for extracting DINO, CLIP, SigLIP2, TIPSv2, RADIO, features for images and videos</div>",
             "url": "https://github.com/mikkoim/dinotool",
             "title": "mikkoim/dinotool: Command-line tool for extracting DINO, CLIP, SigLIP2, TIPSv2, RADIO, features for images and videos",
-            "date_modified": "2026-06-12T19:54:48.000Z",
+            "date_modified": "2026-06-14T04:34:14.000Z",
             "date_published": "2025-04-02T08:30:48.000Z",
             "author": {
                 "name": "mikkoim",
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-06-13T17:36:05.000Z",
+            "date_modified": "2026-06-15T00:21:18.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -174,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2026-06-13T13:02:50.000Z",
+            "date_modified": "2026-06-14T20:38:26.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "JiajieWei",
                 "url": "https://github.com/JiajieWei"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237532180?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.</div>",
-            "url": "https://github.com/gongzhijie535-ctrl/DINO-Lens",
-            "title": "gongzhijie535-ctrl/DINO-Lens: An interactive GUI for DINOv3 visual feature visualization, exploration, and few-shot segmentation.",
-            "date_modified": "2026-06-12T09:29:02.000Z",
-            "date_published": "2026-04-06T16:54:49.000Z",
-            "author": {
-                "name": "gongzhijie535-ctrl",
-                "url": "https://github.com/gongzhijie535-ctrl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104208067?u=d27dd240b35d664942d0b79e20bfadd66bc28b98&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/EmircanEGE/DINOv3-MGCFDN",
-            "title": "EmircanEGE/DINOv3-MGCFDN",
-            "date_modified": "2026-06-11T20:54:47.000Z",
-            "date_published": "2026-06-11T20:40:56.000Z",
-            "author": {
-                "name": "EmircanEGE",
-                "url": "https://github.com/EmircanEGE"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39851604?u=3d9b426e373191b76959a2bee242974113b112ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DeForge-AI: A robust framework for AI-generated image detection, combining a DINOv3 Vision Transformer with high-frequency forensic noise analysis.</div>",
-            "url": "https://github.com/tbtiberiu/DeForge-AI",
-            "title": "tbtiberiu/DeForge-AI: DeForge-AI: A robust framework for AI-generated image detection, combining a DINOv3 Vision Transformer with high-frequency forensic noise analysis.",
-            "date_modified": "2026-06-11T19:55:40.000Z",
-            "date_published": "2026-05-01T07:35:16.000Z",
-            "author": {
-                "name": "tbtiberiu",
-                "url": "https://github.com/tbtiberiu"
             }
         }
     ]
