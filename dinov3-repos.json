@@ -6,21 +6,65 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204909044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nacho4412gg/dinov3",
-            "title": "Nacho4412gg/dinov3",
-            "date_modified": "2026-06-16T00:59:02.000Z",
-            "date_published": "2026-01-11T18:24:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12648328?u=0c4704d58c2ce1fc71be2b062c33871a3abcea74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/josauder/dinov3_lora_dpt_coralscapes",
+            "title": "josauder/dinov3_lora_dpt_coralscapes",
+            "date_modified": "2026-06-16T22:08:06.000Z",
+            "date_published": "2026-04-08T22:18:49.000Z",
             "author": {
-                "name": "Nacho4412gg",
-                "url": "https://github.com/Nacho4412gg"
+                "name": "josauder",
+                "url": "https://github.com/josauder"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
+            "url": "https://github.com/kingwingfly/lets_embed",
+            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
+            "date_modified": "2026-06-16T20:24:54.000Z",
+            "date_published": "2026-05-17T07:13:23.000Z",
+            "author": {
+                "name": "kingwingfly",
+                "url": "https://github.com/kingwingfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-06-16T18:44:10.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/291904052?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dinov3 ensembling approach repository</div>",
+            "url": "https://github.com/Telecom-Idemia-2026-TeamGPU-G21/datachallenge_ensemble_dinov3",
+            "title": "Telecom-Idemia-2026-TeamGPU-G21/datachallenge_ensemble_dinov3: Dinov3 ensembling approach repository",
+            "date_modified": "2026-06-16T18:06:08.000Z",
+            "date_published": "2026-06-16T17:57:17.000Z",
+            "author": {
+                "name": "Telecom-Idemia-2026-TeamGPU-G21",
+                "url": "https://github.com/Telecom-Idemia-2026-TeamGPU-G21"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
+            "url": "https://github.com/danniel-dd/AEIC",
+            "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
+            "date_modified": "2026-06-16T13:56:25.000Z",
+            "date_published": "2026-03-10T00:27:58.000Z",
+            "author": {
+                "name": "danniel-dd",
+                "url": "https://github.com/danniel-dd"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66205403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.</div>",
             "url": "https://github.com/dlidgett/AD-DINOv3",
             "title": "dlidgett/AD-DINOv3: 🔍 Enhance anomaly detection with AD-DINOv3, a framework adapting DINOv3 for zero-shot scenarios through advanced calibration techniques.",
-            "date_modified": "2026-06-16T00:11:52.000Z",
+            "date_modified": "2026-06-16T12:36:56.000Z",
             "date_published": "2020-05-31T11:42:52.000Z",
             "author": {
                 "name": "dlidgett",
@@ -28,14 +72,58 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/wangjieh/dinov3_pastis",
+            "title": "wangjieh/dinov3_pastis",
+            "date_modified": "2026-06-16T09:36:05.000Z",
+            "date_published": "2026-06-16T04:23:04.000Z",
+            "author": {
+                "name": "wangjieh",
+                "url": "https://github.com/wangjieh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/guantongpeng/DINOv3_DIOR-R",
+            "title": "guantongpeng/DINOv3_DIOR-R",
+            "date_modified": "2026-06-16T09:06:26.000Z",
+            "date_published": "2026-06-08T11:17:01.000Z",
+            "author": {
+                "name": "guantongpeng",
+                "url": "https://github.com/guantongpeng"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jingwang7236/dinov3-sw",
+            "title": "jingwang7236/dinov3-sw",
+            "date_modified": "2026-06-16T08:50:47.000Z",
+            "date_published": "2026-05-13T06:44:47.000Z",
+            "author": {
+                "name": "jingwang7236",
+                "url": "https://github.com/jingwang7236"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35953653?u=56615709b30608202d983620791e03fe26eeb4d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Editor-only UE plugin for exporting StaticMesh thumbnails and ingesting DINOv3 vectors into Jade AI Services.</div>",
             "url": "https://github.com/WICKKKKK/UnrealSceneAssembly",
             "title": "WICKKKKK/UnrealSceneAssembly: Editor-only UE plugin for exporting StaticMesh thumbnails and ingesting DINOv3 vectors into Jade AI Services.",
-            "date_modified": "2026-06-15T23:12:56.000Z",
+            "date_modified": "2026-06-16T03:36:16.000Z",
             "date_published": "2026-06-01T09:02:51.000Z",
             "author": {
                 "name": "WICKKKKK",
                 "url": "https://github.com/WICKKKKK"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10432619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling</div>",
+            "url": "https://github.com/Msrikrishna/robot-manipulation-lerobot",
+            "title": "Msrikrishna/robot-manipulation-lerobot: DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling",
+            "date_modified": "2026-06-16T01:38:45.000Z",
+            "date_published": "2026-06-03T07:20:33.000Z",
+            "author": {
+                "name": "Msrikrishna",
+                "url": "https://github.com/Msrikrishna"
             }
         },
         {
@@ -50,43 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88410491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.</div>",
-            "url": "https://github.com/danniel-dd/AEIC",
-            "title": "danniel-dd/AEIC: Deliver ultra-low bitrate image compression using a shallow encoder for efficient, real-time encoding on bandwidth and resource-limited devices.",
-            "date_modified": "2026-06-15T22:51:35.000Z",
-            "date_published": "2026-03-10T00:27:58.000Z",
-            "author": {
-                "name": "danniel-dd",
-                "url": "https://github.com/danniel-dd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-06-15T21:26:56.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora and cloudflare.</div>",
-            "url": "https://github.com/kingwingfly/lets_embed",
-            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora and cloudflare.",
-            "date_modified": "2026-06-15T18:06:25.000Z",
-            "date_published": "2026-05-17T07:13:23.000Z",
-            "author": {
-                "name": "kingwingfly",
-                "url": "https://github.com/kingwingfly"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
             "url": "https://github.com/facebookresearch/dinov3",
             "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
-            "date_modified": "2026-06-15T16:27:33.000Z",
+            "date_modified": "2026-06-16T23:35:26.000Z",
             "date_published": "2025-08-07T14:11:34.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "annayah",
                 "url": "https://github.com/annayah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165764559?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.</div>",
-            "url": "https://github.com/xiaofangZH/Bio-inspired-MOT",
-            "title": "xiaofangZH/Bio-inspired-MOT: This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.",
-            "date_modified": "2026-06-14T08:35:24.000Z",
-            "date_published": "2026-06-10T01:58:47.000Z",
-            "author": {
-                "name": "xiaofangZH",
-                "url": "https://github.com/xiaofangZH"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68352609?u=9aa8c55c51eaa47865153371060158684ab25368&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AURA Label — Chrome extension. Run DINOv3 in WebGPU on gameplay. Earn aura. Anchored on Arbitrum.</div>",
-            "url": "https://github.com/SotoAlt/aura-extension",
-            "title": "SotoAlt/aura-extension: AURA Label — Chrome extension. Run DINOv3 in WebGPU on gameplay. Earn aura. Anchored on Arbitrum.",
-            "date_modified": "2026-06-13T13:06:45.000Z",
-            "date_published": "2026-05-15T02:31:17.000Z",
-            "author": {
-                "name": "SotoAlt",
-                "url": "https://github.com/SotoAlt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114906506?u=9d2d20c013595ccbe8f3b6c47e4184fd7666b37d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>",
-            "url": "https://github.com/onlylrs/Modern-Vit-Adapter",
-            "title": "onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ",
-            "date_modified": "2026-06-13T01:24:01.000Z",
-            "date_published": "2026-04-03T08:10:59.000Z",
-            "author": {
-                "name": "onlylrs",
-                "url": "https://github.com/onlylrs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132264275?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>YOLOv11 + SAHI comparison for small object detection on the MOCS construction dataset, with DINOv3 patch clustering for unsupervised scene understanding. No training required, pretrained weights only.</div>",
-            "url": "https://github.com/marwhyam/worker-detection-cctv-construction",
-            "title": "marwhyam/worker-detection-cctv-construction: YOLOv11 + SAHI comparison for small object detection on the MOCS construction dataset, with DINOv3 patch clustering for unsupervised scene understanding. No training required, pretrained weights only.",
-            "date_modified": "2026-06-13T01:15:41.000Z",
-            "date_published": "2026-06-12T11:11:14.000Z",
-            "author": {
-                "name": "marwhyam",
-                "url": "https://github.com/marwhyam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/wangjieh/dinov3_pastis",
-            "title": "wangjieh/dinov3_pastis",
-            "date_modified": "2026-06-13T00:16:21.000Z",
-            "date_published": "2026-06-11T05:55:09.000Z",
-            "author": {
-                "name": "wangjieh",
-                "url": "https://github.com/wangjieh"
             }
         }
     ]
