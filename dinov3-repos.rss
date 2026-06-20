@@ -2,11 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-06-19T01:08:02.043Z</updated>
+    <updated>2026-06-20T00:57:36.557Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[tangyingtyty/DINOv3-HOHA]]></title>
+        <id>https://github.com/tangyingtyty/DINOv3-HOHA</id>
+        <link href="https://github.com/tangyingtyty/DINOv3-HOHA"/>
+        <updated>2026-06-19T18:55:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51815078?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>tangyingtyty</name>
+            <email>tangyingtyty@noreply.github.com</email>
+            <uri>https://github.com/tangyingtyty</uri>
+        </author>
+        <published>2026-06-19T18:51:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ethanhaines/NEST: DINOv3 Pollen Grain Similarity Analyzer]]></title>
+        <id>https://github.com/ethanhaines/NEST</id>
+        <link href="https://github.com/ethanhaines/NEST"/>
+        <updated>2026-06-19T18:47:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/122860615?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Pollen Grain Similarity Analyzer</div>]]></content>
+        <author>
+            <name>ethanhaines</name>
+            <email>ethanhaines@noreply.github.com</email>
+            <uri>https://github.com/ethanhaines</uri>
+        </author>
+        <published>2026-02-09T19:06:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-06-20T00:43:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChristianInterno/GeoPhys: GeoPhys: The Geometry of Physical Plausibility]]></title>
+        <id>https://github.com/ChristianInterno/GeoPhys</id>
+        <link href="https://github.com/ChristianInterno/GeoPhys"/>
+        <updated>2026-06-19T15:40:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/80530899?u=d031c47db881bf2129144b1899ae2f891e329031&v=4" width="64" height="64" alt=""/><br/><div>GeoPhys: The Geometry of Physical Plausibility</div>]]></content>
+        <author>
+            <name>ChristianInterno</name>
+            <email>ChristianInterno@noreply.github.com</email>
+            <uri>https://github.com/ChristianInterno</uri>
+        </author>
+        <published>2026-06-08T18:45:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
+        <id>https://github.com/kingwingfly/lets_embed</id>
+        <link href="https://github.com/kingwingfly/lets_embed"/>
+        <updated>2026-06-19T09:32:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
+        <author>
+            <name>kingwingfly</name>
+            <email>kingwingfly@noreply.github.com</email>
+            <uri>https://github.com/kingwingfly</uri>
+        </author>
+        <published>2026-05-17T07:13:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alvaro2304/dinov3-aerial-seg: testing meta's chmv2]]></title>
         <id>https://github.com/Alvaro2304/dinov3-aerial-seg</id>
@@ -19,32 +84,6 @@
             <uri>https://github.com/Alvaro2304</uri>
         </author>
         <published>2026-04-17T21:59:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-06-18T18:29:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-06-18T17:10:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jasper-January/Research_About_DINOv3: As a freshman with dynamic dream for computer, especially be a AI student, I start my journey with this sience papper.]]></title>
@@ -151,19 +190,6 @@
         <published>2026-06-03T07:20:33.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChristianInterno/GeoPhys: GeoPhys: The Geometry of Physical Plausibility]]></title>
-        <id>https://github.com/ChristianInterno/GeoPhys</id>
-        <link href="https://github.com/ChristianInterno/GeoPhys"/>
-        <updated>2026-06-18T21:55:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/80530899?u=d031c47db881bf2129144b1899ae2f891e329031&v=4" width="64" height="64" alt=""/><br/><div>GeoPhys: The Geometry of Physical Plausibility</div>]]></content>
-        <author>
-            <name>ChristianInterno</name>
-            <email>ChristianInterno@noreply.github.com</email>
-            <uri>https://github.com/ChristianInterno</uri>
-        </author>
-        <published>2026-06-08T18:45:25.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[julien-blanchon/dinov3-depth-head]]></title>
         <id>https://github.com/julien-blanchon/dinov3-depth-head</id>
         <link href="https://github.com/julien-blanchon/dinov3-depth-head"/>
@@ -240,31 +266,5 @@
             <uri>https://github.com/guantongpeng</uri>
         </author>
         <published>2026-06-08T11:17:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[azaaa7/My_model_v1: DINOV3+ccm+fgm]]></title>
-        <id>https://github.com/azaaa7/My_model_v1</id>
-        <link href="https://github.com/azaaa7/My_model_v1"/>
-        <updated>2026-06-17T02:12:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119120275?v=4" width="64" height="64" alt=""/><br/><div>DINOV3+ccm+fgm</div>]]></content>
-        <author>
-            <name>azaaa7</name>
-            <email>azaaa7@noreply.github.com</email>
-            <uri>https://github.com/azaaa7</uri>
-        </author>
-        <published>2026-06-08T03:03:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[josauder/dinov3_lora_dpt_coralscapes]]></title>
-        <id>https://github.com/josauder/dinov3_lora_dpt_coralscapes</id>
-        <link href="https://github.com/josauder/dinov3_lora_dpt_coralscapes"/>
-        <updated>2026-06-17T04:46:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12648328?u=0c4704d58c2ce1fc71be2b062c33871a3abcea74&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>josauder</name>
-            <email>josauder@noreply.github.com</email>
-            <uri>https://github.com/josauder</uri>
-        </author>
-        <published>2026-04-08T22:18:49.000Z</published>
     </entry>
 </feed>
