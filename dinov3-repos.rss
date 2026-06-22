@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-06-21T01:04:13.431Z</updated>
+    <updated>2026-06-22T01:03:41.985Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[nguyenlean96/dinov3-cli]]></title>
         <id>https://github.com/nguyenlean96/dinov3-cli</id>
         <link href="https://github.com/nguyenlean96/dinov3-cli"/>
-        <updated>2026-06-21T01:00:51.000Z</updated>
+        <updated>2026-06-21T20:39:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65287357?u=570cdc7c29f63b2873ade16b89a0ed119c1b19d5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>nguyenlean96</name>
@@ -21,17 +21,95 @@
         <published>2026-05-14T03:22:36.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-06-20T23:29:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-06-21T22:01:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
         </author>
-        <published>2026-05-17T07:13:23.000Z</published>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xiaofangZH/Bio-inspired-MOT: This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.]]></title>
+        <id>https://github.com/xiaofangZH/Bio-inspired-MOT</id>
+        <link href="https://github.com/xiaofangZH/Bio-inspired-MOT"/>
+        <updated>2026-06-21T14:37:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165764559?v=4" width="64" height="64" alt=""/><br/><div>This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.</div>]]></content>
+        <author>
+            <name>xiaofangZH</name>
+            <email>xiaofangZH@noreply.github.com</email>
+            <uri>https://github.com/xiaofangZH</uri>
+        </author>
+        <published>2026-06-10T01:58:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
+        <id>https://github.com/Trudes808/Dinov3-WhaleID</id>
+        <link href="https://github.com/Trudes808/Dinov3-WhaleID"/>
+        <updated>2026-06-21T14:31:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>]]></content>
+        <author>
+            <name>Trudes808</name>
+            <email>Trudes808@noreply.github.com</email>
+            <uri>https://github.com/Trudes808</uri>
+        </author>
+        <published>2025-12-19T00:23:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vzeman/tarmac: Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.]]></title>
+        <id>https://github.com/vzeman/tarmac</id>
+        <link href="https://github.com/vzeman/tarmac"/>
+        <updated>2026-06-21T13:26:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6470030?v=4" width="64" height="64" alt=""/><br/><div>Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.</div>]]></content>
+        <author>
+            <name>vzeman</name>
+            <email>vzeman@noreply.github.com</email>
+            <uri>https://github.com/vzeman</uri>
+        </author>
+        <published>2026-06-13T03:45:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChristianInterno/GeoPhys: GeoPhys: The Geometry of Physical Plausibility]]></title>
+        <id>https://github.com/ChristianInterno/GeoPhys</id>
+        <link href="https://github.com/ChristianInterno/GeoPhys"/>
+        <updated>2026-06-21T21:02:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/80530899?u=d031c47db881bf2129144b1899ae2f891e329031&v=4" width="64" height="64" alt=""/><br/><div>GeoPhys: The Geometry of Physical Plausibility</div>]]></content>
+        <author>
+            <name>ChristianInterno</name>
+            <email>ChristianInterno@noreply.github.com</email>
+            <uri>https://github.com/ChristianInterno</uri>
+        </author>
+        <published>2026-06-08T18:45:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
+        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
+        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
+        <updated>2026-06-21T10:09:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[112378074/dinov3-ad2-relational]]></title>
+        <id>https://github.com/112378074/dinov3-ad2-relational</id>
+        <link href="https://github.com/112378074/dinov3-ad2-relational"/>
+        <updated>2026-06-21T09:59:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/161610118?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>112378074</name>
+            <email>112378074@noreply.github.com</email>
+            <uri>https://github.com/112378074</uri>
+        </author>
+        <published>2026-06-05T14:53:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gxmestk/trafficseg-foundation: Per-vehicle instance segmentation for roadside/CCTV traffic. Teacher = RF-DETR-Seg-2XL (Apache) masks + DINOv3+MLP custom classes -> smaller RF-DETR-Seg student. YOLO26-Seg fallback. A verified landscape study + neutral on-footage survey drove the pivot; counts are not mask AP yet. Repo: AGPL-3.0.]]></title>
@@ -45,45 +123,6 @@
             <uri>https://github.com/Gxmestk</uri>
         </author>
         <published>2026-06-17T17:25:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhjahan52/DINOv3-Mask2former]]></title>
-        <id>https://github.com/zhjahan52/DINOv3-Mask2former</id>
-        <link href="https://github.com/zhjahan52/DINOv3-Mask2former"/>
-        <updated>2026-06-20T14:32:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/274813595?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhjahan52</name>
-            <email>zhjahan52@noreply.github.com</email>
-            <uri>https://github.com/zhjahan52</uri>
-        </author>
-        <published>2026-06-20T14:30:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhjahan52/dinov3-finetune-main]]></title>
-        <id>https://github.com/zhjahan52/dinov3-finetune-main</id>
-        <link href="https://github.com/zhjahan52/dinov3-finetune-main"/>
-        <updated>2026-06-20T14:26:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/274813595?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhjahan52</name>
-            <email>zhjahan52@noreply.github.com</email>
-            <uri>https://github.com/zhjahan52</uri>
-        </author>
-        <published>2026-06-20T14:26:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhjahan52/dinov3-official]]></title>
-        <id>https://github.com/zhjahan52/dinov3-official</id>
-        <link href="https://github.com/zhjahan52/dinov3-official"/>
-        <updated>2026-06-20T14:19:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/274813595?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhjahan52</name>
-            <email>zhjahan52@noreply.github.com</email>
-            <uri>https://github.com/zhjahan52</uri>
-        </author>
-        <published>2026-06-20T14:13:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aravindp1807/MEDICALseg_dinov3-yolo-distilation_RTDTER.ipynb]]></title>
@@ -123,32 +162,6 @@
             <uri>https://github.com/ethanhaines</uri>
         </author>
         <published>2026-02-09T19:06:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-06-20T16:49:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChristianInterno/GeoPhys: GeoPhys: The Geometry of Physical Plausibility]]></title>
-        <id>https://github.com/ChristianInterno/GeoPhys</id>
-        <link href="https://github.com/ChristianInterno/GeoPhys"/>
-        <updated>2026-06-19T15:40:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/80530899?u=d031c47db881bf2129144b1899ae2f891e329031&v=4" width="64" height="64" alt=""/><br/><div>GeoPhys: The Geometry of Physical Plausibility</div>]]></content>
-        <author>
-            <name>ChristianInterno</name>
-            <email>ChristianInterno@noreply.github.com</email>
-            <uri>https://github.com/ChristianInterno</uri>
-        </author>
-        <published>2026-06-08T18:45:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alvaro2304/dinov3-aerial-seg: testing meta's chmv2]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/xxxy0523</uri>
         </author>
         <published>2026-05-02T08:51:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Msrikrishna/robot-manipulation-lerobot: DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling]]></title>
-        <id>https://github.com/Msrikrishna/robot-manipulation-lerobot</id>
-        <link href="https://github.com/Msrikrishna/robot-manipulation-lerobot"/>
-        <updated>2026-06-17T19:04:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10432619?v=4" width="64" height="64" alt=""/><br/><div>DINO-based robot manipulation on LeRobot: custom policies, control app, hardware/sim, and DINOv3 inference tooling</div>]]></content>
-        <author>
-            <name>Msrikrishna</name>
-            <email>Msrikrishna@noreply.github.com</email>
-            <uri>https://github.com/Msrikrishna</uri>
-        </author>
-        <published>2026-06-03T07:20:33.000Z</published>
     </entry>
 </feed>
