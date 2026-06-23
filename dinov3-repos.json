@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/wangjieh/pastis_swinv2_dinov3",
+            "title": "wangjieh/pastis_swinv2_dinov3",
+            "date_modified": "2026-06-23T00:27:10.000Z",
+            "date_published": "2026-05-28T05:35:45.000Z",
+            "author": {
+                "name": "wangjieh",
+                "url": "https://github.com/wangjieh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65287357?u=570cdc7c29f63b2873ade16b89a0ed119c1b19d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/nguyenlean96/dinov3-cli",
             "title": "nguyenlean96/dinov3-cli",
-            "date_modified": "2026-06-21T20:39:01.000Z",
+            "date_modified": "2026-06-22T22:32:55.000Z",
             "date_published": "2026-05-14T03:22:36.000Z",
             "author": {
                 "name": "nguyenlean96",
@@ -17,14 +28,69 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198003162?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>",
+            "url": "https://github.com/higo522/LT-DETR",
+            "title": "higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning",
+            "date_modified": "2026-06-22T21:03:21.000Z",
+            "date_published": "2026-06-11T18:16:09.000Z",
+            "author": {
+                "name": "higo522",
+                "url": "https://github.com/higo522"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-06-21T22:01:17.000Z",
+            "date_modified": "2026-06-22T16:34:56.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleAICV:pytorch training examples.</div>",
+            "url": "https://github.com/zgcr/SimpleAICV_pytorch_training_examples",
+            "title": "zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.",
+            "date_modified": "2026-06-22T14:42:44.000Z",
+            "date_published": "2020-05-31T05:37:26.000Z",
+            "author": {
+                "name": "zgcr",
+                "url": "https://github.com/zgcr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35953653?u=56615709b30608202d983620791e03fe26eeb4d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Editor-only UE plugin for exporting StaticMesh thumbnails and ingesting DINOv3 vectors into Jade AI Services.</div>",
+            "url": "https://github.com/WICKKKKK/UnrealSceneAssembly",
+            "title": "WICKKKKK/UnrealSceneAssembly: Editor-only UE plugin for exporting StaticMesh thumbnails and ingesting DINOv3 vectors into Jade AI Services.",
+            "date_modified": "2026-06-22T11:16:01.000Z",
+            "date_published": "2026-06-01T09:02:51.000Z",
+            "author": {
+                "name": "WICKKKKK",
+                "url": "https://github.com/WICKKKKK"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119120275?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOV3+ccm+fgm</div>",
+            "url": "https://github.com/azaaa7/My_model_v1",
+            "title": "azaaa7/My_model_v1: DINOV3+ccm+fgm",
+            "date_modified": "2026-06-22T03:45:32.000Z",
+            "date_published": "2026-06-08T03:03:08.000Z",
+            "author": {
+                "name": "azaaa7",
+                "url": "https://github.com/azaaa7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/guantongpeng/DINOv3_DIOR-R",
+            "title": "guantongpeng/DINOv3_DIOR-R",
+            "date_modified": "2026-06-22T03:17:16.000Z",
+            "date_published": "2026-06-08T11:17:01.000Z",
+            "author": {
+                "name": "guantongpeng",
+                "url": "https://github.com/guantongpeng"
             }
         },
         {
@@ -94,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88928353?u=4f0afdd5dc379e31ab60a007c096adfd5eedaaa6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Per-vehicle instance segmentation for roadside/CCTV traffic. Teacher = RF-DETR-Seg-2XL (Apache) masks + DINOv3+MLP custom classes -&gt; smaller RF-DETR-Seg student. YOLO26-Seg fallback. A verified landscape study + neutral on-footage survey drove the pivot; counts are not mask AP yet. Repo: AGPL-3.0.</div>",
-            "url": "https://github.com/Gxmestk/trafficseg-foundation",
-            "title": "Gxmestk/trafficseg-foundation: Per-vehicle instance segmentation for roadside/CCTV traffic. Teacher = RF-DETR-Seg-2XL (Apache) masks + DINOv3+MLP custom classes -> smaller RF-DETR-Seg student. YOLO26-Seg fallback. A verified landscape study + neutral on-footage survey drove the pivot; counts are not mask AP yet. Repo: AGPL-3.0.",
-            "date_modified": "2026-06-20T18:14:21.000Z",
-            "date_published": "2026-06-17T17:25:13.000Z",
-            "author": {
-                "name": "Gxmestk",
-                "url": "https://github.com/Gxmestk"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188545007?u=53f6ad828478297c6b8425580f35ed56e20fdd46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/aravindp1807/MEDICALseg_dinov3-yolo-distilation_RTDTER.ipynb",
             "title": "aravindp1807/MEDICALseg_dinov3-yolo-distilation_RTDTER.ipynb",
@@ -160,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/wangjieh/pastis_swinv2_dinov3",
-            "title": "wangjieh/pastis_swinv2_dinov3",
-            "date_modified": "2026-06-18T08:38:48.000Z",
-            "date_published": "2026-05-28T05:35:45.000Z",
-            "author": {
-                "name": "wangjieh",
-                "url": "https://github.com/wangjieh"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56398966?u=9e8073da781142cacce565db6ef86788182a195d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/AhmedMohamed365/dinov3_deepstream",
             "title": "AhmedMohamed365/dinov3_deepstream",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "AhmedMohamed365",
                 "url": "https://github.com/AhmedMohamed365"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jingwang7236/dinov3-sw",
-            "title": "jingwang7236/dinov3-sw",
-            "date_modified": "2026-06-18T07:56:21.000Z",
-            "date_published": "2026-05-13T06:44:47.000Z",
-            "author": {
-                "name": "jingwang7236",
-                "url": "https://github.com/jingwang7236"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192959239?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ma950628/DINOv3",
-            "title": "ma950628/DINOv3",
-            "date_modified": "2026-06-18T07:20:39.000Z",
-            "date_published": "2026-04-18T02:43:20.000Z",
-            "author": {
-                "name": "ma950628",
-                "url": "https://github.com/ma950628"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=3d19ac91e616869bc8fa2793d2a21c5c7f734f2f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
-            "url": "https://github.com/jaychempan/V2-SAM",
-            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
-            "date_modified": "2026-06-18T02:49:16.000Z",
-            "date_published": "2025-12-10T14:01:47.000Z",
-            "author": {
-                "name": "jaychempan",
-                "url": "https://github.com/jaychempan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281135632?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-SAM: Synergizing SAM and DINOv3 for  Parameter-Efficient Polyp Segmentation and a  Challenging Benchmark Dataset</div>",
-            "url": "https://github.com/xxxy0523/SD-SAM",
-            "title": "xxxy0523/SD-SAM: SD-SAM: Synergizing SAM and DINOv3 for  Parameter-Efficient Polyp Segmentation and a  Challenging Benchmark Dataset",
-            "date_modified": "2026-06-18T02:48:19.000Z",
-            "date_published": "2026-05-02T08:51:48.000Z",
-            "author": {
-                "name": "xxxy0523",
-                "url": "https://github.com/xxxy0523"
             }
         }
     ]
