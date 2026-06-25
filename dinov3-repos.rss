@@ -2,16 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-06-24T00:51:36.562Z</updated>
+    <updated>2026-06-25T00:55:54.828Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-06-25T00:40:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.]]></title>
+        <id>https://github.com/johnamit/motoreid</id>
+        <link href="https://github.com/johnamit/motoreid"/>
+        <updated>2026-06-24T19:05:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75620312?u=8806c49054eb4620ae51aa548c5f08997486b21e&v=4" width="64" height="64" alt=""/><br/><div>A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.</div>]]></content>
+        <author>
+            <name>johnamit</name>
+            <email>johnamit@noreply.github.com</email>
+            <uri>https://github.com/johnamit</uri>
+        </author>
+        <published>2026-01-14T18:42:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
+        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
+        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
+        <updated>2026-06-24T16:25:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WeiChien5241/DINOv3-Segmentation]]></title>
+        <id>https://github.com/WeiChien5241/DINOv3-Segmentation</id>
+        <link href="https://github.com/WeiChien5241/DINOv3-Segmentation"/>
+        <updated>2026-06-24T14:51:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/146744878?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>WeiChien5241</name>
+            <email>WeiChien5241@noreply.github.com</email>
+            <uri>https://github.com/WeiChien5241</uri>
+        </author>
+        <published>2026-06-24T14:51:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[visinf/INSID3: [CVPR 2026 Oral] "INSID3: Training-Free In-Context Segmentation with DINOv3"]]></title>
+        <id>https://github.com/visinf/INSID3</id>
+        <link href="https://github.com/visinf/INSID3"/>
+        <updated>2026-06-24T13:42:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22448548?v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026 Oral] "INSID3: Training-Free In-Context Segmentation with DINOv3"</div>]]></content>
+        <author>
+            <name>visinf</name>
+            <email>visinf@noreply.github.com</email>
+            <uri>https://github.com/visinf</uri>
+        </author>
+        <published>2026-03-27T12:34:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AriaeiMehdi/Recon3D: Meta Dinov3 port for 3D medical image processing ]]></title>
+        <id>https://github.com/AriaeiMehdi/Recon3D</id>
+        <link href="https://github.com/AriaeiMehdi/Recon3D"/>
+        <updated>2026-06-24T13:36:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86190878?u=ef2e4bb10d850b21e60cf65e436ac84beaac9131&v=4" width="64" height="64" alt=""/><br/><div>Meta Dinov3 port for 3D medical image processing </div>]]></content>
+        <author>
+            <name>AriaeiMehdi</name>
+            <email>AriaeiMehdi@noreply.github.com</email>
+            <uri>https://github.com/AriaeiMehdi</uri>
+        </author>
+        <published>2026-06-24T12:27:33.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
         <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
         <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
-        <updated>2026-06-24T00:45:25.000Z</updated>
+        <updated>2026-06-24T10:44:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>wangjieh</name>
@@ -19,6 +97,19 @@
             <uri>https://github.com/wangjieh</uri>
         </author>
         <published>2026-05-28T05:35:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
+        <id>https://github.com/jingwang7236/dinov3-sw</id>
+        <link href="https://github.com/jingwang7236/dinov3-sw"/>
+        <updated>2026-06-24T02:58:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jingwang7236</name>
+            <email>jingwang7236@noreply.github.com</email>
+            <uri>https://github.com/jingwang7236</uri>
+        </author>
+        <published>2026-05-13T06:44:47.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[pablo-reyes8/tiny-dino-vit: A from-scratch PyTorch implementation of a lightweight DINO-style self-supervised Vision Transformer, featuring multi-crop training, EMA teacher-student learning, optional RoPE positional encoding, and DINOv3-inspired Gram regularization.]]></title>
@@ -32,19 +123,6 @@
             <uri>https://github.com/pablo-reyes8</uri>
         </author>
         <published>2026-06-08T01:08:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-06-23T18:32:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[kshitijrajsharma/dinov3-vhr]]></title>
@@ -89,7 +167,7 @@
         <title type="html"><![CDATA[ChristianInterno/GeoPhys: GeoPhys: The Geometry of Physical Plausibility]]></title>
         <id>https://github.com/ChristianInterno/GeoPhys</id>
         <link href="https://github.com/ChristianInterno/GeoPhys"/>
-        <updated>2026-06-23T19:46:22.000Z</updated>
+        <updated>2026-06-24T07:02:42.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/80530899?u=d031c47db881bf2129144b1899ae2f891e329031&v=4" width="64" height="64" alt=""/><br/><div>GeoPhys: The Geometry of Physical Plausibility</div>]]></content>
         <author>
             <name>ChristianInterno</name>
@@ -188,83 +266,5 @@
             <uri>https://github.com/higo522</uri>
         </author>
         <published>2026-06-11T18:16:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zgcr/SimpleAICV_pytorch_training_examples: SimpleAICV:pytorch training examples.]]></title>
-        <id>https://github.com/zgcr/SimpleAICV_pytorch_training_examples</id>
-        <link href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples"/>
-        <updated>2026-06-22T14:42:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19390485?u=d9f77e6cad56ea1c0c19ea2852b7833c76d2cf4a&v=4" width="64" height="64" alt=""/><br/><div>SimpleAICV:pytorch training examples.</div>]]></content>
-        <author>
-            <name>zgcr</name>
-            <email>zgcr@noreply.github.com</email>
-            <uri>https://github.com/zgcr</uri>
-        </author>
-        <published>2020-05-31T05:37:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R]]></title>
-        <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
-        <link href="https://github.com/guantongpeng/DINOv3_DIOR-R"/>
-        <updated>2026-06-22T03:17:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>guantongpeng</name>
-            <email>guantongpeng@noreply.github.com</email>
-            <uri>https://github.com/guantongpeng</uri>
-        </author>
-        <published>2026-06-08T11:17:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xiaofangZH/Bio-inspired-MOT: This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.]]></title>
-        <id>https://github.com/xiaofangZH/Bio-inspired-MOT</id>
-        <link href="https://github.com/xiaofangZH/Bio-inspired-MOT"/>
-        <updated>2026-06-21T14:37:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165764559?v=4" width="64" height="64" alt=""/><br/><div>This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.</div>]]></content>
-        <author>
-            <name>xiaofangZH</name>
-            <email>xiaofangZH@noreply.github.com</email>
-            <uri>https://github.com/xiaofangZH</uri>
-        </author>
-        <published>2026-06-10T01:58:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
-        <id>https://github.com/Trudes808/Dinov3-WhaleID</id>
-        <link href="https://github.com/Trudes808/Dinov3-WhaleID"/>
-        <updated>2026-06-21T14:31:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>]]></content>
-        <author>
-            <name>Trudes808</name>
-            <email>Trudes808@noreply.github.com</email>
-            <uri>https://github.com/Trudes808</uri>
-        </author>
-        <published>2025-12-19T00:23:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vzeman/tarmac: Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.]]></title>
-        <id>https://github.com/vzeman/tarmac</id>
-        <link href="https://github.com/vzeman/tarmac"/>
-        <updated>2026-06-21T13:26:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6470030?v=4" width="64" height="64" alt=""/><br/><div>Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.</div>]]></content>
-        <author>
-            <name>vzeman</name>
-            <email>vzeman@noreply.github.com</email>
-            <uri>https://github.com/vzeman</uri>
-        </author>
-        <published>2026-06-13T03:45:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
-        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
-        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-06-21T10:09:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
     </entry>
 </feed>
