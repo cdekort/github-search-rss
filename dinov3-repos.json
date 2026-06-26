@@ -6,14 +6,102 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198003162?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>",
+            "url": "https://github.com/higo522/LT-DETR",
+            "title": "higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning",
+            "date_modified": "2026-06-25T18:47:52.000Z",
+            "date_published": "2026-06-11T18:16:09.000Z",
+            "author": {
+                "name": "higo522",
+                "url": "https://github.com/higo522"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>",
+            "url": "https://github.com/YoussefAboelwafa/M2Retinexformer",
+            "title": "YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ",
+            "date_modified": "2026-06-25T16:54:58.000Z",
+            "date_published": "2026-01-04T14:18:52.000Z",
+            "author": {
+                "name": "YoussefAboelwafa",
+                "url": "https://github.com/YoussefAboelwafa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64113411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv2 / DINOv3 を PyTorch から ONNX へエクスポートするツール</div>",
+            "url": "https://github.com/Tanoshima/dino-onnx-export",
+            "title": "Tanoshima/dino-onnx-export: DINOv2 / DINOv3 を PyTorch から ONNX へエクスポートするツール",
+            "date_modified": "2026-06-25T16:23:59.000Z",
+            "date_published": "2026-06-25T16:21:07.000Z",
+            "author": {
+                "name": "Tanoshima",
+                "url": "https://github.com/Tanoshima"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-06-25T00:40:25.000Z",
+            "date_modified": "2026-06-25T16:36:45.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
+            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
+            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
+            "date_modified": "2026-06-25T12:04:29.000Z",
+            "date_published": "2026-06-21T10:09:39.000Z",
+            "author": {
+                "name": "sebspel",
+                "url": "https://github.com/sebspel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jingwang7236/dinov3-sw",
+            "title": "jingwang7236/dinov3-sw",
+            "date_modified": "2026-06-25T08:18:52.000Z",
+            "date_published": "2026-05-13T06:44:47.000Z",
+            "author": {
+                "name": "jingwang7236",
+                "url": "https://github.com/jingwang7236"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136937151?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Visual Navigation System (VNS) — GPS-denied/-resilient UAV geo-localization via DINOv3 satellite-tile matching + Kalman fusion</div>",
+            "url": "https://github.com/Ag05ccc/VBN",
+            "title": "Ag05ccc/VBN: Visual Navigation System (VNS) — GPS-denied/-resilient UAV geo-localization via DINOv3 satellite-tile matching + Kalman fusion",
+            "date_modified": "2026-06-25T06:16:41.000Z",
+            "date_published": "2026-06-25T06:16:05.000Z",
+            "author": {
+                "name": "Ag05ccc",
+                "url": "https://github.com/Ag05ccc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61898803?u=1363f257503fae7f8a70fab81f52142a7efac0d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation</div>",
+            "url": "https://github.com/Shuvo001/Hydra",
+            "title": "Shuvo001/Hydra: SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation",
+            "date_modified": "2026-06-25T06:04:01.000Z",
+            "date_published": "2026-06-25T06:02:32.000Z",
+            "author": {
+                "name": "Shuvo001",
+                "url": "https://github.com/Shuvo001"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6470030?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.</div>",
+            "url": "https://github.com/vzeman/tarmac",
+            "title": "vzeman/tarmac: Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.",
+            "date_modified": "2026-06-25T03:42:33.000Z",
+            "date_published": "2026-06-13T03:45:38.000Z",
+            "author": {
+                "name": "vzeman",
+                "url": "https://github.com/vzeman"
             }
         },
         {
@@ -25,17 +113,6 @@
             "author": {
                 "name": "johnamit",
                 "url": "https://github.com/johnamit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
-            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
-            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
-            "date_modified": "2026-06-24T16:25:13.000Z",
-            "date_published": "2026-06-21T10:09:39.000Z",
-            "author": {
-                "name": "sebspel",
-                "url": "https://github.com/sebspel"
             }
         },
         {
@@ -53,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22448548?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026 Oral] \"INSID3: Training-Free In-Context Segmentation with DINOv3\"</div>",
             "url": "https://github.com/visinf/INSID3",
             "title": "visinf/INSID3: [CVPR 2026 Oral] \"INSID3: Training-Free In-Context Segmentation with DINOv3\"",
-            "date_modified": "2026-06-24T13:42:53.000Z",
+            "date_modified": "2026-06-26T00:10:19.000Z",
             "date_published": "2026-03-27T12:34:06.000Z",
             "author": {
                 "name": "visinf",
@@ -80,17 +157,6 @@
             "author": {
                 "name": "wangjieh",
                 "url": "https://github.com/wangjieh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jingwang7236/dinov3-sw",
-            "title": "jingwang7236/dinov3-sw",
-            "date_modified": "2026-06-24T02:58:35.000Z",
-            "date_published": "2026-05-13T06:44:47.000Z",
-            "author": {
-                "name": "jingwang7236",
-                "url": "https://github.com/jingwang7236"
             }
         },
         {
@@ -141,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80530899?u=d031c47db881bf2129144b1899ae2f891e329031&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GeoPhys: The Geometry of Physical Plausibility</div>",
             "url": "https://github.com/ChristianInterno/GeoPhys",
             "title": "ChristianInterno/GeoPhys: GeoPhys: The Geometry of Physical Plausibility",
-            "date_modified": "2026-06-24T07:02:42.000Z",
+            "date_modified": "2026-06-25T13:25:38.000Z",
             "date_published": "2026-06-08T18:45:25.000Z",
             "author": {
                 "name": "ChristianInterno",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "azaaa7",
                 "url": "https://github.com/azaaa7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106477592?u=39bcc409f940cd5820abb382393f010af973239c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/konata3b/tip_adapter_SLIP2_DINOv3",
-            "title": "konata3b/tip_adapter_SLIP2_DINOv3",
-            "date_modified": "2026-06-23T06:37:19.000Z",
-            "date_published": "2026-06-23T06:35:26.000Z",
-            "author": {
-                "name": "konata3b",
-                "url": "https://github.com/konata3b"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169100359?u=6bf0e1ac26a23d92d39e5635b830f0147ec19d5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOV3 backbone for survival prediction prognosis</div>",
-            "url": "https://github.com/INBOARDBOT/DINOVsis",
-            "title": "INBOARDBOT/DINOVsis: DINOV3 backbone for survival prediction prognosis",
-            "date_modified": "2026-06-23T03:13:50.000Z",
-            "date_published": "2026-06-23T02:55:40.000Z",
-            "author": {
-                "name": "INBOARDBOT",
-                "url": "https://github.com/INBOARDBOT"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67576175?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>8th place solution and notes for the Handwritten to Data (RUKOPYS) Ukrainian HTR competition: detector ensemble, DINOv3+SigLIP2 type router, Qwen3.5-9B LoRA OCR, and a logp_sum likelihood test-time ensemble.</div>",
-            "url": "https://github.com/Sekinal/handwritten-to-data",
-            "title": "Sekinal/handwritten-to-data: 8th place solution and notes for the Handwritten to Data (RUKOPYS) Ukrainian HTR competition: detector ensemble, DINOv3+SigLIP2 type router, Qwen3.5-9B LoRA OCR, and a logp_sum likelihood test-time ensemble.",
-            "date_modified": "2026-06-23T02:55:03.000Z",
-            "date_published": "2026-06-23T02:54:46.000Z",
-            "author": {
-                "name": "Sekinal",
-                "url": "https://github.com/Sekinal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35953653?u=56615709b30608202d983620791e03fe26eeb4d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Editor-only UE plugin for exporting StaticMesh thumbnails and ingesting DINOv3 vectors into Jade AI Services.</div>",
-            "url": "https://github.com/WICKKKKK/UnrealSceneAssembly",
-            "title": "WICKKKKK/UnrealSceneAssembly: Editor-only UE plugin for exporting StaticMesh thumbnails and ingesting DINOv3 vectors into Jade AI Services.",
-            "date_modified": "2026-06-23T02:28:20.000Z",
-            "date_published": "2026-06-01T09:02:51.000Z",
-            "author": {
-                "name": "WICKKKKK",
-                "url": "https://github.com/WICKKKKK"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65287357?u=570cdc7c29f63b2873ade16b89a0ed119c1b19d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nguyenlean96/dinov3-cli",
-            "title": "nguyenlean96/dinov3-cli",
-            "date_modified": "2026-06-22T22:32:55.000Z",
-            "date_published": "2026-05-14T03:22:36.000Z",
-            "author": {
-                "name": "nguyenlean96",
-                "url": "https://github.com/nguyenlean96"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198003162?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>",
-            "url": "https://github.com/higo522/LT-DETR",
-            "title": "higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning",
-            "date_modified": "2026-06-22T21:03:21.000Z",
-            "date_published": "2026-06-11T18:16:09.000Z",
-            "author": {
-                "name": "higo522",
-                "url": "https://github.com/higo522"
             }
         }
     ]
