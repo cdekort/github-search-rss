@@ -2,11 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-06-28T00:57:56.843Z</updated>
+    <updated>2026-06-29T00:59:08.162Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
+        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
+        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
+        <updated>2026-06-28T18:15:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShijianRuan/dinov3-medical-seg]]></title>
+        <id>https://github.com/ShijianRuan/dinov3-medical-seg</id>
+        <link href="https://github.com/ShijianRuan/dinov3-medical-seg"/>
+        <updated>2026-06-28T15:01:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45443019?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ShijianRuan</name>
+            <email>ShijianRuan@noreply.github.com</email>
+            <uri>https://github.com/ShijianRuan</uri>
+        </author>
+        <published>2026-06-28T14:58:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[henryliang3027/good_feature: Box brand recognition using DINOv3 embeddings and cosine similarity]]></title>
+        <id>https://github.com/henryliang3027/good_feature</id>
+        <link href="https://github.com/henryliang3027/good_feature"/>
+        <updated>2026-06-28T13:17:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90501505?v=4" width="64" height="64" alt=""/><br/><div>Box brand recognition using DINOv3 embeddings and cosine similarity</div>]]></content>
+        <author>
+            <name>henryliang3027</name>
+            <email>henryliang3027@noreply.github.com</email>
+            <uri>https://github.com/henryliang3027</uri>
+        </author>
+        <published>2026-06-28T13:13:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shuvo001/Hydra: SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation]]></title>
+        <id>https://github.com/Shuvo001/Hydra</id>
+        <link href="https://github.com/Shuvo001/Hydra"/>
+        <updated>2026-06-28T06:51:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61898803?u=1363f257503fae7f8a70fab81f52142a7efac0d2&v=4" width="64" height="64" alt=""/><br/><div>SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation</div>]]></content>
+        <author>
+            <name>Shuvo001</name>
+            <email>Shuvo001@noreply.github.com</email>
+            <uri>https://github.com/Shuvo001</uri>
+        </author>
+        <published>2026-06-25T06:02:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
+        <id>https://github.com/little51/dinov3-course</id>
+        <link href="https://github.com/little51/dinov3-course"/>
+        <updated>2026-06-28T01:03:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
+        <author>
+            <name>little51</name>
+            <email>little51@noreply.github.com</email>
+            <uri>https://github.com/little51</uri>
+        </author>
+        <published>2026-05-03T12:40:56.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ethanhaines/NEST: DINOv3 Pollen Grain Similarity Analyzer]]></title>
         <id>https://github.com/ethanhaines/NEST</id>
@@ -19,19 +84,6 @@
             <uri>https://github.com/ethanhaines</uri>
         </author>
         <published>2026-02-09T19:06:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
-        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
-        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-06-27T11:25:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[zhuwenmao/snowlabel: ❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.]]></title>
@@ -115,7 +167,7 @@
         <title type="html"><![CDATA[visinf/INSID3: [CVPR 2026 Oral] "INSID3: Training-Free In-Context Segmentation with DINOv3"]]></title>
         <id>https://github.com/visinf/INSID3</id>
         <link href="https://github.com/visinf/INSID3"/>
-        <updated>2026-06-27T14:35:18.000Z</updated>
+        <updated>2026-06-28T23:47:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22448548?v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026 Oral] "INSID3: Training-Free In-Context Segmentation with DINOv3"</div>]]></content>
         <author>
             <name>visinf</name>
@@ -214,57 +266,5 @@
             <uri>https://github.com/Tanoshima</uri>
         </author>
         <published>2026-06-25T16:21:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ag05ccc/VBN: Visual Navigation System (VNS) — GPS-denied/-resilient UAV geo-localization via DINOv3 satellite-tile matching + Kalman fusion]]></title>
-        <id>https://github.com/Ag05ccc/VBN</id>
-        <link href="https://github.com/Ag05ccc/VBN"/>
-        <updated>2026-06-25T06:16:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136937151?v=4" width="64" height="64" alt=""/><br/><div>Visual Navigation System (VNS) — GPS-denied/-resilient UAV geo-localization via DINOv3 satellite-tile matching + Kalman fusion</div>]]></content>
-        <author>
-            <name>Ag05ccc</name>
-            <email>Ag05ccc@noreply.github.com</email>
-            <uri>https://github.com/Ag05ccc</uri>
-        </author>
-        <published>2026-06-25T06:16:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shuvo001/Hydra: SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation]]></title>
-        <id>https://github.com/Shuvo001/Hydra</id>
-        <link href="https://github.com/Shuvo001/Hydra"/>
-        <updated>2026-06-25T06:04:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61898803?u=1363f257503fae7f8a70fab81f52142a7efac0d2&v=4" width="64" height="64" alt=""/><br/><div>SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation</div>]]></content>
-        <author>
-            <name>Shuvo001</name>
-            <email>Shuvo001@noreply.github.com</email>
-            <uri>https://github.com/Shuvo001</uri>
-        </author>
-        <published>2026-06-25T06:02:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vzeman/tarmac: Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.]]></title>
-        <id>https://github.com/vzeman/tarmac</id>
-        <link href="https://github.com/vzeman/tarmac"/>
-        <updated>2026-06-25T03:42:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6470030?v=4" width="64" height="64" alt=""/><br/><div>Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.</div>]]></content>
-        <author>
-            <name>vzeman</name>
-            <email>vzeman@noreply.github.com</email>
-            <uri>https://github.com/vzeman</uri>
-        </author>
-        <published>2026-06-13T03:45:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.]]></title>
-        <id>https://github.com/johnamit/motoreid</id>
-        <link href="https://github.com/johnamit/motoreid"/>
-        <updated>2026-06-24T19:05:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75620312?u=8806c49054eb4620ae51aa548c5f08997486b21e&v=4" width="64" height="64" alt=""/><br/><div>A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.</div>]]></content>
-        <author>
-            <name>johnamit</name>
-            <email>johnamit@noreply.github.com</email>
-            <uri>https://github.com/johnamit</uri>
-        </author>
-        <published>2026-01-14T18:42:24.000Z</published>
     </entry>
 </feed>

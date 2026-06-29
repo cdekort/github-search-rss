@@ -6,6 +6,61 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
+            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
+            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
+            "date_modified": "2026-06-28T18:15:45.000Z",
+            "date_published": "2026-06-21T10:09:39.000Z",
+            "author": {
+                "name": "sebspel",
+                "url": "https://github.com/sebspel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45443019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ShijianRuan/dinov3-medical-seg",
+            "title": "ShijianRuan/dinov3-medical-seg",
+            "date_modified": "2026-06-28T15:01:45.000Z",
+            "date_published": "2026-06-28T14:58:32.000Z",
+            "author": {
+                "name": "ShijianRuan",
+                "url": "https://github.com/ShijianRuan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90501505?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Box brand recognition using DINOv3 embeddings and cosine similarity</div>",
+            "url": "https://github.com/henryliang3027/good_feature",
+            "title": "henryliang3027/good_feature: Box brand recognition using DINOv3 embeddings and cosine similarity",
+            "date_modified": "2026-06-28T13:17:23.000Z",
+            "date_published": "2026-06-28T13:13:39.000Z",
+            "author": {
+                "name": "henryliang3027",
+                "url": "https://github.com/henryliang3027"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61898803?u=1363f257503fae7f8a70fab81f52142a7efac0d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation</div>",
+            "url": "https://github.com/Shuvo001/Hydra",
+            "title": "Shuvo001/Hydra: SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation",
+            "date_modified": "2026-06-28T06:51:17.000Z",
+            "date_published": "2026-06-25T06:02:32.000Z",
+            "author": {
+                "name": "Shuvo001",
+                "url": "https://github.com/Shuvo001"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
+            "url": "https://github.com/little51/dinov3-course",
+            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
+            "date_modified": "2026-06-28T01:03:57.000Z",
+            "date_published": "2026-05-03T12:40:56.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122860615?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Pollen Grain Similarity Analyzer</div>",
             "url": "https://github.com/ethanhaines/NEST",
             "title": "ethanhaines/NEST: DINOv3 Pollen Grain Similarity Analyzer",
@@ -14,17 +69,6 @@
             "author": {
                 "name": "ethanhaines",
                 "url": "https://github.com/ethanhaines"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
-            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
-            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
-            "date_modified": "2026-06-27T11:25:29.000Z",
-            "date_published": "2026-06-21T10:09:39.000Z",
-            "author": {
-                "name": "sebspel",
-                "url": "https://github.com/sebspel"
             }
         },
         {
@@ -97,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22448548?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026 Oral] \"INSID3: Training-Free In-Context Segmentation with DINOv3\"</div>",
             "url": "https://github.com/visinf/INSID3",
             "title": "visinf/INSID3: [CVPR 2026 Oral] \"INSID3: Training-Free In-Context Segmentation with DINOv3\"",
-            "date_modified": "2026-06-27T14:35:18.000Z",
+            "date_modified": "2026-06-28T23:47:35.000Z",
             "date_published": "2026-03-27T12:34:06.000Z",
             "author": {
                 "name": "visinf",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Tanoshima",
                 "url": "https://github.com/Tanoshima"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136937151?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Visual Navigation System (VNS) — GPS-denied/-resilient UAV geo-localization via DINOv3 satellite-tile matching + Kalman fusion</div>",
-            "url": "https://github.com/Ag05ccc/VBN",
-            "title": "Ag05ccc/VBN: Visual Navigation System (VNS) — GPS-denied/-resilient UAV geo-localization via DINOv3 satellite-tile matching + Kalman fusion",
-            "date_modified": "2026-06-25T06:16:41.000Z",
-            "date_published": "2026-06-25T06:16:05.000Z",
-            "author": {
-                "name": "Ag05ccc",
-                "url": "https://github.com/Ag05ccc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61898803?u=1363f257503fae7f8a70fab81f52142a7efac0d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation</div>",
-            "url": "https://github.com/Shuvo001/Hydra",
-            "title": "Shuvo001/Hydra: SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation",
-            "date_modified": "2026-06-25T06:04:01.000Z",
-            "date_published": "2026-06-25T06:02:32.000Z",
-            "author": {
-                "name": "Shuvo001",
-                "url": "https://github.com/Shuvo001"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6470030?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.</div>",
-            "url": "https://github.com/vzeman/tarmac",
-            "title": "vzeman/tarmac: Road surface quality analysis via DINOv3 embeddings, SupCon fine-tuning and clustering. Classifies asphalt, concrete and other surfaces by quality from photos/video.",
-            "date_modified": "2026-06-25T03:42:33.000Z",
-            "date_published": "2026-06-13T03:45:38.000Z",
-            "author": {
-                "name": "vzeman",
-                "url": "https://github.com/vzeman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75620312?u=8806c49054eb4620ae51aa548c5f08997486b21e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.</div>",
-            "url": "https://github.com/johnamit/motoreid",
-            "title": "johnamit/motoreid: A deep learning pipeline for MotoGP team detection, tracking, and re-identification from race broadcast footage. This system combines YOLOv8 for robust object detection with DINOv3 (Vision Transformer) embeddings for semantic team classification.",
-            "date_modified": "2026-06-24T19:05:33.000Z",
-            "date_published": "2026-01-14T18:42:24.000Z",
-            "author": {
-                "name": "johnamit",
-                "url": "https://github.com/johnamit"
             }
         }
     ]
