@@ -6,14 +6,102 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47831888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>",
+            "url": "https://github.com/Brezemil/_trainer_lightly",
+            "title": "Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers",
+            "date_modified": "2026-06-30T22:14:53.000Z",
+            "date_published": "2026-06-19T20:02:09.000Z",
+            "author": {
+                "name": "Brezemil",
+                "url": "https://github.com/Brezemil"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-07-01T00:41:34.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198003162?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>",
             "url": "https://github.com/higo522/LT-DETR",
             "title": "higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning",
-            "date_modified": "2026-06-29T22:44:14.000Z",
+            "date_modified": "2026-06-30T17:53:32.000Z",
             "date_published": "2026-06-11T18:16:09.000Z",
             "author": {
                 "name": "higo522",
                 "url": "https://github.com/higo522"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77196741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>",
+            "url": "https://github.com/bensh240/crohn-ct-mr-unified",
+            "title": "bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.",
+            "date_modified": "2026-06-30T13:56:53.000Z",
+            "date_published": "2026-06-09T20:48:10.000Z",
+            "author": {
+                "name": "bensh240",
+                "url": "https://github.com/bensh240"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
+            "url": "https://github.com/kingwingfly/lets_embed",
+            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
+            "date_modified": "2026-06-30T17:58:50.000Z",
+            "date_published": "2026-05-17T07:13:23.000Z",
+            "author": {
+                "name": "kingwingfly",
+                "url": "https://github.com/kingwingfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228338166?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics</div>",
+            "url": "https://github.com/jhpark-ai/FROST",
+            "title": "jhpark-ai/FROST: FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics",
+            "date_modified": "2026-06-30T05:36:08.000Z",
+            "date_published": "2026-06-30T05:26:07.000Z",
+            "author": {
+                "name": "jhpark-ai",
+                "url": "https://github.com/jhpark-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119120275?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOV3+ccm+fgm</div>",
+            "url": "https://github.com/azaaa7/My_model_v1",
+            "title": "azaaa7/My_model_v1: DINOV3+ccm+fgm",
+            "date_modified": "2026-06-30T03:14:36.000Z",
+            "date_published": "2026-06-08T03:03:08.000Z",
+            "author": {
+                "name": "azaaa7",
+                "url": "https://github.com/azaaa7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/guantongpeng/DINOv3_DIOR-R",
+            "title": "guantongpeng/DINOv3_DIOR-R",
+            "date_modified": "2026-06-30T03:11:36.000Z",
+            "date_published": "2026-06-08T11:17:01.000Z",
+            "author": {
+                "name": "guantongpeng",
+                "url": "https://github.com/guantongpeng"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jingwang7236/dinov3-sw",
+            "title": "jingwang7236/dinov3-sw",
+            "date_modified": "2026-06-30T01:49:59.000Z",
+            "date_published": "2026-05-13T06:44:47.000Z",
+            "author": {
+                "name": "jingwang7236",
+                "url": "https://github.com/jingwang7236"
             }
         },
         {
@@ -28,28 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77196741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>",
-            "url": "https://github.com/bensh240/crohn-ct-mr-unified",
-            "title": "bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.",
-            "date_modified": "2026-06-29T16:05:32.000Z",
-            "date_published": "2026-06-09T20:48:10.000Z",
-            "author": {
-                "name": "bensh240",
-                "url": "https://github.com/bensh240"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47831888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>",
-            "url": "https://github.com/Brezemil/_trainer_lightly",
-            "title": "Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers",
-            "date_modified": "2026-06-29T15:32:56.000Z",
-            "date_published": "2026-06-19T20:02:09.000Z",
-            "author": {
-                "name": "Brezemil",
-                "url": "https://github.com/Brezemil"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45443019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ShijianRuan/dinov3-medical-seg",
             "title": "ShijianRuan/dinov3-medical-seg",
@@ -58,17 +124,6 @@
             "author": {
                 "name": "ShijianRuan",
                 "url": "https://github.com/ShijianRuan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-06-29T13:37:47.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -102,28 +157,6 @@
             "author": {
                 "name": "sebspel",
                 "url": "https://github.com/sebspel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119120275?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOV3+ccm+fgm</div>",
-            "url": "https://github.com/azaaa7/My_model_v1",
-            "title": "azaaa7/My_model_v1: DINOV3+ccm+fgm",
-            "date_modified": "2026-06-29T08:53:19.000Z",
-            "date_published": "2026-06-08T03:03:08.000Z",
-            "author": {
-                "name": "azaaa7",
-                "url": "https://github.com/azaaa7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jingwang7236/dinov3-sw",
-            "title": "jingwang7236/dinov3-sw",
-            "date_modified": "2026-06-29T07:55:59.000Z",
-            "date_published": "2026-05-13T06:44:47.000Z",
-            "author": {
-                "name": "jingwang7236",
-                "url": "https://github.com/jingwang7236"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "ethanhaines",
                 "url": "https://github.com/ethanhaines"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192683467?u=40a5e281bb422ba8d25f920d1c5f2586acb832fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.</div>",
-            "url": "https://github.com/zhuwenmao/snowlabel",
-            "title": "zhuwenmao/snowlabel: ❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.",
-            "date_modified": "2026-06-27T08:30:18.000Z",
-            "date_published": "2026-06-27T07:56:36.000Z",
-            "author": {
-                "name": "zhuwenmao",
-                "url": "https://github.com/zhuwenmao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/guantongpeng/DINOv3_DIOR-R",
-            "title": "guantongpeng/DINOv3_DIOR-R",
-            "date_modified": "2026-06-27T07:39:49.000Z",
-            "date_published": "2026-06-08T11:17:01.000Z",
-            "author": {
-                "name": "guantongpeng",
-                "url": "https://github.com/guantongpeng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Swift-MLX port of Pixal3D / Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D ModelPackage. Built with DINOv3.</div>",
-            "url": "https://github.com/xocialize/mlx-trellis2-swift",
-            "title": "xocialize/mlx-trellis2-swift: Swift-MLX port of Pixal3D / Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D ModelPackage. Built with DINOv3.",
-            "date_modified": "2026-06-27T07:03:03.000Z",
-            "date_published": "2026-06-27T06:31:49.000Z",
-            "author": {
-                "name": "xocialize",
-                "url": "https://github.com/xocialize"
             }
         }
     ]
