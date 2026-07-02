@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-01T00:59:15.600Z</updated>
+    <updated>2026-07-02T00:55:40.698Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[jhpark-ai/FROST: FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics]]></title>
+        <id>https://github.com/jhpark-ai/FROST</id>
+        <link href="https://github.com/jhpark-ai/FROST"/>
+        <updated>2026-07-01T23:53:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/228338166?v=4" width="64" height="64" alt=""/><br/><div>FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics</div>]]></content>
+        <author>
+            <name>jhpark-ai</name>
+            <email>jhpark-ai@noreply.github.com</email>
+            <uri>https://github.com/jhpark-ai</uri>
+        </author>
+        <published>2026-06-30T05:26:07.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers]]></title>
         <id>https://github.com/Brezemil/_trainer_lightly</id>
         <link href="https://github.com/Brezemil/_trainer_lightly"/>
-        <updated>2026-06-30T22:14:53.000Z</updated>
+        <updated>2026-07-01T21:45:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47831888?v=4" width="64" height="64" alt=""/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>]]></content>
         <author>
             <name>Brezemil</name>
@@ -21,10 +34,23 @@
         <published>2026-06-19T20:02:09.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A-SHOJAEI/scannetpp-dinov3]]></title>
+        <id>https://github.com/A-SHOJAEI/scannetpp-dinov3</id>
+        <link href="https://github.com/A-SHOJAEI/scannetpp-dinov3"/>
+        <updated>2026-07-01T19:36:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/196561008?u=b2e89e3c9acada657710a3e9d4e12b152f7f0588&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>A-SHOJAEI</name>
+            <email>A-SHOJAEI@noreply.github.com</email>
+            <uri>https://github.com/A-SHOJAEI</uri>
+        </author>
+        <published>2026-07-01T19:36:31.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-01T00:41:34.000Z</updated>
+        <updated>2026-07-01T16:34:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -32,6 +58,97 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
+        <id>https://github.com/kingwingfly/lets_embed</id>
+        <link href="https://github.com/kingwingfly/lets_embed"/>
+        <updated>2026-07-01T15:03:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
+        <author>
+            <name>kingwingfly</name>
+            <email>kingwingfly@noreply.github.com</email>
+            <uri>https://github.com/kingwingfly</uri>
+        </author>
+        <published>2026-05-17T07:13:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wleilei/OV-DEIM: [OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation]]></title>
+        <id>https://github.com/wleilei/OV-DEIM</id>
+        <link href="https://github.com/wleilei/OV-DEIM"/>
+        <updated>2026-07-01T14:39:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65398844?u=c62d3c847068a2e476b71fd89d8add7eef4b3f67&v=4" width="64" height="64" alt=""/><br/><div>[OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation</div>]]></content>
+        <author>
+            <name>wleilei</name>
+            <email>wleilei@noreply.github.com</email>
+            <uri>https://github.com/wleilei</uri>
+        </author>
+        <published>2026-03-02T07:23:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adiezsanchez/lisaoya_hcs_embed: Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head]]></title>
+        <id>https://github.com/adiezsanchez/lisaoya_hcs_embed</id>
+        <link href="https://github.com/adiezsanchez/lisaoya_hcs_embed"/>
+        <updated>2026-07-01T13:34:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138788397?u=1a9bcfb4daf4b4916867e641cee23ce39310aa6e&v=4" width="64" height="64" alt=""/><br/><div>Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head</div>]]></content>
+        <author>
+            <name>adiezsanchez</name>
+            <email>adiezsanchez@noreply.github.com</email>
+            <uri>https://github.com/adiezsanchez</uri>
+        </author>
+        <published>2026-07-01T07:18:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R]]></title>
+        <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
+        <link href="https://github.com/guantongpeng/DINOv3_DIOR-R"/>
+        <updated>2026-07-01T08:37:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>guantongpeng</name>
+            <email>guantongpeng@noreply.github.com</email>
+            <uri>https://github.com/guantongpeng</uri>
+        </author>
+        <published>2026-06-08T11:17:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yqli00000/PATE-Forensics: HIT_VIRLAB submission package for Track 3 of the IJCAI 2026 Challenge, based on DINOv3.]]></title>
+        <id>https://github.com/yqli00000/PATE-Forensics</id>
+        <link href="https://github.com/yqli00000/PATE-Forensics"/>
+        <updated>2026-07-01T10:11:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/131748788?u=b7f9b4311fc79345e33a19d0a87e545404b54aed&v=4" width="64" height="64" alt=""/><br/><div>HIT_VIRLAB submission package for Track 3 of the IJCAI 2026 Challenge, based on DINOv3.</div>]]></content>
+        <author>
+            <name>yqli00000</name>
+            <email>yqli00000@noreply.github.com</email>
+            <uri>https://github.com/yqli00000</uri>
+        </author>
+        <published>2026-06-17T09:27:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
+        <id>https://github.com/jaychempan/V2-SAM</id>
+        <link href="https://github.com/jaychempan/V2-SAM"/>
+        <updated>2026-07-01T08:14:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=3d19ac91e616869bc8fa2793d2a21c5c7f734f2f&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
+        <author>
+            <name>jaychempan</name>
+            <email>jaychempan@noreply.github.com</email>
+            <uri>https://github.com/jaychempan</uri>
+        </author>
+        <published>2025-12-10T14:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eclipse0922/dinov3_tensorrt]]></title>
+        <id>https://github.com/eclipse0922/dinov3_tensorrt</id>
+        <link href="https://github.com/eclipse0922/dinov3_tensorrt"/>
+        <updated>2026-07-01T01:34:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6214316?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>eclipse0922</name>
+            <email>eclipse0922@noreply.github.com</email>
+            <uri>https://github.com/eclipse0922</uri>
+        </author>
+        <published>2026-06-30T03:09:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
@@ -60,32 +177,6 @@
         <published>2026-06-09T20:48:10.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-06-30T17:58:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jhpark-ai/FROST: FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics]]></title>
-        <id>https://github.com/jhpark-ai/FROST</id>
-        <link href="https://github.com/jhpark-ai/FROST"/>
-        <updated>2026-06-30T05:36:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/228338166?v=4" width="64" height="64" alt=""/><br/><div>FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics</div>]]></content>
-        <author>
-            <name>jhpark-ai</name>
-            <email>jhpark-ai@noreply.github.com</email>
-            <uri>https://github.com/jhpark-ai</uri>
-        </author>
-        <published>2026-06-30T05:26:07.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[azaaa7/My_model_v1: DINOV3+ccm+fgm]]></title>
         <id>https://github.com/azaaa7/My_model_v1</id>
         <link href="https://github.com/azaaa7/My_model_v1"/>
@@ -97,19 +188,6 @@
             <uri>https://github.com/azaaa7</uri>
         </author>
         <published>2026-06-08T03:03:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R]]></title>
-        <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
-        <link href="https://github.com/guantongpeng/DINOv3_DIOR-R"/>
-        <updated>2026-06-30T03:11:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>guantongpeng</name>
-            <email>guantongpeng@noreply.github.com</email>
-            <uri>https://github.com/guantongpeng</uri>
-        </author>
-        <published>2026-06-08T11:17:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
@@ -188,83 +266,5 @@
             <uri>https://github.com/sebspel</uri>
         </author>
         <published>2026-06-21T10:09:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
-        <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
-        <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
-        <updated>2026-06-29T06:35:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>wangjieh</name>
-            <email>wangjieh@noreply.github.com</email>
-            <uri>https://github.com/wangjieh</uri>
-        </author>
-        <published>2026-05-28T05:35:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HySonLab/PHAROS-AIF-MIH: Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis]]></title>
-        <id>https://github.com/HySonLab/PHAROS-AIF-MIH</id>
-        <link href="https://github.com/HySonLab/PHAROS-AIF-MIH"/>
-        <updated>2026-06-29T03:20:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108565956?v=4" width="64" height="64" alt=""/><br/><div>Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis</div>]]></content>
-        <author>
-            <name>HySonLab</name>
-            <email>HySonLab@noreply.github.com</email>
-            <uri>https://github.com/HySonLab</uri>
-        </author>
-        <published>2026-03-13T13:45:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[henryliang3027/good_feature: Box brand recognition using DINOv3 embeddings and cosine similarity]]></title>
-        <id>https://github.com/henryliang3027/good_feature</id>
-        <link href="https://github.com/henryliang3027/good_feature"/>
-        <updated>2026-06-28T13:17:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90501505?v=4" width="64" height="64" alt=""/><br/><div>Box brand recognition using DINOv3 embeddings and cosine similarity</div>]]></content>
-        <author>
-            <name>henryliang3027</name>
-            <email>henryliang3027@noreply.github.com</email>
-            <uri>https://github.com/henryliang3027</uri>
-        </author>
-        <published>2026-06-28T13:13:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shuvo001/Hydra: SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation]]></title>
-        <id>https://github.com/Shuvo001/Hydra</id>
-        <link href="https://github.com/Shuvo001/Hydra"/>
-        <updated>2026-06-28T06:51:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61898803?u=1363f257503fae7f8a70fab81f52142a7efac0d2&v=4" width="64" height="64" alt=""/><br/><div>SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation</div>]]></content>
-        <author>
-            <name>Shuvo001</name>
-            <email>Shuvo001@noreply.github.com</email>
-            <uri>https://github.com/Shuvo001</uri>
-        </author>
-        <published>2026-06-25T06:02:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
-        <id>https://github.com/little51/dinov3-course</id>
-        <link href="https://github.com/little51/dinov3-course"/>
-        <updated>2026-06-29T10:16:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
-        <author>
-            <name>little51</name>
-            <email>little51@noreply.github.com</email>
-            <uri>https://github.com/little51</uri>
-        </author>
-        <published>2026-05-03T12:40:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ethanhaines/NEST: DINOv3 Pollen Grain Similarity Analyzer]]></title>
-        <id>https://github.com/ethanhaines/NEST</id>
-        <link href="https://github.com/ethanhaines/NEST"/>
-        <updated>2026-06-27T18:24:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/122860615?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Pollen Grain Similarity Analyzer</div>]]></content>
-        <author>
-            <name>ethanhaines</name>
-            <email>ethanhaines@noreply.github.com</email>
-            <uri>https://github.com/ethanhaines</uri>
-        </author>
-        <published>2026-02-09T19:06:54.000Z</published>
     </entry>
 </feed>

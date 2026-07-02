@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228338166?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics</div>",
+            "url": "https://github.com/jhpark-ai/FROST",
+            "title": "jhpark-ai/FROST: FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics",
+            "date_modified": "2026-07-01T23:53:47.000Z",
+            "date_published": "2026-06-30T05:26:07.000Z",
+            "author": {
+                "name": "jhpark-ai",
+                "url": "https://github.com/jhpark-ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47831888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>",
             "url": "https://github.com/Brezemil/_trainer_lightly",
             "title": "Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers",
-            "date_modified": "2026-06-30T22:14:53.000Z",
+            "date_modified": "2026-07-01T21:45:55.000Z",
             "date_published": "2026-06-19T20:02:09.000Z",
             "author": {
                 "name": "Brezemil",
@@ -17,14 +28,102 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196561008?u=b2e89e3c9acada657710a3e9d4e12b152f7f0588&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/A-SHOJAEI/scannetpp-dinov3",
+            "title": "A-SHOJAEI/scannetpp-dinov3",
+            "date_modified": "2026-07-01T19:36:38.000Z",
+            "date_published": "2026-07-01T19:36:31.000Z",
+            "author": {
+                "name": "A-SHOJAEI",
+                "url": "https://github.com/A-SHOJAEI"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-07-01T00:41:34.000Z",
+            "date_modified": "2026-07-01T16:34:57.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
+            "url": "https://github.com/kingwingfly/lets_embed",
+            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
+            "date_modified": "2026-07-01T15:03:10.000Z",
+            "date_published": "2026-05-17T07:13:23.000Z",
+            "author": {
+                "name": "kingwingfly",
+                "url": "https://github.com/kingwingfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65398844?u=c62d3c847068a2e476b71fd89d8add7eef4b3f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation</div>",
+            "url": "https://github.com/wleilei/OV-DEIM",
+            "title": "wleilei/OV-DEIM: [OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation",
+            "date_modified": "2026-07-01T14:39:58.000Z",
+            "date_published": "2026-03-02T07:23:29.000Z",
+            "author": {
+                "name": "wleilei",
+                "url": "https://github.com/wleilei"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138788397?u=1a9bcfb4daf4b4916867e641cee23ce39310aa6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head</div>",
+            "url": "https://github.com/adiezsanchez/lisaoya_hcs_embed",
+            "title": "adiezsanchez/lisaoya_hcs_embed: Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head",
+            "date_modified": "2026-07-01T13:34:15.000Z",
+            "date_published": "2026-07-01T07:18:56.000Z",
+            "author": {
+                "name": "adiezsanchez",
+                "url": "https://github.com/adiezsanchez"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/guantongpeng/DINOv3_DIOR-R",
+            "title": "guantongpeng/DINOv3_DIOR-R",
+            "date_modified": "2026-07-01T08:37:20.000Z",
+            "date_published": "2026-06-08T11:17:01.000Z",
+            "author": {
+                "name": "guantongpeng",
+                "url": "https://github.com/guantongpeng"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131748788?u=b7f9b4311fc79345e33a19d0a87e545404b54aed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HIT_VIRLAB submission package for Track 3 of the IJCAI 2026 Challenge, based on DINOv3.</div>",
+            "url": "https://github.com/yqli00000/PATE-Forensics",
+            "title": "yqli00000/PATE-Forensics: HIT_VIRLAB submission package for Track 3 of the IJCAI 2026 Challenge, based on DINOv3.",
+            "date_modified": "2026-07-01T10:11:46.000Z",
+            "date_published": "2026-06-17T09:27:20.000Z",
+            "author": {
+                "name": "yqli00000",
+                "url": "https://github.com/yqli00000"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=3d19ac91e616869bc8fa2793d2a21c5c7f734f2f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
+            "url": "https://github.com/jaychempan/V2-SAM",
+            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
+            "date_modified": "2026-07-01T08:14:42.000Z",
+            "date_published": "2025-12-10T14:01:47.000Z",
+            "author": {
+                "name": "jaychempan",
+                "url": "https://github.com/jaychempan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6214316?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/eclipse0922/dinov3_tensorrt",
+            "title": "eclipse0922/dinov3_tensorrt",
+            "date_modified": "2026-07-01T01:34:41.000Z",
+            "date_published": "2026-06-30T03:09:52.000Z",
+            "author": {
+                "name": "eclipse0922",
+                "url": "https://github.com/eclipse0922"
             }
         },
         {
@@ -50,28 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
-            "url": "https://github.com/kingwingfly/lets_embed",
-            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
-            "date_modified": "2026-06-30T17:58:50.000Z",
-            "date_published": "2026-05-17T07:13:23.000Z",
-            "author": {
-                "name": "kingwingfly",
-                "url": "https://github.com/kingwingfly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228338166?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics</div>",
-            "url": "https://github.com/jhpark-ai/FROST",
-            "title": "jhpark-ai/FROST: FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics",
-            "date_modified": "2026-06-30T05:36:08.000Z",
-            "date_published": "2026-06-30T05:26:07.000Z",
-            "author": {
-                "name": "jhpark-ai",
-                "url": "https://github.com/jhpark-ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119120275?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOV3+ccm+fgm</div>",
             "url": "https://github.com/azaaa7/My_model_v1",
             "title": "azaaa7/My_model_v1: DINOV3+ccm+fgm",
@@ -80,17 +157,6 @@
             "author": {
                 "name": "azaaa7",
                 "url": "https://github.com/azaaa7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/guantongpeng/DINOv3_DIOR-R",
-            "title": "guantongpeng/DINOv3_DIOR-R",
-            "date_modified": "2026-06-30T03:11:36.000Z",
-            "date_published": "2026-06-08T11:17:01.000Z",
-            "author": {
-                "name": "guantongpeng",
-                "url": "https://github.com/guantongpeng"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "sebspel",
                 "url": "https://github.com/sebspel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/wangjieh/pastis_swinv2_dinov3",
-            "title": "wangjieh/pastis_swinv2_dinov3",
-            "date_modified": "2026-06-29T06:35:30.000Z",
-            "date_published": "2026-05-28T05:35:45.000Z",
-            "author": {
-                "name": "wangjieh",
-                "url": "https://github.com/wangjieh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108565956?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis</div>",
-            "url": "https://github.com/HySonLab/PHAROS-AIF-MIH",
-            "title": "HySonLab/PHAROS-AIF-MIH: Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis",
-            "date_modified": "2026-06-29T03:20:17.000Z",
-            "date_published": "2026-03-13T13:45:56.000Z",
-            "author": {
-                "name": "HySonLab",
-                "url": "https://github.com/HySonLab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90501505?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Box brand recognition using DINOv3 embeddings and cosine similarity</div>",
-            "url": "https://github.com/henryliang3027/good_feature",
-            "title": "henryliang3027/good_feature: Box brand recognition using DINOv3 embeddings and cosine similarity",
-            "date_modified": "2026-06-28T13:17:23.000Z",
-            "date_published": "2026-06-28T13:13:39.000Z",
-            "author": {
-                "name": "henryliang3027",
-                "url": "https://github.com/henryliang3027"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61898803?u=1363f257503fae7f8a70fab81f52142a7efac0d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation</div>",
-            "url": "https://github.com/Shuvo001/Hydra",
-            "title": "Shuvo001/Hydra: SAM3-DINOv3 based Foundation Model for Downstream Image Segmentation",
-            "date_modified": "2026-06-28T06:51:17.000Z",
-            "date_published": "2026-06-25T06:02:32.000Z",
-            "author": {
-                "name": "Shuvo001",
-                "url": "https://github.com/Shuvo001"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
-            "url": "https://github.com/little51/dinov3-course",
-            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-06-29T10:16:00.000Z",
-            "date_published": "2026-05-03T12:40:56.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122860615?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Pollen Grain Similarity Analyzer</div>",
-            "url": "https://github.com/ethanhaines/NEST",
-            "title": "ethanhaines/NEST: DINOv3 Pollen Grain Similarity Analyzer",
-            "date_modified": "2026-06-27T18:24:03.000Z",
-            "date_published": "2026-02-09T19:06:54.000Z",
-            "author": {
-                "name": "ethanhaines",
-                "url": "https://github.com/ethanhaines"
             }
         }
     ]
