@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-02T00:55:40.698Z</updated>
+    <updated>2026-07-03T03:20:56.749Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[MochiMunching/wafer-map-dinov2-v3-comparison: Intel REU Research Project on comparison metrics of VFM DINOv2 and DINOv3]]></title>
+        <id>https://github.com/MochiMunching/wafer-map-dinov2-v3-comparison</id>
+        <link href="https://github.com/MochiMunching/wafer-map-dinov2-v3-comparison"/>
+        <updated>2026-07-03T03:19:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96800094?u=dfd65238ac55614aca3441d771d912906fb987f4&v=4" width="64" height="64" alt=""/><br/><div>Intel REU Research Project on comparison metrics of VFM DINOv2 and DINOv3</div>]]></content>
+        <author>
+            <name>MochiMunching</name>
+            <email>MochiMunching@noreply.github.com</email>
+            <uri>https://github.com/MochiMunching</uri>
+        </author>
+        <published>2026-07-03T03:19:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R]]></title>
+        <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
+        <link href="https://github.com/guantongpeng/DINOv3_DIOR-R"/>
+        <updated>2026-07-03T02:06:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>guantongpeng</name>
+            <email>guantongpeng@noreply.github.com</email>
+            <uri>https://github.com/guantongpeng</uri>
+        </author>
+        <published>2026-06-08T11:17:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers]]></title>
+        <id>https://github.com/Brezemil/_trainer_lightly</id>
+        <link href="https://github.com/Brezemil/_trainer_lightly"/>
+        <updated>2026-07-02T21:31:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47831888?v=4" width="64" height="64" alt=""/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>]]></content>
+        <author>
+            <name>Brezemil</name>
+            <email>Brezemil@noreply.github.com</email>
+            <uri>https://github.com/Brezemil</uri>
+        </author>
+        <published>2026-06-19T20:02:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-07-03T01:20:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.]]></title>
+        <id>https://github.com/bensh240/crohn-ct-mr-unified</id>
+        <link href="https://github.com/bensh240/crohn-ct-mr-unified"/>
+        <updated>2026-07-02T19:17:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77196741?v=4" width="64" height="64" alt=""/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>]]></content>
+        <author>
+            <name>bensh240</name>
+            <email>bensh240@noreply.github.com</email>
+            <uri>https://github.com/bensh240</uri>
+        </author>
+        <published>2026-06-09T20:48:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alvaro2304/dinov3-aerial-seg: testing meta's chmv2]]></title>
+        <id>https://github.com/Alvaro2304/dinov3-aerial-seg</id>
+        <link href="https://github.com/Alvaro2304/dinov3-aerial-seg"/>
+        <updated>2026-07-02T16:54:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49289647?u=09eaa3844a4356a408339d51fe8ef831b4efac78&v=4" width="64" height="64" alt=""/><br/><div>testing meta's chmv2</div>]]></content>
+        <author>
+            <name>Alvaro2304</name>
+            <email>Alvaro2304@noreply.github.com</email>
+            <uri>https://github.com/Alvaro2304</uri>
+        </author>
+        <published>2026-04-17T21:59:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yoga666996/dinov3]]></title>
+        <id>https://github.com/yoga666996/dinov3</id>
+        <link href="https://github.com/yoga666996/dinov3"/>
+        <updated>2026-07-02T07:42:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215585245?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>yoga666996</name>
+            <email>yoga666996@noreply.github.com</email>
+            <uri>https://github.com/yoga666996</uri>
+        </author>
+        <published>2025-08-15T14:45:55.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[jhpark-ai/FROST: FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics]]></title>
         <id>https://github.com/jhpark-ai/FROST</id>
@@ -21,19 +112,6 @@
         <published>2026-06-30T05:26:07.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers]]></title>
-        <id>https://github.com/Brezemil/_trainer_lightly</id>
-        <link href="https://github.com/Brezemil/_trainer_lightly"/>
-        <updated>2026-07-01T21:45:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47831888?v=4" width="64" height="64" alt=""/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>]]></content>
-        <author>
-            <name>Brezemil</name>
-            <email>Brezemil@noreply.github.com</email>
-            <uri>https://github.com/Brezemil</uri>
-        </author>
-        <published>2026-06-19T20:02:09.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A-SHOJAEI/scannetpp-dinov3]]></title>
         <id>https://github.com/A-SHOJAEI/scannetpp-dinov3</id>
         <link href="https://github.com/A-SHOJAEI/scannetpp-dinov3"/>
@@ -45,19 +123,6 @@
             <uri>https://github.com/A-SHOJAEI</uri>
         </author>
         <published>2026-07-01T19:36:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-01T16:34:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
@@ -97,19 +162,6 @@
             <uri>https://github.com/adiezsanchez</uri>
         </author>
         <published>2026-07-01T07:18:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R]]></title>
-        <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
-        <link href="https://github.com/guantongpeng/DINOv3_DIOR-R"/>
-        <updated>2026-07-01T08:37:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>guantongpeng</name>
-            <email>guantongpeng@noreply.github.com</email>
-            <uri>https://github.com/guantongpeng</uri>
-        </author>
-        <published>2026-06-08T11:17:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[yqli00000/PATE-Forensics: HIT_VIRLAB submission package for Track 3 of the IJCAI 2026 Challenge, based on DINOv3.]]></title>
@@ -164,19 +216,6 @@
         <published>2026-06-11T18:16:09.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.]]></title>
-        <id>https://github.com/bensh240/crohn-ct-mr-unified</id>
-        <link href="https://github.com/bensh240/crohn-ct-mr-unified"/>
-        <updated>2026-06-30T13:56:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77196741?v=4" width="64" height="64" alt=""/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>]]></content>
-        <author>
-            <name>bensh240</name>
-            <email>bensh240@noreply.github.com</email>
-            <uri>https://github.com/bensh240</uri>
-        </author>
-        <published>2026-06-09T20:48:10.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[azaaa7/My_model_v1: DINOV3+ccm+fgm]]></title>
         <id>https://github.com/azaaa7/My_model_v1</id>
         <link href="https://github.com/azaaa7/My_model_v1"/>
@@ -227,44 +266,5 @@
             <uri>https://github.com/ShijianRuan</uri>
         </author>
         <published>2026-06-28T14:58:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stofeei/global_conditioned_ar_generation: Conditioned autoregressive image generation using DINOv3 image features and Janus-Pro]]></title>
-        <id>https://github.com/Stofeei/global_conditioned_ar_generation</id>
-        <link href="https://github.com/Stofeei/global_conditioned_ar_generation"/>
-        <updated>2026-06-29T11:52:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/92219539?v=4" width="64" height="64" alt=""/><br/><div>Conditioned autoregressive image generation using DINOv3 image features and Janus-Pro</div>]]></content>
-        <author>
-            <name>Stofeei</name>
-            <email>Stofeei@noreply.github.com</email>
-            <uri>https://github.com/Stofeei</uri>
-        </author>
-        <published>2025-09-25T07:44:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetricCube3/dinov3_tensorrt_inference: dinov3_tensorrt_inference]]></title>
-        <id>https://github.com/MetricCube3/dinov3_tensorrt_inference</id>
-        <link href="https://github.com/MetricCube3/dinov3_tensorrt_inference"/>
-        <updated>2026-06-29T09:31:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/276551673?v=4" width="64" height="64" alt=""/><br/><div>dinov3_tensorrt_inference</div>]]></content>
-        <author>
-            <name>MetricCube3</name>
-            <email>MetricCube3@noreply.github.com</email>
-            <uri>https://github.com/MetricCube3</uri>
-        </author>
-        <published>2026-06-29T09:00:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
-        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
-        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-06-29T09:07:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
     </entry>
 </feed>
