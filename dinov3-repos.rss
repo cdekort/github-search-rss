@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-04T03:14:44.881Z</updated>
+    <updated>2026-07-05T03:30:13.088Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
-        <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
-        <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
-        <updated>2026-07-04T03:13:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[willz-blankOS/Dinov3-JAX-NNX: Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface]]></title>
+        <id>https://github.com/willz-blankOS/Dinov3-JAX-NNX</id>
+        <link href="https://github.com/willz-blankOS/Dinov3-JAX-NNX"/>
+        <updated>2026-07-04T23:27:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96259708?v=4" width="64" height="64" alt=""/><br/><div>Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface</div>]]></content>
         <author>
-            <name>wangjieh</name>
-            <email>wangjieh@noreply.github.com</email>
-            <uri>https://github.com/wangjieh</uri>
+            <name>willz-blankOS</name>
+            <email>willz-blankOS@noreply.github.com</email>
+            <uri>https://github.com/willz-blankOS</uri>
         </author>
-        <published>2026-05-28T05:35:45.000Z</published>
+        <published>2026-07-04T03:41:34.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[112378074/dinov3-unified-ad2: Experimental: single-training unified anomaly detection on frozen DINOv3 — bank-distillation multi-head design (one forward pass -> AU-PRO/AU-ROC/Seg-F1/Class-F1). Companion to dinov3-dual-branch-ad2.]]></title>
         <id>https://github.com/112378074/dinov3-unified-ad2</id>
         <link href="https://github.com/112378074/dinov3-unified-ad2"/>
-        <updated>2026-07-04T02:54:29.000Z</updated>
+        <updated>2026-07-04T20:51:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/161610118?v=4" width="64" height="64" alt=""/><br/><div>Experimental: single-training unified anomaly detection on frozen DINOv3 — bank-distillation multi-head design (one forward pass -&gt; AU-PRO/AU-ROC/Seg-F1/Class-F1). Companion to dinov3-dual-branch-ad2.</div>]]></content>
         <author>
             <name>112378074</name>
@@ -32,6 +32,84 @@
             <uri>https://github.com/112378074</uri>
         </author>
         <published>2026-07-04T02:29:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AriaeiMehdi/Dinov3_SPECT]]></title>
+        <id>https://github.com/AriaeiMehdi/Dinov3_SPECT</id>
+        <link href="https://github.com/AriaeiMehdi/Dinov3_SPECT"/>
+        <updated>2026-07-04T22:17:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86190878?u=ef2e4bb10d850b21e60cf65e436ac84beaac9131&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>AriaeiMehdi</name>
+            <email>AriaeiMehdi@noreply.github.com</email>
+            <uri>https://github.com/AriaeiMehdi</uri>
+        </author>
+        <published>2026-07-04T16:13:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3]]></title>
+        <id>https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3</id>
+        <link href="https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3"/>
+        <updated>2026-07-04T15:27:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/135603267?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>FaqihahSyazwani99</name>
+            <email>FaqihahSyazwani99@noreply.github.com</email>
+            <uri>https://github.com/FaqihahSyazwani99</uri>
+        </author>
+        <published>2026-07-04T15:14:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
+        <id>https://github.com/little51/dinov3-course</id>
+        <link href="https://github.com/little51/dinov3-course"/>
+        <updated>2026-07-04T14:51:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
+        <author>
+            <name>little51</name>
+            <email>little51@noreply.github.com</email>
+            <uri>https://github.com/little51</uri>
+        </author>
+        <published>2026-05-03T12:40:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dimfot3/Inverse-INSID3: Inverse INSID3: Background-guided segmentation with DINOv3 features]]></title>
+        <id>https://github.com/dimfot3/Inverse-INSID3</id>
+        <link href="https://github.com/dimfot3/Inverse-INSID3"/>
+        <updated>2026-07-05T01:46:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48842258?u=a2b64faeb7940892450540fa6cbac0d5e85ae21e&v=4" width="64" height="64" alt=""/><br/><div>Inverse INSID3: Background-guided segmentation with DINOv3 features</div>]]></content>
+        <author>
+            <name>dimfot3</name>
+            <email>dimfot3@noreply.github.com</email>
+            <uri>https://github.com/dimfot3</uri>
+        </author>
+        <published>2026-06-29T19:00:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
+        <id>https://github.com/kingwingfly/lets_embed</id>
+        <link href="https://github.com/kingwingfly/lets_embed"/>
+        <updated>2026-07-04T08:25:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
+        <author>
+            <name>kingwingfly</name>
+            <email>kingwingfly@noreply.github.com</email>
+            <uri>https://github.com/kingwingfly</uri>
+        </author>
+        <published>2026-05-17T07:13:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
+        <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
+        <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
+        <updated>2026-07-04T06:59:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>wangjieh</name>
+            <email>wangjieh@noreply.github.com</email>
+            <uri>https://github.com/wangjieh</uri>
+        </author>
+        <published>2026-05-28T05:35:45.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[112378074/dinov3-dual-branch-ad2: Decoupled dual-branch anomaly detection on a frozen DINOv3 ViT-H+ for MVTec AD 2 (membank + INP-Former++, per-category per-metric routing). AU-PRO 72.46 / AU-ROC 85.05 / Seg-F1 63.89 / Class-F1 83.65.]]></title>
@@ -188,83 +266,5 @@
             <uri>https://github.com/yoga666996</uri>
         </author>
         <published>2025-08-15T14:45:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jhpark-ai/FROST: FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics]]></title>
-        <id>https://github.com/jhpark-ai/FROST</id>
-        <link href="https://github.com/jhpark-ai/FROST"/>
-        <updated>2026-07-01T23:53:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/228338166?v=4" width="64" height="64" alt=""/><br/><div>FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics</div>]]></content>
-        <author>
-            <name>jhpark-ai</name>
-            <email>jhpark-ai@noreply.github.com</email>
-            <uri>https://github.com/jhpark-ai</uri>
-        </author>
-        <published>2026-06-30T05:26:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A-SHOJAEI/scannetpp-dinov3]]></title>
-        <id>https://github.com/A-SHOJAEI/scannetpp-dinov3</id>
-        <link href="https://github.com/A-SHOJAEI/scannetpp-dinov3"/>
-        <updated>2026-07-01T19:36:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/196561008?u=b2e89e3c9acada657710a3e9d4e12b152f7f0588&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>A-SHOJAEI</name>
-            <email>A-SHOJAEI@noreply.github.com</email>
-            <uri>https://github.com/A-SHOJAEI</uri>
-        </author>
-        <published>2026-07-01T19:36:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-07-01T15:03:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wleilei/OV-DEIM: [OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation]]></title>
-        <id>https://github.com/wleilei/OV-DEIM</id>
-        <link href="https://github.com/wleilei/OV-DEIM"/>
-        <updated>2026-07-01T14:39:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65398844?u=c62d3c847068a2e476b71fd89d8add7eef4b3f67&v=4" width="64" height="64" alt=""/><br/><div>[OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation</div>]]></content>
-        <author>
-            <name>wleilei</name>
-            <email>wleilei@noreply.github.com</email>
-            <uri>https://github.com/wleilei</uri>
-        </author>
-        <published>2026-03-02T07:23:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pablo-reyes8/tiny-dino-vit: A from-scratch PyTorch implementation of a lightweight DINO-style self-supervised Vision Transformer, featuring multi-crop training, EMA teacher-student learning, optional RoPE positional encoding, and DINOv3-inspired Gram regularization.]]></title>
-        <id>https://github.com/pablo-reyes8/tiny-dino-vit</id>
-        <link href="https://github.com/pablo-reyes8/tiny-dino-vit"/>
-        <updated>2026-07-03T14:01:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/168690363?u=54f575c5529bd7b7592aff6a3cc5ec590d6ab79d&v=4" width="64" height="64" alt=""/><br/><div>A from-scratch PyTorch implementation of a lightweight DINO-style self-supervised Vision Transformer, featuring multi-crop training, EMA teacher-student learning, optional RoPE positional encoding, and DINOv3-inspired Gram regularization.</div>]]></content>
-        <author>
-            <name>pablo-reyes8</name>
-            <email>pablo-reyes8@noreply.github.com</email>
-            <uri>https://github.com/pablo-reyes8</uri>
-        </author>
-        <published>2026-06-08T01:08:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yqli00000/PATE-Forensics: HIT_VIRLAB submission package for Track 3 of the IJCAI 2026 Challenge, based on DINOv3.]]></title>
-        <id>https://github.com/yqli00000/PATE-Forensics</id>
-        <link href="https://github.com/yqli00000/PATE-Forensics"/>
-        <updated>2026-07-01T10:11:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/131748788?u=b7f9b4311fc79345e33a19d0a87e545404b54aed&v=4" width="64" height="64" alt=""/><br/><div>HIT_VIRLAB submission package for Track 3 of the IJCAI 2026 Challenge, based on DINOv3.</div>]]></content>
-        <author>
-            <name>yqli00000</name>
-            <email>yqli00000@noreply.github.com</email>
-            <uri>https://github.com/yqli00000</uri>
-        </author>
-        <published>2026-06-17T09:27:20.000Z</published>
     </entry>
 </feed>
