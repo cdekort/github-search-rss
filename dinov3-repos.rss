@@ -2,11 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-05T03:30:13.088Z</updated>
+    <updated>2026-07-06T03:37:29.661Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[112378074/dinov3-unified-ad2: Experimental: single-training unified anomaly detection on frozen DINOv3 — bank-distillation multi-head design (one forward pass -> AU-PRO/AU-ROC/Seg-F1/Class-F1). Companion to dinov3-dual-branch-ad2.]]></title>
+        <id>https://github.com/112378074/dinov3-unified-ad2</id>
+        <link href="https://github.com/112378074/dinov3-unified-ad2"/>
+        <updated>2026-07-05T23:37:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/161610118?v=4" width="64" height="64" alt=""/><br/><div>Experimental: single-training unified anomaly detection on frozen DINOv3 — bank-distillation multi-head design (one forward pass -&gt; AU-PRO/AU-ROC/Seg-F1/Class-F1). Companion to dinov3-dual-branch-ad2.</div>]]></content>
+        <author>
+            <name>112378074</name>
+            <email>112378074@noreply.github.com</email>
+            <uri>https://github.com/112378074</uri>
+        </author>
+        <published>2026-07-04T02:29:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pablo-reyes8/tiny-dino-vit: A from-scratch PyTorch implementation of a lightweight DINO-style self-supervised Vision Transformer, featuring multi-crop training, EMA teacher-student learning, optional RoPE positional encoding, and DINOv3-inspired Gram regularization.]]></title>
+        <id>https://github.com/pablo-reyes8/tiny-dino-vit</id>
+        <link href="https://github.com/pablo-reyes8/tiny-dino-vit"/>
+        <updated>2026-07-05T23:35:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/168690363?u=54f575c5529bd7b7592aff6a3cc5ec590d6ab79d&v=4" width="64" height="64" alt=""/><br/><div>A from-scratch PyTorch implementation of a lightweight DINO-style self-supervised Vision Transformer, featuring multi-crop training, EMA teacher-student learning, optional RoPE positional encoding, and DINOv3-inspired Gram regularization.</div>]]></content>
+        <author>
+            <name>pablo-reyes8</name>
+            <email>pablo-reyes8@noreply.github.com</email>
+            <uri>https://github.com/pablo-reyes8</uri>
+        </author>
+        <published>2026-06-08T01:08:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-07-06T03:16:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adiezsanchez/lisaoya_hcs_embed: Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head]]></title>
+        <id>https://github.com/adiezsanchez/lisaoya_hcs_embed</id>
+        <link href="https://github.com/adiezsanchez/lisaoya_hcs_embed"/>
+        <updated>2026-07-05T16:39:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138788397?u=1a9bcfb4daf4b4916867e641cee23ce39310aa6e&v=4" width="64" height="64" alt=""/><br/><div>Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head</div>]]></content>
+        <author>
+            <name>adiezsanchez</name>
+            <email>adiezsanchez@noreply.github.com</email>
+            <uri>https://github.com/adiezsanchez</uri>
+        </author>
+        <published>2026-07-01T07:18:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TaqiyudinMiftah/bdc2026-dinov3-lora]]></title>
+        <id>https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora</id>
+        <link href="https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora"/>
+        <updated>2026-07-05T16:03:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143085259?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>TaqiyudinMiftah</name>
+            <email>TaqiyudinMiftah@noreply.github.com</email>
+            <uri>https://github.com/TaqiyudinMiftah</uri>
+        </author>
+        <published>2026-07-04T13:57:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
+        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
+        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
+        <updated>2026-07-05T15:32:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[112378074/dinov3-dual-branch-ad2: Decoupled dual-branch anomaly detection on a frozen DINOv3 ViT-H+ for MVTec AD 2 (membank + INP-Former++, per-category per-metric routing). AU-PRO 72.46 / AU-ROC 85.05 / Seg-F1 63.89 / Class-F1 83.65.]]></title>
+        <id>https://github.com/112378074/dinov3-dual-branch-ad2</id>
+        <link href="https://github.com/112378074/dinov3-dual-branch-ad2"/>
+        <updated>2026-07-05T13:39:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/161610118?v=4" width="64" height="64" alt=""/><br/><div>Decoupled dual-branch anomaly detection on a frozen DINOv3 ViT-H+ for MVTec AD 2 (membank + INP-Former++, per-category per-metric routing). AU-PRO 72.46 / AU-ROC 85.05 / Seg-F1 63.89 / Class-F1 83.65.</div>]]></content>
+        <author>
+            <name>112378074</name>
+            <email>112378074@noreply.github.com</email>
+            <uri>https://github.com/112378074</uri>
+        </author>
+        <published>2026-07-03T04:43:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3]]></title>
+        <id>https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3</id>
+        <link href="https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3"/>
+        <updated>2026-07-05T12:45:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/135603267?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>FaqihahSyazwani99</name>
+            <email>FaqihahSyazwani99@noreply.github.com</email>
+            <uri>https://github.com/FaqihahSyazwani99</uri>
+        </author>
+        <published>2026-07-04T15:14:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnthonyAvilaA/multimodal-canary-vegetation-segmentation: Segmentación semántica multimodal de la vegetación y la cobertura del suelo en las Islas Canarias. Integra RGB, NIR (NDVI), altitud y orientación mediante UNet (VGG19/ResNet50) y algunas variantes con modelos de Vision Foundation (Clay y DINOv3).]]></title>
+        <id>https://github.com/AnthonyAvilaA/multimodal-canary-vegetation-segmentation</id>
+        <link href="https://github.com/AnthonyAvilaA/multimodal-canary-vegetation-segmentation"/>
+        <updated>2026-07-05T08:46:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/189530227?u=5f73cbec08ed9c11ddb344fe5b0b2ae59a987b96&v=4" width="64" height="64" alt=""/><br/><div>Segmentación semántica multimodal de la vegetación y la cobertura del suelo en las Islas Canarias. Integra RGB, NIR (NDVI), altitud y orientación mediante UNet (VGG19/ResNet50) y algunas variantes con modelos de Vision Foundation (Clay y DINOv3).</div>]]></content>
+        <author>
+            <name>AnthonyAvilaA</name>
+            <email>AnthonyAvilaA@noreply.github.com</email>
+            <uri>https://github.com/AnthonyAvilaA</uri>
+        </author>
+        <published>2026-02-14T15:42:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
+        <id>https://github.com/kingwingfly/lets_embed</id>
+        <link href="https://github.com/kingwingfly/lets_embed"/>
+        <updated>2026-07-05T08:41:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
+        <author>
+            <name>kingwingfly</name>
+            <email>kingwingfly@noreply.github.com</email>
+            <uri>https://github.com/kingwingfly</uri>
+        </author>
+        <published>2026-05-17T07:13:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rik-Sarkar-07/SIFAR_plus_plus_DINOv3: SIFAR DINO with prompt learning ]]></title>
+        <id>https://github.com/Rik-Sarkar-07/SIFAR_plus_plus_DINOv3</id>
+        <link href="https://github.com/Rik-Sarkar-07/SIFAR_plus_plus_DINOv3"/>
+        <updated>2026-07-05T07:57:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84672557?u=08b29a60647d711ab5b0bcceef56a8bdf414d1f0&v=4" width="64" height="64" alt=""/><br/><div>SIFAR DINO with prompt learning </div>]]></content>
+        <author>
+            <name>Rik-Sarkar-07</name>
+            <email>Rik-Sarkar-07@noreply.github.com</email>
+            <uri>https://github.com/Rik-Sarkar-07</uri>
+        </author>
+        <published>2026-07-05T07:49:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[willz-blankOS/Dinov3-JAX-NNX: Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface]]></title>
         <id>https://github.com/willz-blankOS/Dinov3-JAX-NNX</id>
@@ -21,19 +164,6 @@
         <published>2026-07-04T03:41:34.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[112378074/dinov3-unified-ad2: Experimental: single-training unified anomaly detection on frozen DINOv3 — bank-distillation multi-head design (one forward pass -> AU-PRO/AU-ROC/Seg-F1/Class-F1). Companion to dinov3-dual-branch-ad2.]]></title>
-        <id>https://github.com/112378074/dinov3-unified-ad2</id>
-        <link href="https://github.com/112378074/dinov3-unified-ad2"/>
-        <updated>2026-07-04T20:51:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/161610118?v=4" width="64" height="64" alt=""/><br/><div>Experimental: single-training unified anomaly detection on frozen DINOv3 — bank-distillation multi-head design (one forward pass -&gt; AU-PRO/AU-ROC/Seg-F1/Class-F1). Companion to dinov3-dual-branch-ad2.</div>]]></content>
-        <author>
-            <name>112378074</name>
-            <email>112378074@noreply.github.com</email>
-            <uri>https://github.com/112378074</uri>
-        </author>
-        <published>2026-07-04T02:29:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AriaeiMehdi/Dinov3_SPECT]]></title>
         <id>https://github.com/AriaeiMehdi/Dinov3_SPECT</id>
         <link href="https://github.com/AriaeiMehdi/Dinov3_SPECT"/>
@@ -45,19 +175,6 @@
             <uri>https://github.com/AriaeiMehdi</uri>
         </author>
         <published>2026-07-04T16:13:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3]]></title>
-        <id>https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3</id>
-        <link href="https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3"/>
-        <updated>2026-07-04T15:27:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/135603267?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>FaqihahSyazwani99</name>
-            <email>FaqihahSyazwani99@noreply.github.com</email>
-            <uri>https://github.com/FaqihahSyazwani99</uri>
-        </author>
-        <published>2026-07-04T15:14:08.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
@@ -86,19 +203,6 @@
         <published>2026-06-29T19:00:07.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-07-04T08:25:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
         <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
         <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
@@ -112,19 +216,6 @@
         <published>2026-05-28T05:35:45.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[112378074/dinov3-dual-branch-ad2: Decoupled dual-branch anomaly detection on a frozen DINOv3 ViT-H+ for MVTec AD 2 (membank + INP-Former++, per-category per-metric routing). AU-PRO 72.46 / AU-ROC 85.05 / Seg-F1 63.89 / Class-F1 83.65.]]></title>
-        <id>https://github.com/112378074/dinov3-dual-branch-ad2</id>
-        <link href="https://github.com/112378074/dinov3-dual-branch-ad2"/>
-        <updated>2026-07-04T02:19:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/161610118?v=4" width="64" height="64" alt=""/><br/><div>Decoupled dual-branch anomaly detection on a frozen DINOv3 ViT-H+ for MVTec AD 2 (membank + INP-Former++, per-category per-metric routing). AU-PRO 72.46 / AU-ROC 85.05 / Seg-F1 63.89 / Class-F1 83.65.</div>]]></content>
-        <author>
-            <name>112378074</name>
-            <email>112378074@noreply.github.com</email>
-            <uri>https://github.com/112378074</uri>
-        </author>
-        <published>2026-07-03T04:43:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ashiq24/soft-equivariance: Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.]]></title>
         <id>https://github.com/ashiq24/soft-equivariance</id>
         <link href="https://github.com/ashiq24/soft-equivariance"/>
@@ -136,32 +227,6 @@
             <uri>https://github.com/ashiq24</uri>
         </author>
         <published>2026-03-07T06:42:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-03T20:27:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adiezsanchez/lisaoya_hcs_embed: Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head]]></title>
-        <id>https://github.com/adiezsanchez/lisaoya_hcs_embed</id>
-        <link href="https://github.com/adiezsanchez/lisaoya_hcs_embed"/>
-        <updated>2026-07-03T16:38:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138788397?u=1a9bcfb4daf4b4916867e641cee23ce39310aa6e&v=4" width="64" height="64" alt=""/><br/><div>Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head</div>]]></content>
-        <author>
-            <name>adiezsanchez</name>
-            <email>adiezsanchez@noreply.github.com</email>
-            <uri>https://github.com/adiezsanchez</uri>
-        </author>
-        <published>2026-07-01T07:18:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dadda25/BloodCell: Detectron2 training and COCO tooling for blood-cell detection: six-run benchmarks, ViTDet / DINOv3 ConvNeXt, shared helpers and annotation pipelines.]]></title>
@@ -201,70 +266,5 @@
             <uri>https://github.com/Brezemil</uri>
         </author>
         <published>2026-06-19T20:02:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MochiMunching/wafer-map-dinov2-v3-comparison: Intel REU Research Project on comparison metrics of VFM DINOv2 and DINOv3]]></title>
-        <id>https://github.com/MochiMunching/wafer-map-dinov2-v3-comparison</id>
-        <link href="https://github.com/MochiMunching/wafer-map-dinov2-v3-comparison"/>
-        <updated>2026-07-03T04:33:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96800094?u=dfd65238ac55614aca3441d771d912906fb987f4&v=4" width="64" height="64" alt=""/><br/><div>Intel REU Research Project on comparison metrics of VFM DINOv2 and DINOv3</div>]]></content>
-        <author>
-            <name>MochiMunching</name>
-            <email>MochiMunching@noreply.github.com</email>
-            <uri>https://github.com/MochiMunching</uri>
-        </author>
-        <published>2026-07-03T03:19:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R]]></title>
-        <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
-        <link href="https://github.com/guantongpeng/DINOv3_DIOR-R"/>
-        <updated>2026-07-03T02:06:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>guantongpeng</name>
-            <email>guantongpeng@noreply.github.com</email>
-            <uri>https://github.com/guantongpeng</uri>
-        </author>
-        <published>2026-06-08T11:17:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.]]></title>
-        <id>https://github.com/bensh240/crohn-ct-mr-unified</id>
-        <link href="https://github.com/bensh240/crohn-ct-mr-unified"/>
-        <updated>2026-07-02T19:17:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77196741?v=4" width="64" height="64" alt=""/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>]]></content>
-        <author>
-            <name>bensh240</name>
-            <email>bensh240@noreply.github.com</email>
-            <uri>https://github.com/bensh240</uri>
-        </author>
-        <published>2026-06-09T20:48:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alvaro2304/dinov3-aerial-seg: testing meta's chmv2]]></title>
-        <id>https://github.com/Alvaro2304/dinov3-aerial-seg</id>
-        <link href="https://github.com/Alvaro2304/dinov3-aerial-seg"/>
-        <updated>2026-07-02T16:54:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49289647?u=09eaa3844a4356a408339d51fe8ef831b4efac78&v=4" width="64" height="64" alt=""/><br/><div>testing meta's chmv2</div>]]></content>
-        <author>
-            <name>Alvaro2304</name>
-            <email>Alvaro2304@noreply.github.com</email>
-            <uri>https://github.com/Alvaro2304</uri>
-        </author>
-        <published>2026-04-17T21:59:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yoga666996/dinov3]]></title>
-        <id>https://github.com/yoga666996/dinov3</id>
-        <link href="https://github.com/yoga666996/dinov3"/>
-        <updated>2026-07-02T07:42:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215585245?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>yoga666996</name>
-            <email>yoga666996@noreply.github.com</email>
-            <uri>https://github.com/yoga666996</uri>
-        </author>
-        <published>2025-08-15T14:45:55.000Z</published>
     </entry>
 </feed>
