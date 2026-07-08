@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-07T03:28:55.035Z</updated>
+    <updated>2026-07-08T02:45:27.081Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[MochiMunching/IntelREU-cross-lot-wafer-defect-classification: Intel REU Research Project on comparison metrics of VFM DINOv2 and DINOv3]]></title>
         <id>https://github.com/MochiMunching/IntelREU-cross-lot-wafer-defect-classification</id>
         <link href="https://github.com/MochiMunching/IntelREU-cross-lot-wafer-defect-classification"/>
-        <updated>2026-07-07T03:04:53.000Z</updated>
+        <updated>2026-07-08T01:57:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96800094?u=dfd65238ac55614aca3441d771d912906fb987f4&v=4" width="64" height="64" alt=""/><br/><div>Intel REU Research Project on comparison metrics of VFM DINOv2 and DINOv3</div>]]></content>
         <author>
             <name>MochiMunching</name>
@@ -21,10 +21,75 @@
         <published>2026-07-03T03:19:53.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BeUnMerreHuman/Anime-Character-Re-Identification: Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes]]></title>
+        <id>https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification</id>
+        <link href="https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification"/>
+        <updated>2026-07-07T21:28:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215668219?u=ff759396fac007e62c15651826a27804b3439d54&v=4" width="64" height="64" alt=""/><br/><div>Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes</div>]]></content>
+        <author>
+            <name>BeUnMerreHuman</name>
+            <email>BeUnMerreHuman@noreply.github.com</email>
+            <uri>https://github.com/BeUnMerreHuman</uri>
+        </author>
+        <published>2026-04-21T15:05:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kguelseven/cas-cv-age-estimation-dinov3-lora: Project work for the CAS Deep Learning @ FHNW (Computer Vision module). Age estimation from facial images with DINOv3: parameter-efficient LoRA fine-tuning compared against a frozen backbone.]]></title>
+        <id>https://github.com/kguelseven/cas-cv-age-estimation-dinov3-lora</id>
+        <link href="https://github.com/kguelseven/cas-cv-age-estimation-dinov3-lora"/>
+        <updated>2026-07-07T20:17:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8074254?u=cafbe7f648fdbc3d7b58d8ca19dec857331c2f97&v=4" width="64" height="64" alt=""/><br/><div>Project work for the CAS Deep Learning @ FHNW (Computer Vision module). Age estimation from facial images with DINOv3: parameter-efficient LoRA fine-tuning compared against a frozen backbone.</div>]]></content>
+        <author>
+            <name>kguelseven</name>
+            <email>kguelseven@noreply.github.com</email>
+            <uri>https://github.com/kguelseven</uri>
+        </author>
+        <published>2026-07-07T19:32:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-07-07T17:52:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adiezsanchez/lisaoya_hcs_embed: Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head]]></title>
+        <id>https://github.com/adiezsanchez/lisaoya_hcs_embed</id>
+        <link href="https://github.com/adiezsanchez/lisaoya_hcs_embed"/>
+        <updated>2026-07-07T17:38:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138788397?u=1a9bcfb4daf4b4916867e641cee23ce39310aa6e&v=4" width="64" height="64" alt=""/><br/><div>Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head</div>]]></content>
+        <author>
+            <name>adiezsanchez</name>
+            <email>adiezsanchez@noreply.github.com</email>
+            <uri>https://github.com/adiezsanchez</uri>
+        </author>
+        <published>2026-07-01T07:18:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WeiChien5241/DINOv3-Segmentation-Training: DINOv3-based semantic segmentation pipeline (sky/traversable/obstacle) for Purdue's P-AgBot crop-row navigation]]></title>
+        <id>https://github.com/WeiChien5241/DINOv3-Segmentation-Training</id>
+        <link href="https://github.com/WeiChien5241/DINOv3-Segmentation-Training"/>
+        <updated>2026-07-07T17:00:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/146744878?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based semantic segmentation pipeline (sky/traversable/obstacle) for Purdue's P-AgBot crop-row navigation</div>]]></content>
+        <author>
+            <name>WeiChien5241</name>
+            <email>WeiChien5241@noreply.github.com</email>
+            <uri>https://github.com/WeiChien5241</uri>
+        </author>
+        <published>2026-07-07T16:41:24.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
         <id>https://github.com/kingwingfly/lets_embed</id>
         <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-07-06T21:17:15.000Z</updated>
+        <updated>2026-07-07T16:00:41.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
         <author>
             <name>kingwingfly</name>
@@ -34,10 +99,36 @@
         <published>2026-05-17T07:13:23.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
+        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
+        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
+        <updated>2026-07-07T15:54:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3]]></title>
+        <id>https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3</id>
+        <link href="https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3"/>
+        <updated>2026-07-07T15:35:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/135603267?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>FaqihahSyazwani99</name>
+            <email>FaqihahSyazwani99@noreply.github.com</email>
+            <uri>https://github.com/FaqihahSyazwani99</uri>
+        </author>
+        <published>2026-07-04T15:14:08.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.]]></title>
         <id>https://github.com/facebookresearch/Flow-World-Models</id>
         <link href="https://github.com/facebookresearch/Flow-World-Models"/>
-        <updated>2026-07-06T20:08:43.000Z</updated>
+        <updated>2026-07-07T21:13:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -45,6 +136,19 @@
             <uri>https://github.com/facebookresearch</uri>
         </author>
         <published>2026-07-06T19:41:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhuwenmao/snowlabel: ❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.]]></title>
+        <id>https://github.com/zhuwenmao/snowlabel</id>
+        <link href="https://github.com/zhuwenmao/snowlabel"/>
+        <updated>2026-07-07T05:29:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192683467?u=40a5e281bb422ba8d25f920d1c5f2586acb832fc&v=4" width="64" height="64" alt=""/><br/><div>❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.</div>]]></content>
+        <author>
+            <name>zhuwenmao</name>
+            <email>zhuwenmao@noreply.github.com</email>
+            <uri>https://github.com/zhuwenmao</uri>
+        </author>
+        <published>2026-06-27T07:56:36.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sanket758/sku-vision-pipeline: Automated SKU detection, recognition, and retrieval from retail shelf images. YOLOv8/YOLOv10 detection, DINOv3+FAISS retrieval, ResNet18/ViT recognition, and a VLM-assisted curated annotation pipeline with human-in-the-loop review.]]></title>
@@ -60,36 +164,10 @@
         <published>2026-07-06T15:19:42.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[adiezsanchez/lisaoya_hcs_embed: Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head]]></title>
-        <id>https://github.com/adiezsanchez/lisaoya_hcs_embed</id>
-        <link href="https://github.com/adiezsanchez/lisaoya_hcs_embed"/>
-        <updated>2026-07-06T16:58:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138788397?u=1a9bcfb4daf4b4916867e641cee23ce39310aa6e&v=4" width="64" height="64" alt=""/><br/><div>Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head</div>]]></content>
-        <author>
-            <name>adiezsanchez</name>
-            <email>adiezsanchez@noreply.github.com</email>
-            <uri>https://github.com/adiezsanchez</uri>
-        </author>
-        <published>2026-07-01T07:18:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
-        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
-        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-07-06T16:32:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
         <id>https://github.com/little51/dinov3-course</id>
         <link href="https://github.com/little51/dinov3-course"/>
-        <updated>2026-07-07T01:53:36.000Z</updated>
+        <updated>2026-07-07T08:59:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
         <author>
             <name>little51</name>
@@ -97,19 +175,6 @@
             <uri>https://github.com/little51</uri>
         </author>
         <published>2026-05-03T12:40:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeUnMerreHuman/Anime-Character-Re-Identification: Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes]]></title>
-        <id>https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification</id>
-        <link href="https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification"/>
-        <updated>2026-07-06T08:16:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215668219?u=ff759396fac007e62c15651826a27804b3439d54&v=4" width="64" height="64" alt=""/><br/><div>Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes</div>]]></content>
-        <author>
-            <name>BeUnMerreHuman</name>
-            <email>BeUnMerreHuman@noreply.github.com</email>
-            <uri>https://github.com/BeUnMerreHuman</uri>
-        </author>
-        <published>2026-04-21T15:05:45.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[112378074/dinov3-unified-ad2: Experimental: single-training unified anomaly detection on frozen DINOv3 — bank-distillation multi-head design (one forward pass -> AU-PRO/AU-ROC/Seg-F1/Class-F1). Companion to dinov3-dual-branch-ad2.]]></title>
@@ -123,45 +188,6 @@
             <uri>https://github.com/112378074</uri>
         </author>
         <published>2026-07-04T02:29:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhuwenmao/snowlabel: ❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.]]></title>
-        <id>https://github.com/zhuwenmao/snowlabel</id>
-        <link href="https://github.com/zhuwenmao/snowlabel"/>
-        <updated>2026-07-06T07:38:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192683467?u=40a5e281bb422ba8d25f920d1c5f2586acb832fc&v=4" width="64" height="64" alt=""/><br/><div>❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.</div>]]></content>
-        <author>
-            <name>zhuwenmao</name>
-            <email>zhuwenmao@noreply.github.com</email>
-            <uri>https://github.com/zhuwenmao</uri>
-        </author>
-        <published>2026-06-27T07:56:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-06T08:49:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3]]></title>
-        <id>https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3</id>
-        <link href="https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3"/>
-        <updated>2026-07-06T04:35:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/135603267?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>FaqihahSyazwani99</name>
-            <email>FaqihahSyazwani99@noreply.github.com</email>
-            <uri>https://github.com/FaqihahSyazwani99</uri>
-        </author>
-        <published>2026-07-04T15:14:08.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[pablo-reyes8/tiny-dino-vit: A from-scratch PyTorch implementation of a lightweight DINO-style self-supervised Vision Transformer, featuring multi-crop training, EMA teacher-student learning, optional RoPE positional encoding, and DINOv3-inspired Gram regularization.]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/AriaeiMehdi</uri>
         </author>
         <published>2026-07-04T16:13:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dimfot3/Inverse-INSID3: Inverse INSID3: Background-guided segmentation with DINOv3 features]]></title>
-        <id>https://github.com/dimfot3/Inverse-INSID3</id>
-        <link href="https://github.com/dimfot3/Inverse-INSID3"/>
-        <updated>2026-07-06T13:18:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48842258?u=a2b64faeb7940892450540fa6cbac0d5e85ae21e&v=4" width="64" height="64" alt=""/><br/><div>Inverse INSID3: Background-guided segmentation with DINOv3 features</div>]]></content>
-        <author>
-            <name>dimfot3</name>
-            <email>dimfot3@noreply.github.com</email>
-            <uri>https://github.com/dimfot3</uri>
-        </author>
-        <published>2026-06-29T19:00:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
-        <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
-        <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
-        <updated>2026-07-04T06:59:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>wangjieh</name>
-            <email>wangjieh@noreply.github.com</email>
-            <uri>https://github.com/wangjieh</uri>
-        </author>
-        <published>2026-05-28T05:35:45.000Z</published>
     </entry>
 </feed>
