@@ -2,11 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-08T02:45:27.081Z</updated>
+    <updated>2026-07-09T03:22:09.618Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[azaaa7/My_model_v1: DINOV3+ccm+fgm]]></title>
+        <id>https://github.com/azaaa7/My_model_v1</id>
+        <link href="https://github.com/azaaa7/My_model_v1"/>
+        <updated>2026-07-09T03:03:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119120275?v=4" width="64" height="64" alt=""/><br/><div>DINOV3+ccm+fgm</div>]]></content>
+        <author>
+            <name>azaaa7</name>
+            <email>azaaa7@noreply.github.com</email>
+            <uri>https://github.com/azaaa7</uri>
+        </author>
+        <published>2026-06-08T03:03:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
+        <id>https://github.com/higo522/LT-DETR</id>
+        <link href="https://github.com/higo522/LT-DETR"/>
+        <updated>2026-07-08T20:25:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198003162?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>]]></content>
+        <author>
+            <name>higo522</name>
+            <email>higo522@noreply.github.com</email>
+            <uri>https://github.com/higo522</uri>
+        </author>
+        <published>2026-06-11T18:16:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-07-09T02:13:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-: Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.]]></title>
+        <id>https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-</id>
+        <link href="https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-"/>
+        <updated>2026-07-08T17:07:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180333412?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.</div>]]></content>
+        <author>
+            <name>Lmague</name>
+            <email>Lmague@noreply.github.com</email>
+            <uri>https://github.com/Lmague</uri>
+        </author>
+        <published>2025-11-21T18:58:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
+        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
+        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
+        <updated>2026-07-08T16:18:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3077685492/cable: 这是一个部署在 RDK X5 边缘计算平台上的多模态电缆缺陷检测项目，集成 RGB 视觉检测、红外热异常监测、AD5933 阻抗/受潮检测、电机滑台巡检和 Web 交互控制。视觉部分采用 DINOv3 蒸馏辅助训练、YOLO26 进行缺陷粗定位，并结合 OpenCV 对电缆区域和缺陷边界进行精定位；红外侧用于识别局部热异常，阻抗侧用于判断通断、开路定位和受潮风险。系统通过 ROS 2 节点完成摄像头采集、检测推理、电机控制、数据记录与报告生成，并在 Web 页面中提供实时监控、模型训练部署、误检闭环和 OpenClaw Agent 智能运维交互。]]></title>
+        <id>https://github.com/3077685492/cable</id>
+        <link href="https://github.com/3077685492/cable"/>
+        <updated>2026-07-08T09:29:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280846142?v=4" width="64" height="64" alt=""/><br/><div>这是一个部署在 RDK X5 边缘计算平台上的多模态电缆缺陷检测项目，集成 RGB 视觉检测、红外热异常监测、AD5933 阻抗/受潮检测、电机滑台巡检和 Web 交互控制。视觉部分采用 DINOv3 蒸馏辅助训练、YOLO26 进行缺陷粗定位，并结合 OpenCV 对电缆区域和缺陷边界进行精定位；红外侧用于识别局部热异常，阻抗侧用于判断通断、开路定位和受潮风险。系统通过 ROS 2 节点完成摄像头采集、检测推理、电机控制、数据记录与报告生成，并在 Web 页面中提供实时监控、模型训练部署、误检闭环和 OpenClaw Agent 智能运维交互。</div>]]></content>
+        <author>
+            <name>3077685492</name>
+            <email>3077685492@noreply.github.com</email>
+            <uri>https://github.com/3077685492</uri>
+        </author>
+        <published>2026-07-08T09:29:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[silkyplus/SP-SAM-FSS: Training-Free Memory-Augmented Few-Shot Segmentation with SAM2 and DINOv3]]></title>
+        <id>https://github.com/silkyplus/SP-SAM-FSS</id>
+        <link href="https://github.com/silkyplus/SP-SAM-FSS"/>
+        <updated>2026-07-08T08:53:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/183179354?u=375264a854359fa02a394cd46ad8ad84c6890048&v=4" width="64" height="64" alt=""/><br/><div>Training-Free Memory-Augmented Few-Shot Segmentation with SAM2 and DINOv3</div>]]></content>
+        <author>
+            <name>silkyplus</name>
+            <email>silkyplus@noreply.github.com</email>
+            <uri>https://github.com/silkyplus</uri>
+        </author>
+        <published>2026-07-08T07:39:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adiezsanchez/lisaoya_hcs_embed: Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head]]></title>
+        <id>https://github.com/adiezsanchez/lisaoya_hcs_embed</id>
+        <link href="https://github.com/adiezsanchez/lisaoya_hcs_embed"/>
+        <updated>2026-07-08T07:06:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138788397?u=1a9bcfb4daf4b4916867e641cee23ce39310aa6e&v=4" width="64" height="64" alt=""/><br/><div>Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head</div>]]></content>
+        <author>
+            <name>adiezsanchez</name>
+            <email>adiezsanchez@noreply.github.com</email>
+            <uri>https://github.com/adiezsanchez</uri>
+        </author>
+        <published>2026-07-01T07:18:56.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MochiMunching/IntelREU-cross-lot-wafer-defect-classification: Intel REU Research Project on comparison metrics of VFM DINOv2 and DINOv3]]></title>
         <id>https://github.com/MochiMunching/IntelREU-cross-lot-wafer-defect-classification</id>
@@ -47,32 +151,6 @@
         <published>2026-07-07T19:32:40.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-07T17:52:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adiezsanchez/lisaoya_hcs_embed: Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head]]></title>
-        <id>https://github.com/adiezsanchez/lisaoya_hcs_embed</id>
-        <link href="https://github.com/adiezsanchez/lisaoya_hcs_embed"/>
-        <updated>2026-07-07T17:38:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138788397?u=1a9bcfb4daf4b4916867e641cee23ce39310aa6e&v=4" width="64" height="64" alt=""/><br/><div>Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head</div>]]></content>
-        <author>
-            <name>adiezsanchez</name>
-            <email>adiezsanchez@noreply.github.com</email>
-            <uri>https://github.com/adiezsanchez</uri>
-        </author>
-        <published>2026-07-01T07:18:56.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WeiChien5241/DINOv3-Segmentation-Training: DINOv3-based semantic segmentation pipeline (sky/traversable/obstacle) for Purdue's P-AgBot crop-row navigation]]></title>
         <id>https://github.com/WeiChien5241/DINOv3-Segmentation-Training</id>
         <link href="https://github.com/WeiChien5241/DINOv3-Segmentation-Training"/>
@@ -99,19 +177,6 @@
         <published>2026-05-17T07:13:23.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
-        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
-        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-07-07T15:54:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3]]></title>
         <id>https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3</id>
         <link href="https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3"/>
@@ -128,7 +193,7 @@
         <title type="html"><![CDATA[facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.]]></title>
         <id>https://github.com/facebookresearch/Flow-World-Models</id>
         <link href="https://github.com/facebookresearch/Flow-World-Models"/>
-        <updated>2026-07-07T21:13:55.000Z</updated>
+        <updated>2026-07-08T11:42:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -201,70 +266,5 @@
             <uri>https://github.com/pablo-reyes8</uri>
         </author>
         <published>2026-06-08T01:08:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TaqiyudinMiftah/bdc2026-dinov3-lora]]></title>
-        <id>https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora</id>
-        <link href="https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora"/>
-        <updated>2026-07-05T16:03:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143085259?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>TaqiyudinMiftah</name>
-            <email>TaqiyudinMiftah@noreply.github.com</email>
-            <uri>https://github.com/TaqiyudinMiftah</uri>
-        </author>
-        <published>2026-07-04T13:57:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AnthonyAvilaA/multimodal-canary-vegetation-segmentation: Segmentación semántica multimodal de la vegetación y la cobertura del suelo en las Islas Canarias. Integra RGB, NIR (NDVI), altitud y orientación mediante UNet (VGG19/ResNet50) y algunas variantes con modelos de Vision Foundation (Clay y DINOv3).]]></title>
-        <id>https://github.com/AnthonyAvilaA/multimodal-canary-vegetation-segmentation</id>
-        <link href="https://github.com/AnthonyAvilaA/multimodal-canary-vegetation-segmentation"/>
-        <updated>2026-07-05T08:46:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/189530227?u=5f73cbec08ed9c11ddb344fe5b0b2ae59a987b96&v=4" width="64" height="64" alt=""/><br/><div>Segmentación semántica multimodal de la vegetación y la cobertura del suelo en las Islas Canarias. Integra RGB, NIR (NDVI), altitud y orientación mediante UNet (VGG19/ResNet50) y algunas variantes con modelos de Vision Foundation (Clay y DINOv3).</div>]]></content>
-        <author>
-            <name>AnthonyAvilaA</name>
-            <email>AnthonyAvilaA@noreply.github.com</email>
-            <uri>https://github.com/AnthonyAvilaA</uri>
-        </author>
-        <published>2026-02-14T15:42:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rik-Sarkar-07/SIFAR_plus_plus_DINOv3: SIFAR DINO with prompt learning ]]></title>
-        <id>https://github.com/Rik-Sarkar-07/SIFAR_plus_plus_DINOv3</id>
-        <link href="https://github.com/Rik-Sarkar-07/SIFAR_plus_plus_DINOv3"/>
-        <updated>2026-07-05T07:57:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84672557?u=08b29a60647d711ab5b0bcceef56a8bdf414d1f0&v=4" width="64" height="64" alt=""/><br/><div>SIFAR DINO with prompt learning </div>]]></content>
-        <author>
-            <name>Rik-Sarkar-07</name>
-            <email>Rik-Sarkar-07@noreply.github.com</email>
-            <uri>https://github.com/Rik-Sarkar-07</uri>
-        </author>
-        <published>2026-07-05T07:49:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[willz-blankOS/Dinov3-JAX-NNX: Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface]]></title>
-        <id>https://github.com/willz-blankOS/Dinov3-JAX-NNX</id>
-        <link href="https://github.com/willz-blankOS/Dinov3-JAX-NNX"/>
-        <updated>2026-07-04T23:27:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96259708?v=4" width="64" height="64" alt=""/><br/><div>Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface</div>]]></content>
-        <author>
-            <name>willz-blankOS</name>
-            <email>willz-blankOS@noreply.github.com</email>
-            <uri>https://github.com/willz-blankOS</uri>
-        </author>
-        <published>2026-07-04T03:41:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AriaeiMehdi/Dinov3_SPECT]]></title>
-        <id>https://github.com/AriaeiMehdi/Dinov3_SPECT</id>
-        <link href="https://github.com/AriaeiMehdi/Dinov3_SPECT"/>
-        <updated>2026-07-04T22:17:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86190878?u=ef2e4bb10d850b21e60cf65e436ac84beaac9131&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>AriaeiMehdi</name>
-            <email>AriaeiMehdi@noreply.github.com</email>
-            <uri>https://github.com/AriaeiMehdi</uri>
-        </author>
-        <published>2026-07-04T16:13:40.000Z</published>
     </entry>
 </feed>
