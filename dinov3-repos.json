@@ -6,6 +6,83 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>",
+            "url": "https://github.com/lionking0921/Fursee",
+            "title": "lionking0921/Fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.",
+            "date_modified": "2026-07-10T03:01:15.000Z",
+            "date_published": "2026-07-10T03:01:10.000Z",
+            "author": {
+                "name": "lionking0921",
+                "url": "https://github.com/lionking0921"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Swift-MLX port of Pixal3D / Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D ModelPackage. Built with DINOv3.</div>",
+            "url": "https://github.com/xocialize/mlx-trellis2-swift",
+            "title": "xocialize/mlx-trellis2-swift: Swift-MLX port of Pixal3D / Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D ModelPackage. Built with DINOv3.",
+            "date_modified": "2026-07-10T00:30:18.000Z",
+            "date_published": "2026-06-27T06:31:49.000Z",
+            "author": {
+                "name": "xocialize",
+                "url": "https://github.com/xocialize"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>",
+            "url": "https://github.com/AlexThunder01/Thyroid-Nodule-AI",
+            "title": "AlexThunder01/Thyroid-Nodule-AI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.",
+            "date_modified": "2026-07-09T22:33:02.000Z",
+            "date_published": "2026-01-16T05:00:11.000Z",
+            "author": {
+                "name": "AlexThunder01",
+                "url": "https://github.com/AlexThunder01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200369858?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/TLio2407/Anomaly-Detection-Classification-with-DINOv3-and-LLaVA",
+            "title": "TLio2407/Anomaly-Detection-Classification-with-DINOv3-and-LLaVA",
+            "date_modified": "2026-07-09T17:58:07.000Z",
+            "date_published": "2026-01-23T07:49:20.000Z",
+            "author": {
+                "name": "TLio2407",
+                "url": "https://github.com/TLio2407"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
+            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
+            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
+            "date_modified": "2026-07-09T16:59:39.000Z",
+            "date_published": "2026-06-21T10:09:39.000Z",
+            "author": {
+                "name": "sebspel",
+                "url": "https://github.com/sebspel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-07-09T08:55:28.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/guantongpeng/DINOv3_DIOR-R",
+            "title": "guantongpeng/DINOv3_DIOR-R",
+            "date_modified": "2026-07-09T07:13:02.000Z",
+            "date_published": "2026-06-08T11:17:01.000Z",
+            "author": {
+                "name": "guantongpeng",
+                "url": "https://github.com/guantongpeng"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119120275?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOV3+ccm+fgm</div>",
             "url": "https://github.com/azaaa7/My_model_v1",
             "title": "azaaa7/My_model_v1: DINOV3+ccm+fgm",
@@ -28,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-07-09T02:13:33.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180333412?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.</div>",
             "url": "https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-",
             "title": "Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-: Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.",
@@ -47,17 +113,6 @@
             "author": {
                 "name": "Lmague",
                 "url": "https://github.com/Lmague"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
-            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
-            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
-            "date_modified": "2026-07-08T16:18:51.000Z",
-            "date_published": "2026-06-21T10:09:39.000Z",
-            "author": {
-                "name": "sebspel",
-                "url": "https://github.com/sebspel"
             }
         },
         {
@@ -91,17 +146,6 @@
             "author": {
                 "name": "adiezsanchez",
                 "url": "https://github.com/adiezsanchez"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96800094?u=dfd65238ac55614aca3441d771d912906fb987f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Intel REU Research Project on comparison metrics of VFM DINOv2 and DINOv3</div>",
-            "url": "https://github.com/MochiMunching/IntelREU-cross-lot-wafer-defect-classification",
-            "title": "MochiMunching/IntelREU-cross-lot-wafer-defect-classification: Intel REU Research Project on comparison metrics of VFM DINOv2 and DINOv3",
-            "date_modified": "2026-07-08T01:57:54.000Z",
-            "date_published": "2026-07-03T03:19:53.000Z",
-            "author": {
-                "name": "MochiMunching",
-                "url": "https://github.com/MochiMunching"
             }
         },
         {
@@ -163,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>",
             "url": "https://github.com/facebookresearch/Flow-World-Models",
             "title": "facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.",
-            "date_modified": "2026-07-08T11:42:38.000Z",
+            "date_modified": "2026-07-09T13:45:54.000Z",
             "date_published": "2026-07-06T19:41:03.000Z",
             "author": {
                 "name": "facebookresearch",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "zhuwenmao",
                 "url": "https://github.com/zhuwenmao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26123083?u=5550fd24bcbda6a2fef228536d17cc5b7e414050&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated SKU detection, recognition, and retrieval from retail shelf images. YOLOv8/YOLOv10 detection, DINOv3+FAISS retrieval, ResNet18/ViT recognition, and a VLM-assisted curated annotation pipeline with human-in-the-loop review.</div>",
-            "url": "https://github.com/Sanket758/sku-vision-pipeline",
-            "title": "Sanket758/sku-vision-pipeline: Automated SKU detection, recognition, and retrieval from retail shelf images. YOLOv8/YOLOv10 detection, DINOv3+FAISS retrieval, ResNet18/ViT recognition, and a VLM-assisted curated annotation pipeline with human-in-the-loop review.",
-            "date_modified": "2026-07-06T18:01:54.000Z",
-            "date_published": "2026-07-06T15:19:42.000Z",
-            "author": {
-                "name": "Sanket758",
-                "url": "https://github.com/Sanket758"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
-            "url": "https://github.com/little51/dinov3-course",
-            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-07-07T08:59:22.000Z",
-            "date_published": "2026-05-03T12:40:56.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161610118?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: single-training unified anomaly detection on frozen DINOv3 — bank-distillation multi-head design (one forward pass -&gt; AU-PRO/AU-ROC/Seg-F1/Class-F1). Companion to dinov3-dual-branch-ad2.</div>",
-            "url": "https://github.com/112378074/dinov3-unified-ad2",
-            "title": "112378074/dinov3-unified-ad2: Experimental: single-training unified anomaly detection on frozen DINOv3 — bank-distillation multi-head design (one forward pass -> AU-PRO/AU-ROC/Seg-F1/Class-F1). Companion to dinov3-dual-branch-ad2.",
-            "date_modified": "2026-07-06T08:16:07.000Z",
-            "date_published": "2026-07-04T02:29:19.000Z",
-            "author": {
-                "name": "112378074",
-                "url": "https://github.com/112378074"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168690363?u=54f575c5529bd7b7592aff6a3cc5ec590d6ab79d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A from-scratch PyTorch implementation of a lightweight DINO-style self-supervised Vision Transformer, featuring multi-crop training, EMA teacher-student learning, optional RoPE positional encoding, and DINOv3-inspired Gram regularization.</div>",
-            "url": "https://github.com/pablo-reyes8/tiny-dino-vit",
-            "title": "pablo-reyes8/tiny-dino-vit: A from-scratch PyTorch implementation of a lightweight DINO-style self-supervised Vision Transformer, featuring multi-crop training, EMA teacher-student learning, optional RoPE positional encoding, and DINOv3-inspired Gram regularization.",
-            "date_modified": "2026-07-05T23:35:00.000Z",
-            "date_published": "2026-06-08T01:08:09.000Z",
-            "author": {
-                "name": "pablo-reyes8",
-                "url": "https://github.com/pablo-reyes8"
             }
         }
     ]
