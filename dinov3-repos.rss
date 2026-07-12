@@ -2,11 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-11T02:42:17.681Z</updated>
+    <updated>2026-07-12T02:50:18.284Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
+        <id>https://github.com/higo522/LT-DETR</id>
+        <link href="https://github.com/higo522/LT-DETR"/>
+        <updated>2026-07-12T01:20:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198003162?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>]]></content>
+        <author>
+            <name>higo522</name>
+            <email>higo522@noreply.github.com</email>
+            <uri>https://github.com/higo522</uri>
+        </author>
+        <published>2026-06-11T18:16:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
+        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
+        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
+        <updated>2026-07-11T16:52:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rik-Sarkar-07/Dino_MSN: DinoV3 MSN Finetune and Pretraining code base]]></title>
+        <id>https://github.com/Rik-Sarkar-07/Dino_MSN</id>
+        <link href="https://github.com/Rik-Sarkar-07/Dino_MSN"/>
+        <updated>2026-07-11T06:46:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84672557?u=08b29a60647d711ab5b0bcceef56a8bdf414d1f0&v=4" width="64" height="64" alt=""/><br/><div>DinoV3 MSN Finetune and Pretraining code base</div>]]></content>
+        <author>
+            <name>Rik-Sarkar-07</name>
+            <email>Rik-Sarkar-07@noreply.github.com</email>
+            <uri>https://github.com/Rik-Sarkar-07</uri>
+        </author>
+        <published>2026-02-16T06:24:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rik-Sarkar-07/SIFAR_plus_plus_DINOv3: SIFAR DINO with prompt learning ]]></title>
+        <id>https://github.com/Rik-Sarkar-07/SIFAR_plus_plus_DINOv3</id>
+        <link href="https://github.com/Rik-Sarkar-07/SIFAR_plus_plus_DINOv3"/>
+        <updated>2026-07-11T06:33:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84672557?u=08b29a60647d711ab5b0bcceef56a8bdf414d1f0&v=4" width="64" height="64" alt=""/><br/><div>SIFAR DINO with prompt learning </div>]]></content>
+        <author>
+            <name>Rik-Sarkar-07</name>
+            <email>Rik-Sarkar-07@noreply.github.com</email>
+            <uri>https://github.com/Rik-Sarkar-07</uri>
+        </author>
+        <published>2026-07-05T07:49:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-07-11T10:41:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
         <id>https://github.com/kingwingfly/lets_embed</id>
@@ -19,32 +84,6 @@
             <uri>https://github.com/kingwingfly</uri>
         </author>
         <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-10T17:22:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
-        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
-        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-07-10T15:49:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Belaquaa/seasons-generator: Сезонная аугментация спутниковых снимков (FLUX.1-Kontext): выбор промпта по метрикам DINOv3+CLIP и конвейер сборки датасета для change detection]]></title>
@@ -164,19 +203,6 @@
         <published>2026-01-23T07:49:20.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
-        <id>https://github.com/higo522/LT-DETR</id>
-        <link href="https://github.com/higo522/LT-DETR"/>
-        <updated>2026-07-08T20:25:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198003162?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>]]></content>
-        <author>
-            <name>higo522</name>
-            <email>higo522@noreply.github.com</email>
-            <uri>https://github.com/higo522</uri>
-        </author>
-        <published>2026-06-11T18:16:09.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-: Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.]]></title>
         <id>https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-</id>
         <link href="https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-"/>
@@ -240,31 +266,5 @@
             <uri>https://github.com/BeUnMerreHuman</uri>
         </author>
         <published>2026-04-21T15:05:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kguelseven/cas-cv-age-estimation-dinov3-lora: Project work for the CAS Deep Learning @ FHNW (Computer Vision module). Age estimation from facial images with DINOv3: parameter-efficient LoRA fine-tuning compared against a frozen backbone.]]></title>
-        <id>https://github.com/kguelseven/cas-cv-age-estimation-dinov3-lora</id>
-        <link href="https://github.com/kguelseven/cas-cv-age-estimation-dinov3-lora"/>
-        <updated>2026-07-07T20:17:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8074254?u=cafbe7f648fdbc3d7b58d8ca19dec857331c2f97&v=4" width="64" height="64" alt=""/><br/><div>Project work for the CAS Deep Learning @ FHNW (Computer Vision module). Age estimation from facial images with DINOv3: parameter-efficient LoRA fine-tuning compared against a frozen backbone.</div>]]></content>
-        <author>
-            <name>kguelseven</name>
-            <email>kguelseven@noreply.github.com</email>
-            <uri>https://github.com/kguelseven</uri>
-        </author>
-        <published>2026-07-07T19:32:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WeiChien5241/DINOv3-Segmentation-Training: DINOv3-based semantic segmentation pipeline (sky/traversable/obstacle) for Purdue's P-AgBot crop-row navigation]]></title>
-        <id>https://github.com/WeiChien5241/DINOv3-Segmentation-Training</id>
-        <link href="https://github.com/WeiChien5241/DINOv3-Segmentation-Training"/>
-        <updated>2026-07-07T17:00:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/146744878?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based semantic segmentation pipeline (sky/traversable/obstacle) for Purdue's P-AgBot crop-row navigation</div>]]></content>
-        <author>
-            <name>WeiChien5241</name>
-            <email>WeiChien5241@noreply.github.com</email>
-            <uri>https://github.com/WeiChien5241</uri>
-        </author>
-        <published>2026-07-07T16:41:24.000Z</published>
     </entry>
 </feed>
