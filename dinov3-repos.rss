@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-12T02:50:18.284Z</updated>
+    <updated>2026-07-13T02:51:42.988Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[BeUnMerreHuman/Anime-Character-Re-Identification: Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes]]></title>
+        <id>https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification</id>
+        <link href="https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification"/>
+        <updated>2026-07-12T14:59:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215668219?u=ff759396fac007e62c15651826a27804b3439d54&v=4" width="64" height="64" alt=""/><br/><div>Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes</div>]]></content>
+        <author>
+            <name>BeUnMerreHuman</name>
+            <email>BeUnMerreHuman@noreply.github.com</email>
+            <uri>https://github.com/BeUnMerreHuman</uri>
+        </author>
+        <published>2026-04-21T15:05:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TaqiyudinMiftah/bdc2026-dinov3-lora]]></title>
+        <id>https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora</id>
+        <link href="https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora"/>
+        <updated>2026-07-12T12:49:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143085259?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>TaqiyudinMiftah</name>
+            <email>TaqiyudinMiftah@noreply.github.com</email>
+            <uri>https://github.com/TaqiyudinMiftah</uri>
+        </author>
+        <published>2026-07-04T13:57:26.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
         <id>https://github.com/higo522/LT-DETR</id>
@@ -102,7 +128,7 @@
         <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
         <id>https://github.com/lionking0921/fursee</id>
         <link href="https://github.com/lionking0921/fursee"/>
-        <updated>2026-07-10T12:09:46.000Z</updated>
+        <updated>2026-07-12T13:27:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
         <author>
             <name>lionking0921</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/silkyplus</uri>
         </author>
         <published>2026-07-08T07:39:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adiezsanchez/lisaoya_hcs_embed: Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head]]></title>
-        <id>https://github.com/adiezsanchez/lisaoya_hcs_embed</id>
-        <link href="https://github.com/adiezsanchez/lisaoya_hcs_embed"/>
-        <updated>2026-07-08T07:06:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/138788397?u=1a9bcfb4daf4b4916867e641cee23ce39310aa6e&v=4" width="64" height="64" alt=""/><br/><div>Generation of biologically meaningful embeddings from High Content Imaging using DinoV3, autoencoders and a classification head</div>]]></content>
-        <author>
-            <name>adiezsanchez</name>
-            <email>adiezsanchez@noreply.github.com</email>
-            <uri>https://github.com/adiezsanchez</uri>
-        </author>
-        <published>2026-07-01T07:18:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeUnMerreHuman/Anime-Character-Re-Identification: Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes]]></title>
-        <id>https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification</id>
-        <link href="https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification"/>
-        <updated>2026-07-07T21:28:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215668219?u=ff759396fac007e62c15651826a27804b3439d54&v=4" width="64" height="64" alt=""/><br/><div>Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes</div>]]></content>
-        <author>
-            <name>BeUnMerreHuman</name>
-            <email>BeUnMerreHuman@noreply.github.com</email>
-            <uri>https://github.com/BeUnMerreHuman</uri>
-        </author>
-        <published>2026-04-21T15:05:45.000Z</published>
     </entry>
 </feed>
