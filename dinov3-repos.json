@@ -6,6 +6,149 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 + FPN-UNet 晶界语义分割</div>",
+            "url": "https://github.com/notsong/Dino-v3-Unet-Doo",
+            "title": "notsong/Dino-v3-Unet-Doo: DINOv3 + FPN-UNet 晶界语义分割",
+            "date_modified": "2026-07-14T02:31:30.000Z",
+            "date_published": "2026-07-14T02:31:30.000Z",
+            "author": {
+                "name": "notsong",
+                "url": "https://github.com/notsong"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>利用DINOv3，工业视觉检测</div>",
+            "url": "https://github.com/celien99/surface-ai",
+            "title": "celien99/surface-ai: 利用DINOv3，工业视觉检测",
+            "date_modified": "2026-07-14T01:48:46.000Z",
+            "date_published": "2026-07-14T01:43:58.000Z",
+            "author": {
+                "name": "celien99",
+                "url": "https://github.com/celien99"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
+            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
+            "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
+            "date_modified": "2026-07-14T01:57:40.000Z",
+            "date_published": "2026-03-16T10:28:22.000Z",
+            "author": {
+                "name": "Intellindust-AI-Lab",
+                "url": "https://github.com/Intellindust-AI-Lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/wangjieh/pastis_swinv2_dinov3",
+            "title": "wangjieh/pastis_swinv2_dinov3",
+            "date_modified": "2026-07-14T00:53:14.000Z",
+            "date_published": "2026-05-28T05:35:45.000Z",
+            "author": {
+                "name": "wangjieh",
+                "url": "https://github.com/wangjieh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198003162?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>",
+            "url": "https://github.com/higo522/LT-DETR",
+            "title": "higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning",
+            "date_modified": "2026-07-13T17:24:18.000Z",
+            "date_published": "2026-06-11T18:16:09.000Z",
+            "author": {
+                "name": "higo522",
+                "url": "https://github.com/higo522"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119643234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.</div>",
+            "url": "https://github.com/tangkunszu/ToothDino",
+            "title": "tangkunszu/ToothDino: ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.",
+            "date_modified": "2026-07-13T17:13:36.000Z",
+            "date_published": "2026-07-13T13:21:27.000Z",
+            "author": {
+                "name": "tangkunszu",
+                "url": "https://github.com/tangkunszu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-07-13T16:16:37.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
+            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
+            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
+            "date_modified": "2026-07-13T15:48:55.000Z",
+            "date_published": "2026-06-21T10:09:39.000Z",
+            "author": {
+                "name": "sebspel",
+                "url": "https://github.com/sebspel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101868226?u=305c901a49f3cadea617931a920a066a1db85e5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AAAI v2 minimal package: GenImage SD1.4 single-source deepfake detection with DINOv3</div>",
+            "url": "https://github.com/wanglixin-DLUT/aaaiv2",
+            "title": "wanglixin-DLUT/aaaiv2: AAAI v2 minimal package: GenImage SD1.4 single-source deepfake detection with DINOv3",
+            "date_modified": "2026-07-13T12:05:58.000Z",
+            "date_published": "2026-07-13T12:04:47.000Z",
+            "author": {
+                "name": "wanglixin-DLUT",
+                "url": "https://github.com/wanglixin-DLUT"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153312583?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/hidroksit/dinov3-teknofest",
+            "title": "hidroksit/dinov3-teknofest",
+            "date_modified": "2026-07-13T11:49:56.000Z",
+            "date_published": "2026-07-13T11:49:56.000Z",
+            "author": {
+                "name": "hidroksit",
+                "url": "https://github.com/hidroksit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
+            "url": "https://github.com/kingwingfly/lets_embed",
+            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
+            "date_modified": "2026-07-13T11:26:55.000Z",
+            "date_published": "2026-05-17T07:13:23.000Z",
+            "author": {
+                "name": "kingwingfly",
+                "url": "https://github.com/kingwingfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119643234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.</div>",
+            "url": "https://github.com/tangkunszu/DinoDental",
+            "title": "tangkunszu/DinoDental: DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.",
+            "date_modified": "2026-07-13T10:28:10.000Z",
+            "date_published": "2026-07-13T10:19:33.000Z",
+            "author": {
+                "name": "tangkunszu",
+                "url": "https://github.com/tangkunszu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/203120825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/PARZIVAL1583/Similarity_search_dinoV3",
+            "title": "PARZIVAL1583/Similarity_search_dinoV3",
+            "date_modified": "2026-07-13T08:01:17.000Z",
+            "date_published": "2026-07-13T07:57:16.000Z",
+            "author": {
+                "name": "PARZIVAL1583",
+                "url": "https://github.com/PARZIVAL1583"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215668219?u=ff759396fac007e62c15651826a27804b3439d54&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes</div>",
             "url": "https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification",
             "title": "BeUnMerreHuman/Anime-Character-Re-Identification: Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes",
@@ -28,28 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198003162?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>",
-            "url": "https://github.com/higo522/LT-DETR",
-            "title": "higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning",
-            "date_modified": "2026-07-12T01:20:00.000Z",
-            "date_published": "2026-06-11T18:16:09.000Z",
-            "author": {
-                "name": "higo522",
-                "url": "https://github.com/higo522"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
-            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
-            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
-            "date_modified": "2026-07-11T16:52:34.000Z",
-            "date_published": "2026-06-21T10:09:39.000Z",
-            "author": {
-                "name": "sebspel",
-                "url": "https://github.com/sebspel"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84672557?u=08b29a60647d711ab5b0bcceef56a8bdf414d1f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DinoV3 MSN Finetune and Pretraining code base</div>",
             "url": "https://github.com/Rik-Sarkar-07/Dino_MSN",
             "title": "Rik-Sarkar-07/Dino_MSN: DinoV3 MSN Finetune and Pretraining code base",
@@ -69,28 +190,6 @@
             "author": {
                 "name": "Rik-Sarkar-07",
                 "url": "https://github.com/Rik-Sarkar-07"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-07-11T10:41:23.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
-            "url": "https://github.com/kingwingfly/lets_embed",
-            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
-            "date_modified": "2026-07-10T20:37:20.000Z",
-            "date_published": "2026-05-17T07:13:23.000Z",
-            "author": {
-                "name": "kingwingfly",
-                "url": "https://github.com/kingwingfly"
             }
         },
         {
@@ -124,105 +223,6 @@
             "author": {
                 "name": "TobiasRothlin",
                 "url": "https://github.com/TobiasRothlin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47831888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>",
-            "url": "https://github.com/Brezemil/_trainer_lightly",
-            "title": "Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers",
-            "date_modified": "2026-07-10T09:59:43.000Z",
-            "date_published": "2026-06-19T20:02:09.000Z",
-            "author": {
-                "name": "Brezemil",
-                "url": "https://github.com/Brezemil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/189530227?u=5f73cbec08ed9c11ddb344fe5b0b2ae59a987b96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Segmentación semántica multimodal de la vegetación y la cobertura del suelo en las Islas Canarias. Integra RGB, NIR (NDVI), altitud y orientación mediante UNet (VGG19/ResNet50) y algunas variantes con modelos de Vision Foundation (Clay y DINOv3).</div>",
-            "url": "https://github.com/AnthonyAvilaA/multimodal-canary-vegetation-segmentation",
-            "title": "AnthonyAvilaA/multimodal-canary-vegetation-segmentation: Segmentación semántica multimodal de la vegetación y la cobertura del suelo en las Islas Canarias. Integra RGB, NIR (NDVI), altitud y orientación mediante UNet (VGG19/ResNet50) y algunas variantes con modelos de Vision Foundation (Clay y DINOv3).",
-            "date_modified": "2026-07-10T09:33:20.000Z",
-            "date_published": "2026-02-14T15:42:33.000Z",
-            "author": {
-                "name": "AnthonyAvilaA",
-                "url": "https://github.com/AnthonyAvilaA"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/guantongpeng/DINOv3_DIOR-R",
-            "title": "guantongpeng/DINOv3_DIOR-R",
-            "date_modified": "2026-07-10T08:51:57.000Z",
-            "date_published": "2026-06-08T11:17:01.000Z",
-            "author": {
-                "name": "guantongpeng",
-                "url": "https://github.com/guantongpeng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Swift-MLX port of Pixal3D / Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D ModelPackage. Built with DINOv3.</div>",
-            "url": "https://github.com/xocialize/mlx-trellis2-swift",
-            "title": "xocialize/mlx-trellis2-swift: Swift-MLX port of Pixal3D / Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D ModelPackage. Built with DINOv3.",
-            "date_modified": "2026-07-10T00:30:18.000Z",
-            "date_published": "2026-06-27T06:31:49.000Z",
-            "author": {
-                "name": "xocialize",
-                "url": "https://github.com/xocialize"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255259371?u=3c2db8bd8ec0ba1184773fc87485bbb6783d7c6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.</div>",
-            "url": "https://github.com/AlexThunder01/Thyroid-Nodule-AI",
-            "title": "AlexThunder01/Thyroid-Nodule-AI: Deep Learning pipeline for thyroid nodule diagnosis in ultrasound. Benchmarks CNNs vs. Vision Transformers (YOLOv12, DINOv3) on a 7k+ dataset. Features a two-stage approach (Detection + Classification), achieving SOTA results with Foundation Models. Includes explainability maps and a GUI demo.",
-            "date_modified": "2026-07-09T22:33:02.000Z",
-            "date_published": "2026-01-16T05:00:11.000Z",
-            "author": {
-                "name": "AlexThunder01",
-                "url": "https://github.com/AlexThunder01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200369858?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/TLio2407/Anomaly-Detection-Classification-with-DINOv3-and-LLaVA",
-            "title": "TLio2407/Anomaly-Detection-Classification-with-DINOv3-and-LLaVA",
-            "date_modified": "2026-07-09T17:58:07.000Z",
-            "date_published": "2026-01-23T07:49:20.000Z",
-            "author": {
-                "name": "TLio2407",
-                "url": "https://github.com/TLio2407"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180333412?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.</div>",
-            "url": "https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-",
-            "title": "Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-: Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.",
-            "date_modified": "2026-07-08T17:07:37.000Z",
-            "date_published": "2025-11-21T18:58:55.000Z",
-            "author": {
-                "name": "Lmague",
-                "url": "https://github.com/Lmague"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280846142?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>这是一个部署在 RDK X5 边缘计算平台上的多模态电缆缺陷检测项目，集成 RGB 视觉检测、红外热异常监测、AD5933 阻抗/受潮检测、电机滑台巡检和 Web 交互控制。视觉部分采用 DINOv3 蒸馏辅助训练、YOLO26 进行缺陷粗定位，并结合 OpenCV 对电缆区域和缺陷边界进行精定位；红外侧用于识别局部热异常，阻抗侧用于判断通断、开路定位和受潮风险。系统通过 ROS 2 节点完成摄像头采集、检测推理、电机控制、数据记录与报告生成，并在 Web 页面中提供实时监控、模型训练部署、误检闭环和 OpenClaw Agent 智能运维交互。</div>",
-            "url": "https://github.com/3077685492/cable",
-            "title": "3077685492/cable: 这是一个部署在 RDK X5 边缘计算平台上的多模态电缆缺陷检测项目，集成 RGB 视觉检测、红外热异常监测、AD5933 阻抗/受潮检测、电机滑台巡检和 Web 交互控制。视觉部分采用 DINOv3 蒸馏辅助训练、YOLO26 进行缺陷粗定位，并结合 OpenCV 对电缆区域和缺陷边界进行精定位；红外侧用于识别局部热异常，阻抗侧用于判断通断、开路定位和受潮风险。系统通过 ROS 2 节点完成摄像头采集、检测推理、电机控制、数据记录与报告生成，并在 Web 页面中提供实时监控、模型训练部署、误检闭环和 OpenClaw Agent 智能运维交互。",
-            "date_modified": "2026-07-08T09:29:41.000Z",
-            "date_published": "2026-07-08T09:29:35.000Z",
-            "author": {
-                "name": "3077685492",
-                "url": "https://github.com/3077685492"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183179354?u=375264a854359fa02a394cd46ad8ad84c6890048&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Training-Free Memory-Augmented Few-Shot Segmentation with SAM2 and DINOv3</div>",
-            "url": "https://github.com/silkyplus/SP-SAM-FSS",
-            "title": "silkyplus/SP-SAM-FSS: Training-Free Memory-Augmented Few-Shot Segmentation with SAM2 and DINOv3",
-            "date_modified": "2026-07-08T08:53:22.000Z",
-            "date_published": "2026-07-08T07:39:39.000Z",
-            "author": {
-                "name": "silkyplus",
-                "url": "https://github.com/silkyplus"
             }
         }
     ]
