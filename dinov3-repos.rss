@@ -2,55 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-14T02:32:36.726Z</updated>
+    <updated>2026-07-15T02:31:04.272Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[notsong/Dino-v3-Unet-Doo: DINOv3 + FPN-UNet 晶界语义分割]]></title>
-        <id>https://github.com/notsong/Dino-v3-Unet-Doo</id>
-        <link href="https://github.com/notsong/Dino-v3-Unet-Doo"/>
-        <updated>2026-07-14T02:31:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 + FPN-UNet 晶界语义分割</div>]]></content>
-        <author>
-            <name>notsong</name>
-            <email>notsong@noreply.github.com</email>
-            <uri>https://github.com/notsong</uri>
-        </author>
-        <published>2026-07-14T02:31:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[celien99/surface-ai: 利用DINOv3，工业视觉检测]]></title>
-        <id>https://github.com/celien99/surface-ai</id>
-        <link href="https://github.com/celien99/surface-ai"/>
-        <updated>2026-07-14T01:48:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>利用DINOv3，工业视觉检测</div>]]></content>
-        <author>
-            <name>celien99</name>
-            <email>celien99@noreply.github.com</email>
-            <uri>https://github.com/celien99</uri>
-        </author>
-        <published>2026-07-14T01:43:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
-        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-07-14T01:57:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2026-03-16T10:28:22.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
         <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
         <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
-        <updated>2026-07-14T00:53:14.000Z</updated>
+        <updated>2026-07-15T02:07:45.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>wangjieh</name>
@@ -60,36 +21,49 @@
         <published>2026-05-28T05:35:45.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
-        <id>https://github.com/higo522/LT-DETR</id>
-        <link href="https://github.com/higo522/LT-DETR"/>
-        <updated>2026-07-13T17:24:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198003162?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>]]></content>
+        <title type="html"><![CDATA[GodBarry/Dino-FastRCNN: Dinov3-FastRCNN模型]]></title>
+        <id>https://github.com/GodBarry/Dino-FastRCNN</id>
+        <link href="https://github.com/GodBarry/Dino-FastRCNN"/>
+        <updated>2026-07-15T01:53:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35213188?v=4" width="64" height="64" alt=""/><br/><div>Dinov3-FastRCNN模型</div>]]></content>
         <author>
-            <name>higo522</name>
-            <email>higo522@noreply.github.com</email>
-            <uri>https://github.com/higo522</uri>
+            <name>GodBarry</name>
+            <email>GodBarry@noreply.github.com</email>
+            <uri>https://github.com/GodBarry</uri>
         </author>
-        <published>2026-06-11T18:16:09.000Z</published>
+        <published>2026-07-15T01:15:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tangkunszu/ToothDino: ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.]]></title>
-        <id>https://github.com/tangkunszu/ToothDino</id>
-        <link href="https://github.com/tangkunszu/ToothDino"/>
-        <updated>2026-07-13T17:13:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119643234?v=4" width="64" height="64" alt=""/><br/><div>ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.</div>]]></content>
+        <title type="html"><![CDATA[GzaIcebreak/ZODS-RS-code: [CVPR 2026] ZODS-RS: Zero-training Oriented Detection and Segmentation for Remote Sensing. Training-free instance segmentation built on DINOv3 + SAM2.]]></title>
+        <id>https://github.com/GzaIcebreak/ZODS-RS-code</id>
+        <link href="https://github.com/GzaIcebreak/ZODS-RS-code"/>
+        <updated>2026-07-15T01:49:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34297750?u=986a4dde52879f462c82dd260d694f3d096c16c1&v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026] ZODS-RS: Zero-training Oriented Detection and Segmentation for Remote Sensing. Training-free instance segmentation built on DINOv3 + SAM2.</div>]]></content>
         <author>
-            <name>tangkunszu</name>
-            <email>tangkunszu@noreply.github.com</email>
-            <uri>https://github.com/tangkunszu</uri>
+            <name>GzaIcebreak</name>
+            <email>GzaIcebreak@noreply.github.com</email>
+            <uri>https://github.com/GzaIcebreak</uri>
         </author>
-        <published>2026-07-13T13:21:27.000Z</published>
+        <published>2026-07-15T01:27:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[celien99/surface-ai: 利用DINOv3，工业视觉检测]]></title>
+        <id>https://github.com/celien99/surface-ai</id>
+        <link href="https://github.com/celien99/surface-ai"/>
+        <updated>2026-07-15T01:37:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>利用DINOv3，工业视觉检测</div>]]></content>
+        <author>
+            <name>celien99</name>
+            <email>celien99@noreply.github.com</email>
+            <uri>https://github.com/celien99</uri>
+        </author>
+        <published>2026-07-14T01:43:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-13T16:16:37.000Z</updated>
+        <updated>2026-07-15T01:24:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -99,10 +73,49 @@
         <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[willz-blankOS/Dinov3-JAX-NNX: Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface]]></title>
+        <id>https://github.com/willz-blankOS/Dinov3-JAX-NNX</id>
+        <link href="https://github.com/willz-blankOS/Dinov3-JAX-NNX"/>
+        <updated>2026-07-14T20:15:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96259708?v=4" width="64" height="64" alt=""/><br/><div>Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface</div>]]></content>
+        <author>
+            <name>willz-blankOS</name>
+            <email>willz-blankOS@noreply.github.com</email>
+            <uri>https://github.com/willz-blankOS</uri>
+        </author>
+        <published>2026-07-04T03:41:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[logcho/dinov3]]></title>
+        <id>https://github.com/logcho/dinov3</id>
+        <link href="https://github.com/logcho/dinov3"/>
+        <updated>2026-07-14T18:16:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108314617?u=30cd33578398e203077235eaa7068e507231ec27&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>logcho</name>
+            <email>logcho@noreply.github.com</email>
+            <uri>https://github.com/logcho</uri>
+        </author>
+        <published>2026-06-12T20:25:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
+        <id>https://github.com/higo522/LT-DETR</id>
+        <link href="https://github.com/higo522/LT-DETR"/>
+        <updated>2026-07-14T17:13:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198003162?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>]]></content>
+        <author>
+            <name>higo522</name>
+            <email>higo522@noreply.github.com</email>
+            <uri>https://github.com/higo522</uri>
+        </author>
+        <published>2026-06-11T18:16:09.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
         <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
         <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-07-13T15:48:55.000Z</updated>
+        <updated>2026-07-14T16:30:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
         <author>
             <name>sebspel</name>
@@ -112,88 +125,23 @@
         <published>2026-06-21T10:09:39.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wanglixin-DLUT/aaaiv2: AAAI v2 minimal package: GenImage SD1.4 single-source deepfake detection with DINOv3]]></title>
-        <id>https://github.com/wanglixin-DLUT/aaaiv2</id>
-        <link href="https://github.com/wanglixin-DLUT/aaaiv2"/>
-        <updated>2026-07-13T12:05:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/101868226?u=305c901a49f3cadea617931a920a066a1db85e5d&v=4" width="64" height="64" alt=""/><br/><div>AAAI v2 minimal package: GenImage SD1.4 single-source deepfake detection with DINOv3</div>]]></content>
+        <title type="html"><![CDATA[meeshaimm/dinov3-similarity-search]]></title>
+        <id>https://github.com/meeshaimm/dinov3-similarity-search</id>
+        <link href="https://github.com/meeshaimm/dinov3-similarity-search"/>
+        <updated>2026-07-14T15:52:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111997831?u=369e1b55ddbd0189896c536401821f15bc1325a6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>wanglixin-DLUT</name>
-            <email>wanglixin-DLUT@noreply.github.com</email>
-            <uri>https://github.com/wanglixin-DLUT</uri>
+            <name>meeshaimm</name>
+            <email>meeshaimm@noreply.github.com</email>
+            <uri>https://github.com/meeshaimm</uri>
         </author>
-        <published>2026-07-13T12:04:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hidroksit/dinov3-teknofest]]></title>
-        <id>https://github.com/hidroksit/dinov3-teknofest</id>
-        <link href="https://github.com/hidroksit/dinov3-teknofest"/>
-        <updated>2026-07-13T11:49:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/153312583?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>hidroksit</name>
-            <email>hidroksit@noreply.github.com</email>
-            <uri>https://github.com/hidroksit</uri>
-        </author>
-        <published>2026-07-13T11:49:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-07-13T11:26:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tangkunszu/DinoDental: DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.]]></title>
-        <id>https://github.com/tangkunszu/DinoDental</id>
-        <link href="https://github.com/tangkunszu/DinoDental"/>
-        <updated>2026-07-13T10:28:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119643234?v=4" width="64" height="64" alt=""/><br/><div>DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.</div>]]></content>
-        <author>
-            <name>tangkunszu</name>
-            <email>tangkunszu@noreply.github.com</email>
-            <uri>https://github.com/tangkunszu</uri>
-        </author>
-        <published>2026-07-13T10:19:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PARZIVAL1583/Similarity_search_dinoV3]]></title>
-        <id>https://github.com/PARZIVAL1583/Similarity_search_dinoV3</id>
-        <link href="https://github.com/PARZIVAL1583/Similarity_search_dinoV3"/>
-        <updated>2026-07-13T08:01:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/203120825?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>PARZIVAL1583</name>
-            <email>PARZIVAL1583@noreply.github.com</email>
-            <uri>https://github.com/PARZIVAL1583</uri>
-        </author>
-        <published>2026-07-13T07:57:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeUnMerreHuman/Anime-Character-Re-Identification: Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes]]></title>
-        <id>https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification</id>
-        <link href="https://github.com/BeUnMerreHuman/Anime-Character-Re-Identification"/>
-        <updated>2026-07-12T14:59:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215668219?u=ff759396fac007e62c15651826a27804b3439d54&v=4" width="64" height="64" alt=""/><br/><div>Zero-Shot Anime Character Detection and tracking system capable of Recognizing and Re-identifying characters without retraining for new classes</div>]]></content>
-        <author>
-            <name>BeUnMerreHuman</name>
-            <email>BeUnMerreHuman@noreply.github.com</email>
-            <uri>https://github.com/BeUnMerreHuman</uri>
-        </author>
-        <published>2026-04-21T15:05:45.000Z</published>
+        <published>2026-07-14T13:24:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[TaqiyudinMiftah/bdc2026-dinov3-lora]]></title>
         <id>https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora</id>
         <link href="https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora"/>
-        <updated>2026-07-12T12:49:53.000Z</updated>
+        <updated>2026-07-14T13:30:33.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143085259?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>TaqiyudinMiftah</name>
@@ -203,62 +151,10 @@
         <published>2026-07-04T13:57:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rik-Sarkar-07/Dino_MSN: DinoV3 MSN Finetune and Pretraining code base]]></title>
-        <id>https://github.com/Rik-Sarkar-07/Dino_MSN</id>
-        <link href="https://github.com/Rik-Sarkar-07/Dino_MSN"/>
-        <updated>2026-07-11T06:46:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84672557?u=08b29a60647d711ab5b0bcceef56a8bdf414d1f0&v=4" width="64" height="64" alt=""/><br/><div>DinoV3 MSN Finetune and Pretraining code base</div>]]></content>
-        <author>
-            <name>Rik-Sarkar-07</name>
-            <email>Rik-Sarkar-07@noreply.github.com</email>
-            <uri>https://github.com/Rik-Sarkar-07</uri>
-        </author>
-        <published>2026-02-16T06:24:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rik-Sarkar-07/SIFAR_plus_plus_DINOv3: SIFAR DINO with prompt learning ]]></title>
-        <id>https://github.com/Rik-Sarkar-07/SIFAR_plus_plus_DINOv3</id>
-        <link href="https://github.com/Rik-Sarkar-07/SIFAR_plus_plus_DINOv3"/>
-        <updated>2026-07-11T06:33:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84672557?u=08b29a60647d711ab5b0bcceef56a8bdf414d1f0&v=4" width="64" height="64" alt=""/><br/><div>SIFAR DINO with prompt learning </div>]]></content>
-        <author>
-            <name>Rik-Sarkar-07</name>
-            <email>Rik-Sarkar-07@noreply.github.com</email>
-            <uri>https://github.com/Rik-Sarkar-07</uri>
-        </author>
-        <published>2026-07-05T07:49:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belaquaa/seasons-generator: Сезонная аугментация спутниковых снимков (FLUX.1-Kontext): выбор промпта по метрикам DINOv3+CLIP и конвейер сборки датасета для change detection]]></title>
-        <id>https://github.com/Belaquaa/seasons-generator</id>
-        <link href="https://github.com/Belaquaa/seasons-generator"/>
-        <updated>2026-07-10T15:43:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/110234313?u=c80870e606fd6b2030e2fb4ad77630f5af087154&v=4" width="64" height="64" alt=""/><br/><div>Сезонная аугментация спутниковых снимков (FLUX.1-Kontext): выбор промпта по метрикам DINOv3+CLIP и конвейер сборки датасета для change detection</div>]]></content>
-        <author>
-            <name>Belaquaa</name>
-            <email>Belaquaa@noreply.github.com</email>
-            <uri>https://github.com/Belaquaa</uri>
-        </author>
-        <published>2026-07-07T09:05:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
-        <id>https://github.com/lionking0921/fursee</id>
-        <link href="https://github.com/lionking0921/fursee"/>
-        <updated>2026-07-12T13:27:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
-        <author>
-            <name>lionking0921</name>
-            <email>lionking0921@noreply.github.com</email>
-            <uri>https://github.com/lionking0921</uri>
-        </author>
-        <published>2026-07-10T03:01:10.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TobiasRothlin/DinoV3_FineTuning_Test]]></title>
         <id>https://github.com/TobiasRothlin/DinoV3_FineTuning_Test</id>
         <link href="https://github.com/TobiasRothlin/DinoV3_FineTuning_Test"/>
-        <updated>2026-07-10T10:10:37.000Z</updated>
+        <updated>2026-07-14T12:45:14.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25767557?u=d506a32141d0a22e3961366f3875899c222d8dae&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>TobiasRothlin</name>
@@ -266,5 +162,109 @@
             <uri>https://github.com/TobiasRothlin</uri>
         </author>
         <published>2026-07-10T07:08:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIAS-CUHKSZ/Zero-Shot-DINOv3-Image-Matching: Zero-shot DINOv3-based image matching pipeline via many-to-many association, and a tailored two-stage LO-RANSAC algorithm.]]></title>
+        <id>https://github.com/LIAS-CUHKSZ/Zero-Shot-DINOv3-Image-Matching</id>
+        <link href="https://github.com/LIAS-CUHKSZ/Zero-Shot-DINOv3-Image-Matching"/>
+        <updated>2026-07-14T12:43:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/90193477?v=4" width="64" height="64" alt=""/><br/><div>Zero-shot DINOv3-based image matching pipeline via many-to-many association, and a tailored two-stage LO-RANSAC algorithm.</div>]]></content>
+        <author>
+            <name>LIAS-CUHKSZ</name>
+            <email>LIAS-CUHKSZ@noreply.github.com</email>
+            <uri>https://github.com/LIAS-CUHKSZ</uri>
+        </author>
+        <published>2026-07-14T12:42:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wleilei/OV-DEIM: [OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation]]></title>
+        <id>https://github.com/wleilei/OV-DEIM</id>
+        <link href="https://github.com/wleilei/OV-DEIM"/>
+        <updated>2026-07-14T09:34:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65398844?u=c62d3c847068a2e476b71fd89d8add7eef4b3f67&v=4" width="64" height="64" alt=""/><br/><div>[OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation</div>]]></content>
+        <author>
+            <name>wleilei</name>
+            <email>wleilei@noreply.github.com</email>
+            <uri>https://github.com/wleilei</uri>
+        </author>
+        <published>2026-03-02T07:23:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
+        <id>https://github.com/jingwang7236/dinov3-sw</id>
+        <link href="https://github.com/jingwang7236/dinov3-sw"/>
+        <updated>2026-07-14T08:08:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jingwang7236</name>
+            <email>jingwang7236@noreply.github.com</email>
+            <uri>https://github.com/jingwang7236</uri>
+        </author>
+        <published>2026-05-13T06:44:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.]]></title>
+        <id>https://github.com/bensh240/crohn-ct-mr-unified</id>
+        <link href="https://github.com/bensh240/crohn-ct-mr-unified"/>
+        <updated>2026-07-14T07:56:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77196741?v=4" width="64" height="64" alt=""/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>]]></content>
+        <author>
+            <name>bensh240</name>
+            <email>bensh240@noreply.github.com</email>
+            <uri>https://github.com/bensh240</uri>
+        </author>
+        <published>2026-06-09T20:48:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[notsong/DINOv3-CARNet-Doo: 基于DINOv3的多注意力残差UNet晶界语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。]]></title>
+        <id>https://github.com/notsong/DINOv3-CARNet-Doo</id>
+        <link href="https://github.com/notsong/DINOv3-CARNet-Doo"/>
+        <updated>2026-07-14T03:09:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4" width="64" height="64" alt=""/><br/><div>基于DINOv3的多注意力残差UNet晶界语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。</div>]]></content>
+        <author>
+            <name>notsong</name>
+            <email>notsong@noreply.github.com</email>
+            <uri>https://github.com/notsong</uri>
+        </author>
+        <published>2026-07-14T03:07:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[notsong/Dino-v3-Unet-Doo: DINOv3 + FPN-UNet 晶界语义分割]]></title>
+        <id>https://github.com/notsong/Dino-v3-Unet-Doo</id>
+        <link href="https://github.com/notsong/Dino-v3-Unet-Doo"/>
+        <updated>2026-07-14T02:46:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 + FPN-UNet 晶界语义分割</div>]]></content>
+        <author>
+            <name>notsong</name>
+            <email>notsong@noreply.github.com</email>
+            <uri>https://github.com/notsong</uri>
+        </author>
+        <published>2026-07-14T02:31:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
+        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
+        <updated>2026-07-14T05:31:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2026-03-16T10:28:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.]]></title>
+        <id>https://github.com/facebookresearch/Flow-World-Models</id>
+        <link href="https://github.com/facebookresearch/Flow-World-Models"/>
+        <updated>2026-07-14T03:24:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>]]></content>
+        <author>
+            <name>facebookresearch</name>
+            <email>facebookresearch@noreply.github.com</email>
+            <uri>https://github.com/facebookresearch</uri>
+        </author>
+        <published>2026-07-06T19:41:03.000Z</published>
     </entry>
 </feed>
