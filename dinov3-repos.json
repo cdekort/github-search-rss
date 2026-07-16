@@ -6,14 +6,190 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>利用DINOv3，工业视觉检测</div>",
+            "url": "https://github.com/celien99/surface-ai",
+            "title": "celien99/surface-ai: 利用DINOv3，工业视觉检测",
+            "date_modified": "2026-07-16T00:46:46.000Z",
+            "date_published": "2026-07-14T01:43:58.000Z",
+            "author": {
+                "name": "celien99",
+                "url": "https://github.com/celien99"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96259708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface</div>",
+            "url": "https://github.com/willz-blankOS/Dinov3-JAX-NNX",
+            "title": "willz-blankOS/Dinov3-JAX-NNX: Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface",
+            "date_modified": "2026-07-15T19:32:48.000Z",
+            "date_published": "2026-07-04T03:41:34.000Z",
+            "author": {
+                "name": "willz-blankOS",
+                "url": "https://github.com/willz-blankOS"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
+            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
+            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
+            "date_modified": "2026-07-15T16:11:59.000Z",
+            "date_published": "2026-06-21T10:09:39.000Z",
+            "author": {
+                "name": "sebspel",
+                "url": "https://github.com/sebspel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111997831?u=369e1b55ddbd0189896c536401821f15bc1325a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/meeshaimm/dinov3-similarity-search",
+            "title": "meeshaimm/dinov3-similarity-search",
+            "date_modified": "2026-07-15T16:09:56.000Z",
+            "date_published": "2026-07-14T13:24:35.000Z",
+            "author": {
+                "name": "meeshaimm",
+                "url": "https://github.com/meeshaimm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25767557?u=d506a32141d0a22e3961366f3875899c222d8dae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/TobiasRothlin/DinoV3_FineTuning_Test",
+            "title": "TobiasRothlin/DinoV3_FineTuning_Test",
+            "date_modified": "2026-07-15T15:20:34.000Z",
+            "date_published": "2026-07-10T07:08:08.000Z",
+            "author": {
+                "name": "TobiasRothlin",
+                "url": "https://github.com/TobiasRothlin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143085259?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora",
+            "title": "TaqiyudinMiftah/bdc2026-dinov3-lora",
+            "date_modified": "2026-07-15T15:03:31.000Z",
+            "date_published": "2026-07-04T13:57:26.000Z",
+            "author": {
+                "name": "TaqiyudinMiftah",
+                "url": "https://github.com/TaqiyudinMiftah"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/wangjieh/pastis_swinv2_dinov3",
             "title": "wangjieh/pastis_swinv2_dinov3",
-            "date_modified": "2026-07-15T02:07:45.000Z",
+            "date_modified": "2026-07-15T15:00:35.000Z",
             "date_published": "2026-05-28T05:35:45.000Z",
             "author": {
                 "name": "wangjieh",
                 "url": "https://github.com/wangjieh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
+            "url": "https://github.com/facebookresearch/dinov3",
+            "title": "facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3",
+            "date_modified": "2026-07-16T02:21:32.000Z",
+            "date_published": "2025-08-07T14:11:34.000Z",
+            "author": {
+                "name": "facebookresearch",
+                "url": "https://github.com/facebookresearch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-07-15T12:57:16.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53964268?u=5e7d8bf61946faa49f540c33c076dc51509ff5fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ver0810/yolov8-dinov3",
+            "title": "ver0810/yolov8-dinov3",
+            "date_modified": "2026-07-15T08:55:27.000Z",
+            "date_published": "2026-07-15T08:53:37.000Z",
+            "author": {
+                "name": "ver0810",
+                "url": "https://github.com/ver0810"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
+            "title": "JeonHaneul/2D-PDM_DINOv3",
+            "date_modified": "2026-07-15T08:27:59.000Z",
+            "date_published": "2026-07-15T08:27:58.000Z",
+            "author": {
+                "name": "JeonHaneul",
+                "url": "https://github.com/JeonHaneul"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jingwang7236/dinov3-sw",
+            "title": "jingwang7236/dinov3-sw",
+            "date_modified": "2026-07-15T08:25:05.000Z",
+            "date_published": "2026-05-13T06:44:47.000Z",
+            "author": {
+                "name": "jingwang7236",
+                "url": "https://github.com/jingwang7236"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。</div>",
+            "url": "https://github.com/notsong/DINOv3-CARNet-Doo",
+            "title": "notsong/DINOv3-CARNet-Doo: 基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。",
+            "date_modified": "2026-07-15T06:44:03.000Z",
+            "date_published": "2026-07-14T03:07:16.000Z",
+            "author": {
+                "name": "notsong",
+                "url": "https://github.com/notsong"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 + FPN-UNet 语义分割</div>",
+            "url": "https://github.com/notsong/Dino-v3-Unet-Doo",
+            "title": "notsong/Dino-v3-Unet-Doo: DINOv3 + FPN-UNet 语义分割",
+            "date_modified": "2026-07-15T06:44:17.000Z",
+            "date_published": "2026-07-14T02:31:30.000Z",
+            "author": {
+                "name": "notsong",
+                "url": "https://github.com/notsong"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34297750?u=986a4dde52879f462c82dd260d694f3d096c16c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026] ZODS-RS: Zero-training Oriented Detection and Segmentation for Remote Sensing. Training-free instance segmentation built on DINOv3 + SAM2.</div>",
+            "url": "https://github.com/GzaIcebreak/ZODS-RS-code",
+            "title": "GzaIcebreak/ZODS-RS-code: [CVPR 2026] ZODS-RS: Zero-training Oriented Detection and Segmentation for Remote Sensing. Training-free instance segmentation built on DINOv3 + SAM2.",
+            "date_modified": "2026-07-15T15:11:04.000Z",
+            "date_published": "2026-07-15T01:27:09.000Z",
+            "author": {
+                "name": "GzaIcebreak",
+                "url": "https://github.com/GzaIcebreak"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101868226?u=305c901a49f3cadea617931a920a066a1db85e5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AAAI v2 minimal package: GenImage SD1.4 single-source deepfake detection with DINOv3</div>",
+            "url": "https://github.com/wanglixin-DLUT/aaaiv2",
+            "title": "wanglixin-DLUT/aaaiv2: AAAI v2 minimal package: GenImage SD1.4 single-source deepfake detection with DINOv3",
+            "date_modified": "2026-07-15T04:26:28.000Z",
+            "date_published": "2026-07-13T12:04:47.000Z",
+            "author": {
+                "name": "wanglixin-DLUT",
+                "url": "https://github.com/wanglixin-DLUT"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>",
+            "url": "https://github.com/xocialize/mlx-trellis2-swift",
+            "title": "xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.",
+            "date_modified": "2026-07-15T04:07:19.000Z",
+            "date_published": "2026-07-14T18:36:41.000Z",
+            "author": {
+                "name": "xocialize",
+                "url": "https://github.com/xocialize"
             }
         },
         {
@@ -25,50 +201,6 @@
             "author": {
                 "name": "GodBarry",
                 "url": "https://github.com/GodBarry"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34297750?u=986a4dde52879f462c82dd260d694f3d096c16c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR 2026] ZODS-RS: Zero-training Oriented Detection and Segmentation for Remote Sensing. Training-free instance segmentation built on DINOv3 + SAM2.</div>",
-            "url": "https://github.com/GzaIcebreak/ZODS-RS-code",
-            "title": "GzaIcebreak/ZODS-RS-code: [CVPR 2026] ZODS-RS: Zero-training Oriented Detection and Segmentation for Remote Sensing. Training-free instance segmentation built on DINOv3 + SAM2.",
-            "date_modified": "2026-07-15T01:49:55.000Z",
-            "date_published": "2026-07-15T01:27:09.000Z",
-            "author": {
-                "name": "GzaIcebreak",
-                "url": "https://github.com/GzaIcebreak"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>利用DINOv3，工业视觉检测</div>",
-            "url": "https://github.com/celien99/surface-ai",
-            "title": "celien99/surface-ai: 利用DINOv3，工业视觉检测",
-            "date_modified": "2026-07-15T01:37:33.000Z",
-            "date_published": "2026-07-14T01:43:58.000Z",
-            "author": {
-                "name": "celien99",
-                "url": "https://github.com/celien99"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-07-15T01:24:08.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96259708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface</div>",
-            "url": "https://github.com/willz-blankOS/Dinov3-JAX-NNX",
-            "title": "willz-blankOS/Dinov3-JAX-NNX: Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface",
-            "date_modified": "2026-07-14T20:15:51.000Z",
-            "date_published": "2026-07-04T03:41:34.000Z",
-            "author": {
-                "name": "willz-blankOS",
-                "url": "https://github.com/willz-blankOS"
             }
         },
         {
@@ -91,138 +223,6 @@
             "author": {
                 "name": "higo522",
                 "url": "https://github.com/higo522"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>",
-            "url": "https://github.com/sebspel/lewm_dino_encoder_comparison",
-            "title": "sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.",
-            "date_modified": "2026-07-14T16:30:19.000Z",
-            "date_published": "2026-06-21T10:09:39.000Z",
-            "author": {
-                "name": "sebspel",
-                "url": "https://github.com/sebspel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111997831?u=369e1b55ddbd0189896c536401821f15bc1325a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/meeshaimm/dinov3-similarity-search",
-            "title": "meeshaimm/dinov3-similarity-search",
-            "date_modified": "2026-07-14T15:52:11.000Z",
-            "date_published": "2026-07-14T13:24:35.000Z",
-            "author": {
-                "name": "meeshaimm",
-                "url": "https://github.com/meeshaimm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143085259?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora",
-            "title": "TaqiyudinMiftah/bdc2026-dinov3-lora",
-            "date_modified": "2026-07-14T13:30:33.000Z",
-            "date_published": "2026-07-04T13:57:26.000Z",
-            "author": {
-                "name": "TaqiyudinMiftah",
-                "url": "https://github.com/TaqiyudinMiftah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25767557?u=d506a32141d0a22e3961366f3875899c222d8dae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/TobiasRothlin/DinoV3_FineTuning_Test",
-            "title": "TobiasRothlin/DinoV3_FineTuning_Test",
-            "date_modified": "2026-07-14T12:45:14.000Z",
-            "date_published": "2026-07-10T07:08:08.000Z",
-            "author": {
-                "name": "TobiasRothlin",
-                "url": "https://github.com/TobiasRothlin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90193477?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-shot DINOv3-based image matching pipeline via many-to-many association, and a tailored two-stage LO-RANSAC algorithm.</div>",
-            "url": "https://github.com/LIAS-CUHKSZ/Zero-Shot-DINOv3-Image-Matching",
-            "title": "LIAS-CUHKSZ/Zero-Shot-DINOv3-Image-Matching: Zero-shot DINOv3-based image matching pipeline via many-to-many association, and a tailored two-stage LO-RANSAC algorithm.",
-            "date_modified": "2026-07-14T12:43:40.000Z",
-            "date_published": "2026-07-14T12:42:24.000Z",
-            "author": {
-                "name": "LIAS-CUHKSZ",
-                "url": "https://github.com/LIAS-CUHKSZ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65398844?u=c62d3c847068a2e476b71fd89d8add7eef4b3f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation</div>",
-            "url": "https://github.com/wleilei/OV-DEIM",
-            "title": "wleilei/OV-DEIM: [OV-DEIM]  Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation",
-            "date_modified": "2026-07-14T09:34:21.000Z",
-            "date_published": "2026-03-02T07:23:29.000Z",
-            "author": {
-                "name": "wleilei",
-                "url": "https://github.com/wleilei"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jingwang7236/dinov3-sw",
-            "title": "jingwang7236/dinov3-sw",
-            "date_modified": "2026-07-14T08:08:20.000Z",
-            "date_published": "2026-05-13T06:44:47.000Z",
-            "author": {
-                "name": "jingwang7236",
-                "url": "https://github.com/jingwang7236"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77196741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>",
-            "url": "https://github.com/bensh240/crohn-ct-mr-unified",
-            "title": "bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.",
-            "date_modified": "2026-07-14T07:56:18.000Z",
-            "date_published": "2026-06-09T20:48:10.000Z",
-            "author": {
-                "name": "bensh240",
-                "url": "https://github.com/bensh240"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于DINOv3的多注意力残差UNet晶界语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。</div>",
-            "url": "https://github.com/notsong/DINOv3-CARNet-Doo",
-            "title": "notsong/DINOv3-CARNet-Doo: 基于DINOv3的多注意力残差UNet晶界语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。",
-            "date_modified": "2026-07-14T03:09:25.000Z",
-            "date_published": "2026-07-14T03:07:16.000Z",
-            "author": {
-                "name": "notsong",
-                "url": "https://github.com/notsong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 + FPN-UNet 晶界语义分割</div>",
-            "url": "https://github.com/notsong/Dino-v3-Unet-Doo",
-            "title": "notsong/Dino-v3-Unet-Doo: DINOv3 + FPN-UNet 晶界语义分割",
-            "date_modified": "2026-07-14T02:46:29.000Z",
-            "date_published": "2026-07-14T02:31:30.000Z",
-            "author": {
-                "name": "notsong",
-                "url": "https://github.com/notsong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
-            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
-            "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
-            "date_modified": "2026-07-14T05:31:32.000Z",
-            "date_published": "2026-03-16T10:28:22.000Z",
-            "author": {
-                "name": "Intellindust-AI-Lab",
-                "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>",
-            "url": "https://github.com/facebookresearch/Flow-World-Models",
-            "title": "facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.",
-            "date_modified": "2026-07-14T03:24:47.000Z",
-            "date_published": "2026-07-06T19:41:03.000Z",
-            "author": {
-                "name": "facebookresearch",
-                "url": "https://github.com/facebookresearch"
             }
         }
     ]
