@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-17T02:41:45.782Z</updated>
+    <updated>2026-07-18T02:32:41.466Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[bbBerreby/dinov3: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).]]></title>
+        <id>https://github.com/bbBerreby/dinov3</id>
+        <link href="https://github.com/bbBerreby/dinov3"/>
+        <updated>2026-07-18T00:04:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/306340347?u=82ef15791e554b3f899204d2c91db68b0a91f6dc&v=4" width="64" height="64" alt=""/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>]]></content>
+        <author>
+            <name>bbBerreby</name>
+            <email>bbBerreby@noreply.github.com</email>
+            <uri>https://github.com/bbBerreby</uri>
+        </author>
+        <published>2026-07-18T00:04:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-07-17T23:32:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
+        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
+        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
+        <updated>2026-07-17T14:48:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[celien99/surface-ai: 利用DINOv3，工业视觉检测]]></title>
+        <id>https://github.com/celien99/surface-ai</id>
+        <link href="https://github.com/celien99/surface-ai"/>
+        <updated>2026-07-17T13:08:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>利用DINOv3，工业视觉检测</div>]]></content>
+        <author>
+            <name>celien99</name>
+            <email>celien99@noreply.github.com</email>
+            <uri>https://github.com/celien99</uri>
+        </author>
+        <published>2026-07-14T01:43:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[btquy/dinov3]]></title>
+        <id>https://github.com/btquy/dinov3</id>
+        <link href="https://github.com/btquy/dinov3"/>
+        <updated>2026-07-17T14:05:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76622379?u=4532779ec549f6fad4f7e01613c8012761d173ca&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>btquy</name>
+            <email>btquy@noreply.github.com</email>
+            <uri>https://github.com/btquy</uri>
+        </author>
+        <published>2026-07-16T15:37:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
+        <id>https://github.com/jingwang7236/dinov3-sw</id>
+        <link href="https://github.com/jingwang7236/dinov3-sw"/>
+        <updated>2026-07-17T06:54:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jingwang7236</name>
+            <email>jingwang7236@noreply.github.com</email>
+            <uri>https://github.com/jingwang7236</uri>
+        </author>
+        <published>2026-05-13T06:44:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter-chin/PEFT_DINOV3_SUBMIT]]></title>
+        <id>https://github.com/Peter-chin/PEFT_DINOV3_SUBMIT</id>
+        <link href="https://github.com/Peter-chin/PEFT_DINOV3_SUBMIT"/>
+        <updated>2026-07-17T04:33:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/182085972?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Peter-chin</name>
+            <email>Peter-chin@noreply.github.com</email>
+            <uri>https://github.com/Peter-chin</uri>
+        </author>
+        <published>2026-07-17T03:54:21.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.]]></title>
         <id>https://github.com/xocialize/mlx-trellis2-swift</id>
@@ -21,23 +112,10 @@
         <published>2026-07-14T18:36:41.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-17T02:29:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[vikiehm/geo-lora: CVPR 2026, Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach]]></title>
         <id>https://github.com/vikiehm/geo-lora</id>
         <link href="https://github.com/vikiehm/geo-lora"/>
-        <updated>2026-07-16T20:09:37.000Z</updated>
+        <updated>2026-07-17T15:54:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63308779?u=d4e36099b8637e5e86dc81b5d6fd470eb085c41a&v=4" width="64" height="64" alt=""/><br/><div>CVPR 2026, Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach</div>]]></content>
         <author>
             <name>vikiehm</name>
@@ -45,19 +123,6 @@
             <uri>https://github.com/vikiehm</uri>
         </author>
         <published>2026-03-26T08:58:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
-        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
-        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-07-16T18:18:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
@@ -84,32 +149,6 @@
             <uri>https://github.com/PARZIVAL1583</uri>
         </author>
         <published>2026-07-13T07:57:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
-        <id>https://github.com/jingwang7236/dinov3-sw</id>
-        <link href="https://github.com/jingwang7236/dinov3-sw"/>
-        <updated>2026-07-16T06:54:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jingwang7236</name>
-            <email>jingwang7236@noreply.github.com</email>
-            <uri>https://github.com/jingwang7236</uri>
-        </author>
-        <published>2026-05-13T06:44:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[celien99/surface-ai: 利用DINOv3，工业视觉检测]]></title>
-        <id>https://github.com/celien99/surface-ai</id>
-        <link href="https://github.com/celien99/surface-ai"/>
-        <updated>2026-07-16T05:14:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>利用DINOv3，工业视觉检测</div>]]></content>
-        <author>
-            <name>celien99</name>
-            <email>celien99@noreply.github.com</email>
-            <uri>https://github.com/celien99</uri>
-        </author>
-        <published>2026-07-14T01:43:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[willz-blankOS/Dinov3-JAX-NNX: Jax Native DINOV3 Image Encoder. Weights extracted from Huggingface]]></title>
@@ -154,7 +193,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2026-07-17T02:05:05.000Z</updated>
+        <updated>2026-07-17T23:40:33.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/GzaIcebreak</uri>
         </author>
         <published>2026-07-15T01:27:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wanglixin-DLUT/aaaiv2: AAAI v2 minimal package: GenImage SD1.4 single-source deepfake detection with DINOv3]]></title>
-        <id>https://github.com/wanglixin-DLUT/aaaiv2</id>
-        <link href="https://github.com/wanglixin-DLUT/aaaiv2"/>
-        <updated>2026-07-15T04:26:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/101868226?u=305c901a49f3cadea617931a920a066a1db85e5d&v=4" width="64" height="64" alt=""/><br/><div>AAAI v2 minimal package: GenImage SD1.4 single-source deepfake detection with DINOv3</div>]]></content>
-        <author>
-            <name>wanglixin-DLUT</name>
-            <email>wanglixin-DLUT@noreply.github.com</email>
-            <uri>https://github.com/wanglixin-DLUT</uri>
-        </author>
-        <published>2026-07-13T12:04:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GodBarry/Dino-FastRCNN: Dinov3-FastRCNN模型]]></title>
-        <id>https://github.com/GodBarry/Dino-FastRCNN</id>
-        <link href="https://github.com/GodBarry/Dino-FastRCNN"/>
-        <updated>2026-07-15T01:53:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35213188?v=4" width="64" height="64" alt=""/><br/><div>Dinov3-FastRCNN模型</div>]]></content>
-        <author>
-            <name>GodBarry</name>
-            <email>GodBarry@noreply.github.com</email>
-            <uri>https://github.com/GodBarry</uri>
-        </author>
-        <published>2026-07-15T01:15:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[logcho/dinov3]]></title>
-        <id>https://github.com/logcho/dinov3</id>
-        <link href="https://github.com/logcho/dinov3"/>
-        <updated>2026-07-14T18:16:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108314617?u=30cd33578398e203077235eaa7068e507231ec27&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>logcho</name>
-            <email>logcho@noreply.github.com</email>
-            <uri>https://github.com/logcho</uri>
-        </author>
-        <published>2026-06-12T20:25:17.000Z</published>
     </entry>
 </feed>
