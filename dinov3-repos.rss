@@ -2,11 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-18T02:32:41.466Z</updated>
+    <updated>2026-07-19T02:46:56.452Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[celien99/surface-ai: 利用DINOv3，工业视觉检测]]></title>
+        <id>https://github.com/celien99/surface-ai</id>
+        <link href="https://github.com/celien99/surface-ai"/>
+        <updated>2026-07-19T02:07:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>利用DINOv3，工业视觉检测</div>]]></content>
+        <author>
+            <name>celien99</name>
+            <email>celien99@noreply.github.com</email>
+            <uri>https://github.com/celien99</uri>
+        </author>
+        <published>2026-07-14T01:43:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Belaquaa/seasons-generator: Сезонная аугментация спутниковых снимков (FLUX.1-Kontext): выбор промпта по метрикам DINOv3+CLIP и конвейер сборки датасета для change detection]]></title>
+        <id>https://github.com/Belaquaa/seasons-generator</id>
+        <link href="https://github.com/Belaquaa/seasons-generator"/>
+        <updated>2026-07-18T22:18:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/110234313?u=c80870e606fd6b2030e2fb4ad77630f5af087154&v=4" width="64" height="64" alt=""/><br/><div>Сезонная аугментация спутниковых снимков (FLUX.1-Kontext): выбор промпта по метрикам DINOv3+CLIP и конвейер сборки датасета для change detection</div>]]></content>
+        <author>
+            <name>Belaquaa</name>
+            <email>Belaquaa@noreply.github.com</email>
+            <uri>https://github.com/Belaquaa</uri>
+        </author>
+        <published>2026-07-07T09:05:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-07-18T15:52:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.]]></title>
+        <id>https://github.com/bensh240/crohn-ct-mr-unified</id>
+        <link href="https://github.com/bensh240/crohn-ct-mr-unified"/>
+        <updated>2026-07-18T14:44:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77196741?v=4" width="64" height="64" alt=""/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>]]></content>
+        <author>
+            <name>bensh240</name>
+            <email>bensh240@noreply.github.com</email>
+            <uri>https://github.com/bensh240</uri>
+        </author>
+        <published>2026-06-09T20:48:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adembtr/drone-reference-matching: Cross-modal reference-object matching & tracking in drone video: DINOv3 masked embeddings + HQ-SAM/CropFormer/SAM2]]></title>
+        <id>https://github.com/adembtr/drone-reference-matching</id>
+        <link href="https://github.com/adembtr/drone-reference-matching"/>
+        <updated>2026-07-18T08:34:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/146519268?u=d45f6d904c5b511c310ea13442e9359aa0e32f0d&v=4" width="64" height="64" alt=""/><br/><div>Cross-modal reference-object matching &amp; tracking in drone video: DINOv3 masked embeddings + HQ-SAM/CropFormer/SAM2</div>]]></content>
+        <author>
+            <name>adembtr</name>
+            <email>adembtr@noreply.github.com</email>
+            <uri>https://github.com/adembtr</uri>
+        </author>
+        <published>2026-07-18T08:17:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
+        <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
+        <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
+        <updated>2026-07-18T03:04:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>wangjieh</name>
+            <email>wangjieh@noreply.github.com</email>
+            <uri>https://github.com/wangjieh</uri>
+        </author>
+        <published>2026-05-28T05:35:45.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bbBerreby/dinov3: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).]]></title>
         <id>https://github.com/bbBerreby/dinov3</id>
@@ -21,19 +99,6 @@
         <published>2026-07-18T00:04:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-17T23:32:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
         <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
         <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
@@ -45,19 +110,6 @@
             <uri>https://github.com/sebspel</uri>
         </author>
         <published>2026-06-21T10:09:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[celien99/surface-ai: 利用DINOv3，工业视觉检测]]></title>
-        <id>https://github.com/celien99/surface-ai</id>
-        <link href="https://github.com/celien99/surface-ai"/>
-        <updated>2026-07-17T13:08:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>利用DINOv3，工业视觉检测</div>]]></content>
-        <author>
-            <name>celien99</name>
-            <email>celien99@noreply.github.com</email>
-            <uri>https://github.com/celien99</uri>
-        </author>
-        <published>2026-07-14T01:43:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[btquy/dinov3]]></title>
@@ -125,19 +177,6 @@
         <published>2026-03-26T08:58:09.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
-        <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
-        <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
-        <updated>2026-07-16T13:31:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>wangjieh</name>
-            <email>wangjieh@noreply.github.com</email>
-            <uri>https://github.com/wangjieh</uri>
-        </author>
-        <published>2026-05-28T05:35:45.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PARZIVAL1583/Similarity_search_dinoV3]]></title>
         <id>https://github.com/PARZIVAL1583/Similarity_search_dinoV3</id>
         <link href="https://github.com/PARZIVAL1583/Similarity_search_dinoV3"/>
@@ -193,7 +232,7 @@
         <title type="html"><![CDATA[facebookresearch/dinov3: Reference PyTorch implementation and models for DINOv3]]></title>
         <id>https://github.com/facebookresearch/dinov3</id>
         <link href="https://github.com/facebookresearch/dinov3"/>
-        <updated>2026-07-17T23:40:33.000Z</updated>
+        <updated>2026-07-19T01:24:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>Reference PyTorch implementation and models for DINOv3</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/JeonHaneul</uri>
         </author>
         <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[notsong/DINOv3-CARNet-Doo: 基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。]]></title>
-        <id>https://github.com/notsong/DINOv3-CARNet-Doo</id>
-        <link href="https://github.com/notsong/DINOv3-CARNet-Doo"/>
-        <updated>2026-07-15T06:44:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4" width="64" height="64" alt=""/><br/><div>基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。</div>]]></content>
-        <author>
-            <name>notsong</name>
-            <email>notsong@noreply.github.com</email>
-            <uri>https://github.com/notsong</uri>
-        </author>
-        <published>2026-07-14T03:07:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[notsong/Dino-v3-Unet-Doo: DINOv3 + FPN-UNet 语义分割]]></title>
-        <id>https://github.com/notsong/Dino-v3-Unet-Doo</id>
-        <link href="https://github.com/notsong/Dino-v3-Unet-Doo"/>
-        <updated>2026-07-15T06:44:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 + FPN-UNet 语义分割</div>]]></content>
-        <author>
-            <name>notsong</name>
-            <email>notsong@noreply.github.com</email>
-            <uri>https://github.com/notsong</uri>
-        </author>
-        <published>2026-07-14T02:31:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GzaIcebreak/ZODS-RS-code: [CVPR 2026] ZODS-RS: Zero-training Oriented Detection and Segmentation for Remote Sensing. Training-free instance segmentation built on DINOv3 + SAM2.]]></title>
-        <id>https://github.com/GzaIcebreak/ZODS-RS-code</id>
-        <link href="https://github.com/GzaIcebreak/ZODS-RS-code"/>
-        <updated>2026-07-15T15:11:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34297750?u=986a4dde52879f462c82dd260d694f3d096c16c1&v=4" width="64" height="64" alt=""/><br/><div>[CVPR 2026] ZODS-RS: Zero-training Oriented Detection and Segmentation for Remote Sensing. Training-free instance segmentation built on DINOv3 + SAM2.</div>]]></content>
-        <author>
-            <name>GzaIcebreak</name>
-            <email>GzaIcebreak@noreply.github.com</email>
-            <uri>https://github.com/GzaIcebreak</uri>
-        </author>
-        <published>2026-07-15T01:27:09.000Z</published>
     </entry>
 </feed>
