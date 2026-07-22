@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-21T02:44:31.937Z</updated>
+    <updated>2026-07-22T02:42:17.700Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.]]></title>
-        <id>https://github.com/xocialize/mlx-trellis2-swift</id>
-        <link href="https://github.com/xocialize/mlx-trellis2-swift"/>
-        <updated>2026-07-21T01:54:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4" width="64" height="64" alt=""/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>]]></content>
+        <title type="html"><![CDATA[PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
+        <id>https://github.com/PINTO0309/LINEAE</id>
+        <link href="https://github.com/PINTO0309/LINEAE"/>
+        <updated>2026-07-22T02:23:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
         <author>
-            <name>xocialize</name>
-            <email>xocialize@noreply.github.com</email>
-            <uri>https://github.com/xocialize</uri>
+            <name>PINTO0309</name>
+            <email>PINTO0309@noreply.github.com</email>
+            <uri>https://github.com/PINTO0309</uri>
         </author>
-        <published>2026-07-14T18:36:41.000Z</published>
+        <published>2026-07-20T08:24:50.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-20T20:57:47.000Z</updated>
+        <updated>2026-07-21T21:27:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -34,10 +34,36 @@
         <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WeiChien5241/DINOv3-Segmentation-Training: DINOv3-based semantic segmentation pipeline (sky/traversable/obstacle) for Purdue's P-AgBot crop-row navigation]]></title>
+        <id>https://github.com/WeiChien5241/DINOv3-Segmentation-Training</id>
+        <link href="https://github.com/WeiChien5241/DINOv3-Segmentation-Training"/>
+        <updated>2026-07-21T20:00:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/146744878?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based semantic segmentation pipeline (sky/traversable/obstacle) for Purdue's P-AgBot crop-row navigation</div>]]></content>
+        <author>
+            <name>WeiChien5241</name>
+            <email>WeiChien5241@noreply.github.com</email>
+            <uri>https://github.com/WeiChien5241</uri>
+        </author>
+        <published>2026-07-07T16:41:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.]]></title>
+        <id>https://github.com/xocialize/mlx-trellis2-swift</id>
+        <link href="https://github.com/xocialize/mlx-trellis2-swift"/>
+        <updated>2026-07-21T16:55:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4" width="64" height="64" alt=""/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>]]></content>
+        <author>
+            <name>xocialize</name>
+            <email>xocialize@noreply.github.com</email>
+            <uri>https://github.com/xocialize</uri>
+        </author>
+        <published>2026-07-14T18:36:41.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
         <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
         <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-07-20T17:04:49.000Z</updated>
+        <updated>2026-07-21T16:40:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
         <author>
             <name>sebspel</name>
@@ -47,23 +73,10 @@
         <published>2026-06-21T10:09:39.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Archaic-Atom/Template-Matching-DINOv3: Termplate matching method based on dinov3]]></title>
-        <id>https://github.com/Archaic-Atom/Template-Matching-DINOv3</id>
-        <link href="https://github.com/Archaic-Atom/Template-Matching-DINOv3"/>
-        <updated>2026-07-20T22:28:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84303047?v=4" width="64" height="64" alt=""/><br/><div>Termplate matching method based on dinov3</div>]]></content>
-        <author>
-            <name>Archaic-Atom</name>
-            <email>Archaic-Atom@noreply.github.com</email>
-            <uri>https://github.com/Archaic-Atom</uri>
-        </author>
-        <published>2026-02-10T07:59:11.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[metaphorpritam/CSIRO-Image2Biomass-DINOv3-B-DoRA-inference: CSIRO - Image-Based Pasture Biomass Estimation. Five dry-biomass components (g) from one top-view RGB photo: DINOv3-B + DoRA, Tweedie loss, leakage-free grouped CV. 0.716 pooled weighted R2.]]></title>
         <id>https://github.com/metaphorpritam/CSIRO-Image2Biomass-DINOv3-B-DoRA-inference</id>
         <link href="https://github.com/metaphorpritam/CSIRO-Image2Biomass-DINOv3-B-DoRA-inference"/>
-        <updated>2026-07-20T14:17:54.000Z</updated>
+        <updated>2026-07-21T14:37:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10588489?v=4" width="64" height="64" alt=""/><br/><div>CSIRO - Image-Based Pasture Biomass Estimation. Five dry-biomass components (g) from one top-view RGB photo: DINOv3-B + DoRA, Tweedie loss, leakage-free grouped CV. 0.716 pooled weighted R2.</div>]]></content>
         <author>
             <name>metaphorpritam</name>
@@ -71,6 +84,149 @@
             <uri>https://github.com/metaphorpritam</uri>
         </author>
         <published>2026-07-20T12:23:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hungnp-dev/fine-tuning-DINOV3]]></title>
+        <id>https://github.com/hungnp-dev/fine-tuning-DINOV3</id>
+        <link href="https://github.com/hungnp-dev/fine-tuning-DINOV3"/>
+        <updated>2026-07-21T14:09:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/188660086?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>hungnp-dev</name>
+            <email>hungnp-dev@noreply.github.com</email>
+            <uri>https://github.com/hungnp-dev</uri>
+        </author>
+        <published>2026-06-13T07:15:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tonxycs/SemDINO: [arXiv] "SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection".]]></title>
+        <id>https://github.com/tonxycs/SemDINO</id>
+        <link href="https://github.com/tonxycs/SemDINO"/>
+        <updated>2026-07-21T11:04:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104640218?u=eb5f153c8a22e68b89fa92e83a9b4661cfe72642&v=4" width="64" height="64" alt=""/><br/><div>[arXiv] "SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection".</div>]]></content>
+        <author>
+            <name>tonxycs</name>
+            <email>tonxycs@noreply.github.com</email>
+            <uri>https://github.com/tonxycs</uri>
+        </author>
+        <published>2026-06-08T18:06:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
+        <id>https://github.com/jingwang7236/dinov3-sw</id>
+        <link href="https://github.com/jingwang7236/dinov3-sw"/>
+        <updated>2026-07-21T09:51:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jingwang7236</name>
+            <email>jingwang7236@noreply.github.com</email>
+            <uri>https://github.com/jingwang7236</uri>
+        </author>
+        <published>2026-05-13T06:44:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TobiasRothlin/DinoV3_FineTuning_Test]]></title>
+        <id>https://github.com/TobiasRothlin/DinoV3_FineTuning_Test</id>
+        <link href="https://github.com/TobiasRothlin/DinoV3_FineTuning_Test"/>
+        <updated>2026-07-21T07:41:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25767557?u=d506a32141d0a22e3961366f3875899c222d8dae&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>TobiasRothlin</name>
+            <email>TobiasRothlin@noreply.github.com</email>
+            <uri>https://github.com/TobiasRothlin</uri>
+        </author>
+        <published>2026-07-10T07:08:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hoquangvinh124/vision-transformer-visual-search: Product visual search with YOLO-World, SigLIP 2, DINOv3, FastAPI, and Qdrant]]></title>
+        <id>https://github.com/hoquangvinh124/vision-transformer-visual-search</id>
+        <link href="https://github.com/hoquangvinh124/vision-transformer-visual-search"/>
+        <updated>2026-07-21T07:40:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/61200180?v=4" width="64" height="64" alt=""/><br/><div>Product visual search with YOLO-World, SigLIP 2, DINOv3, FastAPI, and Qdrant</div>]]></content>
+        <author>
+            <name>hoquangvinh124</name>
+            <email>hoquangvinh124@noreply.github.com</email>
+            <uri>https://github.com/hoquangvinh124</uri>
+        </author>
+        <published>2026-07-21T07:09:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qinhy/Ternary-DINOv3]]></title>
+        <id>https://github.com/qinhy/Ternary-DINOv3</id>
+        <link href="https://github.com/qinhy/Ternary-DINOv3"/>
+        <updated>2026-07-21T05:51:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>qinhy</name>
+            <email>qinhy@noreply.github.com</email>
+            <uri>https://github.com/qinhy</uri>
+        </author>
+        <published>2026-07-21T05:15:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[celien99/surface-ai: 利用DINOv3，工业视觉检测]]></title>
+        <id>https://github.com/celien99/surface-ai</id>
+        <link href="https://github.com/celien99/surface-ai"/>
+        <updated>2026-07-21T05:40:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>利用DINOv3，工业视觉检测</div>]]></content>
+        <author>
+            <name>celien99</name>
+            <email>celien99@noreply.github.com</email>
+            <uri>https://github.com/celien99</uri>
+        </author>
+        <published>2026-07-14T01:43:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ho323/freuid-document-forensics: DINOv3 LoRA와 Patch-MIL 기반 문서 위변조 탐지 연구 파이프라인]]></title>
+        <id>https://github.com/ho323/freuid-document-forensics</id>
+        <link href="https://github.com/ho323/freuid-document-forensics"/>
+        <updated>2026-07-21T04:43:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86637300?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 LoRA와 Patch-MIL 기반 문서 위변조 탐지 연구 파이프라인</div>]]></content>
+        <author>
+            <name>ho323</name>
+            <email>ho323@noreply.github.com</email>
+            <uri>https://github.com/ho323</uri>
+        </author>
+        <published>2026-07-20T07:59:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jhpark-ai/FROST: FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics]]></title>
+        <id>https://github.com/jhpark-ai/FROST</id>
+        <link href="https://github.com/jhpark-ai/FROST"/>
+        <updated>2026-07-21T04:38:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/228338166?v=4" width="64" height="64" alt=""/><br/><div>FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics</div>]]></content>
+        <author>
+            <name>jhpark-ai</name>
+            <email>jhpark-ai@noreply.github.com</email>
+            <uri>https://github.com/jhpark-ai</uri>
+        </author>
+        <published>2026-06-30T05:26:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
+        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
+        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
+        <updated>2026-07-21T04:32:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JeonHaneul</name>
+            <email>JeonHaneul@noreply.github.com</email>
+            <uri>https://github.com/JeonHaneul</uri>
+        </author>
+        <published>2026-07-15T08:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archaic-Atom/Template-Matching-DINOv3: Termplate matching method based on dinov3]]></title>
+        <id>https://github.com/Archaic-Atom/Template-Matching-DINOv3</id>
+        <link href="https://github.com/Archaic-Atom/Template-Matching-DINOv3"/>
+        <updated>2026-07-21T03:12:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84303047?v=4" width="64" height="64" alt=""/><br/><div>Termplate matching method based on dinov3</div>]]></content>
+        <author>
+            <name>Archaic-Atom</name>
+            <email>Archaic-Atom@noreply.github.com</email>
+            <uri>https://github.com/Archaic-Atom</uri>
+        </author>
+        <published>2026-02-10T07:59:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[zhaoxu-doctor/DINOv3-MSFNet: DINOv3-MSFNet: A Multi-Scale Feature Fusion Network for Land Cover Classification in Mountainous Forest Ecosystems]]></title>
@@ -110,161 +266,5 @@
             <uri>https://github.com/syxscott</uri>
         </author>
         <published>2026-01-11T08:01:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ho323/freuid-document-forensics: DINOv3 LoRA와 Patch-MIL 기반 문서 위변조 탐지 연구 파이프라인]]></title>
-        <id>https://github.com/ho323/freuid-document-forensics</id>
-        <link href="https://github.com/ho323/freuid-document-forensics"/>
-        <updated>2026-07-20T08:01:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86637300?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 LoRA와 Patch-MIL 기반 문서 위변조 탐지 연구 파이프라인</div>]]></content>
-        <author>
-            <name>ho323</name>
-            <email>ho323@noreply.github.com</email>
-            <uri>https://github.com/ho323</uri>
-        </author>
-        <published>2026-07-20T07:59:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohtadia/DINOV3-B]]></title>
-        <id>https://github.com/Mohtadia/DINOV3-B</id>
-        <link href="https://github.com/Mohtadia/DINOV3-B"/>
-        <updated>2026-07-20T05:20:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/233908832?u=9ea89ae24518113de4a33516da685e5a6c043722&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Mohtadia</name>
-            <email>Mohtadia@noreply.github.com</email>
-            <uri>https://github.com/Mohtadia</uri>
-        </author>
-        <published>2026-07-20T05:05:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohtadia/DINOV3-L]]></title>
-        <id>https://github.com/Mohtadia/DINOV3-L</id>
-        <link href="https://github.com/Mohtadia/DINOV3-L"/>
-        <updated>2026-07-20T05:04:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/233908832?u=9ea89ae24518113de4a33516da685e5a6c043722&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Mohtadia</name>
-            <email>Mohtadia@noreply.github.com</email>
-            <uri>https://github.com/Mohtadia</uri>
-        </author>
-        <published>2026-07-20T04:56:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bbBerreby/dinov3: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).]]></title>
-        <id>https://github.com/bbBerreby/dinov3</id>
-        <link href="https://github.com/bbBerreby/dinov3"/>
-        <updated>2026-07-19T13:31:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/306340347?u=82ef15791e554b3f899204d2c91db68b0a91f6dc&v=4" width="64" height="64" alt=""/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>]]></content>
-        <author>
-            <name>bbBerreby</name>
-            <email>bbBerreby@noreply.github.com</email>
-            <uri>https://github.com/bbBerreby</uri>
-        </author>
-        <published>2026-07-18T00:04:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[467718584/dinov3-head-selection: DINOv3 Head Selection for Few-Shot Industrial Defect Detection (P-001 paper, IEEE TII target, v28.4.2)]]></title>
-        <id>https://github.com/467718584/dinov3-head-selection</id>
-        <link href="https://github.com/467718584/dinov3-head-selection"/>
-        <updated>2026-07-19T12:48:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57902585?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Head Selection for Few-Shot Industrial Defect Detection (P-001 paper, IEEE TII target, v28.4.2)</div>]]></content>
-        <author>
-            <name>467718584</name>
-            <email>467718584@noreply.github.com</email>
-            <uri>https://github.com/467718584</uri>
-        </author>
-        <published>2026-07-19T11:43:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[467718584/dino-cascade-crack-seg: Conditional Cascade Trigger for Crack Segmentation on DINOv3 Backbones (P-006 paper, WACV 2027 R2)]]></title>
-        <id>https://github.com/467718584/dino-cascade-crack-seg</id>
-        <link href="https://github.com/467718584/dino-cascade-crack-seg"/>
-        <updated>2026-07-19T12:45:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57902585?v=4" width="64" height="64" alt=""/><br/><div>Conditional Cascade Trigger for Crack Segmentation on DINOv3 Backbones (P-006 paper, WACV 2027 R2)</div>]]></content>
-        <author>
-            <name>467718584</name>
-            <email>467718584@noreply.github.com</email>
-            <uri>https://github.com/467718584</uri>
-        </author>
-        <published>2026-07-19T12:35:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[celien99/surface-ai: 利用DINOv3，工业视觉检测]]></title>
-        <id>https://github.com/celien99/surface-ai</id>
-        <link href="https://github.com/celien99/surface-ai"/>
-        <updated>2026-07-19T12:09:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>利用DINOv3，工业视觉检测</div>]]></content>
-        <author>
-            <name>celien99</name>
-            <email>celien99@noreply.github.com</email>
-            <uri>https://github.com/celien99</uri>
-        </author>
-        <published>2026-07-14T01:43:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tangkunszu/DinoDental: DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.]]></title>
-        <id>https://github.com/tangkunszu/DinoDental</id>
-        <link href="https://github.com/tangkunszu/DinoDental"/>
-        <updated>2026-07-19T09:21:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119643234?v=4" width="64" height="64" alt=""/><br/><div>DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.</div>]]></content>
-        <author>
-            <name>tangkunszu</name>
-            <email>tangkunszu@noreply.github.com</email>
-            <uri>https://github.com/tangkunszu</uri>
-        </author>
-        <published>2026-07-13T10:19:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.]]></title>
-        <id>https://github.com/bensh240/crohn-ct-mr-unified</id>
-        <link href="https://github.com/bensh240/crohn-ct-mr-unified"/>
-        <updated>2026-07-18T14:44:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/77196741?v=4" width="64" height="64" alt=""/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>]]></content>
-        <author>
-            <name>bensh240</name>
-            <email>bensh240@noreply.github.com</email>
-            <uri>https://github.com/bensh240</uri>
-        </author>
-        <published>2026-06-09T20:48:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adembtr/drone-reference-matching: Cross-modal reference-object matching & tracking in drone video: DINOv3 masked embeddings + HQ-SAM/CropFormer/SAM2]]></title>
-        <id>https://github.com/adembtr/drone-reference-matching</id>
-        <link href="https://github.com/adembtr/drone-reference-matching"/>
-        <updated>2026-07-18T08:34:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/146519268?u=d45f6d904c5b511c310ea13442e9359aa0e32f0d&v=4" width="64" height="64" alt=""/><br/><div>Cross-modal reference-object matching &amp; tracking in drone video: DINOv3 masked embeddings + HQ-SAM/CropFormer/SAM2</div>]]></content>
-        <author>
-            <name>adembtr</name>
-            <email>adembtr@noreply.github.com</email>
-            <uri>https://github.com/adembtr</uri>
-        </author>
-        <published>2026-07-18T08:17:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wangjieh/pastis_swinv2_dinov3]]></title>
-        <id>https://github.com/wangjieh/pastis_swinv2_dinov3</id>
-        <link href="https://github.com/wangjieh/pastis_swinv2_dinov3"/>
-        <updated>2026-07-18T03:04:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62465258?u=b7651c8850d0d77e6123e69a2d1b6af45ffaaf7e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>wangjieh</name>
-            <email>wangjieh@noreply.github.com</email>
-            <uri>https://github.com/wangjieh</uri>
-        </author>
-        <published>2026-05-28T05:35:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.]]></title>
-        <id>https://github.com/facebookresearch/Flow-World-Models</id>
-        <link href="https://github.com/facebookresearch/Flow-World-Models"/>
-        <updated>2026-07-20T23:01:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>]]></content>
-        <author>
-            <name>facebookresearch</name>
-            <email>facebookresearch@noreply.github.com</email>
-            <uri>https://github.com/facebookresearch</uri>
-        </author>
-        <published>2026-07-06T19:41:03.000Z</published>
     </entry>
 </feed>
