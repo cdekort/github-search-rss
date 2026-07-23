@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-22T02:42:17.700Z</updated>
+    <updated>2026-07-23T02:47:59.085Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[ashiq24/soft-equivariance: Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.]]></title>
+        <id>https://github.com/ashiq24/soft-equivariance</id>
+        <link href="https://github.com/ashiq24/soft-equivariance"/>
+        <updated>2026-07-23T01:25:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19257148?u=802b81f25947804d44e73e762349605a60ada804&v=4" width="64" height="64" alt=""/><br/><div>Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.</div>]]></content>
+        <author>
+            <name>ashiq24</name>
+            <email>ashiq24@noreply.github.com</email>
+            <uri>https://github.com/ashiq24</uri>
+        </author>
+        <published>2026-03-07T06:42:03.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
         <id>https://github.com/PINTO0309/LINEAE</id>
         <link href="https://github.com/PINTO0309/LINEAE"/>
-        <updated>2026-07-22T02:23:24.000Z</updated>
+        <updated>2026-07-23T00:26:49.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
         <author>
             <name>PINTO0309</name>
@@ -21,10 +34,36 @@
         <published>2026-07-20T08:24:50.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tayebiarasteh/dp_dinov3: The pretraining domain outweighs the training objective in setting the privacy-utility trade-off of differentially private medical image analysis]]></title>
+        <id>https://github.com/tayebiarasteh/dp_dinov3</id>
+        <link href="https://github.com/tayebiarasteh/dp_dinov3"/>
+        <updated>2026-07-22T18:49:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48710732?u=fe9472568e98462f255b7c8e5af9f0c4191ede0a&v=4" width="64" height="64" alt=""/><br/><div>The pretraining domain outweighs the training objective in setting the privacy-utility trade-off of differentially private medical image analysis</div>]]></content>
+        <author>
+            <name>tayebiarasteh</name>
+            <email>tayebiarasteh@noreply.github.com</email>
+            <uri>https://github.com/tayebiarasteh</uri>
+        </author>
+        <published>2025-10-27T11:05:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlexandreEDMOND/dinov3-representation-lab: Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.]]></title>
+        <id>https://github.com/AlexandreEDMOND/dinov3-representation-lab</id>
+        <link href="https://github.com/AlexandreEDMOND/dinov3-representation-lab"/>
+        <updated>2026-07-22T17:59:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145270396?u=66a2a2ea0515ac16039ab4968ee7f5097be32008&v=4" width="64" height="64" alt=""/><br/><div>Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.</div>]]></content>
+        <author>
+            <name>AlexandreEDMOND</name>
+            <email>AlexandreEDMOND@noreply.github.com</email>
+            <uri>https://github.com/AlexandreEDMOND</uri>
+        </author>
+        <published>2026-07-22T11:26:20.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-21T21:27:28.000Z</updated>
+        <updated>2026-07-22T16:43:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -32,6 +71,71 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
+        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
+        <updated>2026-07-22T12:03:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2026-03-16T10:28:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
+        <id>https://github.com/lionking0921/fursee</id>
+        <link href="https://github.com/lionking0921/fursee"/>
+        <updated>2026-07-22T18:07:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
+        <author>
+            <name>lionking0921</name>
+            <email>lionking0921@noreply.github.com</email>
+            <uri>https://github.com/lionking0921</uri>
+        </author>
+        <published>2026-07-10T03:01:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
+        <id>https://github.com/jingwang7236/dinov3-sw</id>
+        <link href="https://github.com/jingwang7236/dinov3-sw"/>
+        <updated>2026-07-22T08:20:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jingwang7236</name>
+            <email>jingwang7236@noreply.github.com</email>
+            <uri>https://github.com/jingwang7236</uri>
+        </author>
+        <published>2026-05-13T06:44:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TobiasRothlin/DinoV3_FineTuning_Test]]></title>
+        <id>https://github.com/TobiasRothlin/DinoV3_FineTuning_Test</id>
+        <link href="https://github.com/TobiasRothlin/DinoV3_FineTuning_Test"/>
+        <updated>2026-07-22T08:14:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25767557?u=d506a32141d0a22e3961366f3875899c222d8dae&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>TobiasRothlin</name>
+            <email>TobiasRothlin@noreply.github.com</email>
+            <uri>https://github.com/TobiasRothlin</uri>
+        </author>
+        <published>2026-07-10T07:08:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dqlme/DPSA: we propose a DINOv3-Guided Path Sampling Attack (DPSA) framework to generate transferable adversarial examples from diverse surrogate views.]]></title>
+        <id>https://github.com/dqlme/DPSA</id>
+        <link href="https://github.com/dqlme/DPSA"/>
+        <updated>2026-07-22T07:25:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51290360?v=4" width="64" height="64" alt=""/><br/><div>we propose a DINOv3-Guided Path Sampling Attack (DPSA) framework to generate transferable adversarial examples from diverse surrogate views.</div>]]></content>
+        <author>
+            <name>dqlme</name>
+            <email>dqlme@noreply.github.com</email>
+            <uri>https://github.com/dqlme</uri>
+        </author>
+        <published>2026-07-22T07:25:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[WeiChien5241/DINOv3-Segmentation-Training: DINOv3-based semantic segmentation pipeline (sky/traversable/obstacle) for Purdue's P-AgBot crop-row navigation]]></title>
@@ -99,45 +203,6 @@
         <published>2026-06-13T07:15:34.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tonxycs/SemDINO: [arXiv] "SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection".]]></title>
-        <id>https://github.com/tonxycs/SemDINO</id>
-        <link href="https://github.com/tonxycs/SemDINO"/>
-        <updated>2026-07-21T11:04:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104640218?u=eb5f153c8a22e68b89fa92e83a9b4661cfe72642&v=4" width="64" height="64" alt=""/><br/><div>[arXiv] "SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection".</div>]]></content>
-        <author>
-            <name>tonxycs</name>
-            <email>tonxycs@noreply.github.com</email>
-            <uri>https://github.com/tonxycs</uri>
-        </author>
-        <published>2026-06-08T18:06:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
-        <id>https://github.com/jingwang7236/dinov3-sw</id>
-        <link href="https://github.com/jingwang7236/dinov3-sw"/>
-        <updated>2026-07-21T09:51:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jingwang7236</name>
-            <email>jingwang7236@noreply.github.com</email>
-            <uri>https://github.com/jingwang7236</uri>
-        </author>
-        <published>2026-05-13T06:44:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TobiasRothlin/DinoV3_FineTuning_Test]]></title>
-        <id>https://github.com/TobiasRothlin/DinoV3_FineTuning_Test</id>
-        <link href="https://github.com/TobiasRothlin/DinoV3_FineTuning_Test"/>
-        <updated>2026-07-21T07:41:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25767557?u=d506a32141d0a22e3961366f3875899c222d8dae&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>TobiasRothlin</name>
-            <email>TobiasRothlin@noreply.github.com</email>
-            <uri>https://github.com/TobiasRothlin</uri>
-        </author>
-        <published>2026-07-10T07:08:08.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[hoquangvinh124/vision-transformer-visual-search: Product visual search with YOLO-World, SigLIP 2, DINOv3, FastAPI, and Qdrant]]></title>
         <id>https://github.com/hoquangvinh124/vision-transformer-visual-search</id>
         <link href="https://github.com/hoquangvinh124/vision-transformer-visual-search"/>
@@ -201,70 +266,5 @@
             <uri>https://github.com/jhpark-ai</uri>
         </author>
         <published>2026-06-30T05:26:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-07-21T04:32:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archaic-Atom/Template-Matching-DINOv3: Termplate matching method based on dinov3]]></title>
-        <id>https://github.com/Archaic-Atom/Template-Matching-DINOv3</id>
-        <link href="https://github.com/Archaic-Atom/Template-Matching-DINOv3"/>
-        <updated>2026-07-21T03:12:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84303047?v=4" width="64" height="64" alt=""/><br/><div>Termplate matching method based on dinov3</div>]]></content>
-        <author>
-            <name>Archaic-Atom</name>
-            <email>Archaic-Atom@noreply.github.com</email>
-            <uri>https://github.com/Archaic-Atom</uri>
-        </author>
-        <published>2026-02-10T07:59:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhaoxu-doctor/DINOv3-MSFNet: DINOv3-MSFNet: A Multi-Scale Feature Fusion Network for Land Cover Classification in Mountainous Forest Ecosystems]]></title>
-        <id>https://github.com/zhaoxu-doctor/DINOv3-MSFNet</id>
-        <link href="https://github.com/zhaoxu-doctor/DINOv3-MSFNet"/>
-        <updated>2026-07-20T12:12:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/306050564?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-MSFNet: A Multi-Scale Feature Fusion Network for Land Cover Classification in Mountainous Forest Ecosystems</div>]]></content>
-        <author>
-            <name>zhaoxu-doctor</name>
-            <email>zhaoxu-doctor@noreply.github.com</email>
-            <uri>https://github.com/zhaoxu-doctor</uri>
-        </author>
-        <published>2026-07-20T11:33:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belaquaa/seasons-generator: Сезонная аугментация спутниковых снимков (FLUX.1-Kontext): выбор промпта по метрикам DINOv3+CLIP и конвейер сборки датасета для change detection]]></title>
-        <id>https://github.com/Belaquaa/seasons-generator</id>
-        <link href="https://github.com/Belaquaa/seasons-generator"/>
-        <updated>2026-07-20T11:10:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/110234313?u=c80870e606fd6b2030e2fb4ad77630f5af087154&v=4" width="64" height="64" alt=""/><br/><div>Сезонная аугментация спутниковых снимков (FLUX.1-Kontext): выбор промпта по метрикам DINOv3+CLIP и конвейер сборки датасета для change detection</div>]]></content>
-        <author>
-            <name>Belaquaa</name>
-            <email>Belaquaa@noreply.github.com</email>
-            <uri>https://github.com/Belaquaa</uri>
-        </author>
-        <published>2026-07-07T09:05:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[syxscott/Radiolaria-DINOv3: Fine-Grained Few-Shot Classification with DINOv3]]></title>
-        <id>https://github.com/syxscott/Radiolaria-DINOv3</id>
-        <link href="https://github.com/syxscott/Radiolaria-DINOv3"/>
-        <updated>2026-07-20T10:46:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/116614798?u=60d3510d8ca8b2268f86ce9b58f8ad1d934a2436&v=4" width="64" height="64" alt=""/><br/><div>Fine-Grained Few-Shot Classification with DINOv3</div>]]></content>
-        <author>
-            <name>syxscott</name>
-            <email>syxscott@noreply.github.com</email>
-            <uri>https://github.com/syxscott</uri>
-        </author>
-        <published>2026-01-11T08:01:59.000Z</published>
     </entry>
 </feed>
