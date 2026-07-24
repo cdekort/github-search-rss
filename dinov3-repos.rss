@@ -2,11 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-23T02:47:59.085Z</updated>
+    <updated>2026-07-24T02:43:07.060Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[PINTO0309/LINEAE: [WIP] LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
+        <id>https://github.com/PINTO0309/LINEAE</id>
+        <link href="https://github.com/PINTO0309/LINEAE"/>
+        <updated>2026-07-24T00:59:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>[WIP] LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
+        <author>
+            <name>PINTO0309</name>
+            <email>PINTO0309@noreply.github.com</email>
+            <uri>https://github.com/PINTO0309</uri>
+        </author>
+        <published>2026-07-20T08:24:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[luongmagnushuechi1992-sys/dp_dinov3-py]]></title>
+        <id>https://github.com/luongmagnushuechi1992-sys/dp_dinov3-py</id>
+        <link href="https://github.com/luongmagnushuechi1992-sys/dp_dinov3-py"/>
+        <updated>2026-07-24T00:09:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/308571981?u=49e6a354d50dcbf3c97fdac66e0556de4440fb03&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>luongmagnushuechi1992-sys</name>
+            <email>luongmagnushuechi1992-sys@noreply.github.com</email>
+            <uri>https://github.com/luongmagnushuechi1992-sys</uri>
+        </author>
+        <published>2026-07-24T00:09:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-07-24T01:51:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3]]></title>
+        <id>https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3</id>
+        <link href="https://github.com/FaqihahSyazwani99/CL-Foreground-Segmentation-DINOv3"/>
+        <updated>2026-07-23T18:30:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/135603267?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>FaqihahSyazwani99</name>
+            <email>FaqihahSyazwani99@noreply.github.com</email>
+            <uri>https://github.com/FaqihahSyazwani99</uri>
+        </author>
+        <published>2026-07-04T15:14:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
+        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
+        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
+        <updated>2026-07-23T15:50:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
+        <id>https://github.com/lionking0921/fursee</id>
+        <link href="https://github.com/lionking0921/fursee"/>
+        <updated>2026-07-23T13:46:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
+        <author>
+            <name>lionking0921</name>
+            <email>lionking0921@noreply.github.com</email>
+            <uri>https://github.com/lionking0921</uri>
+        </author>
+        <published>2026-07-10T03:01:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlexandreEDMOND/dinov3-representation-lab: Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.]]></title>
+        <id>https://github.com/AlexandreEDMOND/dinov3-representation-lab</id>
+        <link href="https://github.com/AlexandreEDMOND/dinov3-representation-lab"/>
+        <updated>2026-07-23T12:28:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145270396?u=66a2a2ea0515ac16039ab4968ee7f5097be32008&v=4" width="64" height="64" alt=""/><br/><div>Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.</div>]]></content>
+        <author>
+            <name>AlexandreEDMOND</name>
+            <email>AlexandreEDMOND@noreply.github.com</email>
+            <uri>https://github.com/AlexandreEDMOND</uri>
+        </author>
+        <published>2026-07-22T11:26:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zacharydenton/dinov3-xdna2: All-NPU DINOv3-ViT-L/16 image-embedding forward for the AMD Ryzen AI XDNA2 NPU (~57 img/s @ B=256, cos 1.0)]]></title>
+        <id>https://github.com/zacharydenton/dinov3-xdna2</id>
+        <link href="https://github.com/zacharydenton/dinov3-xdna2"/>
+        <updated>2026-07-23T10:33:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4" width="64" height="64" alt=""/><br/><div>All-NPU DINOv3-ViT-L/16 image-embedding forward for the AMD Ryzen AI XDNA2 NPU (~57 img/s @ B=256, cos 1.0)</div>]]></content>
+        <author>
+            <name>zacharydenton</name>
+            <email>zacharydenton@noreply.github.com</email>
+            <uri>https://github.com/zacharydenton</uri>
+        </author>
+        <published>2026-07-23T10:31:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
+        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
+        <updated>2026-07-23T08:18:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2026-03-16T10:28:22.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ashiq24/soft-equivariance: Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.]]></title>
         <id>https://github.com/ashiq24/soft-equivariance</id>
@@ -21,19 +138,6 @@
         <published>2026-03-07T06:42:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
-        <id>https://github.com/PINTO0309/LINEAE</id>
-        <link href="https://github.com/PINTO0309/LINEAE"/>
-        <updated>2026-07-23T00:26:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
-        <author>
-            <name>PINTO0309</name>
-            <email>PINTO0309@noreply.github.com</email>
-            <uri>https://github.com/PINTO0309</uri>
-        </author>
-        <published>2026-07-20T08:24:50.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tayebiarasteh/dp_dinov3: The pretraining domain outweighs the training objective in setting the privacy-utility trade-off of differentially private medical image analysis]]></title>
         <id>https://github.com/tayebiarasteh/dp_dinov3</id>
         <link href="https://github.com/tayebiarasteh/dp_dinov3"/>
@@ -45,58 +149,6 @@
             <uri>https://github.com/tayebiarasteh</uri>
         </author>
         <published>2025-10-27T11:05:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlexandreEDMOND/dinov3-representation-lab: Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.]]></title>
-        <id>https://github.com/AlexandreEDMOND/dinov3-representation-lab</id>
-        <link href="https://github.com/AlexandreEDMOND/dinov3-representation-lab"/>
-        <updated>2026-07-22T17:59:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145270396?u=66a2a2ea0515ac16039ab4968ee7f5097be32008&v=4" width="64" height="64" alt=""/><br/><div>Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.</div>]]></content>
-        <author>
-            <name>AlexandreEDMOND</name>
-            <email>AlexandreEDMOND@noreply.github.com</email>
-            <uri>https://github.com/AlexandreEDMOND</uri>
-        </author>
-        <published>2026-07-22T11:26:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-22T16:43:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
-        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-07-22T12:03:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2026-03-16T10:28:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
-        <id>https://github.com/lionking0921/fursee</id>
-        <link href="https://github.com/lionking0921/fursee"/>
-        <updated>2026-07-22T18:07:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
-        <author>
-            <name>lionking0921</name>
-            <email>lionking0921@noreply.github.com</email>
-            <uri>https://github.com/lionking0921</uri>
-        </author>
-        <published>2026-07-10T03:01:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
@@ -164,19 +216,6 @@
         <published>2026-07-14T18:36:41.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sebspel/lewm_dino_encoder_comparison: Comparing encoders of JEPA (LeWM) vs DINOv3.]]></title>
-        <id>https://github.com/sebspel/lewm_dino_encoder_comparison</id>
-        <link href="https://github.com/sebspel/lewm_dino_encoder_comparison"/>
-        <updated>2026-07-21T16:40:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Comparing encoders of JEPA (LeWM) vs DINOv3.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[metaphorpritam/CSIRO-Image2Biomass-DINOv3-B-DoRA-inference: CSIRO - Image-Based Pasture Biomass Estimation. Five dry-biomass components (g) from one top-view RGB photo: DINOv3-B + DoRA, Tweedie loss, leakage-free grouped CV. 0.716 pooled weighted R2.]]></title>
         <id>https://github.com/metaphorpritam/CSIRO-Image2Biomass-DINOv3-B-DoRA-inference</id>
         <link href="https://github.com/metaphorpritam/CSIRO-Image2Biomass-DINOv3-B-DoRA-inference"/>
@@ -227,44 +266,5 @@
             <uri>https://github.com/qinhy</uri>
         </author>
         <published>2026-07-21T05:15:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[celien99/surface-ai: 利用DINOv3，工业视觉检测]]></title>
-        <id>https://github.com/celien99/surface-ai</id>
-        <link href="https://github.com/celien99/surface-ai"/>
-        <updated>2026-07-21T05:40:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>利用DINOv3，工业视觉检测</div>]]></content>
-        <author>
-            <name>celien99</name>
-            <email>celien99@noreply.github.com</email>
-            <uri>https://github.com/celien99</uri>
-        </author>
-        <published>2026-07-14T01:43:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ho323/freuid-document-forensics: DINOv3 LoRA와 Patch-MIL 기반 문서 위변조 탐지 연구 파이프라인]]></title>
-        <id>https://github.com/ho323/freuid-document-forensics</id>
-        <link href="https://github.com/ho323/freuid-document-forensics"/>
-        <updated>2026-07-21T04:43:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86637300?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 LoRA와 Patch-MIL 기반 문서 위변조 탐지 연구 파이프라인</div>]]></content>
-        <author>
-            <name>ho323</name>
-            <email>ho323@noreply.github.com</email>
-            <uri>https://github.com/ho323</uri>
-        </author>
-        <published>2026-07-20T07:59:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jhpark-ai/FROST: FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics]]></title>
-        <id>https://github.com/jhpark-ai/FROST</id>
-        <link href="https://github.com/jhpark-ai/FROST"/>
-        <updated>2026-07-21T04:38:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/228338166?v=4" width="64" height="64" alt=""/><br/><div>FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics</div>]]></content>
-        <author>
-            <name>jhpark-ai</name>
-            <email>jhpark-ai@noreply.github.com</email>
-            <uri>https://github.com/jhpark-ai</uri>
-        </author>
-        <published>2026-06-30T05:26:07.000Z</published>
     </entry>
 </feed>
