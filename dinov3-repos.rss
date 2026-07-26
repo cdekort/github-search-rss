@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-25T02:42:00.996Z</updated>
+    <updated>2026-07-26T02:50:28.155Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[PINTO0309/LINEAE: [WIP] LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
+        <title type="html"><![CDATA[PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
         <id>https://github.com/PINTO0309/LINEAE</id>
         <link href="https://github.com/PINTO0309/LINEAE"/>
-        <updated>2026-07-25T02:13:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>[WIP] LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
+        <updated>2026-07-26T01:35:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
         <author>
             <name>PINTO0309</name>
             <email>PINTO0309@noreply.github.com</email>
@@ -21,10 +21,23 @@
         <published>2026-07-20T08:24:50.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AlexandreEDMOND/dinov3-representation-lab: Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.]]></title>
+        <id>https://github.com/AlexandreEDMOND/dinov3-representation-lab</id>
+        <link href="https://github.com/AlexandreEDMOND/dinov3-representation-lab"/>
+        <updated>2026-07-25T16:12:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145270396?u=66a2a2ea0515ac16039ab4968ee7f5097be32008&v=4" width="64" height="64" alt=""/><br/><div>Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.</div>]]></content>
+        <author>
+            <name>AlexandreEDMOND</name>
+            <email>AlexandreEDMOND@noreply.github.com</email>
+            <uri>https://github.com/AlexandreEDMOND</uri>
+        </author>
+        <published>2026-07-22T11:26:20.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-24T19:34:07.000Z</updated>
+        <updated>2026-07-25T15:36:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -34,10 +47,36 @@
         <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[zhengzhezhao057/dinov3-vits-yolo11l-distill]]></title>
+        <id>https://github.com/zhengzhezhao057/dinov3-vits-yolo11l-distill</id>
+        <link href="https://github.com/zhengzhezhao057/dinov3-vits-yolo11l-distill"/>
+        <updated>2026-07-25T14:41:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhengzhezhao057</name>
+            <email>zhengzhezhao057@noreply.github.com</email>
+            <uri>https://github.com/zhengzhezhao057</uri>
+        </author>
+        <published>2026-07-25T14:33:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhengzhezhao057/dinov3-yolo-distill]]></title>
+        <id>https://github.com/zhengzhezhao057/dinov3-yolo-distill</id>
+        <link href="https://github.com/zhengzhezhao057/dinov3-yolo-distill"/>
+        <updated>2026-07-25T14:29:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhengzhezhao057</name>
+            <email>zhengzhezhao057@noreply.github.com</email>
+            <uri>https://github.com/zhengzhezhao057</uri>
+        </author>
+        <published>2026-07-25T11:38:53.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.]]></title>
         <id>https://github.com/sebspel/worldmodel-inference-optimisation</id>
         <link href="https://github.com/sebspel/worldmodel-inference-optimisation"/>
-        <updated>2026-07-24T17:50:53.000Z</updated>
+        <updated>2026-07-25T10:52:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.</div>]]></content>
         <author>
             <name>sebspel</name>
@@ -177,19 +216,6 @@
         <published>2026-07-10T03:01:10.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AlexandreEDMOND/dinov3-representation-lab: Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.]]></title>
-        <id>https://github.com/AlexandreEDMOND/dinov3-representation-lab</id>
-        <link href="https://github.com/AlexandreEDMOND/dinov3-representation-lab"/>
-        <updated>2026-07-23T12:28:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145270396?u=66a2a2ea0515ac16039ab4968ee7f5097be32008&v=4" width="64" height="64" alt=""/><br/><div>Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.</div>]]></content>
-        <author>
-            <name>AlexandreEDMOND</name>
-            <email>AlexandreEDMOND@noreply.github.com</email>
-            <uri>https://github.com/AlexandreEDMOND</uri>
-        </author>
-        <published>2026-07-22T11:26:20.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[zacharydenton/dinov3-xdna2: All-NPU DINOv3-ViT-L/16 image-embedding forward for the AMD Ryzen AI XDNA2 NPU (~57 img/s @ B=256, cos 1.0)]]></title>
         <id>https://github.com/zacharydenton/dinov3-xdna2</id>
         <link href="https://github.com/zacharydenton/dinov3-xdna2"/>
@@ -206,7 +232,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
         <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
         <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-07-24T08:32:49.000Z</updated>
+        <updated>2026-07-25T15:09:53.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/tayebiarasteh</uri>
         </author>
         <published>2025-10-27T11:05:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TobiasRothlin/DinoV3_FineTuning_Test]]></title>
-        <id>https://github.com/TobiasRothlin/DinoV3_FineTuning_Test</id>
-        <link href="https://github.com/TobiasRothlin/DinoV3_FineTuning_Test"/>
-        <updated>2026-07-22T08:14:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25767557?u=d506a32141d0a22e3961366f3875899c222d8dae&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>TobiasRothlin</name>
-            <email>TobiasRothlin@noreply.github.com</email>
-            <uri>https://github.com/TobiasRothlin</uri>
-        </author>
-        <published>2026-07-10T07:08:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dqlme/DPSA: we propose a DINOv3-Guided Path Sampling Attack (DPSA) framework to generate transferable adversarial examples from diverse surrogate views.]]></title>
-        <id>https://github.com/dqlme/DPSA</id>
-        <link href="https://github.com/dqlme/DPSA"/>
-        <updated>2026-07-22T07:25:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51290360?v=4" width="64" height="64" alt=""/><br/><div>we propose a DINOv3-Guided Path Sampling Attack (DPSA) framework to generate transferable adversarial examples from diverse surrogate views.</div>]]></content>
-        <author>
-            <name>dqlme</name>
-            <email>dqlme@noreply.github.com</email>
-            <uri>https://github.com/dqlme</uri>
-        </author>
-        <published>2026-07-22T07:25:10.000Z</published>
     </entry>
 </feed>
