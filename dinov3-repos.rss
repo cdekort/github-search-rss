@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-26T02:50:28.155Z</updated>
+    <updated>2026-07-27T03:15:12.908Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
+        <id>https://github.com/jingwang7236/dinov3-sw</id>
+        <link href="https://github.com/jingwang7236/dinov3-sw"/>
+        <updated>2026-07-27T02:47:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jingwang7236</name>
+            <email>jingwang7236@noreply.github.com</email>
+            <uri>https://github.com/jingwang7236</uri>
+        </author>
+        <published>2026-05-13T06:44:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zeroonew/VSG: VSG: Quantify dataset coverage and similarity in embedding spaces using voxel-based subspace grids. Works with any modality. Built-in CLIP & DINOv3 support.]]></title>
+        <id>https://github.com/zeroonew/VSG</id>
+        <link href="https://github.com/zeroonew/VSG"/>
+        <updated>2026-07-27T01:40:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/155499607?v=4" width="64" height="64" alt=""/><br/><div>VSG: Quantify dataset coverage and similarity in embedding spaces using voxel-based subspace grids. Works with any modality. Built-in CLIP &amp; DINOv3 support.</div>]]></content>
+        <author>
+            <name>zeroonew</name>
+            <email>zeroonew@noreply.github.com</email>
+            <uri>https://github.com/zeroonew</uri>
+        </author>
+        <published>2026-07-27T01:34:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
         <id>https://github.com/PINTO0309/LINEAE</id>
         <link href="https://github.com/PINTO0309/LINEAE"/>
-        <updated>2026-07-26T01:35:30.000Z</updated>
+        <updated>2026-07-27T00:55:41.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
         <author>
             <name>PINTO0309</name>
@@ -19,6 +45,58 @@
             <uri>https://github.com/PINTO0309</uri>
         </author>
         <published>2026-07-20T08:24:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[quinnwang0416-star/dinonerf: DINO and DINOv3 guided Nerfstudio methods]]></title>
+        <id>https://github.com/quinnwang0416-star/dinonerf</id>
+        <link href="https://github.com/quinnwang0416-star/dinonerf"/>
+        <updated>2026-07-26T18:39:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/287937542?v=4" width="64" height="64" alt=""/><br/><div>DINO and DINOv3 guided Nerfstudio methods</div>]]></content>
+        <author>
+            <name>quinnwang0416-star</name>
+            <email>quinnwang0416-star@noreply.github.com</email>
+            <uri>https://github.com/quinnwang0416-star</uri>
+        </author>
+        <published>2026-07-26T18:28:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yiyang19/dinov3-defect-detection]]></title>
+        <id>https://github.com/yiyang19/dinov3-defect-detection</id>
+        <link href="https://github.com/yiyang19/dinov3-defect-detection"/>
+        <updated>2026-07-26T13:19:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/109124109?u=b81864ee59d87fb6ecfa1a80b4d1855f2231fcd2&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>yiyang19</name>
+            <email>yiyang19@noreply.github.com</email>
+            <uri>https://github.com/yiyang19</uri>
+        </author>
+        <published>2026-07-26T13:18:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.]]></title>
+        <id>https://github.com/sebspel/worldmodel-inference-optimisation</id>
+        <link href="https://github.com/sebspel/worldmodel-inference-optimisation"/>
+        <updated>2026-07-26T11:53:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tonxycs/SemDINO: [arXiv] "SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection".]]></title>
+        <id>https://github.com/tonxycs/SemDINO</id>
+        <link href="https://github.com/tonxycs/SemDINO"/>
+        <updated>2026-07-26T10:01:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104640218?u=eb5f153c8a22e68b89fa92e83a9b4661cfe72642&v=4" width="64" height="64" alt=""/><br/><div>[arXiv] "SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection".</div>]]></content>
+        <author>
+            <name>tonxycs</name>
+            <email>tonxycs@noreply.github.com</email>
+            <uri>https://github.com/tonxycs</uri>
+        </author>
+        <published>2026-06-08T18:06:44.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AlexandreEDMOND/dinov3-representation-lab: Benchmarking and visualizing pretrained DINOv3 image representations: ImageNet probes, patch-token PCA, retrieval, and robustness analysis.]]></title>
@@ -47,19 +125,6 @@
         <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[zhengzhezhao057/dinov3-vits-yolo11l-distill]]></title>
-        <id>https://github.com/zhengzhezhao057/dinov3-vits-yolo11l-distill</id>
-        <link href="https://github.com/zhengzhezhao057/dinov3-vits-yolo11l-distill"/>
-        <updated>2026-07-25T14:41:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhengzhezhao057</name>
-            <email>zhengzhezhao057@noreply.github.com</email>
-            <uri>https://github.com/zhengzhezhao057</uri>
-        </author>
-        <published>2026-07-25T14:33:43.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[zhengzhezhao057/dinov3-yolo-distill]]></title>
         <id>https://github.com/zhengzhezhao057/dinov3-yolo-distill</id>
         <link href="https://github.com/zhengzhezhao057/dinov3-yolo-distill"/>
@@ -73,17 +138,17 @@
         <published>2026-07-25T11:38:53.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.]]></title>
-        <id>https://github.com/sebspel/worldmodel-inference-optimisation</id>
-        <link href="https://github.com/sebspel/worldmodel-inference-optimisation"/>
-        <updated>2026-07-25T10:52:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.</div>]]></content>
+        <title type="html"><![CDATA[facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.]]></title>
+        <id>https://github.com/facebookresearch/Flow-World-Models</id>
+        <link href="https://github.com/facebookresearch/Flow-World-Models"/>
+        <updated>2026-07-26T13:25:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>]]></content>
         <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
+            <name>facebookresearch</name>
+            <email>facebookresearch@noreply.github.com</email>
+            <uri>https://github.com/facebookresearch</uri>
         </author>
-        <published>2026-06-21T10:09:39.000Z</published>
+        <published>2026-07-06T19:41:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ljz330/Dinov3-sat]]></title>
@@ -97,19 +162,6 @@
             <uri>https://github.com/ljz330</uri>
         </author>
         <published>2026-07-24T13:07:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
-        <id>https://github.com/jingwang7236/dinov3-sw</id>
-        <link href="https://github.com/jingwang7236/dinov3-sw"/>
-        <updated>2026-07-24T08:12:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jingwang7236</name>
-            <email>jingwang7236@noreply.github.com</email>
-            <uri>https://github.com/jingwang7236</uri>
-        </author>
-        <published>2026-05-13T06:44:47.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[azaaa7/My_model_v1: DINOV3+ccm+fgm]]></title>
@@ -164,19 +216,6 @@
         <published>2026-07-24T03:08:31.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.]]></title>
-        <id>https://github.com/facebookresearch/Flow-World-Models</id>
-        <link href="https://github.com/facebookresearch/Flow-World-Models"/>
-        <updated>2026-07-24T09:08:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>]]></content>
-        <author>
-            <name>facebookresearch</name>
-            <email>facebookresearch@noreply.github.com</email>
-            <uri>https://github.com/facebookresearch</uri>
-        </author>
-        <published>2026-07-06T19:41:03.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[luongmagnushuechi1992-sys/dp_dinov3-py]]></title>
         <id>https://github.com/luongmagnushuechi1992-sys/dp_dinov3-py</id>
         <link href="https://github.com/luongmagnushuechi1992-sys/dp_dinov3-py"/>
@@ -206,7 +245,7 @@
         <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
         <id>https://github.com/lionking0921/fursee</id>
         <link href="https://github.com/lionking0921/fursee"/>
-        <updated>2026-07-23T13:46:56.000Z</updated>
+        <updated>2026-07-26T15:03:12.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
         <author>
             <name>lionking0921</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/zacharydenton</uri>
         </author>
         <published>2026-07-23T10:31:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
-        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-07-25T15:09:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>Pytorch implementation of "EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation"</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2026-03-16T10:28:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ashiq24/soft-equivariance: Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.]]></title>
-        <id>https://github.com/ashiq24/soft-equivariance</id>
-        <link href="https://github.com/ashiq24/soft-equivariance"/>
-        <updated>2026-07-23T01:25:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19257148?u=802b81f25947804d44e73e762349605a60ada804&v=4" width="64" height="64" alt=""/><br/><div>Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.</div>]]></content>
-        <author>
-            <name>ashiq24</name>
-            <email>ashiq24@noreply.github.com</email>
-            <uri>https://github.com/ashiq24</uri>
-        </author>
-        <published>2026-03-07T06:42:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tayebiarasteh/dp_dinov3: The pretraining domain outweighs the training objective in setting the privacy-utility trade-off of differentially private medical image analysis]]></title>
-        <id>https://github.com/tayebiarasteh/dp_dinov3</id>
-        <link href="https://github.com/tayebiarasteh/dp_dinov3"/>
-        <updated>2026-07-22T18:49:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/48710732?u=fe9472568e98462f255b7c8e5af9f0c4191ede0a&v=4" width="64" height="64" alt=""/><br/><div>The pretraining domain outweighs the training objective in setting the privacy-utility trade-off of differentially private medical image analysis</div>]]></content>
-        <author>
-            <name>tayebiarasteh</name>
-            <email>tayebiarasteh@noreply.github.com</email>
-            <uri>https://github.com/tayebiarasteh</uri>
-        </author>
-        <published>2025-10-27T11:05:08.000Z</published>
     </entry>
 </feed>
