@@ -6,14 +6,124 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/311239073?u=8fea91edd8248b237218d34a9e8fbf36e5340392&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sairuxu09-ux/DINOv3-data",
+            "title": "sairuxu09-ux/DINOv3-data",
+            "date_modified": "2026-07-31T01:56:40.000Z",
+            "date_published": "2026-07-31T01:56:40.000Z",
+            "author": {
+                "name": "sairuxu09-ux",
+                "url": "https://github.com/sairuxu09-ux"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12648328?u=0c4704d58c2ce1fc71be2b062c33871a3abcea74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/josauder/dinov3_lora_dpt_coralscapes",
+            "title": "josauder/dinov3_lora_dpt_coralscapes",
+            "date_modified": "2026-07-30T21:48:49.000Z",
+            "date_published": "2026-04-08T22:18:49.000Z",
+            "author": {
+                "name": "josauder",
+                "url": "https://github.com/josauder"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-07-30T02:13:26.000Z",
+            "date_modified": "2026-07-31T02:33:02.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zhengzhezhao057/dinov3-yolo11m-distill",
+            "title": "zhengzhezhao057/dinov3-yolo11m-distill",
+            "date_modified": "2026-07-30T14:57:10.000Z",
+            "date_published": "2026-07-30T13:05:50.000Z",
+            "author": {
+                "name": "zhengzhezhao057",
+                "url": "https://github.com/zhengzhezhao057"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20962771?u=6644bf35faa6a8877d536430019557fe11823c5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Segmentation Inference Server</div>",
+            "url": "https://github.com/masalim2/dino-server",
+            "title": "masalim2/dino-server: DINOv3 Segmentation Inference Server",
+            "date_modified": "2026-07-30T14:40:48.000Z",
+            "date_published": "2026-07-29T18:25:58.000Z",
+            "author": {
+                "name": "masalim2",
+                "url": "https://github.com/masalim2"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=c66474cbc8c270104e10a26452b847bafaf8b28c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
+            "url": "https://github.com/jaychempan/V2-SAM",
+            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
+            "date_modified": "2026-07-30T14:42:17.000Z",
+            "date_published": "2025-12-10T14:01:47.000Z",
+            "author": {
+                "name": "jaychempan",
+                "url": "https://github.com/jaychempan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>",
+            "url": "https://github.com/PINTO0309/LINEAE",
+            "title": "PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.",
+            "date_modified": "2026-07-30T11:10:18.000Z",
+            "date_published": "2026-07-20T08:24:50.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/307270473?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX</div>",
+            "url": "https://github.com/alain4221/visualsearch",
+            "title": "alain4221/visualsearch: Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX",
+            "date_modified": "2026-07-30T07:13:54.000Z",
+            "date_published": "2026-07-30T07:04:36.000Z",
+            "author": {
+                "name": "alain4221",
+                "url": "https://github.com/alain4221"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52533417?u=b636e2a912d091287568c676025f2c687d39b53e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Training-free open-vocabulary semantic segmentation via Gram-affinity propagation over frozen DINOv3 features</div>",
+            "url": "https://github.com/lpc-97/GramSeg",
+            "title": "lpc-97/GramSeg: Training-free open-vocabulary semantic segmentation via Gram-affinity propagation over frozen DINOv3 features",
+            "date_modified": "2026-07-30T06:52:41.000Z",
+            "date_published": "2026-07-30T04:45:20.000Z",
+            "author": {
+                "name": "lpc-97",
+                "url": "https://github.com/lpc-97"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65911262?u=ad67c95d0bdaaad422dcd1bb9c8fe725bd4a1329&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zhanghuiwan/ultralytics-meets-DINOv3",
+            "title": "zhanghuiwan/ultralytics-meets-DINOv3",
+            "date_modified": "2026-07-30T06:00:18.000Z",
+            "date_published": "2026-07-30T06:00:18.000Z",
+            "author": {
+                "name": "zhanghuiwan",
+                "url": "https://github.com/zhanghuiwan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131887346?u=43ee99eba7a0b5517acb0a01271a85b7527be985&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ZebraWoo/DINOv3-m2f-ROSE",
+            "title": "ZebraWoo/DINOv3-m2f-ROSE",
+            "date_modified": "2026-07-30T05:27:47.000Z",
+            "date_published": "2026-02-22T08:38:08.000Z",
+            "author": {
+                "name": "ZebraWoo",
+                "url": "https://github.com/ZebraWoo"
             }
         },
         {
@@ -36,17 +146,6 @@
             "author": {
                 "name": "sumeyyesaray",
                 "url": "https://github.com/sumeyyesaray"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20962771?u=6644bf35faa6a8877d536430019557fe11823c5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Segmentation Inference Server</div>",
-            "url": "https://github.com/masalim2/dino-server",
-            "title": "masalim2/dino-server: DINOv3 Segmentation Inference Server",
-            "date_modified": "2026-07-29T18:25:58.000Z",
-            "date_published": "2026-07-29T18:25:58.000Z",
-            "author": {
-                "name": "masalim2",
-                "url": "https://github.com/masalim2"
             }
         },
         {
@@ -124,105 +223,6 @@
             "author": {
                 "name": "TaqiyudinMiftah",
                 "url": "https://github.com/TaqiyudinMiftah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310470130?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3</div>",
-            "url": "https://github.com/caoquocbaozx3-beep/dinover3",
-            "title": "caoquocbaozx3-beep/dinover3: dinov3",
-            "date_modified": "2026-07-29T05:42:38.000Z",
-            "date_published": "2026-07-29T05:41:58.000Z",
-            "author": {
-                "name": "caoquocbaozx3-beep",
-                "url": "https://github.com/caoquocbaozx3-beep"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
-            "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-07-29T03:07:15.000Z",
-            "date_published": "2026-07-15T08:27:58.000Z",
-            "author": {
-                "name": "JeonHaneul",
-                "url": "https://github.com/JeonHaneul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 骨干的遥感旋转目标检测</div>",
-            "url": "https://github.com/guantongpeng/DINOv3_DIOR-R",
-            "title": "guantongpeng/DINOv3_DIOR-R: DINOv3 骨干的遥感旋转目标检测",
-            "date_modified": "2026-07-29T01:46:41.000Z",
-            "date_published": "2026-06-08T11:17:01.000Z",
-            "author": {
-                "name": "guantongpeng",
-                "url": "https://github.com/guantongpeng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31117295?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/caojiachen1/dinov3-ggml",
-            "title": "caojiachen1/dinov3-ggml",
-            "date_modified": "2026-07-29T01:04:56.000Z",
-            "date_published": "2026-07-28T08:25:02.000Z",
-            "author": {
-                "name": "caojiachen1",
-                "url": "https://github.com/caojiachen1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31795978?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TFG: dron cuadricóptero que estima su posición sin GPS emparejando imágenes de vuelo con un mosaico satelital (VLAD+DINOv3-SAT + LoFTR/MAGSAC++). Validado en vuelo real: 89.5% top-1, error mediano 6.1m. Incluye diseño hardware, integración software y memoria completa.</div>",
-            "url": "https://github.com/J7lio/TFG-Drone-Visual-Geolocalization",
-            "title": "J7lio/TFG-Drone-Visual-Geolocalization: TFG: dron cuadricóptero que estima su posición sin GPS emparejando imágenes de vuelo con un mosaico satelital (VLAD+DINOv3-SAT + LoFTR/MAGSAC++). Validado en vuelo real: 89.5% top-1, error mediano 6.1m. Incluye diseño hardware, integración software y memoria completa.",
-            "date_modified": "2026-07-29T00:43:49.000Z",
-            "date_published": "2026-07-28T10:15:45.000Z",
-            "author": {
-                "name": "J7lio",
-                "url": "https://github.com/J7lio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132837276?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Yilyyy/dinov3_ConvNext_",
-            "title": "Yilyyy/dinov3_ConvNext_",
-            "date_modified": "2026-07-29T00:32:04.000Z",
-            "date_published": "2026-07-29T00:32:03.000Z",
-            "author": {
-                "name": "Yilyyy",
-                "url": "https://github.com/Yilyyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132837276?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Yilyyy/dinov3_convnext",
-            "title": "Yilyyy/dinov3_convnext",
-            "date_modified": "2026-07-29T00:31:06.000Z",
-            "date_published": "2026-07-29T00:30:46.000Z",
-            "author": {
-                "name": "Yilyyy",
-                "url": "https://github.com/Yilyyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204176180?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[GCPR 2026] Official Implementation for MixMatchDet: Mixing and Matching Tokens for Plain ViT Detectors</div>",
-            "url": "https://github.com/hrw-neurolab/MixMatchDet",
-            "title": "hrw-neurolab/MixMatchDet: [GCPR 2026] Official Implementation for MixMatchDet: Mixing and Matching Tokens for Plain ViT Detectors",
-            "date_modified": "2026-07-28T19:47:46.000Z",
-            "date_published": "2026-07-25T13:38:45.000Z",
-            "author": {
-                "name": "hrw-neurolab",
-                "url": "https://github.com/hrw-neurolab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/248142648?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>**Safety-gated, causal vision controller research for Watch Dogs 2 driving — training, offline replay, and DINOv3 policy evaluation.**</div>",
-            "url": "https://github.com/thatsmeeeee/wd2-fsd",
-            "title": "thatsmeeeee/wd2-fsd: **Safety-gated, causal vision controller research for Watch Dogs 2 driving — training, offline replay, and DINOv3 policy evaluation.**",
-            "date_modified": "2026-07-28T15:32:23.000Z",
-            "date_published": "2026-07-28T15:28:26.000Z",
-            "author": {
-                "name": "thatsmeeeee",
-                "url": "https://github.com/thatsmeeeee"
             }
         }
     ]

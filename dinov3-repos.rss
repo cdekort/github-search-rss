@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-07-30T02:27:12.762Z</updated>
+    <updated>2026-07-31T02:51:40.163Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[sairuxu09-ux/DINOv3-data]]></title>
+        <id>https://github.com/sairuxu09-ux/DINOv3-data</id>
+        <link href="https://github.com/sairuxu09-ux/DINOv3-data"/>
+        <updated>2026-07-31T01:56:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/311239073?u=8fea91edd8248b237218d34a9e8fbf36e5340392&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>sairuxu09-ux</name>
+            <email>sairuxu09-ux@noreply.github.com</email>
+            <uri>https://github.com/sairuxu09-ux</uri>
+        </author>
+        <published>2026-07-31T01:56:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[josauder/dinov3_lora_dpt_coralscapes]]></title>
+        <id>https://github.com/josauder/dinov3_lora_dpt_coralscapes</id>
+        <link href="https://github.com/josauder/dinov3_lora_dpt_coralscapes"/>
+        <updated>2026-07-30T21:48:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12648328?u=0c4704d58c2ce1fc71be2b062c33871a3abcea74&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>josauder</name>
+            <email>josauder@noreply.github.com</email>
+            <uri>https://github.com/josauder</uri>
+        </author>
+        <published>2026-04-08T22:18:49.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-30T02:13:26.000Z</updated>
+        <updated>2026-07-31T02:33:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -19,6 +45,110 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhengzhezhao057/dinov3-yolo11m-distill]]></title>
+        <id>https://github.com/zhengzhezhao057/dinov3-yolo11m-distill</id>
+        <link href="https://github.com/zhengzhezhao057/dinov3-yolo11m-distill"/>
+        <updated>2026-07-30T14:57:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhengzhezhao057</name>
+            <email>zhengzhezhao057@noreply.github.com</email>
+            <uri>https://github.com/zhengzhezhao057</uri>
+        </author>
+        <published>2026-07-30T13:05:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[masalim2/dino-server: DINOv3 Segmentation Inference Server]]></title>
+        <id>https://github.com/masalim2/dino-server</id>
+        <link href="https://github.com/masalim2/dino-server"/>
+        <updated>2026-07-30T14:40:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20962771?u=6644bf35faa6a8877d536430019557fe11823c5d&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Segmentation Inference Server</div>]]></content>
+        <author>
+            <name>masalim2</name>
+            <email>masalim2@noreply.github.com</email>
+            <uri>https://github.com/masalim2</uri>
+        </author>
+        <published>2026-07-29T18:25:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
+        <id>https://github.com/jaychempan/V2-SAM</id>
+        <link href="https://github.com/jaychempan/V2-SAM"/>
+        <updated>2026-07-30T14:42:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=c66474cbc8c270104e10a26452b847bafaf8b28c&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
+        <author>
+            <name>jaychempan</name>
+            <email>jaychempan@noreply.github.com</email>
+            <uri>https://github.com/jaychempan</uri>
+        </author>
+        <published>2025-12-10T14:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
+        <id>https://github.com/PINTO0309/LINEAE</id>
+        <link href="https://github.com/PINTO0309/LINEAE"/>
+        <updated>2026-07-30T11:10:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
+        <author>
+            <name>PINTO0309</name>
+            <email>PINTO0309@noreply.github.com</email>
+            <uri>https://github.com/PINTO0309</uri>
+        </author>
+        <published>2026-07-20T08:24:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alain4221/visualsearch: Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX]]></title>
+        <id>https://github.com/alain4221/visualsearch</id>
+        <link href="https://github.com/alain4221/visualsearch"/>
+        <updated>2026-07-30T07:13:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/307270473?v=4" width="64" height="64" alt=""/><br/><div>Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX</div>]]></content>
+        <author>
+            <name>alain4221</name>
+            <email>alain4221@noreply.github.com</email>
+            <uri>https://github.com/alain4221</uri>
+        </author>
+        <published>2026-07-30T07:04:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lpc-97/GramSeg: Training-free open-vocabulary semantic segmentation via Gram-affinity propagation over frozen DINOv3 features]]></title>
+        <id>https://github.com/lpc-97/GramSeg</id>
+        <link href="https://github.com/lpc-97/GramSeg"/>
+        <updated>2026-07-30T06:52:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52533417?u=b636e2a912d091287568c676025f2c687d39b53e&v=4" width="64" height="64" alt=""/><br/><div>Training-free open-vocabulary semantic segmentation via Gram-affinity propagation over frozen DINOv3 features</div>]]></content>
+        <author>
+            <name>lpc-97</name>
+            <email>lpc-97@noreply.github.com</email>
+            <uri>https://github.com/lpc-97</uri>
+        </author>
+        <published>2026-07-30T04:45:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhanghuiwan/ultralytics-meets-DINOv3]]></title>
+        <id>https://github.com/zhanghuiwan/ultralytics-meets-DINOv3</id>
+        <link href="https://github.com/zhanghuiwan/ultralytics-meets-DINOv3"/>
+        <updated>2026-07-30T06:00:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65911262?u=ad67c95d0bdaaad422dcd1bb9c8fe725bd4a1329&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhanghuiwan</name>
+            <email>zhanghuiwan@noreply.github.com</email>
+            <uri>https://github.com/zhanghuiwan</uri>
+        </author>
+        <published>2026-07-30T06:00:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZebraWoo/DINOv3-m2f-ROSE]]></title>
+        <id>https://github.com/ZebraWoo/DINOv3-m2f-ROSE</id>
+        <link href="https://github.com/ZebraWoo/DINOv3-m2f-ROSE"/>
+        <updated>2026-07-30T05:27:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/131887346?u=43ee99eba7a0b5517acb0a01271a85b7527be985&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ZebraWoo</name>
+            <email>ZebraWoo@noreply.github.com</email>
+            <uri>https://github.com/ZebraWoo</uri>
+        </author>
+        <published>2026-02-22T08:38:08.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[abarenblitt/CHM_DINOV3]]></title>
@@ -45,19 +175,6 @@
             <uri>https://github.com/sumeyyesaray</uri>
         </author>
         <published>2026-07-29T12:07:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[masalim2/dino-server: DINOv3 Segmentation Inference Server]]></title>
-        <id>https://github.com/masalim2/dino-server</id>
-        <link href="https://github.com/masalim2/dino-server"/>
-        <updated>2026-07-29T18:25:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20962771?u=6644bf35faa6a8877d536430019557fe11823c5d&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Segmentation Inference Server</div>]]></content>
-        <author>
-            <name>masalim2</name>
-            <email>masalim2@noreply.github.com</email>
-            <uri>https://github.com/masalim2</uri>
-        </author>
-        <published>2026-07-29T18:25:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[zhengzhezhao057/dinov3-yolo-distill]]></title>
@@ -149,122 +266,5 @@
             <uri>https://github.com/TaqiyudinMiftah</uri>
         </author>
         <published>2026-07-04T13:57:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[caoquocbaozx3-beep/dinover3: dinov3]]></title>
-        <id>https://github.com/caoquocbaozx3-beep/dinover3</id>
-        <link href="https://github.com/caoquocbaozx3-beep/dinover3"/>
-        <updated>2026-07-29T05:42:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/310470130?v=4" width="64" height="64" alt=""/><br/><div>dinov3</div>]]></content>
-        <author>
-            <name>caoquocbaozx3-beep</name>
-            <email>caoquocbaozx3-beep@noreply.github.com</email>
-            <uri>https://github.com/caoquocbaozx3-beep</uri>
-        </author>
-        <published>2026-07-29T05:41:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-07-29T03:07:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R: DINOv3 骨干的遥感旋转目标检测]]></title>
-        <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
-        <link href="https://github.com/guantongpeng/DINOv3_DIOR-R"/>
-        <updated>2026-07-29T01:46:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 骨干的遥感旋转目标检测</div>]]></content>
-        <author>
-            <name>guantongpeng</name>
-            <email>guantongpeng@noreply.github.com</email>
-            <uri>https://github.com/guantongpeng</uri>
-        </author>
-        <published>2026-06-08T11:17:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[caojiachen1/dinov3-ggml]]></title>
-        <id>https://github.com/caojiachen1/dinov3-ggml</id>
-        <link href="https://github.com/caojiachen1/dinov3-ggml"/>
-        <updated>2026-07-29T01:04:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31117295?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>caojiachen1</name>
-            <email>caojiachen1@noreply.github.com</email>
-            <uri>https://github.com/caojiachen1</uri>
-        </author>
-        <published>2026-07-28T08:25:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J7lio/TFG-Drone-Visual-Geolocalization: TFG: dron cuadricóptero que estima su posición sin GPS emparejando imágenes de vuelo con un mosaico satelital (VLAD+DINOv3-SAT + LoFTR/MAGSAC++). Validado en vuelo real: 89.5% top-1, error mediano 6.1m. Incluye diseño hardware, integración software y memoria completa.]]></title>
-        <id>https://github.com/J7lio/TFG-Drone-Visual-Geolocalization</id>
-        <link href="https://github.com/J7lio/TFG-Drone-Visual-Geolocalization"/>
-        <updated>2026-07-29T00:43:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31795978?v=4" width="64" height="64" alt=""/><br/><div>TFG: dron cuadricóptero que estima su posición sin GPS emparejando imágenes de vuelo con un mosaico satelital (VLAD+DINOv3-SAT + LoFTR/MAGSAC++). Validado en vuelo real: 89.5% top-1, error mediano 6.1m. Incluye diseño hardware, integración software y memoria completa.</div>]]></content>
-        <author>
-            <name>J7lio</name>
-            <email>J7lio@noreply.github.com</email>
-            <uri>https://github.com/J7lio</uri>
-        </author>
-        <published>2026-07-28T10:15:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yilyyy/dinov3_ConvNext_]]></title>
-        <id>https://github.com/Yilyyy/dinov3_ConvNext_</id>
-        <link href="https://github.com/Yilyyy/dinov3_ConvNext_"/>
-        <updated>2026-07-29T00:32:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/132837276?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Yilyyy</name>
-            <email>Yilyyy@noreply.github.com</email>
-            <uri>https://github.com/Yilyyy</uri>
-        </author>
-        <published>2026-07-29T00:32:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yilyyy/dinov3_convnext]]></title>
-        <id>https://github.com/Yilyyy/dinov3_convnext</id>
-        <link href="https://github.com/Yilyyy/dinov3_convnext"/>
-        <updated>2026-07-29T00:31:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/132837276?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Yilyyy</name>
-            <email>Yilyyy@noreply.github.com</email>
-            <uri>https://github.com/Yilyyy</uri>
-        </author>
-        <published>2026-07-29T00:30:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hrw-neurolab/MixMatchDet: [GCPR 2026] Official Implementation for MixMatchDet: Mixing and Matching Tokens for Plain ViT Detectors]]></title>
-        <id>https://github.com/hrw-neurolab/MixMatchDet</id>
-        <link href="https://github.com/hrw-neurolab/MixMatchDet"/>
-        <updated>2026-07-28T19:47:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204176180?v=4" width="64" height="64" alt=""/><br/><div>[GCPR 2026] Official Implementation for MixMatchDet: Mixing and Matching Tokens for Plain ViT Detectors</div>]]></content>
-        <author>
-            <name>hrw-neurolab</name>
-            <email>hrw-neurolab@noreply.github.com</email>
-            <uri>https://github.com/hrw-neurolab</uri>
-        </author>
-        <published>2026-07-25T13:38:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[thatsmeeeee/wd2-fsd: **Safety-gated, causal vision controller research for Watch Dogs 2 driving — training, offline replay, and DINOv3 policy evaluation.**]]></title>
-        <id>https://github.com/thatsmeeeee/wd2-fsd</id>
-        <link href="https://github.com/thatsmeeeee/wd2-fsd"/>
-        <updated>2026-07-28T15:32:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/248142648?v=4" width="64" height="64" alt=""/><br/><div>**Safety-gated, causal vision controller research for Watch Dogs 2 driving — training, offline replay, and DINOv3 policy evaluation.**</div>]]></content>
-        <author>
-            <name>thatsmeeeee</name>
-            <email>thatsmeeeee@noreply.github.com</email>
-            <uri>https://github.com/thatsmeeeee</uri>
-        </author>
-        <published>2026-07-28T15:28:26.000Z</published>
     </entry>
 </feed>
