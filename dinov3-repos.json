@@ -6,6 +6,105 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161004754?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demo workspace for DINOv3-based fresh lunar crater detection</div>",
+            "url": "https://github.com/liuxinigg/dinov3_crater_demo",
+            "title": "liuxinigg/dinov3_crater_demo: Demo workspace for DINOv3-based fresh lunar crater detection",
+            "date_modified": "2026-08-01T02:12:48.000Z",
+            "date_published": "2026-08-01T02:08:48.000Z",
+            "author": {
+                "name": "liuxinigg",
+                "url": "https://github.com/liuxinigg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70231378?u=e00bcec72e28ead9483471412211d2e1d93e2b09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fully offline on-device photo geolocation for Android — DINOv3 encoder + 300k-place visual index, no network at any point</div>",
+            "url": "https://github.com/bednarjosef/neuroguessr-app",
+            "title": "bednarjosef/neuroguessr-app: Fully offline on-device photo geolocation for Android — DINOv3 encoder + 300k-place visual index, no network at any point",
+            "date_modified": "2026-08-01T02:07:30.000Z",
+            "date_published": "2026-07-25T16:32:02.000Z",
+            "author": {
+                "name": "bednarjosef",
+                "url": "https://github.com/bednarjosef"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/697600?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.</div>",
+            "url": "https://github.com/timlawrenz/stratum-hq",
+            "title": "timlawrenz/stratum-hq: Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.",
+            "date_modified": "2026-07-31T15:47:59.000Z",
+            "date_published": "2026-03-23T14:30:09.000Z",
+            "author": {
+                "name": "timlawrenz",
+                "url": "https://github.com/timlawrenz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7221088?u=9b8c9df411cc37868625c31cfa29255fcd642ea3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Computer Vision: From Foundations to Frontier — a 20-chapter modern CV book covering classical CV, deep learning, ViTs, foundation models (DINOv3, SAM 3), VLMs, diffusion, 3D Gaussian Splatting, VLA, and edge deployment. By Milan Amrut Joshi.</div>",
+            "url": "https://github.com/mlnjsh/computer-vision-book",
+            "title": "mlnjsh/computer-vision-book: Computer Vision: From Foundations to Frontier — a 20-chapter modern CV book covering classical CV, deep learning, ViTs, foundation models (DINOv3, SAM 3), VLMs, diffusion, 3D Gaussian Splatting, VLA, and edge deployment. By Milan Amrut Joshi.",
+            "date_modified": "2026-07-31T14:05:02.000Z",
+            "date_published": "2026-04-27T15:00:09.000Z",
+            "author": {
+                "name": "mlnjsh",
+                "url": "https://github.com/mlnjsh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82047394?u=9dc8b24df7bcff14ea55aad3da889378614cbd7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering</div>",
+            "url": "https://github.com/sn1887/rfdetr-dinov3-defect-clustering-plugin",
+            "title": "sn1887/rfdetr-dinov3-defect-clustering-plugin: Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering",
+            "date_modified": "2026-07-31T14:08:21.000Z",
+            "date_published": "2026-07-31T13:56:18.000Z",
+            "author": {
+                "name": "sn1887",
+                "url": "https://github.com/sn1887"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-07-31T13:49:22.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=c66474cbc8c270104e10a26452b847bafaf8b28c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
+            "url": "https://github.com/jaychempan/V2-SAM",
+            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
+            "date_modified": "2026-07-31T13:46:17.000Z",
+            "date_published": "2025-12-10T14:01:47.000Z",
+            "author": {
+                "name": "jaychempan",
+                "url": "https://github.com/jaychempan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zhengzhezhao057/dinov3-yolo11m-distill",
+            "title": "zhengzhezhao057/dinov3-yolo11m-distill",
+            "date_modified": "2026-07-31T11:41:31.000Z",
+            "date_published": "2026-07-30T13:05:50.000Z",
+            "author": {
+                "name": "zhengzhezhao057",
+                "url": "https://github.com/zhengzhezhao057"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
+            "title": "JeonHaneul/2D-PDM_DINOv3",
+            "date_modified": "2026-07-31T08:37:54.000Z",
+            "date_published": "2026-07-15T08:27:58.000Z",
+            "author": {
+                "name": "JeonHaneul",
+                "url": "https://github.com/JeonHaneul"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/311239073?u=8fea91edd8248b237218d34a9e8fbf36e5340392&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/sairuxu09-ux/DINOv3-data",
             "title": "sairuxu09-ux/DINOv3-data",
@@ -28,28 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-07-31T02:33:02.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zhengzhezhao057/dinov3-yolo11m-distill",
-            "title": "zhengzhezhao057/dinov3-yolo11m-distill",
-            "date_modified": "2026-07-30T14:57:10.000Z",
-            "date_published": "2026-07-30T13:05:50.000Z",
-            "author": {
-                "name": "zhengzhezhao057",
-                "url": "https://github.com/zhengzhezhao057"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20962771?u=6644bf35faa6a8877d536430019557fe11823c5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Segmentation Inference Server</div>",
             "url": "https://github.com/masalim2/dino-server",
             "title": "masalim2/dino-server: DINOv3 Segmentation Inference Server",
@@ -61,21 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=c66474cbc8c270104e10a26452b847bafaf8b28c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
-            "url": "https://github.com/jaychempan/V2-SAM",
-            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
-            "date_modified": "2026-07-30T14:42:17.000Z",
-            "date_published": "2025-12-10T14:01:47.000Z",
-            "author": {
-                "name": "jaychempan",
-                "url": "https://github.com/jaychempan"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>",
             "url": "https://github.com/PINTO0309/LINEAE",
             "title": "PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.",
-            "date_modified": "2026-07-30T11:10:18.000Z",
+            "date_modified": "2026-07-31T10:54:40.000Z",
             "date_published": "2026-07-20T08:24:50.000Z",
             "author": {
                 "name": "PINTO0309",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "zhengzhezhao057",
                 "url": "https://github.com/zhengzhezhao057"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78763530?u=e5d7832acbb31bb9d01b48f2b010ffa19062938b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Toolkit for generating and running Torch-compatible DINOv3 depth-estimation models.</div>",
-            "url": "https://github.com/acsgn95/Dinov3DepthToolkit",
-            "title": "acsgn95/Dinov3DepthToolkit: Toolkit for generating and running Torch-compatible DINOv3 depth-estimation models.",
-            "date_modified": "2026-07-29T10:31:57.000Z",
-            "date_published": "2026-07-29T10:22:13.000Z",
-            "author": {
-                "name": "acsgn95",
-                "url": "https://github.com/acsgn95"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119643234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.</div>",
-            "url": "https://github.com/tangkunszu/ToothDino",
-            "title": "tangkunszu/ToothDino: ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.",
-            "date_modified": "2026-07-29T09:48:07.000Z",
-            "date_published": "2026-07-13T13:21:27.000Z",
-            "author": {
-                "name": "tangkunszu",
-                "url": "https://github.com/tangkunszu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91648253?u=77bd7d668fa1d943a1a8ae74f27887d08a2bd084&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross-modal knowledge distillation from frozen DINOv3 to RT-DETR for SAR ship detection (DRCP + A²TD-LoRA)</div>",
-            "url": "https://github.com/ZJ-Song-Lab/SAR-RTDETR",
-            "title": "ZJ-Song-Lab/SAR-RTDETR: Cross-modal knowledge distillation from frozen DINOv3 to RT-DETR for SAR ship detection (DRCP + A²TD-LoRA)",
-            "date_modified": "2026-07-29T08:33:12.000Z",
-            "date_published": "2026-07-27T04:34:01.000Z",
-            "author": {
-                "name": "ZJ-Song-Lab",
-                "url": "https://github.com/ZJ-Song-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jingwang7236/dinov3-sw",
-            "title": "jingwang7236/dinov3-sw",
-            "date_modified": "2026-07-29T08:32:23.000Z",
-            "date_published": "2026-05-13T06:44:47.000Z",
-            "author": {
-                "name": "jingwang7236",
-                "url": "https://github.com/jingwang7236"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165764559?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.</div>",
-            "url": "https://github.com/xiaofangZH/Bio-inspired-MOT",
-            "title": "xiaofangZH/Bio-inspired-MOT: This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.",
-            "date_modified": "2026-07-29T07:48:01.000Z",
-            "date_published": "2026-06-10T01:58:47.000Z",
-            "author": {
-                "name": "xiaofangZH",
-                "url": "https://github.com/xiaofangZH"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143085259?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/TaqiyudinMiftah/bdc2026-dinov3-lora",
-            "title": "TaqiyudinMiftah/bdc2026-dinov3-lora",
-            "date_modified": "2026-07-29T07:29:09.000Z",
-            "date_published": "2026-07-04T13:57:26.000Z",
-            "author": {
-                "name": "TaqiyudinMiftah",
-                "url": "https://github.com/TaqiyudinMiftah"
             }
         }
     ]
