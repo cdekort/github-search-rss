@@ -6,10 +6,109 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180193400?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero- and few-shot industrial anomaly detection on MVTec AD: memory-bank scoring over frozen DINOv3 features, evaluated across all 15 categories.</div>",
+            "url": "https://github.com/akinmgumus/Zero-and-Few-Shot-Anomaly-Detection-DINOv3",
+            "title": "akinmgumus/Zero-and-Few-Shot-Anomaly-Detection-DINOv3: Zero- and few-shot industrial anomaly detection on MVTec AD: memory-bank scoring over frozen DINOv3 features, evaluated across all 15 categories.",
+            "date_modified": "2026-08-01T23:46:02.000Z",
+            "date_published": "2026-08-01T23:04:56.000Z",
+            "author": {
+                "name": "akinmgumus",
+                "url": "https://github.com/akinmgumus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107301?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Look at the world through DinoV3 eyes</div>",
+            "url": "https://github.com/kvark/dinovision",
+            "title": "kvark/dinovision: Look at the world through DinoV3 eyes",
+            "date_modified": "2026-08-01T20:49:36.000Z",
+            "date_published": "2026-08-01T20:48:26.000Z",
+            "author": {
+                "name": "kvark",
+                "url": "https://github.com/kvark"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zhengzhezhao057/dinov3-yolo11m-distill",
+            "title": "zhengzhezhao057/dinov3-yolo11m-distill",
+            "date_modified": "2026-08-01T19:33:20.000Z",
+            "date_published": "2026-07-30T13:05:50.000Z",
+            "author": {
+                "name": "zhengzhezhao057",
+                "url": "https://github.com/zhengzhezhao057"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204850142?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3检索模型</div>",
+            "url": "https://github.com/wqpw01/DINOv3",
+            "title": "wqpw01/DINOv3: dinov3检索模型",
+            "date_modified": "2026-08-01T16:52:17.000Z",
+            "date_published": "2026-08-01T03:03:22.000Z",
+            "author": {
+                "name": "wqpw01",
+                "url": "https://github.com/wqpw01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178766753?u=4ca07d928af4333f4d356bb1ae116e61322df9da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasture biomass prediction from field photographs using DINOv3</div>",
+            "url": "https://github.com/dontpanic-v/CSIRO-image2biomass",
+            "title": "dontpanic-v/CSIRO-image2biomass: Pasture biomass prediction from field photographs using DINOv3",
+            "date_modified": "2026-08-01T16:14:57.000Z",
+            "date_published": "2026-07-11T15:46:09.000Z",
+            "author": {
+                "name": "dontpanic-v",
+                "url": "https://github.com/dontpanic-v"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119643234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.</div>",
+            "url": "https://github.com/tangkunszu/ToothDino",
+            "title": "tangkunszu/ToothDino: ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.",
+            "date_modified": "2026-08-01T14:05:06.000Z",
+            "date_published": "2026-07-13T13:21:27.000Z",
+            "author": {
+                "name": "tangkunszu",
+                "url": "https://github.com/tangkunszu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>",
+            "url": "https://github.com/PINTO0309/LINEAE",
+            "title": "PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.",
+            "date_modified": "2026-08-01T12:35:14.000Z",
+            "date_published": "2026-07-20T08:24:50.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173328136?u=5716cd24da272353f2adf95e0a821169212033c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official PyTorch implementation of UBDINO for frequency-guided multimodal urban boundary mapping.</div>",
+            "url": "https://github.com/zkang-CN/UBDINO",
+            "title": "zkang-CN/UBDINO: Official PyTorch implementation of UBDINO for frequency-guided multimodal urban boundary mapping.",
+            "date_modified": "2026-08-01T10:02:33.000Z",
+            "date_published": "2026-08-01T10:02:18.000Z",
+            "author": {
+                "name": "zkang-CN",
+                "url": "https://github.com/zkang-CN"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/A1C1NY/dinoV3_ToothVLM",
+            "title": "A1C1NY/dinoV3_ToothVLM",
+            "date_modified": "2026-08-01T09:19:32.000Z",
+            "date_published": "2026-04-04T12:24:24.000Z",
+            "author": {
+                "name": "A1C1NY",
+                "url": "https://github.com/A1C1NY"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161004754?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demo workspace for DINOv3-based fresh lunar crater detection</div>",
             "url": "https://github.com/liuxinigg/dinov3_crater_demo",
             "title": "liuxinigg/dinov3_crater_demo: Demo workspace for DINOv3-based fresh lunar crater detection",
-            "date_modified": "2026-08-01T02:12:48.000Z",
+            "date_modified": "2026-08-01T02:55:37.000Z",
             "date_published": "2026-08-01T02:08:48.000Z",
             "author": {
                 "name": "liuxinigg",
@@ -83,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zhengzhezhao057/dinov3-yolo11m-distill",
-            "title": "zhengzhezhao057/dinov3-yolo11m-distill",
-            "date_modified": "2026-07-31T11:41:31.000Z",
-            "date_published": "2026-07-30T13:05:50.000Z",
-            "author": {
-                "name": "zhengzhezhao057",
-                "url": "https://github.com/zhengzhezhao057"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
             "title": "JeonHaneul/2D-PDM_DINOv3",
@@ -135,94 +223,6 @@
             "author": {
                 "name": "masalim2",
                 "url": "https://github.com/masalim2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>",
-            "url": "https://github.com/PINTO0309/LINEAE",
-            "title": "PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.",
-            "date_modified": "2026-07-31T10:54:40.000Z",
-            "date_published": "2026-07-20T08:24:50.000Z",
-            "author": {
-                "name": "PINTO0309",
-                "url": "https://github.com/PINTO0309"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/307270473?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX</div>",
-            "url": "https://github.com/alain4221/visualsearch",
-            "title": "alain4221/visualsearch: Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX",
-            "date_modified": "2026-07-30T07:13:54.000Z",
-            "date_published": "2026-07-30T07:04:36.000Z",
-            "author": {
-                "name": "alain4221",
-                "url": "https://github.com/alain4221"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52533417?u=b636e2a912d091287568c676025f2c687d39b53e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Training-free open-vocabulary semantic segmentation via Gram-affinity propagation over frozen DINOv3 features</div>",
-            "url": "https://github.com/lpc-97/GramSeg",
-            "title": "lpc-97/GramSeg: Training-free open-vocabulary semantic segmentation via Gram-affinity propagation over frozen DINOv3 features",
-            "date_modified": "2026-07-30T06:52:41.000Z",
-            "date_published": "2026-07-30T04:45:20.000Z",
-            "author": {
-                "name": "lpc-97",
-                "url": "https://github.com/lpc-97"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65911262?u=ad67c95d0bdaaad422dcd1bb9c8fe725bd4a1329&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zhanghuiwan/ultralytics-meets-DINOv3",
-            "title": "zhanghuiwan/ultralytics-meets-DINOv3",
-            "date_modified": "2026-07-30T06:00:18.000Z",
-            "date_published": "2026-07-30T06:00:18.000Z",
-            "author": {
-                "name": "zhanghuiwan",
-                "url": "https://github.com/zhanghuiwan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131887346?u=43ee99eba7a0b5517acb0a01271a85b7527be985&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ZebraWoo/DINOv3-m2f-ROSE",
-            "title": "ZebraWoo/DINOv3-m2f-ROSE",
-            "date_modified": "2026-07-30T05:27:47.000Z",
-            "date_published": "2026-02-22T08:38:08.000Z",
-            "author": {
-                "name": "ZebraWoo",
-                "url": "https://github.com/ZebraWoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51661735?u=28ad6608443de3e40153389160d611c06c874500&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/abarenblitt/CHM_DINOV3",
-            "title": "abarenblitt/CHM_DINOV3",
-            "date_modified": "2026-07-29T20:23:45.000Z",
-            "date_published": "2026-07-29T20:07:19.000Z",
-            "author": {
-                "name": "abarenblitt",
-                "url": "https://github.com/abarenblitt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148757024?u=5a9d5bbf924f05509708b264fbf12fc81577d6e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10</div>",
-            "url": "https://github.com/sumeyyesaray/DINO",
-            "title": "sumeyyesaray/DINO: Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10",
-            "date_modified": "2026-07-29T18:53:31.000Z",
-            "date_published": "2026-07-29T12:07:32.000Z",
-            "author": {
-                "name": "sumeyyesaray",
-                "url": "https://github.com/sumeyyesaray"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zhengzhezhao057/dinov3-yolo-distill",
-            "title": "zhengzhezhao057/dinov3-yolo-distill",
-            "date_modified": "2026-07-29T17:54:07.000Z",
-            "date_published": "2026-07-25T11:38:53.000Z",
-            "author": {
-                "name": "zhengzhezhao057",
-                "url": "https://github.com/zhengzhezhao057"
             }
         }
     ]
