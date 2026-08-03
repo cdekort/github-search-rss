@@ -2,11 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-02T02:49:48.032Z</updated>
+    <updated>2026-08-03T02:50:53.438Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R: DINOv3 骨干的遥感旋转目标检测]]></title>
+        <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
+        <link href="https://github.com/guantongpeng/DINOv3_DIOR-R"/>
+        <updated>2026-08-03T02:48:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 骨干的遥感旋转目标检测</div>]]></content>
+        <author>
+            <name>guantongpeng</name>
+            <email>guantongpeng@noreply.github.com</email>
+            <uri>https://github.com/guantongpeng</uri>
+        </author>
+        <published>2026-06-08T11:17:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kvark/dinovision: Look at the world through DinoV3 eyes]]></title>
+        <id>https://github.com/kvark/dinovision</id>
+        <link href="https://github.com/kvark/dinovision"/>
+        <updated>2026-08-02T22:24:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/107301?v=4" width="64" height="64" alt=""/><br/><div>Look at the world through DinoV3 eyes</div>]]></content>
+        <author>
+            <name>kvark</name>
+            <email>kvark@noreply.github.com</email>
+            <uri>https://github.com/kvark</uri>
+        </author>
+        <published>2026-08-01T20:48:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sumeyyesaray/DINO: Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10]]></title>
+        <id>https://github.com/sumeyyesaray/DINO</id>
+        <link href="https://github.com/sumeyyesaray/DINO"/>
+        <updated>2026-08-02T18:32:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148757024?u=5a9d5bbf924f05509708b264fbf12fc81577d6e8&v=4" width="64" height="64" alt=""/><br/><div>Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10</div>]]></content>
+        <author>
+            <name>sumeyyesaray</name>
+            <email>sumeyyesaray@noreply.github.com</email>
+            <uri>https://github.com/sumeyyesaray</uri>
+        </author>
+        <published>2026-07-29T12:07:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[salahef1/arkeovis-opensource: Visual RAG system that identifies collectible objects from photos. DINOv3 + pgvector + FastAPI, fully containerized. Open-source version of Arkeovis.]]></title>
+        <id>https://github.com/salahef1/arkeovis-opensource</id>
+        <link href="https://github.com/salahef1/arkeovis-opensource"/>
+        <updated>2026-08-02T17:17:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58705316?v=4" width="64" height="64" alt=""/><br/><div>Visual RAG system that identifies collectible objects from photos. DINOv3 + pgvector + FastAPI, fully containerized. Open-source version of Arkeovis.</div>]]></content>
+        <author>
+            <name>salahef1</name>
+            <email>salahef1@noreply.github.com</email>
+            <uri>https://github.com/salahef1</uri>
+        </author>
+        <published>2026-08-02T16:57:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nii0708/Img2LocJakarta: image to location model with DINOv3 backbone]]></title>
+        <id>https://github.com/nii0708/Img2LocJakarta</id>
+        <link href="https://github.com/nii0708/Img2LocJakarta"/>
+        <updated>2026-08-02T15:35:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73113868?u=a790fdd03333561c2335bb51b85780c6eed2bf23&v=4" width="64" height="64" alt=""/><br/><div>image to location model with DINOv3 backbone</div>]]></content>
+        <author>
+            <name>nii0708</name>
+            <email>nii0708@noreply.github.com</email>
+            <uri>https://github.com/nii0708</uri>
+        </author>
+        <published>2026-08-02T15:33:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers]]></title>
+        <id>https://github.com/Brezemil/_trainer_lightly</id>
+        <link href="https://github.com/Brezemil/_trainer_lightly"/>
+        <updated>2026-08-02T14:30:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47831888?v=4" width="64" height="64" alt=""/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>]]></content>
+        <author>
+            <name>Brezemil</name>
+            <email>Brezemil@noreply.github.com</email>
+            <uri>https://github.com/Brezemil</uri>
+        </author>
+        <published>2026-06-19T20:02:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhengzhezhao057/dinov3-yolo11m-distill]]></title>
+        <id>https://github.com/zhengzhezhao057/dinov3-yolo11m-distill</id>
+        <link href="https://github.com/zhengzhezhao057/dinov3-yolo11m-distill"/>
+        <updated>2026-08-02T14:04:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhengzhezhao057</name>
+            <email>zhengzhezhao057@noreply.github.com</email>
+            <uri>https://github.com/zhengzhezhao057</uri>
+        </author>
+        <published>2026-07-30T13:05:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[timlawrenz/stratum-hq: Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.]]></title>
+        <id>https://github.com/timlawrenz/stratum-hq</id>
+        <link href="https://github.com/timlawrenz/stratum-hq"/>
+        <updated>2026-08-02T13:21:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/697600?v=4" width="64" height="64" alt=""/><br/><div>Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.</div>]]></content>
+        <author>
+            <name>timlawrenz</name>
+            <email>timlawrenz@noreply.github.com</email>
+            <uri>https://github.com/timlawrenz</uri>
+        </author>
+        <published>2026-03-23T14:30:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yx3627jts/dinov3]]></title>
+        <id>https://github.com/yx3627jts/dinov3</id>
+        <link href="https://github.com/yx3627jts/dinov3"/>
+        <updated>2026-08-02T08:29:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99207872?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>yx3627jts</name>
+            <email>yx3627jts@noreply.github.com</email>
+            <uri>https://github.com/yx3627jts</uri>
+        </author>
+        <published>2026-08-02T08:21:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
+        <id>https://github.com/PINTO0309/LINEAE</id>
+        <link href="https://github.com/PINTO0309/LINEAE"/>
+        <updated>2026-08-02T06:37:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
+        <author>
+            <name>PINTO0309</name>
+            <email>PINTO0309@noreply.github.com</email>
+            <uri>https://github.com/PINTO0309</uri>
+        </author>
+        <published>2026-07-20T08:24:50.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[akinmgumus/Zero-and-Few-Shot-Anomaly-Detection-DINOv3: Zero- and few-shot industrial anomaly detection on MVTec AD: memory-bank scoring over frozen DINOv3 features, evaluated across all 15 categories.]]></title>
         <id>https://github.com/akinmgumus/Zero-and-Few-Shot-Anomaly-Detection-DINOv3</id>
@@ -19,32 +149,6 @@
             <uri>https://github.com/akinmgumus</uri>
         </author>
         <published>2026-08-01T23:04:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kvark/dinovision: Look at the world through DinoV3 eyes]]></title>
-        <id>https://github.com/kvark/dinovision</id>
-        <link href="https://github.com/kvark/dinovision"/>
-        <updated>2026-08-01T20:49:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/107301?v=4" width="64" height="64" alt=""/><br/><div>Look at the world through DinoV3 eyes</div>]]></content>
-        <author>
-            <name>kvark</name>
-            <email>kvark@noreply.github.com</email>
-            <uri>https://github.com/kvark</uri>
-        </author>
-        <published>2026-08-01T20:48:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhengzhezhao057/dinov3-yolo11m-distill]]></title>
-        <id>https://github.com/zhengzhezhao057/dinov3-yolo11m-distill</id>
-        <link href="https://github.com/zhengzhezhao057/dinov3-yolo11m-distill"/>
-        <updated>2026-08-01T19:33:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhengzhezhao057</name>
-            <email>zhengzhezhao057@noreply.github.com</email>
-            <uri>https://github.com/zhengzhezhao057</uri>
-        </author>
-        <published>2026-07-30T13:05:50.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wqpw01/DINOv3: dinov3检索模型]]></title>
@@ -84,19 +188,6 @@
             <uri>https://github.com/tangkunszu</uri>
         </author>
         <published>2026-07-13T13:21:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
-        <id>https://github.com/PINTO0309/LINEAE</id>
-        <link href="https://github.com/PINTO0309/LINEAE"/>
-        <updated>2026-08-01T12:35:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
-        <author>
-            <name>PINTO0309</name>
-            <email>PINTO0309@noreply.github.com</email>
-            <uri>https://github.com/PINTO0309</uri>
-        </author>
-        <published>2026-07-20T08:24:50.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[zkang-CN/UBDINO: Official PyTorch implementation of UBDINO for frequency-guided multimodal urban boundary mapping.]]></title>
@@ -151,19 +242,6 @@
         <published>2026-07-25T16:32:02.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[timlawrenz/stratum-hq: Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.]]></title>
-        <id>https://github.com/timlawrenz/stratum-hq</id>
-        <link href="https://github.com/timlawrenz/stratum-hq"/>
-        <updated>2026-07-31T15:47:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/697600?v=4" width="64" height="64" alt=""/><br/><div>Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.</div>]]></content>
-        <author>
-            <name>timlawrenz</name>
-            <email>timlawrenz@noreply.github.com</email>
-            <uri>https://github.com/timlawrenz</uri>
-        </author>
-        <published>2026-03-23T14:30:09.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[mlnjsh/computer-vision-book: Computer Vision: From Foundations to Frontier — a 20-chapter modern CV book covering classical CV, deep learning, ViTs, foundation models (DINOv3, SAM 3), VLMs, diffusion, 3D Gaussian Splatting, VLA, and edge deployment. By Milan Amrut Joshi.]]></title>
         <id>https://github.com/mlnjsh/computer-vision-book</id>
         <link href="https://github.com/mlnjsh/computer-vision-book"/>
@@ -188,83 +266,5 @@
             <uri>https://github.com/sn1887</uri>
         </author>
         <published>2026-07-31T13:56:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-07-31T13:49:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
-        <id>https://github.com/jaychempan/V2-SAM</id>
-        <link href="https://github.com/jaychempan/V2-SAM"/>
-        <updated>2026-07-31T13:46:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=c66474cbc8c270104e10a26452b847bafaf8b28c&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
-        <author>
-            <name>jaychempan</name>
-            <email>jaychempan@noreply.github.com</email>
-            <uri>https://github.com/jaychempan</uri>
-        </author>
-        <published>2025-12-10T14:01:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-07-31T08:37:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sairuxu09-ux/DINOv3-data]]></title>
-        <id>https://github.com/sairuxu09-ux/DINOv3-data</id>
-        <link href="https://github.com/sairuxu09-ux/DINOv3-data"/>
-        <updated>2026-07-31T01:56:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/311239073?u=8fea91edd8248b237218d34a9e8fbf36e5340392&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sairuxu09-ux</name>
-            <email>sairuxu09-ux@noreply.github.com</email>
-            <uri>https://github.com/sairuxu09-ux</uri>
-        </author>
-        <published>2026-07-31T01:56:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[josauder/dinov3_lora_dpt_coralscapes]]></title>
-        <id>https://github.com/josauder/dinov3_lora_dpt_coralscapes</id>
-        <link href="https://github.com/josauder/dinov3_lora_dpt_coralscapes"/>
-        <updated>2026-07-30T21:48:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12648328?u=0c4704d58c2ce1fc71be2b062c33871a3abcea74&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>josauder</name>
-            <email>josauder@noreply.github.com</email>
-            <uri>https://github.com/josauder</uri>
-        </author>
-        <published>2026-04-08T22:18:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[masalim2/dino-server: DINOv3 Segmentation Inference Server]]></title>
-        <id>https://github.com/masalim2/dino-server</id>
-        <link href="https://github.com/masalim2/dino-server"/>
-        <updated>2026-07-30T14:40:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20962771?u=6644bf35faa6a8877d536430019557fe11823c5d&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 Segmentation Inference Server</div>]]></content>
-        <author>
-            <name>masalim2</name>
-            <email>masalim2@noreply.github.com</email>
-            <uri>https://github.com/masalim2</uri>
-        </author>
-        <published>2026-07-29T18:25:58.000Z</published>
     </entry>
 </feed>
