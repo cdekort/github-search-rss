@@ -2,16 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-03T02:50:53.438Z</updated>
+    <updated>2026-08-04T02:34:39.098Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Yuan-Feng1998/DSOS-Net-MaCVi2026: DSOS-Net: DINOv3-based Water Surface Obstacle Segmentation Network]]></title>
+        <id>https://github.com/Yuan-Feng1998/DSOS-Net-MaCVi2026</id>
+        <link href="https://github.com/Yuan-Feng1998/DSOS-Net-MaCVi2026"/>
+        <updated>2026-08-04T01:59:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/159258900?u=843a8d46a27793f001b2c2212c3e79ddd37c841d&v=4" width="64" height="64" alt=""/><br/><div>DSOS-Net: DINOv3-based Water Surface Obstacle Segmentation Network</div>]]></content>
+        <author>
+            <name>Yuan-Feng1998</name>
+            <email>Yuan-Feng1998@noreply.github.com</email>
+            <uri>https://github.com/Yuan-Feng1998</uri>
+        </author>
+        <published>2026-08-04T01:59:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qinhy/Ternary-DINOv3]]></title>
+        <id>https://github.com/qinhy/Ternary-DINOv3</id>
+        <link href="https://github.com/qinhy/Ternary-DINOv3"/>
+        <updated>2026-08-04T01:14:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>qinhy</name>
+            <email>qinhy@noreply.github.com</email>
+            <uri>https://github.com/qinhy</uri>
+        </author>
+        <published>2026-07-21T05:15:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-08-03T17:11:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhengzhezhao057/dinov3-yolo11m-distill]]></title>
+        <id>https://github.com/zhengzhezhao057/dinov3-yolo11m-distill</id>
+        <link href="https://github.com/zhengzhezhao057/dinov3-yolo11m-distill"/>
+        <updated>2026-08-03T12:35:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>zhengzhezhao057</name>
+            <email>zhengzhezhao057@noreply.github.com</email>
+            <uri>https://github.com/zhengzhezhao057</uri>
+        </author>
+        <published>2026-07-30T13:05:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wqpw01/DINOv3: dinov3检索模型]]></title>
+        <id>https://github.com/wqpw01/DINOv3</id>
+        <link href="https://github.com/wqpw01/DINOv3"/>
+        <updated>2026-08-03T10:36:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204850142?v=4" width="64" height="64" alt=""/><br/><div>dinov3检索模型</div>]]></content>
+        <author>
+            <name>wqpw01</name>
+            <email>wqpw01@noreply.github.com</email>
+            <uri>https://github.com/wqpw01</uri>
+        </author>
+        <published>2026-08-01T03:03:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
+        <id>https://github.com/lionking0921/fursee</id>
+        <link href="https://github.com/lionking0921/fursee"/>
+        <updated>2026-08-03T05:08:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
+        <author>
+            <name>lionking0921</name>
+            <email>lionking0921@noreply.github.com</email>
+            <uri>https://github.com/lionking0921</uri>
+        </author>
+        <published>2026-07-10T03:01:10.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R: DINOv3 骨干的遥感旋转目标检测]]></title>
         <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
         <link href="https://github.com/guantongpeng/DINOv3_DIOR-R"/>
-        <updated>2026-08-03T02:48:57.000Z</updated>
+        <updated>2026-08-03T03:05:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/52579652?u=69f12e928e9eb3e2e840b2fa19db516811e29f46&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 骨干的遥感旋转目标检测</div>]]></content>
         <author>
             <name>guantongpeng</name>
@@ -86,19 +164,6 @@
         <published>2026-06-19T20:02:09.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[zhengzhezhao057/dinov3-yolo11m-distill]]></title>
-        <id>https://github.com/zhengzhezhao057/dinov3-yolo11m-distill</id>
-        <link href="https://github.com/zhengzhezhao057/dinov3-yolo11m-distill"/>
-        <updated>2026-08-02T14:04:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>zhengzhezhao057</name>
-            <email>zhengzhezhao057@noreply.github.com</email>
-            <uri>https://github.com/zhengzhezhao057</uri>
-        </author>
-        <published>2026-07-30T13:05:50.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[timlawrenz/stratum-hq: Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.]]></title>
         <id>https://github.com/timlawrenz/stratum-hq</id>
         <link href="https://github.com/timlawrenz/stratum-hq"/>
@@ -151,19 +216,6 @@
         <published>2026-08-01T23:04:56.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wqpw01/DINOv3: dinov3检索模型]]></title>
-        <id>https://github.com/wqpw01/DINOv3</id>
-        <link href="https://github.com/wqpw01/DINOv3"/>
-        <updated>2026-08-01T16:52:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204850142?v=4" width="64" height="64" alt=""/><br/><div>dinov3检索模型</div>]]></content>
-        <author>
-            <name>wqpw01</name>
-            <email>wqpw01@noreply.github.com</email>
-            <uri>https://github.com/wqpw01</uri>
-        </author>
-        <published>2026-08-01T03:03:22.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dontpanic-v/CSIRO-image2biomass: Pasture biomass prediction from field photographs using DINOv3]]></title>
         <id>https://github.com/dontpanic-v/CSIRO-image2biomass</id>
         <link href="https://github.com/dontpanic-v/CSIRO-image2biomass"/>
@@ -214,57 +266,5 @@
             <uri>https://github.com/A1C1NY</uri>
         </author>
         <published>2026-04-04T12:24:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[liuxinigg/dinov3_crater_demo: Demo workspace for DINOv3-based fresh lunar crater detection]]></title>
-        <id>https://github.com/liuxinigg/dinov3_crater_demo</id>
-        <link href="https://github.com/liuxinigg/dinov3_crater_demo"/>
-        <updated>2026-08-01T02:55:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/161004754?v=4" width="64" height="64" alt=""/><br/><div>Demo workspace for DINOv3-based fresh lunar crater detection</div>]]></content>
-        <author>
-            <name>liuxinigg</name>
-            <email>liuxinigg@noreply.github.com</email>
-            <uri>https://github.com/liuxinigg</uri>
-        </author>
-        <published>2026-08-01T02:08:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bednarjosef/neuroguessr-app: Fully offline on-device photo geolocation for Android — DINOv3 encoder + 300k-place visual index, no network at any point]]></title>
-        <id>https://github.com/bednarjosef/neuroguessr-app</id>
-        <link href="https://github.com/bednarjosef/neuroguessr-app"/>
-        <updated>2026-08-01T02:07:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70231378?u=e00bcec72e28ead9483471412211d2e1d93e2b09&v=4" width="64" height="64" alt=""/><br/><div>Fully offline on-device photo geolocation for Android — DINOv3 encoder + 300k-place visual index, no network at any point</div>]]></content>
-        <author>
-            <name>bednarjosef</name>
-            <email>bednarjosef@noreply.github.com</email>
-            <uri>https://github.com/bednarjosef</uri>
-        </author>
-        <published>2026-07-25T16:32:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mlnjsh/computer-vision-book: Computer Vision: From Foundations to Frontier — a 20-chapter modern CV book covering classical CV, deep learning, ViTs, foundation models (DINOv3, SAM 3), VLMs, diffusion, 3D Gaussian Splatting, VLA, and edge deployment. By Milan Amrut Joshi.]]></title>
-        <id>https://github.com/mlnjsh/computer-vision-book</id>
-        <link href="https://github.com/mlnjsh/computer-vision-book"/>
-        <updated>2026-07-31T14:05:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7221088?u=9b8c9df411cc37868625c31cfa29255fcd642ea3&v=4" width="64" height="64" alt=""/><br/><div>Computer Vision: From Foundations to Frontier — a 20-chapter modern CV book covering classical CV, deep learning, ViTs, foundation models (DINOv3, SAM 3), VLMs, diffusion, 3D Gaussian Splatting, VLA, and edge deployment. By Milan Amrut Joshi.</div>]]></content>
-        <author>
-            <name>mlnjsh</name>
-            <email>mlnjsh@noreply.github.com</email>
-            <uri>https://github.com/mlnjsh</uri>
-        </author>
-        <published>2026-04-27T15:00:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sn1887/rfdetr-dinov3-defect-clustering-plugin: Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering]]></title>
-        <id>https://github.com/sn1887/rfdetr-dinov3-defect-clustering-plugin</id>
-        <link href="https://github.com/sn1887/rfdetr-dinov3-defect-clustering-plugin"/>
-        <updated>2026-07-31T14:08:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/82047394?u=9dc8b24df7bcff14ea55aad3da889378614cbd7c&v=4" width="64" height="64" alt=""/><br/><div>Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering</div>]]></content>
-        <author>
-            <name>sn1887</name>
-            <email>sn1887@noreply.github.com</email>
-            <uri>https://github.com/sn1887</uri>
-        </author>
-        <published>2026-07-31T13:56:18.000Z</published>
     </entry>
 </feed>
