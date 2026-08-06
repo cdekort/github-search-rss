@@ -2,11 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-05T02:33:18.882Z</updated>
+    <updated>2026-08-06T02:36:01.239Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[ChiaWei0804/dinov3_detr: DETR-style detection head on a frozen DINOv3 ViT-B/16 backbone, trained end-to-end on COCO 2017. Mixed Query Selection, aspect-ratio bucketing, Hungarian matching with L1 + CIoU. 0.425 AP on val2017.]]></title>
+        <id>https://github.com/ChiaWei0804/dinov3_detr</id>
+        <link href="https://github.com/ChiaWei0804/dinov3_detr"/>
+        <updated>2026-08-06T02:12:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/224933075?u=371352d6bf917286a12a07a9a214dfd9bbf62a08&v=4" width="64" height="64" alt=""/><br/><div>DETR-style detection head on a frozen DINOv3 ViT-B/16 backbone, trained end-to-end on COCO 2017. Mixed Query Selection, aspect-ratio bucketing, Hungarian matching with L1 + CIoU. 0.425 AP on val2017.</div>]]></content>
+        <author>
+            <name>ChiaWei0804</name>
+            <email>ChiaWei0804@noreply.github.com</email>
+            <uri>https://github.com/ChiaWei0804</uri>
+        </author>
+        <published>2026-08-02T14:43:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
+        <id>https://github.com/higo522/LT-DETR</id>
+        <link href="https://github.com/higo522/LT-DETR"/>
+        <updated>2026-08-05T21:50:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198003162?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>]]></content>
+        <author>
+            <name>higo522</name>
+            <email>higo522@noreply.github.com</email>
+            <uri>https://github.com/higo522</uri>
+        </author>
+        <published>2026-06-11T18:16:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[grapeot/dinov3-classifier-skill]]></title>
+        <id>https://github.com/grapeot/dinov3-classifier-skill</id>
+        <link href="https://github.com/grapeot/dinov3-classifier-skill"/>
+        <updated>2026-08-05T21:27:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1690507?u=d40f118e3025ec8bf8d607e9da92505c622b0bc7&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>grapeot</name>
+            <email>grapeot@noreply.github.com</email>
+            <uri>https://github.com/grapeot</uri>
+        </author>
+        <published>2026-08-04T19:07:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tianhuanyu/ivf_foundation: Foundation model training pipeline using JEPA-v2 and DINOv3]]></title>
+        <id>https://github.com/Tianhuanyu/ivf_foundation</id>
+        <link href="https://github.com/Tianhuanyu/ivf_foundation"/>
+        <updated>2026-08-05T19:54:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32757697?u=ad3f654c5567dd93d6c4d8589b7fd84f3a7c2816&v=4" width="64" height="64" alt=""/><br/><div>Foundation model training pipeline using JEPA-v2 and DINOv3</div>]]></content>
+        <author>
+            <name>Tianhuanyu</name>
+            <email>Tianhuanyu@noreply.github.com</email>
+            <uri>https://github.com/Tianhuanyu</uri>
+        </author>
+        <published>2026-08-05T19:44:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zacharydenton/dinov3-xdna2: All-NPU DINOv3-ViT-L/16 image-embedding forward for the AMD Ryzen AI XDNA2 NPU (~57 img/s @ B=256, cos 1.0)]]></title>
+        <id>https://github.com/zacharydenton/dinov3-xdna2</id>
+        <link href="https://github.com/zacharydenton/dinov3-xdna2"/>
+        <updated>2026-08-05T11:00:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4" width="64" height="64" alt=""/><br/><div>All-NPU DINOv3-ViT-L/16 image-embedding forward for the AMD Ryzen AI XDNA2 NPU (~57 img/s @ B=256, cos 1.0)</div>]]></content>
+        <author>
+            <name>zacharydenton</name>
+            <email>zacharydenton@noreply.github.com</email>
+            <uri>https://github.com/zacharydenton</uri>
+        </author>
+        <published>2026-07-23T10:31:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yukidachi/DINOv3_0804]]></title>
+        <id>https://github.com/Yukidachi/DINOv3_0804</id>
+        <link href="https://github.com/Yukidachi/DINOv3_0804"/>
+        <updated>2026-08-05T10:16:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180073581?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Yukidachi</name>
+            <email>Yukidachi@noreply.github.com</email>
+            <uri>https://github.com/Yukidachi</uri>
+        </author>
+        <published>2026-08-05T10:16:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
+        <id>https://github.com/jingwang7236/dinov3-sw</id>
+        <link href="https://github.com/jingwang7236/dinov3-sw"/>
+        <updated>2026-08-05T06:43:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jingwang7236</name>
+            <email>jingwang7236@noreply.github.com</email>
+            <uri>https://github.com/jingwang7236</uri>
+        </author>
+        <published>2026-05-13T06:44:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
+        <id>https://github.com/lionking0921/fursee</id>
+        <link href="https://github.com/lionking0921/fursee"/>
+        <updated>2026-08-05T03:07:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
+        <author>
+            <name>lionking0921</name>
+            <email>lionking0921@noreply.github.com</email>
+            <uri>https://github.com/lionking0921</uri>
+        </author>
+        <published>2026-07-10T03:01:10.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[guantongpeng/DINOv3_DIOR-R: DINOv3 骨干的遥感旋转目标检测]]></title>
         <id>https://github.com/guantongpeng/DINOv3_DIOR-R</id>
@@ -19,32 +123,6 @@
             <uri>https://github.com/guantongpeng</uri>
         </author>
         <published>2026-06-08T11:17:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zacharydenton/dinov3-xdna2: All-NPU DINOv3-ViT-L/16 image-embedding forward for the AMD Ryzen AI XDNA2 NPU (~57 img/s @ B=256, cos 1.0)]]></title>
-        <id>https://github.com/zacharydenton/dinov3-xdna2</id>
-        <link href="https://github.com/zacharydenton/dinov3-xdna2"/>
-        <updated>2026-08-04T20:53:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4" width="64" height="64" alt=""/><br/><div>All-NPU DINOv3-ViT-L/16 image-embedding forward for the AMD Ryzen AI XDNA2 NPU (~57 img/s @ B=256, cos 1.0)</div>]]></content>
-        <author>
-            <name>zacharydenton</name>
-            <email>zacharydenton@noreply.github.com</email>
-            <uri>https://github.com/zacharydenton</uri>
-        </author>
-        <published>2026-07-23T10:31:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[grapeot/dinov3-classifier-skill]]></title>
-        <id>https://github.com/grapeot/dinov3-classifier-skill</id>
-        <link href="https://github.com/grapeot/dinov3-classifier-skill"/>
-        <updated>2026-08-04T20:12:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1690507?u=d40f118e3025ec8bf8d607e9da92505c622b0bc7&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>grapeot</name>
-            <email>grapeot@noreply.github.com</email>
-            <uri>https://github.com/grapeot</uri>
-        </author>
-        <published>2026-08-04T19:07:28.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wqpw01/DINOv3: dinov3检索模型]]></title>
@@ -71,6 +149,19 @@
             <uri>https://github.com/zhengzhezhao057</uri>
         </author>
         <published>2026-07-30T13:05:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.]]></title>
+        <id>https://github.com/facebookresearch/Flow-World-Models</id>
+        <link href="https://github.com/facebookresearch/Flow-World-Models"/>
+        <updated>2026-08-05T22:50:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>]]></content>
+        <author>
+            <name>facebookresearch</name>
+            <email>facebookresearch@noreply.github.com</email>
+            <uri>https://github.com/facebookresearch</uri>
+        </author>
+        <published>2026-07-06T19:41:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Junghwan-brian/rs-transport-dinov3: Adapting DINOv3 to overhead imagery by training 2% of its parameters: masked dense prediction + cross-sensor InfoNCE. Exports a plain DINOv3 state_dict.]]></title>
@@ -112,19 +203,6 @@
         <published>2026-08-04T01:59:40.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
-        <id>https://github.com/jingwang7236/dinov3-sw</id>
-        <link href="https://github.com/jingwang7236/dinov3-sw"/>
-        <updated>2026-08-04T07:34:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jingwang7236</name>
-            <email>jingwang7236@noreply.github.com</email>
-            <uri>https://github.com/jingwang7236</uri>
-        </author>
-        <published>2026-05-13T06:44:47.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
         <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
         <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
@@ -154,7 +232,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-08-04T13:38:28.000Z</updated>
+        <updated>2026-08-05T09:13:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -162,19 +240,6 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
-        <id>https://github.com/lionking0921/fursee</id>
-        <link href="https://github.com/lionking0921/fursee"/>
-        <updated>2026-08-03T05:08:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
-        <author>
-            <name>lionking0921</name>
-            <email>lionking0921@noreply.github.com</email>
-            <uri>https://github.com/lionking0921</uri>
-        </author>
-        <published>2026-07-10T03:01:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[kvark/dinovision: Look at the world through DinoV3 eyes]]></title>
@@ -201,70 +266,5 @@
             <uri>https://github.com/sumeyyesaray</uri>
         </author>
         <published>2026-07-29T12:07:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[salahef1/arkeovis-opensource: Visual RAG system that identifies collectible objects from photos. DINOv3 + pgvector + FastAPI, fully containerized. Open-source version of Arkeovis.]]></title>
-        <id>https://github.com/salahef1/arkeovis-opensource</id>
-        <link href="https://github.com/salahef1/arkeovis-opensource"/>
-        <updated>2026-08-02T17:17:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58705316?v=4" width="64" height="64" alt=""/><br/><div>Visual RAG system that identifies collectible objects from photos. DINOv3 + pgvector + FastAPI, fully containerized. Open-source version of Arkeovis.</div>]]></content>
-        <author>
-            <name>salahef1</name>
-            <email>salahef1@noreply.github.com</email>
-            <uri>https://github.com/salahef1</uri>
-        </author>
-        <published>2026-08-02T16:57:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nii0708/Img2LocJakarta: image to location model with DINOv3 backbone]]></title>
-        <id>https://github.com/nii0708/Img2LocJakarta</id>
-        <link href="https://github.com/nii0708/Img2LocJakarta"/>
-        <updated>2026-08-02T15:35:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73113868?u=a790fdd03333561c2335bb51b85780c6eed2bf23&v=4" width="64" height="64" alt=""/><br/><div>image to location model with DINOv3 backbone</div>]]></content>
-        <author>
-            <name>nii0708</name>
-            <email>nii0708@noreply.github.com</email>
-            <uri>https://github.com/nii0708</uri>
-        </author>
-        <published>2026-08-02T15:33:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers]]></title>
-        <id>https://github.com/Brezemil/_trainer_lightly</id>
-        <link href="https://github.com/Brezemil/_trainer_lightly"/>
-        <updated>2026-08-02T14:30:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47831888?v=4" width="64" height="64" alt=""/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>]]></content>
-        <author>
-            <name>Brezemil</name>
-            <email>Brezemil@noreply.github.com</email>
-            <uri>https://github.com/Brezemil</uri>
-        </author>
-        <published>2026-06-19T20:02:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yx3627jts/dinov3]]></title>
-        <id>https://github.com/yx3627jts/dinov3</id>
-        <link href="https://github.com/yx3627jts/dinov3"/>
-        <updated>2026-08-02T08:29:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/99207872?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>yx3627jts</name>
-            <email>yx3627jts@noreply.github.com</email>
-            <uri>https://github.com/yx3627jts</uri>
-        </author>
-        <published>2026-08-02T08:21:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINTO0309/LINEAE: LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.]]></title>
-        <id>https://github.com/PINTO0309/LINEAE</id>
-        <link href="https://github.com/PINTO0309/LINEAE"/>
-        <updated>2026-08-02T06:37:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>LINEAE: An enhanced version of high-speed, high-precision line detection using Scalable Transformers. Built with DINOv3.</div>]]></content>
-        <author>
-            <name>PINTO0309</name>
-            <email>PINTO0309@noreply.github.com</email>
-            <uri>https://github.com/PINTO0309</uri>
-        </author>
-        <published>2026-07-20T08:24:50.000Z</published>
     </entry>
 </feed>
