@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-06T02:36:01.239Z</updated>
+    <updated>2026-08-07T02:41:04.488Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[ChiaWei0804/dinov3_detr: DETR-style detection head on a frozen DINOv3 ViT-B/16 backbone, trained end-to-end on COCO 2017. Mixed Query Selection, aspect-ratio bucketing, Hungarian matching with L1 + CIoU. 0.425 AP on val2017.]]></title>
-        <id>https://github.com/ChiaWei0804/dinov3_detr</id>
-        <link href="https://github.com/ChiaWei0804/dinov3_detr"/>
-        <updated>2026-08-06T02:12:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/224933075?u=371352d6bf917286a12a07a9a214dfd9bbf62a08&v=4" width="64" height="64" alt=""/><br/><div>DETR-style detection head on a frozen DINOv3 ViT-B/16 backbone, trained end-to-end on COCO 2017. Mixed Query Selection, aspect-ratio bucketing, Hungarian matching with L1 + CIoU. 0.425 AP on val2017.</div>]]></content>
+        <title type="html"><![CDATA[RyanKim17920/microDINOv3: DINOv3 in pure, dependency-free Python]]></title>
+        <id>https://github.com/RyanKim17920/microDINOv3</id>
+        <link href="https://github.com/RyanKim17920/microDINOv3"/>
+        <updated>2026-08-07T02:31:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136863723?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 in pure, dependency-free Python</div>]]></content>
         <author>
-            <name>ChiaWei0804</name>
-            <email>ChiaWei0804@noreply.github.com</email>
-            <uri>https://github.com/ChiaWei0804</uri>
+            <name>RyanKim17920</name>
+            <email>RyanKim17920@noreply.github.com</email>
+            <uri>https://github.com/RyanKim17920</uri>
         </author>
-        <published>2026-08-02T14:43:39.000Z</published>
+        <published>2026-03-11T23:25:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
         <id>https://github.com/higo522/LT-DETR</id>
         <link href="https://github.com/higo522/LT-DETR"/>
-        <updated>2026-08-05T21:50:24.000Z</updated>
+        <updated>2026-08-06T21:57:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198003162?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>]]></content>
         <author>
             <name>higo522</name>
@@ -34,10 +34,101 @@
         <published>2026-06-11T18:16:09.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tonxycs/SemDINO: [arXiv] "SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection".]]></title>
+        <id>https://github.com/tonxycs/SemDINO</id>
+        <link href="https://github.com/tonxycs/SemDINO"/>
+        <updated>2026-08-06T17:11:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104640218?u=eb5f153c8a22e68b89fa92e83a9b4661cfe72642&v=4" width="64" height="64" alt=""/><br/><div>[arXiv] "SemDINO: DINOv3-Guided Cross-Temporal Semantic Alignment Network for Remote Sensing Change Detection".</div>]]></content>
+        <author>
+            <name>tonxycs</name>
+            <email>tonxycs@noreply.github.com</email>
+            <uri>https://github.com/tonxycs</uri>
+        </author>
+        <published>2026-06-08T18:06:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qimaqi/dinov3_downstream]]></title>
+        <id>https://github.com/qimaqi/dinov3_downstream</id>
+        <link href="https://github.com/qimaqi/dinov3_downstream"/>
+        <updated>2026-08-06T17:06:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>qimaqi</name>
+            <email>qimaqi@noreply.github.com</email>
+            <uri>https://github.com/qimaqi</uri>
+        </author>
+        <published>2026-08-06T16:51:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.]]></title>
+        <id>https://github.com/sebspel/worldmodel-inference-optimisation</id>
+        <link href="https://github.com/sebspel/worldmodel-inference-optimisation"/>
+        <updated>2026-08-06T15:56:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChiaWei0804/dinov3_detr: DETR-style detection head on a frozen DINOv3 ViT-B/16 backbone, trained end-to-end on COCO 2017. Mixed Query Selection, aspect-ratio bucketing, Hungarian matching with L1 + CIoU. 0.425 AP on val2017.]]></title>
+        <id>https://github.com/ChiaWei0804/dinov3_detr</id>
+        <link href="https://github.com/ChiaWei0804/dinov3_detr"/>
+        <updated>2026-08-06T11:14:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/224933075?u=371352d6bf917286a12a07a9a214dfd9bbf62a08&v=4" width="64" height="64" alt=""/><br/><div>DETR-style detection head on a frozen DINOv3 ViT-B/16 backbone, trained end-to-end on COCO 2017. Mixed Query Selection, aspect-ratio bucketing, Hungarian matching with L1 + CIoU. 0.425 AP on val2017.</div>]]></content>
+        <author>
+            <name>ChiaWei0804</name>
+            <email>ChiaWei0804@noreply.github.com</email>
+            <uri>https://github.com/ChiaWei0804</uri>
+        </author>
+        <published>2026-08-02T14:43:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
+        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
+        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
+        <updated>2026-08-06T10:28:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JeonHaneul</name>
+            <email>JeonHaneul@noreply.github.com</email>
+            <uri>https://github.com/JeonHaneul</uri>
+        </author>
+        <published>2026-07-15T08:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gsustar/looping_dinov3_experiments]]></title>
+        <id>https://github.com/gsustar/looping_dinov3_experiments</id>
+        <link href="https://github.com/gsustar/looping_dinov3_experiments"/>
+        <updated>2026-08-06T10:29:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47887004?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>gsustar</name>
+            <email>gsustar@noreply.github.com</email>
+            <uri>https://github.com/gsustar</uri>
+        </author>
+        <published>2026-06-08T12:21:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UCL-MXI-Bio/2026-zhou-lorca: Official implementation of paper entitled - LoRCA: LoRA Cycle Adaptation for Histology to HiP-CT Translation with DINOv3]]></title>
+        <id>https://github.com/UCL-MXI-Bio/2026-zhou-lorca</id>
+        <link href="https://github.com/UCL-MXI-Bio/2026-zhou-lorca"/>
+        <updated>2026-08-06T09:46:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/173800692?v=4" width="64" height="64" alt=""/><br/><div>Official implementation of paper entitled - LoRCA: LoRA Cycle Adaptation for Histology to HiP-CT Translation with DINOv3</div>]]></content>
+        <author>
+            <name>UCL-MXI-Bio</name>
+            <email>UCL-MXI-Bio@noreply.github.com</email>
+            <uri>https://github.com/UCL-MXI-Bio</uri>
+        </author>
+        <published>2026-08-06T09:46:36.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[grapeot/dinov3-classifier-skill]]></title>
         <id>https://github.com/grapeot/dinov3-classifier-skill</id>
         <link href="https://github.com/grapeot/dinov3-classifier-skill"/>
-        <updated>2026-08-05T21:27:37.000Z</updated>
+        <updated>2026-08-07T01:37:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1690507?u=d40f118e3025ec8bf8d607e9da92505c622b0bc7&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>grapeot</name>
@@ -175,96 +266,5 @@
             <uri>https://github.com/Junghwan-brian</uri>
         </author>
         <published>2026-08-04T06:04:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[timlawrenz/stratum-hq: Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.]]></title>
-        <id>https://github.com/timlawrenz/stratum-hq</id>
-        <link href="https://github.com/timlawrenz/stratum-hq"/>
-        <updated>2026-08-04T12:53:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/697600?v=4" width="64" height="64" alt=""/><br/><div>Stratum-HQ is a high-fidelity human dataset enrichment engine. It transforms raw images into dense, multi-layered training data by integrating T5-Large text embeddings, DINOv3 visual and spatial tokens, and 133-point DWPose keypoints. Optimized for Sapiens and consumer GPUs, it bridges the gap between pixels and anatomical structure.</div>]]></content>
-        <author>
-            <name>timlawrenz</name>
-            <email>timlawrenz@noreply.github.com</email>
-            <uri>https://github.com/timlawrenz</uri>
-        </author>
-        <published>2026-03-23T14:30:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuan-Feng1998/DSOS-Net-MaCVi2026: DSOS-Net: DINOv3-based Water Surface Obstacle Segmentation Network]]></title>
-        <id>https://github.com/Yuan-Feng1998/DSOS-Net-MaCVi2026</id>
-        <link href="https://github.com/Yuan-Feng1998/DSOS-Net-MaCVi2026"/>
-        <updated>2026-08-04T10:05:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/159258900?u=843a8d46a27793f001b2c2212c3e79ddd37c841d&v=4" width="64" height="64" alt=""/><br/><div>DSOS-Net: DINOv3-based Water Surface Obstacle Segmentation Network</div>]]></content>
-        <author>
-            <name>Yuan-Feng1998</name>
-            <email>Yuan-Feng1998@noreply.github.com</email>
-            <uri>https://github.com/Yuan-Feng1998</uri>
-        </author>
-        <published>2026-08-04T01:59:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-08-04T04:42:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qinhy/Ternary-DINOv3]]></title>
-        <id>https://github.com/qinhy/Ternary-DINOv3</id>
-        <link href="https://github.com/qinhy/Ternary-DINOv3"/>
-        <updated>2026-08-04T01:14:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>qinhy</name>
-            <email>qinhy@noreply.github.com</email>
-            <uri>https://github.com/qinhy</uri>
-        </author>
-        <published>2026-07-21T05:15:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-08-05T09:13:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kvark/dinovision: Look at the world through DinoV3 eyes]]></title>
-        <id>https://github.com/kvark/dinovision</id>
-        <link href="https://github.com/kvark/dinovision"/>
-        <updated>2026-08-02T22:24:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/107301?v=4" width="64" height="64" alt=""/><br/><div>Look at the world through DinoV3 eyes</div>]]></content>
-        <author>
-            <name>kvark</name>
-            <email>kvark@noreply.github.com</email>
-            <uri>https://github.com/kvark</uri>
-        </author>
-        <published>2026-08-01T20:48:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sumeyyesaray/DINO: Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10]]></title>
-        <id>https://github.com/sumeyyesaray/DINO</id>
-        <link href="https://github.com/sumeyyesaray/DINO"/>
-        <updated>2026-08-02T18:32:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148757024?u=5a9d5bbf924f05509708b264fbf12fc81577d6e8&v=4" width="64" height="64" alt=""/><br/><div>Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10</div>]]></content>
-        <author>
-            <name>sumeyyesaray</name>
-            <email>sumeyyesaray@noreply.github.com</email>
-            <uri>https://github.com/sumeyyesaray</uri>
-        </author>
-        <published>2026-07-29T12:07:32.000Z</published>
     </entry>
 </feed>
