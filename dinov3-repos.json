@@ -6,6 +6,72 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Source-aware failure-adaptive hierarchical DINOv3-SAT distillation for YOLO11m remote-sensing detection</div>",
+            "url": "https://github.com/zhengzhezhao057/fhit-kd-yolo11m",
+            "title": "zhengzhezhao057/fhit-kd-yolo11m: Source-aware failure-adaptive hierarchical DINOv3-SAT distillation for YOLO11m remote-sensing detection",
+            "date_modified": "2026-08-11T01:27:14.000Z",
+            "date_published": "2026-08-08T13:52:39.000Z",
+            "author": {
+                "name": "zhengzhezhao057",
+                "url": "https://github.com/zhengzhezhao057"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137480160?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for DSchecker visual search using DINOv3 and vector similarity search</div>",
+            "url": "https://github.com/KANEKO529/dschecker-visual-search-poc",
+            "title": "KANEKO529/dschecker-visual-search-poc: PoC for DSchecker visual search using DINOv3 and vector similarity search",
+            "date_modified": "2026-08-11T00:44:10.000Z",
+            "date_published": "2026-08-07T12:17:34.000Z",
+            "author": {
+                "name": "KANEKO529",
+                "url": "https://github.com/KANEKO529"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204850142?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3检索模型</div>",
+            "url": "https://github.com/wqpw01/DINOv3",
+            "title": "wqpw01/DINOv3: dinov3检索模型",
+            "date_modified": "2026-08-10T15:29:48.000Z",
+            "date_published": "2026-08-01T03:03:22.000Z",
+            "author": {
+                "name": "wqpw01",
+                "url": "https://github.com/wqpw01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25030055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-based product embedding fine-tuning overlay (metric learning)</div>",
+            "url": "https://github.com/tinggh/product-embedding",
+            "title": "tinggh/product-embedding: DINOv3-based product embedding fine-tuning overlay (metric learning)",
+            "date_modified": "2026-08-10T13:33:26.000Z",
+            "date_published": "2026-08-08T07:22:05.000Z",
+            "author": {
+                "name": "tinggh",
+                "url": "https://github.com/tinggh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.</div>",
+            "url": "https://github.com/sebspel/worldmodel-inference-optimisation",
+            "title": "sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.",
+            "date_modified": "2026-08-10T10:00:14.000Z",
+            "date_published": "2026-06-21T10:09:39.000Z",
+            "author": {
+                "name": "sebspel",
+                "url": "https://github.com/sebspel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13759047?u=5dd693ba6b68fa632c286ad4d1711e4521df4884&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/wenlianghuang/DINOv3_Monitoring",
+            "title": "wenlianghuang/DINOv3_Monitoring",
+            "date_modified": "2026-08-10T07:44:49.000Z",
+            "date_published": "2026-08-10T07:44:04.000Z",
+            "author": {
+                "name": "wenlianghuang",
+                "url": "https://github.com/wenlianghuang"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148757024?u=5a9d5bbf924f05509708b264fbf12fc81577d6e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10</div>",
             "url": "https://github.com/sumeyyesaray/DINO",
             "title": "sumeyyesaray/DINO: Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10",
@@ -25,28 +91,6 @@
             "author": {
                 "name": "higo522",
                 "url": "https://github.com/higo522"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.</div>",
-            "url": "https://github.com/sebspel/worldmodel-inference-optimisation",
-            "title": "sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.",
-            "date_modified": "2026-08-09T13:07:33.000Z",
-            "date_published": "2026-06-21T10:09:39.000Z",
-            "author": {
-                "name": "sebspel",
-                "url": "https://github.com/sebspel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204850142?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3检索模型</div>",
-            "url": "https://github.com/wqpw01/DINOv3",
-            "title": "wqpw01/DINOv3: dinov3检索模型",
-            "date_modified": "2026-08-09T13:01:28.000Z",
-            "date_published": "2026-08-01T03:03:22.000Z",
-            "author": {
-                "name": "wqpw01",
-                "url": "https://github.com/wqpw01"
             }
         },
         {
@@ -91,39 +135,6 @@
             "author": {
                 "name": "etornam45",
                 "url": "https://github.com/etornam45"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137480160?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for DSchecker visual search using DINOv3 and vector similarity search</div>",
-            "url": "https://github.com/KANEKO529/dschecker-visual-search-poc",
-            "title": "KANEKO529/dschecker-visual-search-poc: PoC for DSchecker visual search using DINOv3 and vector similarity search",
-            "date_modified": "2026-08-08T14:00:52.000Z",
-            "date_published": "2026-08-07T12:17:34.000Z",
-            "author": {
-                "name": "KANEKO529",
-                "url": "https://github.com/KANEKO529"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299759001?u=2fcbee94b3d8e12dc8860059e6779e6ac804f82c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Source-aware failure-adaptive hierarchical DINOv3-SAT distillation for YOLO11m remote-sensing detection</div>",
-            "url": "https://github.com/zhengzhezhao057/fhit-kd-yolo11m",
-            "title": "zhengzhezhao057/fhit-kd-yolo11m: Source-aware failure-adaptive hierarchical DINOv3-SAT distillation for YOLO11m remote-sensing detection",
-            "date_modified": "2026-08-08T13:55:46.000Z",
-            "date_published": "2026-08-08T13:52:39.000Z",
-            "author": {
-                "name": "zhengzhezhao057",
-                "url": "https://github.com/zhengzhezhao057"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25030055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-based product embedding fine-tuning overlay (metric learning)</div>",
-            "url": "https://github.com/tinggh/product-embedding",
-            "title": "tinggh/product-embedding: DINOv3-based product embedding fine-tuning overlay (metric learning)",
-            "date_modified": "2026-08-08T12:13:52.000Z",
-            "date_published": "2026-08-08T07:22:05.000Z",
-            "author": {
-                "name": "tinggh",
-                "url": "https://github.com/tinggh"
             }
         },
         {
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"</div>",
             "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
             "title": "Intellindust-AI-Lab/EdgeCrafter: Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
-            "date_modified": "2026-08-08T13:15:39.000Z",
+            "date_modified": "2026-08-10T12:45:03.000Z",
             "date_published": "2026-03-16T10:28:22.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
                 "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119643234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.</div>",
-            "url": "https://github.com/tangkunszu/ToothDino",
-            "title": "tangkunszu/ToothDino: ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.",
-            "date_modified": "2026-08-07T04:49:05.000Z",
-            "date_published": "2026-07-13T13:21:27.000Z",
-            "author": {
-                "name": "tangkunszu",
-                "url": "https://github.com/tangkunszu"
             }
         }
     ]
