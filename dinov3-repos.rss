@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-14T01:58:27.323Z</updated>
+    <updated>2026-08-15T01:14:40.180Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
-        <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2026-08-14T01:20:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2025-09-19T02:27:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-08-13T19:40:57.000Z</updated>
+        <updated>2026-08-14T21:55:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -32,6 +19,84 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
+        <id>https://github.com/ganzijie1/dongzhou</id>
+        <link href="https://github.com/ganzijie1/dongzhou"/>
+        <updated>2026-08-14T19:08:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
+        <author>
+            <name>ganzijie1</name>
+            <email>ganzijie1@noreply.github.com</email>
+            <uri>https://github.com/ganzijie1</uri>
+        </author>
+        <published>2026-08-13T05:30:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VishalJ99/trail-image-edit-localization: Official reproducibility package for training-free image-edit localization from frozen DINO patch-token drift]]></title>
+        <id>https://github.com/VishalJ99/trail-image-edit-localization</id>
+        <link href="https://github.com/VishalJ99/trail-image-edit-localization"/>
+        <updated>2026-08-14T17:23:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51826812?u=0b33f3c92a11dd396a0ad0d77ac3216099813c0b&v=4" width="64" height="64" alt=""/><br/><div>Official reproducibility package for training-free image-edit localization from frozen DINO patch-token drift</div>]]></content>
+        <author>
+            <name>VishalJ99</name>
+            <email>VishalJ99@noreply.github.com</email>
+            <uri>https://github.com/VishalJ99</uri>
+        </author>
+        <published>2026-08-09T06:40:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
+        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
+        <updated>2026-08-14T15:19:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2026-03-16T10:28:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tinggh/product-embedding: DINOv3-based product embedding fine-tuning overlay (metric learning)]]></title>
+        <id>https://github.com/tinggh/product-embedding</id>
+        <link href="https://github.com/tinggh/product-embedding"/>
+        <updated>2026-08-14T10:09:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25030055?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based product embedding fine-tuning overlay (metric learning)</div>]]></content>
+        <author>
+            <name>tinggh</name>
+            <email>tinggh@noreply.github.com</email>
+            <uri>https://github.com/tinggh</uri>
+        </author>
+        <published>2026-08-08T07:22:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch]]></title>
+        <id>https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch</id>
+        <link href="https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch"/>
+        <updated>2026-08-14T09:55:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/304221568?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>HCMUS-VIR-Nhom8</name>
+            <email>HCMUS-VIR-Nhom8@noreply.github.com</email>
+            <uri>https://github.com/HCMUS-VIR-Nhom8</uri>
+        </author>
+        <published>2026-07-28T08:55:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
+        <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
+        <updated>2026-08-14T14:57:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2025-09-19T02:27:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[eerdil/spatial-ar-dinov3-uad]]></title>
@@ -58,19 +123,6 @@
             <uri>https://github.com/akhenakh</uri>
         </author>
         <published>2026-08-13T04:57:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
-        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-08-13T12:57:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2026-03-16T10:28:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ktrl-Alt-Defeat/DinoV3-Plant-Disease-Detection]]></title>
@@ -138,19 +190,6 @@
         <published>2026-08-07T12:17:34.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
-        <id>https://github.com/ganzijie1/dongzhou</id>
-        <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-08-13T05:30:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
-        <author>
-            <name>ganzijie1</name>
-            <email>ganzijie1@noreply.github.com</email>
-            <uri>https://github.com/ganzijie1</uri>
-        </author>
-        <published>2026-08-13T05:30:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[hyuneu-n/aerial-vpr-search: DINOv3 + FAISS aerial image retrieval for GNSS-denied UAM localization — search-only code (C#/Python) for our KSGIS 2026 paper]]></title>
         <id>https://github.com/hyuneu-n/aerial-vpr-search</id>
         <link href="https://github.com/hyuneu-n/aerial-vpr-search"/>
@@ -164,23 +203,10 @@
         <published>2026-08-13T04:30:47.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tinggh/product-embedding: DINOv3-based product embedding fine-tuning overlay (metric learning)]]></title>
-        <id>https://github.com/tinggh/product-embedding</id>
-        <link href="https://github.com/tinggh/product-embedding"/>
-        <updated>2026-08-13T01:53:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25030055?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based product embedding fine-tuning overlay (metric learning)</div>]]></content>
-        <author>
-            <name>tinggh</name>
-            <email>tinggh@noreply.github.com</email>
-            <uri>https://github.com/tinggh</uri>
-        </author>
-        <published>2026-08-08T07:22:05.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MedAliMimouni/vit-adapter-blog-series: Companion code and figures for the ViT-Adapter blog series (DINOv3 + ViT-Adapter + Mask2Former).]]></title>
         <id>https://github.com/MedAliMimouni/vit-adapter-blog-series</id>
         <link href="https://github.com/MedAliMimouni/vit-adapter-blog-series"/>
-        <updated>2026-08-12T19:58:22.000Z</updated>
+        <updated>2026-08-14T08:48:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9286366?u=12a445321a572d92fdf006f5379df83ca739e768&v=4" width="64" height="64" alt=""/><br/><div>Companion code and figures for the ViT-Adapter blog series (DINOv3 + ViT-Adapter + Mask2Former).</div>]]></content>
         <author>
             <name>MedAliMimouni</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/sebspel</uri>
         </author>
         <published>2026-06-21T10:09:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wqpw01/DINOv3: dinov3检索模型]]></title>
-        <id>https://github.com/wqpw01/DINOv3</id>
-        <link href="https://github.com/wqpw01/DINOv3"/>
-        <updated>2026-08-12T11:32:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204850142?v=4" width="64" height="64" alt=""/><br/><div>dinov3检索模型</div>]]></content>
-        <author>
-            <name>wqpw01</name>
-            <email>wqpw01@noreply.github.com</email>
-            <uri>https://github.com/wqpw01</uri>
-        </author>
-        <published>2026-08-01T03:03:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
-        <id>https://github.com/jingwang7236/dinov3-sw</id>
-        <link href="https://github.com/jingwang7236/dinov3-sw"/>
-        <updated>2026-08-12T08:27:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jingwang7236</name>
-            <email>jingwang7236@noreply.github.com</email>
-            <uri>https://github.com/jingwang7236</uri>
-        </author>
-        <published>2026-05-13T06:44:47.000Z</published>
     </entry>
 </feed>
