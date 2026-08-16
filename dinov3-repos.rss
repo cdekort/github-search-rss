@@ -2,29 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-15T01:14:40.180Z</updated>
+    <updated>2026-08-16T01:19:30.618Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-08-14T21:55:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <title type="html"><![CDATA[Taxueovo/prepreg-fiber-orientation: Sanitized research code for surface fiber-orientation regression of carbon-fiber prepreg (ConvNeXt-Tiny backbone with optional DINOv3 initialization)]]></title>
+        <id>https://github.com/Taxueovo/prepreg-fiber-orientation</id>
+        <link href="https://github.com/Taxueovo/prepreg-fiber-orientation"/>
+        <updated>2026-08-15T14:59:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/203081284?u=e3989fca7f26b17ab0dc4559fa480b5e1ac4ade8&v=4" width="64" height="64" alt=""/><br/><div>Sanitized research code for surface fiber-orientation regression of carbon-fiber prepreg (ConvNeXt-Tiny backbone with optional DINOv3 initialization)</div>]]></content>
         <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
+            <name>Taxueovo</name>
+            <email>Taxueovo@noreply.github.com</email>
+            <uri>https://github.com/Taxueovo</uri>
         </author>
-        <published>2025-04-10T08:23:51.000Z</published>
+        <published>2026-08-15T02:16:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kshitijrajsharma/dinov3-hot]]></title>
+        <id>https://github.com/kshitijrajsharma/dinov3-hot</id>
+        <link href="https://github.com/kshitijrajsharma/dinov3-hot"/>
+        <updated>2026-08-15T12:44:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36752999?u=5f103a26d0dd3a7b00cdcf22199e5aee6f69de0b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>kshitijrajsharma</name>
+            <email>kshitijrajsharma@noreply.github.com</email>
+            <uri>https://github.com/kshitijrajsharma</uri>
+        </author>
+        <published>2026-05-20T22:53:07.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
         <id>https://github.com/ganzijie1/dongzhou</id>
         <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-08-14T19:08:40.000Z</updated>
+        <updated>2026-08-15T08:28:21.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
         <author>
             <name>ganzijie1</name>
@@ -32,6 +45,71 @@
             <uri>https://github.com/ganzijie1</uri>
         </author>
         <published>2026-08-13T05:30:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamruzzamansust/DINOV3_Product_Search]]></title>
+        <id>https://github.com/Kamruzzamansust/DINOV3_Product_Search</id>
+        <link href="https://github.com/Kamruzzamansust/DINOV3_Product_Search"/>
+        <updated>2026-08-15T08:03:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121808166?u=f9d9a7bd0cee62e64c1f49660f77384ffcfa2951&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Kamruzzamansust</name>
+            <email>Kamruzzamansust@noreply.github.com</email>
+            <uri>https://github.com/Kamruzzamansust</uri>
+        </author>
+        <published>2026-08-15T07:44:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yukidachi/DINOv3_0804]]></title>
+        <id>https://github.com/Yukidachi/DINOv3_0804</id>
+        <link href="https://github.com/Yukidachi/DINOv3_0804"/>
+        <updated>2026-08-15T06:45:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180073581?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Yukidachi</name>
+            <email>Yukidachi@noreply.github.com</email>
+            <uri>https://github.com/Yukidachi</uri>
+        </author>
+        <published>2026-08-05T10:16:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12: Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.]]></title>
+        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
+        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
+        <updated>2026-08-15T05:33:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div>Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.</div>]]></content>
+        <author>
+            <name>Sompote</name>
+            <email>Sompote@noreply.github.com</email>
+            <uri>https://github.com/Sompote</uri>
+        </author>
+        <published>2025-09-14T01:06:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
+        <id>https://github.com/lionking0921/fursee</id>
+        <link href="https://github.com/lionking0921/fursee"/>
+        <updated>2026-08-15T03:45:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
+        <author>
+            <name>lionking0921</name>
+            <email>lionking0921@noreply.github.com</email>
+            <uri>https://github.com/lionking0921</uri>
+        </author>
+        <published>2026-07-10T03:01:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-08-15T14:34:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[VishalJ99/trail-image-edit-localization: Official reproducibility package for training-free image-edit localization from frozen DINO patch-token drift]]></title>
@@ -50,7 +128,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
         <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
         <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-08-14T15:19:07.000Z</updated>
+        <updated>2026-08-15T14:27:49.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -188,83 +266,5 @@
             <uri>https://github.com/KANEKO529</uri>
         </author>
         <published>2026-08-07T12:17:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hyuneu-n/aerial-vpr-search: DINOv3 + FAISS aerial image retrieval for GNSS-denied UAM localization — search-only code (C#/Python) for our KSGIS 2026 paper]]></title>
-        <id>https://github.com/hyuneu-n/aerial-vpr-search</id>
-        <link href="https://github.com/hyuneu-n/aerial-vpr-search"/>
-        <updated>2026-08-13T05:09:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/126397025?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 + FAISS aerial image retrieval for GNSS-denied UAM localization — search-only code (C#/Python) for our KSGIS 2026 paper</div>]]></content>
-        <author>
-            <name>hyuneu-n</name>
-            <email>hyuneu-n@noreply.github.com</email>
-            <uri>https://github.com/hyuneu-n</uri>
-        </author>
-        <published>2026-08-13T04:30:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MedAliMimouni/vit-adapter-blog-series: Companion code and figures for the ViT-Adapter blog series (DINOv3 + ViT-Adapter + Mask2Former).]]></title>
-        <id>https://github.com/MedAliMimouni/vit-adapter-blog-series</id>
-        <link href="https://github.com/MedAliMimouni/vit-adapter-blog-series"/>
-        <updated>2026-08-14T08:48:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9286366?u=12a445321a572d92fdf006f5379df83ca739e768&v=4" width="64" height="64" alt=""/><br/><div>Companion code and figures for the ViT-Adapter blog series (DINOv3 + ViT-Adapter + Mask2Former).</div>]]></content>
-        <author>
-            <name>MedAliMimouni</name>
-            <email>MedAliMimouni@noreply.github.com</email>
-            <uri>https://github.com/MedAliMimouni</uri>
-        </author>
-        <published>2026-08-12T12:58:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TimTheLumberjack/dino-pose-reliability: Evaluating failure prediction and selective relative pose estimation with frozen DINOv3 features under visual distribution shifts.]]></title>
-        <id>https://github.com/TimTheLumberjack/dino-pose-reliability</id>
-        <link href="https://github.com/TimTheLumberjack/dino-pose-reliability"/>
-        <updated>2026-08-12T19:33:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200770803?v=4" width="64" height="64" alt=""/><br/><div>Evaluating failure prediction and selective relative pose estimation with frozen DINOv3 features under visual distribution shifts.</div>]]></content>
-        <author>
-            <name>TimTheLumberjack</name>
-            <email>TimTheLumberjack@noreply.github.com</email>
-            <uri>https://github.com/TimTheLumberjack</uri>
-        </author>
-        <published>2026-08-12T16:43:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mictam/SG-RIFE_comfyUI: Semantic-Guided RIFE frame interpolation with a DINOv3 backbone for ComfyUI.]]></title>
-        <id>https://github.com/Mictam/SG-RIFE_comfyUI</id>
-        <link href="https://github.com/Mictam/SG-RIFE_comfyUI"/>
-        <updated>2026-08-12T19:14:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37049673?u=21a6cf43fffc4dc1c846e33f64574a9ef66abc58&v=4" width="64" height="64" alt=""/><br/><div>Semantic-Guided RIFE frame interpolation with a DINOv3 backbone for ComfyUI.</div>]]></content>
-        <author>
-            <name>Mictam</name>
-            <email>Mictam@noreply.github.com</email>
-            <uri>https://github.com/Mictam</uri>
-        </author>
-        <published>2026-08-12T15:05:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nasa-nccs-hpda/CHM_DINOv3: Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data]]></title>
-        <id>https://github.com/nasa-nccs-hpda/CHM_DINOv3</id>
-        <link href="https://github.com/nasa-nccs-hpda/CHM_DINOv3"/>
-        <updated>2026-08-12T17:52:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10469195?v=4" width="64" height="64" alt=""/><br/><div>Notebooks for fine-tuning DINOv3 models to predict canopy height using a dataset of of SRLite and G-LiHT data</div>]]></content>
-        <author>
-            <name>nasa-nccs-hpda</name>
-            <email>nasa-nccs-hpda@noreply.github.com</email>
-            <uri>https://github.com/nasa-nccs-hpda</uri>
-        </author>
-        <published>2025-12-03T17:55:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.]]></title>
-        <id>https://github.com/sebspel/worldmodel-inference-optimisation</id>
-        <link href="https://github.com/sebspel/worldmodel-inference-optimisation"/>
-        <updated>2026-08-12T17:02:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
     </entry>
 </feed>
