@@ -2,11 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-16T01:19:30.618Z</updated>
+    <updated>2026-08-17T01:16:51.046Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[eerdil/spatial-ar-dinov3-uad]]></title>
+        <id>https://github.com/eerdil/spatial-ar-dinov3-uad</id>
+        <link href="https://github.com/eerdil/spatial-ar-dinov3-uad"/>
+        <updated>2026-08-16T13:53:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19938963?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>eerdil</name>
+            <email>eerdil@noreply.github.com</email>
+            <uri>https://github.com/eerdil</uri>
+        </author>
+        <published>2026-02-27T13:35:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
+        <id>https://github.com/ganzijie1/dongzhou</id>
+        <link href="https://github.com/ganzijie1/dongzhou"/>
+        <updated>2026-08-16T09:12:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
+        <author>
+            <name>ganzijie1</name>
+            <email>ganzijie1@noreply.github.com</email>
+            <uri>https://github.com/ganzijie1</uri>
+        </author>
+        <published>2026-08-13T05:30:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A1C1NY/dinoV3_ToothVLM]]></title>
+        <id>https://github.com/A1C1NY/dinoV3_ToothVLM</id>
+        <link href="https://github.com/A1C1NY/dinoV3_ToothVLM"/>
+        <updated>2026-08-16T09:14:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>A1C1NY</name>
+            <email>A1C1NY@noreply.github.com</email>
+            <uri>https://github.com/A1C1NY</uri>
+        </author>
+        <published>2026-04-04T12:24:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RyanKim17920/microDINOv3: DINOv3 in pure, dependency-free Python]]></title>
+        <id>https://github.com/RyanKim17920/microDINOv3</id>
+        <link href="https://github.com/RyanKim17920/microDINOv3"/>
+        <updated>2026-08-16T02:31:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136863723?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 in pure, dependency-free Python</div>]]></content>
+        <author>
+            <name>RyanKim17920</name>
+            <email>RyanKim17920@noreply.github.com</email>
+            <uri>https://github.com/RyanKim17920</uri>
+        </author>
+        <published>2026-03-11T23:25:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12: Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.]]></title>
+        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
+        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
+        <updated>2026-08-16T07:20:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div>Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.</div>]]></content>
+        <author>
+            <name>Sompote</name>
+            <email>Sompote@noreply.github.com</email>
+            <uri>https://github.com/Sompote</uri>
+        </author>
+        <published>2025-09-14T01:06:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taxueovo/prepreg-fiber-orientation: Sanitized research code for surface fiber-orientation regression of carbon-fiber prepreg (ConvNeXt-Tiny backbone with optional DINOv3 initialization)]]></title>
         <id>https://github.com/Taxueovo/prepreg-fiber-orientation</id>
@@ -32,19 +97,6 @@
             <uri>https://github.com/kshitijrajsharma</uri>
         </author>
         <published>2026-05-20T22:53:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
-        <id>https://github.com/ganzijie1/dongzhou</id>
-        <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-08-15T08:28:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
-        <author>
-            <name>ganzijie1</name>
-            <email>ganzijie1@noreply.github.com</email>
-            <uri>https://github.com/ganzijie1</uri>
-        </author>
-        <published>2026-08-13T05:30:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kamruzzamansust/DINOV3_Product_Search]]></title>
@@ -73,19 +125,6 @@
         <published>2026-08-05T10:16:35.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12: Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.]]></title>
-        <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
-        <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2026-08-15T05:33:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div>Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.</div>]]></content>
-        <author>
-            <name>Sompote</name>
-            <email>Sompote@noreply.github.com</email>
-            <uri>https://github.com/Sompote</uri>
-        </author>
-        <published>2025-09-14T01:06:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
         <id>https://github.com/lionking0921/fursee</id>
         <link href="https://github.com/lionking0921/fursee"/>
@@ -102,7 +141,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-08-15T14:34:00.000Z</updated>
+        <updated>2026-08-16T21:52:52.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -128,7 +167,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
         <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
         <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-08-15T14:27:49.000Z</updated>
+        <updated>2026-08-16T06:15:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -167,7 +206,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2026-08-14T14:57:30.000Z</updated>
+        <updated>2026-08-17T00:48:40.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -175,19 +214,6 @@
             <uri>https://github.com/Intellindust-AI-Lab</uri>
         </author>
         <published>2025-09-19T02:27:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eerdil/spatial-ar-dinov3-uad]]></title>
-        <id>https://github.com/eerdil/spatial-ar-dinov3-uad</id>
-        <link href="https://github.com/eerdil/spatial-ar-dinov3-uad"/>
-        <updated>2026-08-13T16:24:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19938963?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>eerdil</name>
-            <email>eerdil@noreply.github.com</email>
-            <uri>https://github.com/eerdil</uri>
-        </author>
-        <published>2026-02-27T13:35:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[akhenakh/dinov3: Meta's DINOv3 vision transformer in Go using GoMLX for hardware-accelerated tensor computations.]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/vivichiciudean</uri>
         </author>
         <published>2026-07-14T11:47:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-08-13T08:09:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KANEKO529/dschecker-visual-search-poc: PoC for DSchecker visual search using DINOv3 and vector similarity search]]></title>
-        <id>https://github.com/KANEKO529/dschecker-visual-search-poc</id>
-        <link href="https://github.com/KANEKO529/dschecker-visual-search-poc"/>
-        <updated>2026-08-13T06:44:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/137480160?v=4" width="64" height="64" alt=""/><br/><div>PoC for DSchecker visual search using DINOv3 and vector similarity search</div>]]></content>
-        <author>
-            <name>KANEKO529</name>
-            <email>KANEKO529@noreply.github.com</email>
-            <uri>https://github.com/KANEKO529</uri>
-        </author>
-        <published>2026-08-07T12:17:34.000Z</published>
     </entry>
 </feed>
