@@ -2,11 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-17T01:16:51.046Z</updated>
+    <updated>2026-08-18T01:14:16.792Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[snehithganta/openvision-memory: Open-world visual recognition with DINOv3, HDBSCAN, YOLO, SigLIP 2 and object memory.]]></title>
+        <id>https://github.com/snehithganta/openvision-memory</id>
+        <link href="https://github.com/snehithganta/openvision-memory"/>
+        <updated>2026-08-17T17:24:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/201785651?v=4" width="64" height="64" alt=""/><br/><div>Open-world visual recognition with DINOv3, HDBSCAN, YOLO, SigLIP 2 and object memory.</div>]]></content>
+        <author>
+            <name>snehithganta</name>
+            <email>snehithganta@noreply.github.com</email>
+            <uri>https://github.com/snehithganta</uri>
+        </author>
+        <published>2026-08-17T17:01:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UCL-MXI-Bio/2026-zhou-lorca: Official implementation of paper entitled - LoRCA: LoRA Cycle Adaptation for Histology to HiP-CT Translation with DINOv3]]></title>
+        <id>https://github.com/UCL-MXI-Bio/2026-zhou-lorca</id>
+        <link href="https://github.com/UCL-MXI-Bio/2026-zhou-lorca"/>
+        <updated>2026-08-17T16:43:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/173800692?v=4" width="64" height="64" alt=""/><br/><div>Official implementation of paper entitled - LoRCA: LoRA Cycle Adaptation for Histology to HiP-CT Translation with DINOv3</div>]]></content>
+        <author>
+            <name>UCL-MXI-Bio</name>
+            <email>UCL-MXI-Bio@noreply.github.com</email>
+            <uri>https://github.com/UCL-MXI-Bio</uri>
+        </author>
+        <published>2026-08-06T09:46:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mictam/SG-RIFE_comfyUI: Semantic-Guided RIFE frame interpolation with a DINOv3 backbone for ComfyUI.]]></title>
+        <id>https://github.com/Mictam/SG-RIFE_comfyUI</id>
+        <link href="https://github.com/Mictam/SG-RIFE_comfyUI"/>
+        <updated>2026-08-17T13:14:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37049673?u=21a6cf43fffc4dc1c846e33f64574a9ef66abc58&v=4" width="64" height="64" alt=""/><br/><div>Semantic-Guided RIFE frame interpolation with a DINOv3 backbone for ComfyUI.</div>]]></content>
+        <author>
+            <name>Mictam</name>
+            <email>Mictam@noreply.github.com</email>
+            <uri>https://github.com/Mictam</uri>
+        </author>
+        <published>2026-08-12T15:05:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tinggh/product-embedding: DINOv3-based product embedding fine-tuning overlay (metric learning)]]></title>
+        <id>https://github.com/tinggh/product-embedding</id>
+        <link href="https://github.com/tinggh/product-embedding"/>
+        <updated>2026-08-17T12:50:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25030055?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based product embedding fine-tuning overlay (metric learning)</div>]]></content>
+        <author>
+            <name>tinggh</name>
+            <email>tinggh@noreply.github.com</email>
+            <uri>https://github.com/tinggh</uri>
+        </author>
+        <published>2026-08-08T07:22:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[baiding72/dinov3]]></title>
+        <id>https://github.com/baiding72/dinov3</id>
+        <link href="https://github.com/baiding72/dinov3"/>
+        <updated>2026-08-17T09:02:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>baiding72</name>
+            <email>baiding72@noreply.github.com</email>
+            <uri>https://github.com/baiding72</uri>
+        </author>
+        <published>2026-08-17T02:46:56.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eerdil/spatial-ar-dinov3-uad]]></title>
         <id>https://github.com/eerdil/spatial-ar-dinov3-uad</id>
@@ -63,7 +128,7 @@
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12: Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
         <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2026-08-16T07:20:27.000Z</updated>
+        <updated>2026-08-17T05:55:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div>Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.</div>]]></content>
         <author>
             <name>Sompote</name>
@@ -73,10 +138,10 @@
         <published>2025-09-14T01:06:52.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taxueovo/prepreg-fiber-orientation: Sanitized research code for surface fiber-orientation regression of carbon-fiber prepreg (ConvNeXt-Tiny backbone with optional DINOv3 initialization)]]></title>
-        <id>https://github.com/Taxueovo/prepreg-fiber-orientation</id>
-        <link href="https://github.com/Taxueovo/prepreg-fiber-orientation"/>
-        <updated>2026-08-15T14:59:33.000Z</updated>
+        <title type="html"><![CDATA[Taxueovo/Prepreg-Fiber-Orientation: Sanitized research code for surface fiber-orientation regression of carbon-fiber prepreg (ConvNeXt-Tiny backbone with optional DINOv3 initialization)]]></title>
+        <id>https://github.com/Taxueovo/Prepreg-Fiber-Orientation</id>
+        <link href="https://github.com/Taxueovo/Prepreg-Fiber-Orientation"/>
+        <updated>2026-08-17T01:49:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/203081284?u=e3989fca7f26b17ab0dc4559fa480b5e1ac4ade8&v=4" width="64" height="64" alt=""/><br/><div>Sanitized research code for surface fiber-orientation regression of carbon-fiber prepreg (ConvNeXt-Tiny backbone with optional DINOv3 initialization)</div>]]></content>
         <author>
             <name>Taxueovo</name>
@@ -141,7 +206,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-08-16T21:52:52.000Z</updated>
+        <updated>2026-08-17T03:27:40.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -167,7 +232,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
         <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
         <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-08-16T06:15:50.000Z</updated>
+        <updated>2026-08-17T12:41:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -175,19 +240,6 @@
             <uri>https://github.com/Intellindust-AI-Lab</uri>
         </author>
         <published>2026-03-16T10:28:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tinggh/product-embedding: DINOv3-based product embedding fine-tuning overlay (metric learning)]]></title>
-        <id>https://github.com/tinggh/product-embedding</id>
-        <link href="https://github.com/tinggh/product-embedding"/>
-        <updated>2026-08-14T10:09:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25030055?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based product embedding fine-tuning overlay (metric learning)</div>]]></content>
-        <author>
-            <name>tinggh</name>
-            <email>tinggh@noreply.github.com</email>
-            <uri>https://github.com/tinggh</uri>
-        </author>
-        <published>2026-08-08T07:22:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch]]></title>
@@ -206,7 +258,7 @@
         <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
         <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
         <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2026-08-17T00:48:40.000Z</updated>
+        <updated>2026-08-17T06:58:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
         <author>
             <name>Intellindust-AI-Lab</name>
@@ -214,57 +266,5 @@
             <uri>https://github.com/Intellindust-AI-Lab</uri>
         </author>
         <published>2025-09-19T02:27:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[akhenakh/dinov3: Meta's DINOv3 vision transformer in Go using GoMLX for hardware-accelerated tensor computations.]]></title>
-        <id>https://github.com/akhenakh/dinov3</id>
-        <link href="https://github.com/akhenakh/dinov3"/>
-        <updated>2026-08-13T15:32:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/218430?u=b840d42272476437438c36b163179a972c9fc29b&v=4" width="64" height="64" alt=""/><br/><div>Meta's DINOv3 vision transformer in Go using GoMLX for hardware-accelerated tensor computations.</div>]]></content>
-        <author>
-            <name>akhenakh</name>
-            <email>akhenakh@noreply.github.com</email>
-            <uri>https://github.com/akhenakh</uri>
-        </author>
-        <published>2026-08-13T04:57:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ktrl-Alt-Defeat/DinoV3-Plant-Disease-Detection]]></title>
-        <id>https://github.com/ktrl-Alt-Defeat/DinoV3-Plant-Disease-Detection</id>
-        <link href="https://github.com/ktrl-Alt-Defeat/DinoV3-Plant-Disease-Detection"/>
-        <updated>2026-08-13T12:43:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/315665580?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ktrl-Alt-Defeat</name>
-            <email>ktrl-Alt-Defeat@noreply.github.com</email>
-            <uri>https://github.com/ktrl-Alt-Defeat</uri>
-        </author>
-        <published>2026-08-13T12:43:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[da-dawit/prior-act: ACT with a trainable DINOv3 scene prior for the ROBOTIS AI Worker]]></title>
-        <id>https://github.com/da-dawit/prior-act</id>
-        <link href="https://github.com/da-dawit/prior-act"/>
-        <updated>2026-08-13T09:47:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111470256?u=f0a155250c97820a1d06311fde4c05c8eb6e20e3&v=4" width="64" height="64" alt=""/><br/><div>ACT with a trainable DINOv3 scene prior for the ROBOTIS AI Worker</div>]]></content>
-        <author>
-            <name>da-dawit</name>
-            <email>da-dawit@noreply.github.com</email>
-            <uri>https://github.com/da-dawit</uri>
-        </author>
-        <published>2026-08-13T09:04:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivichiciudean/uavidplusplus-code: Official code for the UAVid++ paper]]></title>
-        <id>https://github.com/vivichiciudean/uavidplusplus-code</id>
-        <link href="https://github.com/vivichiciudean/uavidplusplus-code"/>
-        <updated>2026-08-13T10:14:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69121078?u=3c9d3853490ab20db208f53a52572c9a5ce3bbc8&v=4" width="64" height="64" alt=""/><br/><div>Official code for the UAVid++ paper</div>]]></content>
-        <author>
-            <name>vivichiciudean</name>
-            <email>vivichiciudean@noreply.github.com</email>
-            <uri>https://github.com/vivichiciudean</uri>
-        </author>
-        <published>2026-07-14T11:47:45.000Z</published>
     </entry>
 </feed>
