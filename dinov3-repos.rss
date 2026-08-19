@@ -2,11 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-18T01:14:16.792Z</updated>
+    <updated>2026-08-19T01:15:40.987Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[wqpw01/DINOv3: dinov3检索模型]]></title>
+        <id>https://github.com/wqpw01/DINOv3</id>
+        <link href="https://github.com/wqpw01/DINOv3"/>
+        <updated>2026-08-18T18:44:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204850142?v=4" width="64" height="64" alt=""/><br/><div>dinov3检索模型</div>]]></content>
+        <author>
+            <name>wqpw01</name>
+            <email>wqpw01@noreply.github.com</email>
+            <uri>https://github.com/wqpw01</uri>
+        </author>
+        <published>2026-08-01T03:03:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[baiding72/dinov3]]></title>
+        <id>https://github.com/baiding72/dinov3</id>
+        <link href="https://github.com/baiding72/dinov3"/>
+        <updated>2026-08-18T14:18:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>baiding72</name>
+            <email>baiding72@noreply.github.com</email>
+            <uri>https://github.com/baiding72</uri>
+        </author>
+        <published>2026-08-17T02:46:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UCL-MXI-Bio/2026-zhou-lorca: Official implementation of paper entitled - LoRCA: LoRA Cycle Adaptation for Histology to HiP-CT Translation with DINOv3]]></title>
+        <id>https://github.com/UCL-MXI-Bio/2026-zhou-lorca</id>
+        <link href="https://github.com/UCL-MXI-Bio/2026-zhou-lorca"/>
+        <updated>2026-08-18T12:41:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/173800692?v=4" width="64" height="64" alt=""/><br/><div>Official implementation of paper entitled - LoRCA: LoRA Cycle Adaptation for Histology to HiP-CT Translation with DINOv3</div>]]></content>
+        <author>
+            <name>UCL-MXI-Bio</name>
+            <email>UCL-MXI-Bio@noreply.github.com</email>
+            <uri>https://github.com/UCL-MXI-Bio</uri>
+        </author>
+        <published>2026-08-06T09:46:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A1C1NY/dinoV3_ToothVLM]]></title>
+        <id>https://github.com/A1C1NY/dinoV3_ToothVLM</id>
+        <link href="https://github.com/A1C1NY/dinoV3_ToothVLM"/>
+        <updated>2026-08-18T12:33:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>A1C1NY</name>
+            <email>A1C1NY@noreply.github.com</email>
+            <uri>https://github.com/A1C1NY</uri>
+        </author>
+        <published>2026-04-04T12:24:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TaylorGISER/DINOv3-UNet-: DINOv3-UNet++语义分割代码]]></title>
+        <id>https://github.com/TaylorGISER/DINOv3-UNet-</id>
+        <link href="https://github.com/TaylorGISER/DINOv3-UNet-"/>
+        <updated>2026-08-18T03:49:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204217307?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-UNet++语义分割代码</div>]]></content>
+        <author>
+            <name>TaylorGISER</name>
+            <email>TaylorGISER@noreply.github.com</email>
+            <uri>https://github.com/TaylorGISER</uri>
+        </author>
+        <published>2026-08-18T03:49:02.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[snehithganta/openvision-memory: Open-world visual recognition with DINOv3, HDBSCAN, YOLO, SigLIP 2 and object memory.]]></title>
         <id>https://github.com/snehithganta/openvision-memory</id>
@@ -19,19 +84,6 @@
             <uri>https://github.com/snehithganta</uri>
         </author>
         <published>2026-08-17T17:01:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCL-MXI-Bio/2026-zhou-lorca: Official implementation of paper entitled - LoRCA: LoRA Cycle Adaptation for Histology to HiP-CT Translation with DINOv3]]></title>
-        <id>https://github.com/UCL-MXI-Bio/2026-zhou-lorca</id>
-        <link href="https://github.com/UCL-MXI-Bio/2026-zhou-lorca"/>
-        <updated>2026-08-17T16:43:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/173800692?v=4" width="64" height="64" alt=""/><br/><div>Official implementation of paper entitled - LoRCA: LoRA Cycle Adaptation for Histology to HiP-CT Translation with DINOv3</div>]]></content>
-        <author>
-            <name>UCL-MXI-Bio</name>
-            <email>UCL-MXI-Bio@noreply.github.com</email>
-            <uri>https://github.com/UCL-MXI-Bio</uri>
-        </author>
-        <published>2026-08-06T09:46:36.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mictam/SG-RIFE_comfyUI: Semantic-Guided RIFE frame interpolation with a DINOv3 backbone for ComfyUI.]]></title>
@@ -60,19 +112,6 @@
         <published>2026-08-08T07:22:05.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[baiding72/dinov3]]></title>
-        <id>https://github.com/baiding72/dinov3</id>
-        <link href="https://github.com/baiding72/dinov3"/>
-        <updated>2026-08-17T09:02:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>baiding72</name>
-            <email>baiding72@noreply.github.com</email>
-            <uri>https://github.com/baiding72</uri>
-        </author>
-        <published>2026-08-17T02:46:56.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[eerdil/spatial-ar-dinov3-uad]]></title>
         <id>https://github.com/eerdil/spatial-ar-dinov3-uad</id>
         <link href="https://github.com/eerdil/spatial-ar-dinov3-uad"/>
@@ -99,19 +138,6 @@
         <published>2026-08-13T05:30:19.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A1C1NY/dinoV3_ToothVLM]]></title>
-        <id>https://github.com/A1C1NY/dinoV3_ToothVLM</id>
-        <link href="https://github.com/A1C1NY/dinoV3_ToothVLM"/>
-        <updated>2026-08-16T09:14:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/201032722?u=5d2cc19528ae740a5b339f28dcb47d14fd9c15b9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>A1C1NY</name>
-            <email>A1C1NY@noreply.github.com</email>
-            <uri>https://github.com/A1C1NY</uri>
-        </author>
-        <published>2026-04-04T12:24:24.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RyanKim17920/microDINOv3: DINOv3 in pure, dependency-free Python]]></title>
         <id>https://github.com/RyanKim17920/microDINOv3</id>
         <link href="https://github.com/RyanKim17920/microDINOv3"/>
@@ -128,7 +154,7 @@
         <title type="html"><![CDATA[Sompote/DINOV3-YOLOV12: Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.]]></title>
         <id>https://github.com/Sompote/DINOV3-YOLOV12</id>
         <link href="https://github.com/Sompote/DINOV3-YOLOV12"/>
-        <updated>2026-08-17T05:55:50.000Z</updated>
+        <updated>2026-08-18T17:13:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/62241733?u=4c121464a7c01d63ab46b93b839be2bbbfd15fe5&v=4" width="64" height="64" alt=""/><br/><div>Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset, DINOV3-YOLOV12 helps you get better detection accuracy — without sacrificing speed. Great for niche domains, small-data projects, or quick prototyping.</div>]]></content>
         <author>
             <name>Sompote</name>
@@ -193,7 +219,7 @@
         <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
         <id>https://github.com/lionking0921/fursee</id>
         <link href="https://github.com/lionking0921/fursee"/>
-        <updated>2026-08-15T03:45:26.000Z</updated>
+        <updated>2026-08-18T02:09:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
         <author>
             <name>lionking0921</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/Intellindust-AI-Lab</uri>
         </author>
         <published>2026-03-16T10:28:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch]]></title>
-        <id>https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch</id>
-        <link href="https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch"/>
-        <updated>2026-08-14T09:55:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/304221568?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>HCMUS-VIR-Nhom8</name>
-            <email>HCMUS-VIR-Nhom8@noreply.github.com</email>
-            <uri>https://github.com/HCMUS-VIR-Nhom8</uri>
-        </author>
-        <published>2026-07-28T08:55:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
-        <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
-        <updated>2026-08-17T06:58:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2025-09-19T02:27:19.000Z</published>
     </entry>
 </feed>
