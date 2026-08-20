@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-19T01:15:40.987Z</updated>
+    <updated>2026-08-20T01:14:56.118Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[BraveDistribution/mvaa_challenge_public: MVAA 2026 challenge submission: source, environment and a pure-PyTorch replacement for the CUDA Gaussian/Hessian filter bank (CT, TEE and endoscopic video segmentation)]]></title>
+        <id>https://github.com/BraveDistribution/mvaa_challenge_public</id>
+        <link href="https://github.com/BraveDistribution/mvaa_challenge_public"/>
+        <updated>2026-08-19T20:58:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36101458?u=89c01ab98fc2c99180f055cc27b8441af61e974f&v=4" width="64" height="64" alt=""/><br/><div>MVAA 2026 challenge submission: source, environment and a pure-PyTorch replacement for the CUDA Gaussian/Hessian filter bank (CT, TEE and endoscopic video segmentation)</div>]]></content>
+        <author>
+            <name>BraveDistribution</name>
+            <email>BraveDistribution@noreply.github.com</email>
+            <uri>https://github.com/BraveDistribution</uri>
+        </author>
+        <published>2026-08-19T20:56:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.]]></title>
+        <id>https://github.com/sebspel/worldmodel-inference-optimisation</id>
+        <link href="https://github.com/sebspel/worldmodel-inference-optimisation"/>
+        <updated>2026-08-19T11:26:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[baiding72/dinov3]]></title>
+        <id>https://github.com/baiding72/dinov3</id>
+        <link href="https://github.com/baiding72/dinov3"/>
+        <updated>2026-08-19T06:34:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>baiding72</name>
+            <email>baiding72@noreply.github.com</email>
+            <uri>https://github.com/baiding72</uri>
+        </author>
+        <published>2026-08-17T02:46:56.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[wqpw01/DINOv3: dinov3检索模型]]></title>
         <id>https://github.com/wqpw01/DINOv3</id>
@@ -19,19 +58,6 @@
             <uri>https://github.com/wqpw01</uri>
         </author>
         <published>2026-08-01T03:03:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[baiding72/dinov3]]></title>
-        <id>https://github.com/baiding72/dinov3</id>
-        <link href="https://github.com/baiding72/dinov3"/>
-        <updated>2026-08-18T14:18:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>baiding72</name>
-            <email>baiding72@noreply.github.com</email>
-            <uri>https://github.com/baiding72</uri>
-        </author>
-        <published>2026-08-17T02:46:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[UCL-MXI-Bio/2026-zhou-lorca: Official implementation of paper entitled - LoRCA: LoRA Cycle Adaptation for Histology to HiP-CT Translation with DINOv3]]></title>
@@ -232,7 +258,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-08-17T03:27:40.000Z</updated>
+        <updated>2026-08-19T06:45:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VishalJ99/trail-image-edit-localization: Official reproducibility package for training-free image-edit localization from frozen DINO patch-token drift]]></title>
-        <id>https://github.com/VishalJ99/trail-image-edit-localization</id>
-        <link href="https://github.com/VishalJ99/trail-image-edit-localization"/>
-        <updated>2026-08-14T17:23:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51826812?u=0b33f3c92a11dd396a0ad0d77ac3216099813c0b&v=4" width="64" height="64" alt=""/><br/><div>Official reproducibility package for training-free image-edit localization from frozen DINO patch-token drift</div>]]></content>
-        <author>
-            <name>VishalJ99</name>
-            <email>VishalJ99@noreply.github.com</email>
-            <uri>https://github.com/VishalJ99</uri>
-        </author>
-        <published>2026-08-09T06:40:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
-        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-08-17T12:41:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2026-03-16T10:28:22.000Z</published>
     </entry>
 </feed>
