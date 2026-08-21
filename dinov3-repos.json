@@ -6,14 +6,80 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36101458?u=89c01ab98fc2c99180f055cc27b8441af61e974f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MVAA 2026 challenge submission: source, environment and a pure-PyTorch replacement for the CUDA Gaussian/Hessian filter bank (CT, TEE and endoscopic video segmentation)</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/qimaqi/dinov3_downstream",
+            "title": "qimaqi/dinov3_downstream",
+            "date_modified": "2026-08-20T22:12:07.000Z",
+            "date_published": "2026-08-06T16:51:37.000Z",
+            "author": {
+                "name": "qimaqi",
+                "url": "https://github.com/qimaqi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222083408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adversarial robustness study of DINOv3-based deepfake detection: per-sample PGD and universal perturbation attacks on self-supervised feature space</div>",
+            "url": "https://github.com/417steven/deepfake-adversarial-attack",
+            "title": "417steven/deepfake-adversarial-attack: Adversarial robustness study of DINOv3-based deepfake detection: per-sample PGD and universal perturbation attacks on self-supervised feature space",
+            "date_modified": "2026-08-20T19:25:19.000Z",
+            "date_published": "2026-08-20T19:21:02.000Z",
+            "author": {
+                "name": "417steven",
+                "url": "https://github.com/417steven"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113265581?u=1b4bd00a0d442320033bfea738b6d787cd38e8e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Switch the backbone of mask2former to DINOv3 for instance segmentation</div>",
+            "url": "https://github.com/Carti-97/DINOv3-Mask2former",
+            "title": "Carti-97/DINOv3-Mask2former: Switch the backbone of mask2former to DINOv3 for instance segmentation",
+            "date_modified": "2026-08-20T11:39:49.000Z",
+            "date_published": "2025-09-10T02:04:20.000Z",
+            "author": {
+                "name": "Carti-97",
+                "url": "https://github.com/Carti-97"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82047394?u=9dc8b24df7bcff14ea55aad3da889378614cbd7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering</div>",
+            "url": "https://github.com/sn1887/rfdetr-dinov3-defect-clustering-plugin",
+            "title": "sn1887/rfdetr-dinov3-defect-clustering-plugin: Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering",
+            "date_modified": "2026-08-20T10:20:23.000Z",
+            "date_published": "2026-07-31T13:56:18.000Z",
+            "author": {
+                "name": "sn1887",
+                "url": "https://github.com/sn1887"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>",
+            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
+            "title": "Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation",
+            "date_modified": "2026-08-20T12:34:08.000Z",
+            "date_published": "2026-03-16T10:28:22.000Z",
+            "author": {
+                "name": "Intellindust-AI-Lab",
+                "url": "https://github.com/Intellindust-AI-Lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36101458?u=89c01ab98fc2c99180f055cc27b8441af61e974f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MVAA 2026 challenge submission: source, environment and reproduction notes for the CT, TEE and endoscopic video mitral valve segmentation systems</div>",
             "url": "https://github.com/BraveDistribution/mvaa_challenge_public",
-            "title": "BraveDistribution/mvaa_challenge_public: MVAA 2026 challenge submission: source, environment and a pure-PyTorch replacement for the CUDA Gaussian/Hessian filter bank (CT, TEE and endoscopic video segmentation)",
-            "date_modified": "2026-08-19T20:58:18.000Z",
-            "date_published": "2026-08-19T20:56:33.000Z",
+            "title": "BraveDistribution/mvaa_challenge_public: MVAA 2026 challenge submission: source, environment and reproduction notes for the CT, TEE and endoscopic video mitral valve segmentation systems",
+            "date_modified": "2026-08-20T06:59:28.000Z",
+            "date_published": "2026-08-20T06:57:28.000Z",
             "author": {
                 "name": "BraveDistribution",
                 "url": "https://github.com/BraveDistribution"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/baiding72/dinov3",
+            "title": "baiding72/dinov3",
+            "date_modified": "2026-08-20T02:18:33.000Z",
+            "date_published": "2026-08-17T02:46:56.000Z",
+            "author": {
+                "name": "baiding72",
+                "url": "https://github.com/baiding72"
             }
         },
         {
@@ -25,17 +91,6 @@
             "author": {
                 "name": "sebspel",
                 "url": "https://github.com/sebspel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/baiding72/dinov3",
-            "title": "baiding72/dinov3",
-            "date_modified": "2026-08-19T06:34:04.000Z",
-            "date_published": "2026-08-17T02:46:56.000Z",
-            "author": {
-                "name": "baiding72",
-                "url": "https://github.com/baiding72"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "Taxueovo",
                 "url": "https://github.com/Taxueovo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36752999?u=5f103a26d0dd3a7b00cdcf22199e5aee6f69de0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kshitijrajsharma/dinov3-hot",
-            "title": "kshitijrajsharma/dinov3-hot",
-            "date_modified": "2026-08-15T12:44:05.000Z",
-            "date_published": "2026-05-20T22:53:07.000Z",
-            "author": {
-                "name": "kshitijrajsharma",
-                "url": "https://github.com/kshitijrajsharma"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121808166?u=f9d9a7bd0cee62e64c1f49660f77384ffcfa2951&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Kamruzzamansust/DINOV3_Product_Search",
-            "title": "Kamruzzamansust/DINOV3_Product_Search",
-            "date_modified": "2026-08-15T08:03:12.000Z",
-            "date_published": "2026-08-15T07:44:44.000Z",
-            "author": {
-                "name": "Kamruzzamansust",
-                "url": "https://github.com/Kamruzzamansust"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180073581?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Yukidachi/DINOv3_0804",
-            "title": "Yukidachi/DINOv3_0804",
-            "date_modified": "2026-08-15T06:45:12.000Z",
-            "date_published": "2026-08-05T10:16:35.000Z",
-            "author": {
-                "name": "Yukidachi",
-                "url": "https://github.com/Yukidachi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>",
-            "url": "https://github.com/lionking0921/fursee",
-            "title": "lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.",
-            "date_modified": "2026-08-18T02:09:35.000Z",
-            "date_published": "2026-07-10T03:01:10.000Z",
-            "author": {
-                "name": "lionking0921",
-                "url": "https://github.com/lionking0921"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-08-19T06:45:29.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         }
     ]

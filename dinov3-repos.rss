@@ -2,23 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-20T01:14:56.118Z</updated>
+    <updated>2026-08-21T01:18:42.095Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[BraveDistribution/mvaa_challenge_public: MVAA 2026 challenge submission: source, environment and a pure-PyTorch replacement for the CUDA Gaussian/Hessian filter bank (CT, TEE and endoscopic video segmentation)]]></title>
+        <title type="html"><![CDATA[qimaqi/dinov3_downstream]]></title>
+        <id>https://github.com/qimaqi/dinov3_downstream</id>
+        <link href="https://github.com/qimaqi/dinov3_downstream"/>
+        <updated>2026-08-20T22:12:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>qimaqi</name>
+            <email>qimaqi@noreply.github.com</email>
+            <uri>https://github.com/qimaqi</uri>
+        </author>
+        <published>2026-08-06T16:51:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[417steven/deepfake-adversarial-attack: Adversarial robustness study of DINOv3-based deepfake detection: per-sample PGD and universal perturbation attacks on self-supervised feature space]]></title>
+        <id>https://github.com/417steven/deepfake-adversarial-attack</id>
+        <link href="https://github.com/417steven/deepfake-adversarial-attack"/>
+        <updated>2026-08-20T19:25:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222083408?v=4" width="64" height="64" alt=""/><br/><div>Adversarial robustness study of DINOv3-based deepfake detection: per-sample PGD and universal perturbation attacks on self-supervised feature space</div>]]></content>
+        <author>
+            <name>417steven</name>
+            <email>417steven@noreply.github.com</email>
+            <uri>https://github.com/417steven</uri>
+        </author>
+        <published>2026-08-20T19:21:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carti-97/DINOv3-Mask2former: Switch the backbone of mask2former to DINOv3 for instance segmentation]]></title>
+        <id>https://github.com/Carti-97/DINOv3-Mask2former</id>
+        <link href="https://github.com/Carti-97/DINOv3-Mask2former"/>
+        <updated>2026-08-20T11:39:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113265581?u=1b4bd00a0d442320033bfea738b6d787cd38e8e2&v=4" width="64" height="64" alt=""/><br/><div>Switch the backbone of mask2former to DINOv3 for instance segmentation</div>]]></content>
+        <author>
+            <name>Carti-97</name>
+            <email>Carti-97@noreply.github.com</email>
+            <uri>https://github.com/Carti-97</uri>
+        </author>
+        <published>2025-09-10T02:04:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sn1887/rfdetr-dinov3-defect-clustering-plugin: Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering]]></title>
+        <id>https://github.com/sn1887/rfdetr-dinov3-defect-clustering-plugin</id>
+        <link href="https://github.com/sn1887/rfdetr-dinov3-defect-clustering-plugin"/>
+        <updated>2026-08-20T10:20:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/82047394?u=9dc8b24df7bcff14ea55aad3da889378614cbd7c&v=4" width="64" height="64" alt=""/><br/><div>Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering</div>]]></content>
+        <author>
+            <name>sn1887</name>
+            <email>sn1887@noreply.github.com</email>
+            <uri>https://github.com/sn1887</uri>
+        </author>
+        <published>2026-07-31T13:56:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
+        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
+        <updated>2026-08-20T12:34:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2026-03-16T10:28:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BraveDistribution/mvaa_challenge_public: MVAA 2026 challenge submission: source, environment and reproduction notes for the CT, TEE and endoscopic video mitral valve segmentation systems]]></title>
         <id>https://github.com/BraveDistribution/mvaa_challenge_public</id>
         <link href="https://github.com/BraveDistribution/mvaa_challenge_public"/>
-        <updated>2026-08-19T20:58:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36101458?u=89c01ab98fc2c99180f055cc27b8441af61e974f&v=4" width="64" height="64" alt=""/><br/><div>MVAA 2026 challenge submission: source, environment and a pure-PyTorch replacement for the CUDA Gaussian/Hessian filter bank (CT, TEE and endoscopic video segmentation)</div>]]></content>
+        <updated>2026-08-20T06:59:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36101458?u=89c01ab98fc2c99180f055cc27b8441af61e974f&v=4" width="64" height="64" alt=""/><br/><div>MVAA 2026 challenge submission: source, environment and reproduction notes for the CT, TEE and endoscopic video mitral valve segmentation systems</div>]]></content>
         <author>
             <name>BraveDistribution</name>
             <email>BraveDistribution@noreply.github.com</email>
             <uri>https://github.com/BraveDistribution</uri>
         </author>
-        <published>2026-08-19T20:56:33.000Z</published>
+        <published>2026-08-20T06:57:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[baiding72/dinov3]]></title>
+        <id>https://github.com/baiding72/dinov3</id>
+        <link href="https://github.com/baiding72/dinov3"/>
+        <updated>2026-08-20T02:18:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>baiding72</name>
+            <email>baiding72@noreply.github.com</email>
+            <uri>https://github.com/baiding72</uri>
+        </author>
+        <published>2026-08-17T02:46:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.]]></title>
@@ -32,19 +110,6 @@
             <uri>https://github.com/sebspel</uri>
         </author>
         <published>2026-06-21T10:09:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[baiding72/dinov3]]></title>
-        <id>https://github.com/baiding72/dinov3</id>
-        <link href="https://github.com/baiding72/dinov3"/>
-        <updated>2026-08-19T06:34:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>baiding72</name>
-            <email>baiding72@noreply.github.com</email>
-            <uri>https://github.com/baiding72</uri>
-        </author>
-        <published>2026-08-17T02:46:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wqpw01/DINOv3: dinov3检索模型]]></title>
@@ -201,70 +266,5 @@
             <uri>https://github.com/Taxueovo</uri>
         </author>
         <published>2026-08-15T02:16:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kshitijrajsharma/dinov3-hot]]></title>
-        <id>https://github.com/kshitijrajsharma/dinov3-hot</id>
-        <link href="https://github.com/kshitijrajsharma/dinov3-hot"/>
-        <updated>2026-08-15T12:44:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36752999?u=5f103a26d0dd3a7b00cdcf22199e5aee6f69de0b&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>kshitijrajsharma</name>
-            <email>kshitijrajsharma@noreply.github.com</email>
-            <uri>https://github.com/kshitijrajsharma</uri>
-        </author>
-        <published>2026-05-20T22:53:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamruzzamansust/DINOV3_Product_Search]]></title>
-        <id>https://github.com/Kamruzzamansust/DINOV3_Product_Search</id>
-        <link href="https://github.com/Kamruzzamansust/DINOV3_Product_Search"/>
-        <updated>2026-08-15T08:03:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121808166?u=f9d9a7bd0cee62e64c1f49660f77384ffcfa2951&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Kamruzzamansust</name>
-            <email>Kamruzzamansust@noreply.github.com</email>
-            <uri>https://github.com/Kamruzzamansust</uri>
-        </author>
-        <published>2026-08-15T07:44:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yukidachi/DINOv3_0804]]></title>
-        <id>https://github.com/Yukidachi/DINOv3_0804</id>
-        <link href="https://github.com/Yukidachi/DINOv3_0804"/>
-        <updated>2026-08-15T06:45:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180073581?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Yukidachi</name>
-            <email>Yukidachi@noreply.github.com</email>
-            <uri>https://github.com/Yukidachi</uri>
-        </author>
-        <published>2026-08-05T10:16:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lionking0921/fursee: Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.]]></title>
-        <id>https://github.com/lionking0921/fursee</id>
-        <link href="https://github.com/lionking0921/fursee"/>
-        <updated>2026-08-18T02:09:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111115936?u=97294a942c0b2c2b4ecd1ad561d4cb7ee90a2cdc&v=4" width="64" height="64" alt=""/><br/><div>Fursee is a three-stage pipeline for fursuit identity retrieval and clustering. It utilizes YOLO for detection, ArcFace-optimized DINOv3 for embeddings, and DBSCAN for unsupervised grouping. Outperforms GPT-5.5, Claude Opus 4.8, and Qwen on fursuit benchmarks.</div>]]></content>
-        <author>
-            <name>lionking0921</name>
-            <email>lionking0921@noreply.github.com</email>
-            <uri>https://github.com/lionking0921</uri>
-        </author>
-        <published>2026-07-10T03:01:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-08-19T06:45:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
 </feed>
