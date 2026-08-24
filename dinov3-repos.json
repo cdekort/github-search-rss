@@ -6,6 +6,39 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=c66474cbc8c270104e10a26452b847bafaf8b28c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
+            "url": "https://github.com/jaychempan/V2-SAM",
+            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
+            "date_modified": "2026-08-23T18:46:54.000Z",
+            "date_published": "2025-12-10T14:01:47.000Z",
+            "author": {
+                "name": "jaychempan",
+                "url": "https://github.com/jaychempan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Interactive DINOv3 tool for patch-level cosine similarity visualization.</div>",
+            "url": "https://github.com/devMuniz02/DINOv3-Interactive-Patch-Cosine-Similarity",
+            "title": "devMuniz02/DINOv3-Interactive-Patch-Cosine-Similarity: Interactive DINOv3 tool for patch-level cosine similarity visualization.",
+            "date_modified": "2026-08-23T17:09:06.000Z",
+            "date_published": "2025-08-18T05:31:18.000Z",
+            "author": {
+                "name": "devMuniz02",
+                "url": "https://github.com/devMuniz02"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228217458?u=29f78df8bb8b7c296ffe69524e7837ee2c8c3d1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🥉 Bronze (367/3805) — CSIRO Image2Biomass Prediction: SigLIP + DINOv3 ensemble with biological mass-balance constraints</div>",
+            "url": "https://github.com/kiyomiya-k/csiro-image2biomass",
+            "title": "kiyomiya-k/csiro-image2biomass: 🥉 Bronze (367/3805) — CSIRO Image2Biomass Prediction: SigLIP + DINOv3 ensemble with biological mass-balance constraints",
+            "date_modified": "2026-08-23T14:36:18.000Z",
+            "date_published": "2026-08-23T14:07:44.000Z",
+            "author": {
+                "name": "kiyomiya-k",
+                "url": "https://github.com/kiyomiya-k"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201032722?u=04f9645b07a6cdf5816d108c27ad8eff55ea1556&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/A1C1NY/dinoV3_ToothVLM",
             "title": "A1C1NY/dinoV3_ToothVLM",
@@ -185,44 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113265581?u=1b4bd00a0d442320033bfea738b6d787cd38e8e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Switch the backbone of mask2former to DINOv3 for instance segmentation</div>",
             "url": "https://github.com/Carti-97/DINOv3-Mask2former",
             "title": "Carti-97/DINOv3-Mask2former: Switch the backbone of mask2former to DINOv3 for instance segmentation",
-            "date_modified": "2026-08-20T11:39:49.000Z",
+            "date_modified": "2026-08-23T14:42:12.000Z",
             "date_published": "2025-09-10T02:04:20.000Z",
             "author": {
                 "name": "Carti-97",
                 "url": "https://github.com/Carti-97"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82047394?u=9dc8b24df7bcff14ea55aad3da889378614cbd7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering</div>",
-            "url": "https://github.com/sn1887/rfdetr-dinov3-defect-clustering-plugin",
-            "title": "sn1887/rfdetr-dinov3-defect-clustering-plugin: Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering",
-            "date_modified": "2026-08-20T10:20:23.000Z",
-            "date_published": "2026-07-31T13:56:18.000Z",
-            "author": {
-                "name": "sn1887",
-                "url": "https://github.com/sn1887"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>",
-            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
-            "title": "Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation",
-            "date_modified": "2026-08-23T00:26:04.000Z",
-            "date_published": "2026-03-16T10:28:22.000Z",
-            "author": {
-                "name": "Intellindust-AI-Lab",
-                "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/baiding72/dinov3",
-            "title": "baiding72/dinov3",
-            "date_modified": "2026-08-20T02:18:33.000Z",
-            "date_published": "2026-08-17T02:46:56.000Z",
-            "author": {
-                "name": "baiding72",
-                "url": "https://github.com/baiding72"
             }
         }
     ]

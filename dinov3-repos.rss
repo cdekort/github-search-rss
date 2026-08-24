@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-23T01:20:53.794Z</updated>
+    <updated>2026-08-24T01:18:44.073Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
+        <id>https://github.com/jaychempan/V2-SAM</id>
+        <link href="https://github.com/jaychempan/V2-SAM"/>
+        <updated>2026-08-23T18:46:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74408955?u=c66474cbc8c270104e10a26452b847bafaf8b28c&v=4" width="64" height="64" alt=""/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>]]></content>
+        <author>
+            <name>jaychempan</name>
+            <email>jaychempan@noreply.github.com</email>
+            <uri>https://github.com/jaychempan</uri>
+        </author>
+        <published>2025-12-10T14:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[devMuniz02/DINOv3-Interactive-Patch-Cosine-Similarity: Interactive DINOv3 tool for patch-level cosine similarity visualization.]]></title>
+        <id>https://github.com/devMuniz02/DINOv3-Interactive-Patch-Cosine-Similarity</id>
+        <link href="https://github.com/devMuniz02/DINOv3-Interactive-Patch-Cosine-Similarity"/>
+        <updated>2026-08-23T17:09:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4" width="64" height="64" alt=""/><br/><div>Interactive DINOv3 tool for patch-level cosine similarity visualization.</div>]]></content>
+        <author>
+            <name>devMuniz02</name>
+            <email>devMuniz02@noreply.github.com</email>
+            <uri>https://github.com/devMuniz02</uri>
+        </author>
+        <published>2025-08-18T05:31:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kiyomiya-k/csiro-image2biomass: 🥉 Bronze (367/3805) — CSIRO Image2Biomass Prediction: SigLIP + DINOv3 ensemble with biological mass-balance constraints]]></title>
+        <id>https://github.com/kiyomiya-k/csiro-image2biomass</id>
+        <link href="https://github.com/kiyomiya-k/csiro-image2biomass"/>
+        <updated>2026-08-23T14:36:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/228217458?u=29f78df8bb8b7c296ffe69524e7837ee2c8c3d1f&v=4" width="64" height="64" alt=""/><br/><div>🥉 Bronze (367/3805) — CSIRO Image2Biomass Prediction: SigLIP + DINOv3 ensemble with biological mass-balance constraints</div>]]></content>
+        <author>
+            <name>kiyomiya-k</name>
+            <email>kiyomiya-k@noreply.github.com</email>
+            <uri>https://github.com/kiyomiya-k</uri>
+        </author>
+        <published>2026-08-23T14:07:44.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A1C1NY/dinoV3_ToothVLM]]></title>
         <id>https://github.com/A1C1NY/dinoV3_ToothVLM</id>
@@ -219,7 +258,7 @@
         <title type="html"><![CDATA[Carti-97/DINOv3-Mask2former: Switch the backbone of mask2former to DINOv3 for instance segmentation]]></title>
         <id>https://github.com/Carti-97/DINOv3-Mask2former</id>
         <link href="https://github.com/Carti-97/DINOv3-Mask2former"/>
-        <updated>2026-08-20T11:39:49.000Z</updated>
+        <updated>2026-08-23T14:42:12.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113265581?u=1b4bd00a0d442320033bfea738b6d787cd38e8e2&v=4" width="64" height="64" alt=""/><br/><div>Switch the backbone of mask2former to DINOv3 for instance segmentation</div>]]></content>
         <author>
             <name>Carti-97</name>
@@ -227,44 +266,5 @@
             <uri>https://github.com/Carti-97</uri>
         </author>
         <published>2025-09-10T02:04:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sn1887/rfdetr-dinov3-defect-clustering-plugin: Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering]]></title>
-        <id>https://github.com/sn1887/rfdetr-dinov3-defect-clustering-plugin</id>
-        <link href="https://github.com/sn1887/rfdetr-dinov3-defect-clustering-plugin"/>
-        <updated>2026-08-20T10:20:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/82047394?u=9dc8b24df7bcff14ea55aad3da889378614cbd7c&v=4" width="64" height="64" alt=""/><br/><div>Dataiku DSS plugin for RF-DETR and DINOv3 defect-instance clustering</div>]]></content>
-        <author>
-            <name>sn1887</name>
-            <email>sn1887@noreply.github.com</email>
-            <uri>https://github.com/sn1887</uri>
-        </author>
-        <published>2026-07-31T13:56:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
-        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-08-23T00:26:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2026-03-16T10:28:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[baiding72/dinov3]]></title>
-        <id>https://github.com/baiding72/dinov3</id>
-        <link href="https://github.com/baiding72/dinov3"/>
-        <updated>2026-08-20T02:18:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>baiding72</name>
-            <email>baiding72@noreply.github.com</email>
-            <uri>https://github.com/baiding72</uri>
-        </author>
-        <published>2026-08-17T02:46:56.000Z</published>
     </entry>
 </feed>
