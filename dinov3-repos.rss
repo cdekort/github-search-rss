@@ -2,11 +2,167 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-24T01:18:44.073Z</updated>
+    <updated>2026-08-25T01:16:34.598Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[abdullahuseyinli-dot/human-activity-classification: Leakage-audited human activity classification across POLAR, V-COCO, and Okutama-Action, with external transfer, temporal modeling, and reproducible evidence.]]></title>
+        <id>https://github.com/abdullahuseyinli-dot/human-activity-classification</id>
+        <link href="https://github.com/abdullahuseyinli-dot/human-activity-classification"/>
+        <updated>2026-08-24T22:06:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/237654779?v=4" width="64" height="64" alt=""/><br/><div>Leakage-audited human activity classification across POLAR, V-COCO, and Okutama-Action, with external transfer, temporal modeling, and reproducible evidence.</div>]]></content>
+        <author>
+            <name>abdullahuseyinli-dot</name>
+            <email>abdullahuseyinli-dot@noreply.github.com</email>
+            <uri>https://github.com/abdullahuseyinli-dot</uri>
+        </author>
+        <published>2026-08-21T10:19:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning]]></title>
+        <id>https://github.com/higo522/LT-DETR</id>
+        <link href="https://github.com/higo522/LT-DETR"/>
+        <updated>2026-08-24T21:43:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/198003162?v=4" width="64" height="64" alt=""/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>]]></content>
+        <author>
+            <name>higo522</name>
+            <email>higo522@noreply.github.com</email>
+            <uri>https://github.com/higo522</uri>
+        </author>
+        <published>2026-06-11T18:16:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
+        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
+        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
+        <updated>2026-08-24T16:40:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JeonHaneul</name>
+            <email>JeonHaneul@noreply.github.com</email>
+            <uri>https://github.com/JeonHaneul</uri>
+        </author>
+        <published>2026-07-15T08:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-08-24T15:05:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[raza-neub/DINOv3-Object-Detection]]></title>
+        <id>https://github.com/raza-neub/DINOv3-Object-Detection</id>
+        <link href="https://github.com/raza-neub/DINOv3-Object-Detection"/>
+        <updated>2026-08-24T09:51:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/239283869?u=62708ef7d91cd87d11aeff19bfad0d0e839f887a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>raza-neub</name>
+            <email>raza-neub@noreply.github.com</email>
+            <uri>https://github.com/raza-neub</uri>
+        </author>
+        <published>2026-08-24T09:38:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InsightML/crop-counter: Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.]]></title>
+        <id>https://github.com/InsightML/crop-counter</id>
+        <link href="https://github.com/InsightML/crop-counter"/>
+        <updated>2026-08-24T14:10:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136749920?v=4" width="64" height="64" alt=""/><br/><div>Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.</div>]]></content>
+        <author>
+            <name>InsightML</name>
+            <email>InsightML@noreply.github.com</email>
+            <uri>https://github.com/InsightML</uri>
+        </author>
+        <published>2026-08-18T18:07:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[liuhb511/dinov3: dinov3 code]]></title>
+        <id>https://github.com/liuhb511/dinov3</id>
+        <link href="https://github.com/liuhb511/dinov3"/>
+        <updated>2026-08-24T08:53:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/162868687?v=4" width="64" height="64" alt=""/><br/><div>dinov3 code</div>]]></content>
+        <author>
+            <name>liuhb511</name>
+            <email>liuhb511@noreply.github.com</email>
+            <uri>https://github.com/liuhb511</uri>
+        </author>
+        <published>2026-08-24T08:17:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A1C1NY/tooth_VLM_APP: 口腔健康检测应用 - 集成 DINOv3 视觉识别、LLM 对话和知识库检索。]]></title>
+        <id>https://github.com/A1C1NY/tooth_VLM_APP</id>
+        <link href="https://github.com/A1C1NY/tooth_VLM_APP"/>
+        <updated>2026-08-24T08:51:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/201032722?u=04f9645b07a6cdf5816d108c27ad8eff55ea1556&v=4" width="64" height="64" alt=""/><br/><div>口腔健康检测应用 - 集成 DINOv3 视觉识别、LLM 对话和知识库检索。</div>]]></content>
+        <author>
+            <name>A1C1NY</name>
+            <email>A1C1NY@noreply.github.com</email>
+            <uri>https://github.com/A1C1NY</uri>
+        </author>
+        <published>2026-08-22T14:21:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[andrew-hanpc/NRD-Fusion: Patient-level PET/CT fusion with strict nested reliability distillation and DINOv3 MIL]]></title>
+        <id>https://github.com/andrew-hanpc/NRD-Fusion</id>
+        <link href="https://github.com/andrew-hanpc/NRD-Fusion"/>
+        <updated>2026-08-24T06:44:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/281166700?v=4" width="64" height="64" alt=""/><br/><div>Patient-level PET/CT fusion with strict nested reliability distillation and DINOv3 MIL</div>]]></content>
+        <author>
+            <name>andrew-hanpc</name>
+            <email>andrew-hanpc@noreply.github.com</email>
+            <uri>https://github.com/andrew-hanpc</uri>
+        </author>
+        <published>2026-08-24T05:55:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
+        <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
+        <updated>2026-08-24T06:10:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2025-09-19T02:27:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[baiding72/dinov3]]></title>
+        <id>https://github.com/baiding72/dinov3</id>
+        <link href="https://github.com/baiding72/dinov3"/>
+        <updated>2026-08-24T05:51:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>baiding72</name>
+            <email>baiding72@noreply.github.com</email>
+            <uri>https://github.com/baiding72</uri>
+        </author>
+        <published>2026-08-17T02:46:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
+        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
+        <updated>2026-08-24T20:16:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2026-03-16T10:28:22.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”]]></title>
         <id>https://github.com/jaychempan/V2-SAM</id>
@@ -110,161 +266,5 @@
             <uri>https://github.com/wqpw01</uri>
         </author>
         <published>2026-08-01T03:03:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qimaqi/dinov3_downstream]]></title>
-        <id>https://github.com/qimaqi/dinov3_downstream</id>
-        <link href="https://github.com/qimaqi/dinov3_downstream"/>
-        <updated>2026-08-22T07:30:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>qimaqi</name>
-            <email>qimaqi@noreply.github.com</email>
-            <uri>https://github.com/qimaqi</uri>
-        </author>
-        <published>2026-08-06T16:51:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dubby1994/dinov3-demo]]></title>
-        <id>https://github.com/dubby1994/dinov3-demo</id>
-        <link href="https://github.com/dubby1994/dinov3-demo"/>
-        <updated>2026-08-22T06:33:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12145238?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>dubby1994</name>
-            <email>dubby1994@noreply.github.com</email>
-            <uri>https://github.com/dubby1994</uri>
-        </author>
-        <published>2026-08-22T06:33:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[piggestpig/Leaf-Fossil-Image-Reconstruction: Foreseeing the Invisible: Amodal Reconstruction of Leaf Fossil Images | 基于DINOv3的树叶化石图像重建项目，包含合成数据集、训练代码、权重、网页部署]]></title>
-        <id>https://github.com/piggestpig/Leaf-Fossil-Image-Reconstruction</id>
-        <link href="https://github.com/piggestpig/Leaf-Fossil-Image-Reconstruction"/>
-        <updated>2026-08-22T05:56:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69968293?v=4" width="64" height="64" alt=""/><br/><div>Foreseeing the Invisible: Amodal Reconstruction of Leaf Fossil Images | 基于DINOv3的树叶化石图像重建项目，包含合成数据集、训练代码、权重、网页部署</div>]]></content>
-        <author>
-            <name>piggestpig</name>
-            <email>piggestpig@noreply.github.com</email>
-            <uri>https://github.com/piggestpig</uri>
-        </author>
-        <published>2026-05-19T06:24:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[riseblyp/image_no_background: Background removal that stops pretending one segmenter is enough: unions alpha masks across multiple models, recovers missed regions by colour rule, then sharpens boundaries with DINOv3 + SAM.]]></title>
-        <id>https://github.com/riseblyp/image_no_background</id>
-        <link href="https://github.com/riseblyp/image_no_background"/>
-        <updated>2026-08-22T04:54:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68174746?v=4" width="64" height="64" alt=""/><br/><div>Background removal that stops pretending one segmenter is enough: unions alpha masks across multiple models, recovers missed regions by colour rule, then sharpens boundaries with DINOv3 + SAM.</div>]]></content>
-        <author>
-            <name>riseblyp</name>
-            <email>riseblyp@noreply.github.com</email>
-            <uri>https://github.com/riseblyp</uri>
-        </author>
-        <published>2026-08-22T03:57:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atika-Syeda/singlemouse_dinov3tcn]]></title>
-        <id>https://github.com/Atika-Syeda/singlemouse_dinov3tcn</id>
-        <link href="https://github.com/Atika-Syeda/singlemouse_dinov3tcn"/>
-        <updated>2026-08-21T21:27:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47366160?u=854a2ccdbe2c80a12cd4bf23859b84e728c0f7f3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Atika-Syeda</name>
-            <email>Atika-Syeda@noreply.github.com</email>
-            <uri>https://github.com/Atika-Syeda</uri>
-        </author>
-        <published>2026-06-29T16:40:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch]]></title>
-        <id>https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch</id>
-        <link href="https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch"/>
-        <updated>2026-08-21T18:13:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/304221568?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>HCMUS-VIR-Nhom8</name>
-            <email>HCMUS-VIR-Nhom8@noreply.github.com</email>
-            <uri>https://github.com/HCMUS-VIR-Nhom8</uri>
-        </author>
-        <published>2026-07-28T08:55:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-08-21T17:46:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BraveDistribution/mvaa_challenge_public: MVAA 2026 challenge submission: source, environment and reproduction notes for the CT, TEE and endoscopic video mitral valve segmentation systems]]></title>
-        <id>https://github.com/BraveDistribution/mvaa_challenge_public</id>
-        <link href="https://github.com/BraveDistribution/mvaa_challenge_public"/>
-        <updated>2026-08-21T12:35:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36101458?u=89c01ab98fc2c99180f055cc27b8441af61e974f&v=4" width="64" height="64" alt=""/><br/><div>MVAA 2026 challenge submission: source, environment and reproduction notes for the CT, TEE and endoscopic video mitral valve segmentation systems</div>]]></content>
-        <author>
-            <name>BraveDistribution</name>
-            <email>BraveDistribution@noreply.github.com</email>
-            <uri>https://github.com/BraveDistribution</uri>
-        </author>
-        <published>2026-08-20T06:57:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wilsia/csiro-biomass: Pipeline CSIRO Biomass: DINOv3/SigLIP training, inference, ensembling and Kaggle upload scripts.]]></title>
-        <id>https://github.com/Wilsia/csiro-biomass</id>
-        <link href="https://github.com/Wilsia/csiro-biomass"/>
-        <updated>2026-08-21T12:01:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/189549570?v=4" width="64" height="64" alt=""/><br/><div>Pipeline CSIRO Biomass: DINOv3/SigLIP training, inference, ensembling and Kaggle upload scripts.</div>]]></content>
-        <author>
-            <name>Wilsia</name>
-            <email>Wilsia@noreply.github.com</email>
-            <uri>https://github.com/Wilsia</uri>
-        </author>
-        <published>2026-08-21T11:57:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[417steven/deepfake-adversarial-attack: Adversarial robustness study of DINOv3-based deepfake detection: per-sample PGD and universal perturbation attacks on self-supervised feature space]]></title>
-        <id>https://github.com/417steven/deepfake-adversarial-attack</id>
-        <link href="https://github.com/417steven/deepfake-adversarial-attack"/>
-        <updated>2026-08-21T10:34:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222083408?u=3c66539882be1f23e59ff9ecbe8e7f992e1f451c&v=4" width="64" height="64" alt=""/><br/><div>Adversarial robustness study of DINOv3-based deepfake detection: per-sample PGD and universal perturbation attacks on self-supervised feature space</div>]]></content>
-        <author>
-            <name>417steven</name>
-            <email>417steven@noreply.github.com</email>
-            <uri>https://github.com/417steven</uri>
-        </author>
-        <published>2026-08-20T19:21:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZJ-Song-Lab/SAR-RTDETR: Cross-modal knowledge distillation from frozen DINOv3 to RT-DETR for SAR ship detection (DRCP + A²TD-LoRA)]]></title>
-        <id>https://github.com/ZJ-Song-Lab/SAR-RTDETR</id>
-        <link href="https://github.com/ZJ-Song-Lab/SAR-RTDETR"/>
-        <updated>2026-08-21T03:04:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/91648253?u=77bd7d668fa1d943a1a8ae74f27887d08a2bd084&v=4" width="64" height="64" alt=""/><br/><div>Cross-modal knowledge distillation from frozen DINOv3 to RT-DETR for SAR ship detection (DRCP + A²TD-LoRA)</div>]]></content>
-        <author>
-            <name>ZJ-Song-Lab</name>
-            <email>ZJ-Song-Lab@noreply.github.com</email>
-            <uri>https://github.com/ZJ-Song-Lab</uri>
-        </author>
-        <published>2026-07-27T04:34:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carti-97/DINOv3-Mask2former: Switch the backbone of mask2former to DINOv3 for instance segmentation]]></title>
-        <id>https://github.com/Carti-97/DINOv3-Mask2former</id>
-        <link href="https://github.com/Carti-97/DINOv3-Mask2former"/>
-        <updated>2026-08-23T14:42:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113265581?u=1b4bd00a0d442320033bfea738b6d787cd38e8e2&v=4" width="64" height="64" alt=""/><br/><div>Switch the backbone of mask2former to DINOv3 for instance segmentation</div>]]></content>
-        <author>
-            <name>Carti-97</name>
-            <email>Carti-97@noreply.github.com</email>
-            <uri>https://github.com/Carti-97</uri>
-        </author>
-        <published>2025-09-10T02:04:20.000Z</published>
     </entry>
 </feed>
