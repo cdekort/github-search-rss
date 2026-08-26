@@ -6,6 +6,94 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
+            "url": "https://github.com/tomgrizz/ganaraska-live",
+            "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
+            "date_modified": "2026-08-26T01:09:10.000Z",
+            "date_published": "2026-08-25T14:33:27.000Z",
+            "author": {
+                "name": "tomgrizz",
+                "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26775780?u=ec3167d76b3ee90a7649abd880f3a4c6f3ef0429&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open-vocabulary scene graphs in your browser — YOLO detector + RelateAnything relation model (DINOv3 ViT-S+) running fully client-side with ONNX Runtime Web. Webcam, video or images; nothing is uploaded.</div>",
+            "url": "https://github.com/Maelic/RelateAnything",
+            "title": "Maelic/RelateAnything: Open-vocabulary scene graphs in your browser — YOLO detector + RelateAnything relation model (DINOv3 ViT-S+) running fully client-side with ONNX Runtime Web. Webcam, video or images; nothing is uploaded.",
+            "date_modified": "2026-08-25T22:24:18.000Z",
+            "date_published": "2026-08-25T22:13:07.000Z",
+            "author": {
+                "name": "Maelic",
+                "url": "https://github.com/Maelic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136863723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 in pure, dependency-free Python</div>",
+            "url": "https://github.com/RyanKim17920/microDINOv3",
+            "title": "RyanKim17920/microDINOv3: DINOv3 in pure, dependency-free Python",
+            "date_modified": "2026-08-25T20:37:45.000Z",
+            "date_published": "2026-03-11T23:25:35.000Z",
+            "author": {
+                "name": "RyanKim17920",
+                "url": "https://github.com/RyanKim17920"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>",
+            "url": "https://github.com/michalprusek/Exemplar",
+            "title": "michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.",
+            "date_modified": "2026-08-25T20:05:17.000Z",
+            "date_published": "2026-07-22T14:40:53.000Z",
+            "author": {
+                "name": "michalprusek",
+                "url": "https://github.com/michalprusek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198003162?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>",
+            "url": "https://github.com/higo522/LT-DETR",
+            "title": "higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning",
+            "date_modified": "2026-08-25T17:04:24.000Z",
+            "date_published": "2026-06-11T18:16:09.000Z",
+            "author": {
+                "name": "higo522",
+                "url": "https://github.com/higo522"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201032722?u=04f9645b07a6cdf5816d108c27ad8eff55ea1556&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>口腔健康检测应用 - 集成 DINOv3 视觉识别、LLM 对话和知识库检索。</div>",
+            "url": "https://github.com/A1C1NY/tooth_VLM_APP",
+            "title": "A1C1NY/tooth_VLM_APP: 口腔健康检测应用 - 集成 DINOv3 视觉识别、LLM 对话和知识库检索。",
+            "date_modified": "2026-08-25T06:21:05.000Z",
+            "date_published": "2026-08-22T14:21:32.000Z",
+            "author": {
+                "name": "A1C1NY",
+                "url": "https://github.com/A1C1NY"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
+            "url": "https://github.com/liuhb511/dinov3",
+            "title": "liuhb511/dinov3: dinov3 code",
+            "date_modified": "2026-08-25T05:35:04.000Z",
+            "date_published": "2026-08-24T08:17:00.000Z",
+            "author": {
+                "name": "liuhb511",
+                "url": "https://github.com/liuhb511"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
+            "title": "JeonHaneul/2D-PDM_DINOv3",
+            "date_modified": "2026-08-25T04:33:02.000Z",
+            "date_published": "2026-07-15T08:27:58.000Z",
+            "author": {
+                "name": "JeonHaneul",
+                "url": "https://github.com/JeonHaneul"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237654779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Leakage-audited human activity classification across POLAR, V-COCO, and Okutama-Action, with external transfer, temporal modeling, and reproducible evidence.</div>",
             "url": "https://github.com/abdullahuseyinli-dot/human-activity-classification",
             "title": "abdullahuseyinli-dot/human-activity-classification: Leakage-audited human activity classification across POLAR, V-COCO, and Okutama-Action, with external transfer, temporal modeling, and reproducible evidence.",
@@ -17,32 +105,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198003162?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning</div>",
-            "url": "https://github.com/higo522/LT-DETR",
-            "title": "higo522/LT-DETR: Reproduction of LT-DETR (RT-DETRv2 + DINOv3) from the public lightly-train repository from lightly. Used for the manuscript Automated Detection of Moose and Deer in Thermal Imagery using Unmanned Aerial Vehicles and Deep Learning",
-            "date_modified": "2026-08-24T21:43:53.000Z",
-            "date_published": "2026-06-11T18:16:09.000Z",
-            "author": {
-                "name": "higo522",
-                "url": "https://github.com/higo522"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
-            "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-08-24T16:40:56.000Z",
-            "date_published": "2026-07-15T08:27:58.000Z",
-            "author": {
-                "name": "JeonHaneul",
-                "url": "https://github.com/JeonHaneul"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-08-24T15:05:27.000Z",
+            "date_modified": "2026-08-25T19:15:48.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -53,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239283869?u=62708ef7d91cd87d11aeff19bfad0d0e839f887a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/raza-neub/DINOv3-Object-Detection",
             "title": "raza-neub/DINOv3-Object-Detection",
-            "date_modified": "2026-08-24T09:51:05.000Z",
+            "date_modified": "2026-08-25T05:01:03.000Z",
             "date_published": "2026-08-24T09:38:32.000Z",
             "author": {
                 "name": "raza-neub",
@@ -72,28 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
-            "url": "https://github.com/liuhb511/dinov3",
-            "title": "liuhb511/dinov3: dinov3 code",
-            "date_modified": "2026-08-24T08:53:14.000Z",
-            "date_published": "2026-08-24T08:17:00.000Z",
-            "author": {
-                "name": "liuhb511",
-                "url": "https://github.com/liuhb511"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201032722?u=04f9645b07a6cdf5816d108c27ad8eff55ea1556&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>口腔健康检测应用 - 集成 DINOv3 视觉识别、LLM 对话和知识库检索。</div>",
-            "url": "https://github.com/A1C1NY/tooth_VLM_APP",
-            "title": "A1C1NY/tooth_VLM_APP: 口腔健康检测应用 - 集成 DINOv3 视觉识别、LLM 对话和知识库检索。",
-            "date_modified": "2026-08-24T08:51:56.000Z",
-            "date_published": "2026-08-22T14:21:32.000Z",
-            "author": {
-                "name": "A1C1NY",
-                "url": "https://github.com/A1C1NY"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281166700?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Patient-level PET/CT fusion with strict nested reliability distillation and DINOv3 MIL</div>",
             "url": "https://github.com/andrew-hanpc/NRD-Fusion",
             "title": "andrew-hanpc/NRD-Fusion: Patient-level PET/CT fusion with strict nested reliability distillation and DINOv3 MIL",
@@ -108,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
             "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
             "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2026-08-24T06:10:09.000Z",
+            "date_modified": "2026-08-26T00:25:10.000Z",
             "date_published": "2025-09-19T02:27:19.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
@@ -130,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>",
             "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
             "title": "Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation",
-            "date_modified": "2026-08-24T20:16:36.000Z",
+            "date_modified": "2026-08-25T12:38:36.000Z",
             "date_published": "2026-03-16T10:28:22.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "A1C1NY",
                 "url": "https://github.com/A1C1NY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47831888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>",
-            "url": "https://github.com/Brezemil/_trainer_lightly",
-            "title": "Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers",
-            "date_modified": "2026-08-22T19:58:04.000Z",
-            "date_published": "2026-06-19T20:02:09.000Z",
-            "author": {
-                "name": "Brezemil",
-                "url": "https://github.com/Brezemil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178766753?u=4ca07d928af4333f4d356bb1ae116e61322df9da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rice leaf disease classification using DINOv3 ViT-Huge+ transfer learning</div>",
-            "url": "https://github.com/dontpanic-v/DINOv3-Rice-leaf-classifier",
-            "title": "dontpanic-v/DINOv3-Rice-leaf-classifier: Rice leaf disease classification using DINOv3 ViT-Huge+ transfer learning",
-            "date_modified": "2026-08-22T16:53:31.000Z",
-            "date_published": "2026-07-11T13:49:53.000Z",
-            "author": {
-                "name": "dontpanic-v",
-                "url": "https://github.com/dontpanic-v"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/210093302?u=8bf35d79e144e7a991b83b2ecb729b3fde387bd1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>benchmarking supervised (YOLOv10/v12/26, RF-DETR) and self-supervised (SimCLR, BYOL, DINOv3, I-JEPA) object detectors for outdoor waste classification across 10 waste categories.</div>",
-            "url": "https://github.com/khadija-Aarty/Synthetic-Outdoor-Waste-Detection",
-            "title": "khadija-Aarty/Synthetic-Outdoor-Waste-Detection: benchmarking supervised (YOLOv10/v12/26, RF-DETR) and self-supervised (SimCLR, BYOL, DINOv3, I-JEPA) object detectors for outdoor waste classification across 10 waste categories.",
-            "date_modified": "2026-08-22T10:02:41.000Z",
-            "date_published": "2026-08-22T08:24:53.000Z",
-            "author": {
-                "name": "khadija-Aarty",
-                "url": "https://github.com/khadija-Aarty"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204850142?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3检索模型</div>",
-            "url": "https://github.com/wqpw01/DINOv3",
-            "title": "wqpw01/DINOv3: dinov3检索模型",
-            "date_modified": "2026-08-22T08:50:14.000Z",
-            "date_published": "2026-08-01T03:03:22.000Z",
-            "author": {
-                "name": "wqpw01",
-                "url": "https://github.com/wqpw01"
             }
         }
     ]
