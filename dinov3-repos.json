@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304221568?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch",
+            "title": "HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch",
+            "date_modified": "2026-08-27T07:55:32.000Z",
+            "date_published": "2026-07-28T08:55:19.000Z",
+            "author": {
+                "name": "HCMUS-VIR-Nhom8",
+                "url": "https://github.com/HCMUS-VIR-Nhom8"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-08-26T01:09:10.000Z",
+            "date_modified": "2026-08-27T07:53:29.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,14 +28,113 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26775780?u=ec3167d76b3ee90a7649abd880f3a4c6f3ef0429&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open-vocabulary scene graphs in your browser — YOLO detector + RelateAnything relation model (DINOv3 ViT-S+) running fully client-side with ONNX Runtime Web. Webcam, video or images; nothing is uploaded.</div>",
-            "url": "https://github.com/Maelic/RelateAnything",
-            "title": "Maelic/RelateAnything: Open-vocabulary scene graphs in your browser — YOLO detector + RelateAnything relation model (DINOv3 ViT-S+) running fully client-side with ONNX Runtime Web. Webcam, video or images; nothing is uploaded.",
-            "date_modified": "2026-08-25T22:24:18.000Z",
-            "date_published": "2026-08-25T22:13:07.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/qimaqi/dinov3_downstream",
+            "title": "qimaqi/dinov3_downstream",
+            "date_modified": "2026-08-27T07:49:04.000Z",
+            "date_published": "2026-08-06T16:51:37.000Z",
             "author": {
-                "name": "Maelic",
-                "url": "https://github.com/Maelic"
+                "name": "qimaqi",
+                "url": "https://github.com/qimaqi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
+            "url": "https://github.com/liuhb511/dinov3",
+            "title": "liuhb511/dinov3: dinov3 code",
+            "date_modified": "2026-08-27T07:44:16.000Z",
+            "date_published": "2026-08-24T08:17:00.000Z",
+            "author": {
+                "name": "liuhb511",
+                "url": "https://github.com/liuhb511"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
+            "title": "JeonHaneul/2D-PDM_DINOv3",
+            "date_modified": "2026-08-27T06:47:22.000Z",
+            "date_published": "2026-07-15T08:27:58.000Z",
+            "author": {
+                "name": "JeonHaneul",
+                "url": "https://github.com/JeonHaneul"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>",
+            "url": "https://github.com/michalprusek/Exemplar",
+            "title": "michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.",
+            "date_modified": "2026-08-27T05:23:30.000Z",
+            "date_published": "2026-07-22T14:40:53.000Z",
+            "author": {
+                "name": "michalprusek",
+                "url": "https://github.com/michalprusek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/272757496?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOG-Bench: a Tiny-Object Generation benchmark on aerial imagery (AI-TOD-v2). Two scores: Detectability (Det-4) + Appearance (DINOv3-sat kNN).</div>",
+            "url": "https://github.com/wookiegen/tog-bench",
+            "title": "wookiegen/tog-bench: TOG-Bench: a Tiny-Object Generation benchmark on aerial imagery (AI-TOD-v2). Two scores: Detectability (Det-4) + Appearance (DINOv3-sat kNN).",
+            "date_modified": "2026-08-27T00:33:49.000Z",
+            "date_published": "2026-08-26T07:42:38.000Z",
+            "author": {
+                "name": "wookiegen",
+                "url": "https://github.com/wookiegen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50617366?u=c180ef6843b320ff4432dffede4a4c48f0913dba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-based semantic segmentation for skin, fabric, and background — PyTorch, Hugging Face, and TensorRT.</div>",
+            "url": "https://github.com/jamal-saeedi/PyraFuse",
+            "title": "jamal-saeedi/PyraFuse: DINOv3-based semantic segmentation for skin, fabric, and background — PyTorch, Hugging Face, and TensorRT.",
+            "date_modified": "2026-08-26T16:31:13.000Z",
+            "date_published": "2026-06-22T08:55:15.000Z",
+            "author": {
+                "name": "jamal-saeedi",
+                "url": "https://github.com/jamal-saeedi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136749920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.</div>",
+            "url": "https://github.com/InsightML/crop-counter",
+            "title": "InsightML/crop-counter: Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.",
+            "date_modified": "2026-08-26T14:01:00.000Z",
+            "date_published": "2026-08-18T18:07:16.000Z",
+            "author": {
+                "name": "InsightML",
+                "url": "https://github.com/InsightML"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239283869?u=62708ef7d91cd87d11aeff19bfad0d0e839f887a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/raza-neub/DINOv3-Object-Detection",
+            "title": "raza-neub/DINOv3-Object-Detection",
+            "date_modified": "2026-08-26T08:23:44.000Z",
+            "date_published": "2026-08-24T09:38:32.000Z",
+            "author": {
+                "name": "raza-neub",
+                "url": "https://github.com/raza-neub"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/224542710?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A high-precision plant phenotype segmentation framework based on DINOv3, featuring LoRA fine-tuning, frequency enhancement, and SSM decoding.</div>",
+            "url": "https://github.com/xuanpluspro/DINOv3-Plant-Segmentation",
+            "title": "xuanpluspro/DINOv3-Plant-Segmentation: A high-precision plant phenotype segmentation framework based on DINOv3, featuring LoRA fine-tuning, frequency enhancement, and SSM decoding.",
+            "date_modified": "2026-08-26T02:37:23.000Z",
+            "date_published": "2026-08-26T02:14:54.000Z",
+            "author": {
+                "name": "xuanpluspro",
+                "url": "https://github.com/xuanpluspro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/baiding72/dinov3",
+            "title": "baiding72/dinov3",
+            "date_modified": "2026-08-26T02:18:03.000Z",
+            "date_published": "2026-08-17T02:46:56.000Z",
+            "author": {
+                "name": "baiding72",
+                "url": "https://github.com/baiding72"
             }
         },
         {
@@ -36,17 +146,6 @@
             "author": {
                 "name": "RyanKim17920",
                 "url": "https://github.com/RyanKim17920"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>",
-            "url": "https://github.com/michalprusek/Exemplar",
-            "title": "michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.",
-            "date_modified": "2026-08-25T20:05:17.000Z",
-            "date_published": "2026-07-22T14:40:53.000Z",
-            "author": {
-                "name": "michalprusek",
-                "url": "https://github.com/michalprusek"
             }
         },
         {
@@ -72,28 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
-            "url": "https://github.com/liuhb511/dinov3",
-            "title": "liuhb511/dinov3: dinov3 code",
-            "date_modified": "2026-08-25T05:35:04.000Z",
-            "date_published": "2026-08-24T08:17:00.000Z",
-            "author": {
-                "name": "liuhb511",
-                "url": "https://github.com/liuhb511"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
-            "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-08-25T04:33:02.000Z",
-            "date_published": "2026-07-15T08:27:58.000Z",
-            "author": {
-                "name": "JeonHaneul",
-                "url": "https://github.com/JeonHaneul"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237654779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Leakage-audited human activity classification across POLAR, V-COCO, and Okutama-Action, with external transfer, temporal modeling, and reproducible evidence.</div>",
             "url": "https://github.com/abdullahuseyinli-dot/human-activity-classification",
             "title": "abdullahuseyinli-dot/human-activity-classification: Leakage-audited human activity classification across POLAR, V-COCO, and Okutama-Action, with external transfer, temporal modeling, and reproducible evidence.",
@@ -116,28 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239283869?u=62708ef7d91cd87d11aeff19bfad0d0e839f887a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/raza-neub/DINOv3-Object-Detection",
-            "title": "raza-neub/DINOv3-Object-Detection",
-            "date_modified": "2026-08-25T05:01:03.000Z",
-            "date_published": "2026-08-24T09:38:32.000Z",
-            "author": {
-                "name": "raza-neub",
-                "url": "https://github.com/raza-neub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136749920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.</div>",
-            "url": "https://github.com/InsightML/crop-counter",
-            "title": "InsightML/crop-counter: Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.",
-            "date_modified": "2026-08-24T14:10:23.000Z",
-            "date_published": "2026-08-18T18:07:16.000Z",
-            "author": {
-                "name": "InsightML",
-                "url": "https://github.com/InsightML"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281166700?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Patient-level PET/CT fusion with strict nested reliability distillation and DINOv3 MIL</div>",
             "url": "https://github.com/andrew-hanpc/NRD-Fusion",
             "title": "andrew-hanpc/NRD-Fusion: Patient-level PET/CT fusion with strict nested reliability distillation and DINOv3 MIL",
@@ -152,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
             "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
             "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2026-08-26T00:25:10.000Z",
+            "date_modified": "2026-08-27T00:40:49.000Z",
             "date_published": "2025-09-19T02:27:19.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
@@ -160,69 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/baiding72/dinov3",
-            "title": "baiding72/dinov3",
-            "date_modified": "2026-08-24T05:51:53.000Z",
-            "date_published": "2026-08-17T02:46:56.000Z",
-            "author": {
-                "name": "baiding72",
-                "url": "https://github.com/baiding72"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>",
             "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
             "title": "Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation",
-            "date_modified": "2026-08-25T12:38:36.000Z",
+            "date_modified": "2026-08-27T00:41:20.000Z",
             "date_published": "2026-03-16T10:28:22.000Z",
             "author": {
                 "name": "Intellindust-AI-Lab",
                 "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74408955?u=c66474cbc8c270104e10a26452b847bafaf8b28c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”</div>",
-            "url": "https://github.com/jaychempan/V2-SAM",
-            "title": "jaychempan/V2-SAM: [CVPR'26 Highlight] Official Code for “V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence”",
-            "date_modified": "2026-08-23T18:46:54.000Z",
-            "date_published": "2025-12-10T14:01:47.000Z",
-            "author": {
-                "name": "jaychempan",
-                "url": "https://github.com/jaychempan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118771029?u=955fe98be3158a661f72095cd7d65fa8bd4b1282&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Interactive DINOv3 tool for patch-level cosine similarity visualization.</div>",
-            "url": "https://github.com/devMuniz02/DINOv3-Interactive-Patch-Cosine-Similarity",
-            "title": "devMuniz02/DINOv3-Interactive-Patch-Cosine-Similarity: Interactive DINOv3 tool for patch-level cosine similarity visualization.",
-            "date_modified": "2026-08-23T17:09:06.000Z",
-            "date_published": "2025-08-18T05:31:18.000Z",
-            "author": {
-                "name": "devMuniz02",
-                "url": "https://github.com/devMuniz02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228217458?u=29f78df8bb8b7c296ffe69524e7837ee2c8c3d1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🥉 Bronze (367/3805) — CSIRO Image2Biomass Prediction: SigLIP + DINOv3 ensemble with biological mass-balance constraints</div>",
-            "url": "https://github.com/kiyomiya-k/csiro-image2biomass",
-            "title": "kiyomiya-k/csiro-image2biomass: 🥉 Bronze (367/3805) — CSIRO Image2Biomass Prediction: SigLIP + DINOv3 ensemble with biological mass-balance constraints",
-            "date_modified": "2026-08-23T14:36:18.000Z",
-            "date_published": "2026-08-23T14:07:44.000Z",
-            "author": {
-                "name": "kiyomiya-k",
-                "url": "https://github.com/kiyomiya-k"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201032722?u=04f9645b07a6cdf5816d108c27ad8eff55ea1556&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/A1C1NY/dinoV3_ToothVLM",
-            "title": "A1C1NY/dinoV3_ToothVLM",
-            "date_modified": "2026-08-23T00:12:38.000Z",
-            "date_published": "2026-04-04T12:24:24.000Z",
-            "author": {
-                "name": "A1C1NY",
-                "url": "https://github.com/A1C1NY"
             }
         }
     ]
