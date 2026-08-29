@@ -9,11 +9,55 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-08-28T08:07:27.000Z",
+            "date_modified": "2026-08-29T04:30:59.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143207559?u=2da7f517050f4eaf1a4d5d7e0fc2a693049405ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-Supervised Few-Shot Object Recognition</div>",
+            "url": "https://github.com/Zahin2470/ProtoVision",
+            "title": "Zahin2470/ProtoVision: Self-Supervised Few-Shot Object Recognition",
+            "date_modified": "2026-08-28T18:18:17.000Z",
+            "date_published": "2026-08-16T18:12:37.000Z",
+            "author": {
+                "name": "Zahin2470",
+                "url": "https://github.com/Zahin2470"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304221568?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch",
+            "title": "HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch",
+            "date_modified": "2026-08-28T16:37:36.000Z",
+            "date_published": "2026-07-28T08:55:19.000Z",
+            "author": {
+                "name": "HCMUS-VIR-Nhom8",
+                "url": "https://github.com/HCMUS-VIR-Nhom8"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>",
+            "url": "https://github.com/michalprusek/Exemplar",
+            "title": "michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.",
+            "date_modified": "2026-08-28T13:59:06.000Z",
+            "date_published": "2026-07-22T14:40:53.000Z",
+            "author": {
+                "name": "michalprusek",
+                "url": "https://github.com/michalprusek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46064313?u=0d1f289af88261498afd239bf7f1f5360fb81eeb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.</div>",
+            "url": "https://github.com/xujialiu/SnapOrbit",
+            "title": "xujialiu/SnapOrbit: Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.",
+            "date_modified": "2026-08-28T11:08:49.000Z",
+            "date_published": "2026-08-28T10:05:35.000Z",
+            "author": {
+                "name": "xujialiu",
+                "url": "https://github.com/xujialiu"
             }
         },
         {
@@ -61,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143207559?u=2da7f517050f4eaf1a4d5d7e0fc2a693049405ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-Supervised Few-Shot Object Recognition</div>",
-            "url": "https://github.com/Zahin2470/ProtoVision",
-            "title": "Zahin2470/ProtoVision: Self-Supervised Few-Shot Object Recognition",
-            "date_modified": "2026-08-28T03:42:24.000Z",
-            "date_published": "2026-08-16T18:12:37.000Z",
-            "author": {
-                "name": "Zahin2470",
-                "url": "https://github.com/Zahin2470"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/qimaqi/dinov3_downstream",
             "title": "qimaqi/dinov3_downstream",
@@ -80,17 +113,6 @@
             "author": {
                 "name": "qimaqi",
                 "url": "https://github.com/qimaqi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>",
-            "url": "https://github.com/michalprusek/Exemplar",
-            "title": "michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.",
-            "date_modified": "2026-08-27T18:37:48.000Z",
-            "date_published": "2026-07-22T14:40:53.000Z",
-            "author": {
-                "name": "michalprusek",
-                "url": "https://github.com/michalprusek"
             }
         },
         {
@@ -124,28 +146,6 @@
             "author": {
                 "name": "Brezemil",
                 "url": "https://github.com/Brezemil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46064313?u=0d1f289af88261498afd239bf7f1f5360fb81eeb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.</div>",
-            "url": "https://github.com/xujialiu/SnapOrbit",
-            "title": "xujialiu/SnapOrbit: Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.",
-            "date_modified": "2026-08-27T08:27:10.000Z",
-            "date_published": "2026-06-23T10:23:26.000Z",
-            "author": {
-                "name": "xujialiu",
-                "url": "https://github.com/xujialiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304221568?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch",
-            "title": "HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch",
-            "date_modified": "2026-08-27T07:55:32.000Z",
-            "date_published": "2026-07-28T08:55:19.000Z",
-            "author": {
-                "name": "HCMUS-VIR-Nhom8",
-                "url": "https://github.com/HCMUS-VIR-Nhom8"
             }
         },
         {

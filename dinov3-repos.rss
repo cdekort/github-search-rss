@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-28T09:59:34.573Z</updated>
+    <updated>2026-08-29T05:58:21.446Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-08-28T08:07:27.000Z</updated>
+        <updated>2026-08-29T04:30:59.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -19,6 +19,58 @@
             <uri>https://github.com/tomgrizz</uri>
         </author>
         <published>2026-08-25T14:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zahin2470/ProtoVision: Self-Supervised Few-Shot Object Recognition]]></title>
+        <id>https://github.com/Zahin2470/ProtoVision</id>
+        <link href="https://github.com/Zahin2470/ProtoVision"/>
+        <updated>2026-08-28T18:18:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143207559?u=2da7f517050f4eaf1a4d5d7e0fc2a693049405ec&v=4" width="64" height="64" alt=""/><br/><div>Self-Supervised Few-Shot Object Recognition</div>]]></content>
+        <author>
+            <name>Zahin2470</name>
+            <email>Zahin2470@noreply.github.com</email>
+            <uri>https://github.com/Zahin2470</uri>
+        </author>
+        <published>2026-08-16T18:12:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch]]></title>
+        <id>https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch</id>
+        <link href="https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch"/>
+        <updated>2026-08-28T16:37:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/304221568?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>HCMUS-VIR-Nhom8</name>
+            <email>HCMUS-VIR-Nhom8@noreply.github.com</email>
+            <uri>https://github.com/HCMUS-VIR-Nhom8</uri>
+        </author>
+        <published>2026-07-28T08:55:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.]]></title>
+        <id>https://github.com/michalprusek/Exemplar</id>
+        <link href="https://github.com/michalprusek/Exemplar"/>
+        <updated>2026-08-28T13:59:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4" width="64" height="64" alt=""/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>]]></content>
+        <author>
+            <name>michalprusek</name>
+            <email>michalprusek@noreply.github.com</email>
+            <uri>https://github.com/michalprusek</uri>
+        </author>
+        <published>2026-07-22T14:40:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xujialiu/SnapOrbit: Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.]]></title>
+        <id>https://github.com/xujialiu/SnapOrbit</id>
+        <link href="https://github.com/xujialiu/SnapOrbit"/>
+        <updated>2026-08-28T11:08:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46064313?u=0d1f289af88261498afd239bf7f1f5360fb81eeb&v=4" width="64" height="64" alt=""/><br/><div>Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.</div>]]></content>
+        <author>
+            <name>xujialiu</name>
+            <email>xujialiu@noreply.github.com</email>
+            <uri>https://github.com/xujialiu</uri>
+        </author>
+        <published>2026-08-28T10:05:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yukidachi/DINOv3_0804]]></title>
@@ -73,19 +125,6 @@
         <published>2026-08-24T08:17:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zahin2470/ProtoVision: Self-Supervised Few-Shot Object Recognition]]></title>
-        <id>https://github.com/Zahin2470/ProtoVision</id>
-        <link href="https://github.com/Zahin2470/ProtoVision"/>
-        <updated>2026-08-28T03:42:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143207559?u=2da7f517050f4eaf1a4d5d7e0fc2a693049405ec&v=4" width="64" height="64" alt=""/><br/><div>Self-Supervised Few-Shot Object Recognition</div>]]></content>
-        <author>
-            <name>Zahin2470</name>
-            <email>Zahin2470@noreply.github.com</email>
-            <uri>https://github.com/Zahin2470</uri>
-        </author>
-        <published>2026-08-16T18:12:37.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[qimaqi/dinov3_downstream]]></title>
         <id>https://github.com/qimaqi/dinov3_downstream</id>
         <link href="https://github.com/qimaqi/dinov3_downstream"/>
@@ -97,19 +136,6 @@
             <uri>https://github.com/qimaqi</uri>
         </author>
         <published>2026-08-06T16:51:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.]]></title>
-        <id>https://github.com/michalprusek/Exemplar</id>
-        <link href="https://github.com/michalprusek/Exemplar"/>
-        <updated>2026-08-27T18:37:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4" width="64" height="64" alt=""/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>]]></content>
-        <author>
-            <name>michalprusek</name>
-            <email>michalprusek@noreply.github.com</email>
-            <uri>https://github.com/michalprusek</uri>
-        </author>
-        <published>2026-07-22T14:40:53.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[InsightML/crop-counter: Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.]]></title>
@@ -149,32 +175,6 @@
             <uri>https://github.com/Brezemil</uri>
         </author>
         <published>2026-06-19T20:02:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xujialiu/SnapOrbit: Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.]]></title>
-        <id>https://github.com/xujialiu/SnapOrbit</id>
-        <link href="https://github.com/xujialiu/SnapOrbit"/>
-        <updated>2026-08-27T08:27:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46064313?u=0d1f289af88261498afd239bf7f1f5360fb81eeb&v=4" width="64" height="64" alt=""/><br/><div>Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.</div>]]></content>
-        <author>
-            <name>xujialiu</name>
-            <email>xujialiu@noreply.github.com</email>
-            <uri>https://github.com/xujialiu</uri>
-        </author>
-        <published>2026-06-23T10:23:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch]]></title>
-        <id>https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch</id>
-        <link href="https://github.com/HCMUS-VIR-Nhom8/DINOv3-FAISS-HNSW-SOP-VisualProductSearch"/>
-        <updated>2026-08-27T07:55:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/304221568?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>HCMUS-VIR-Nhom8</name>
-            <email>HCMUS-VIR-Nhom8@noreply.github.com</email>
-            <uri>https://github.com/HCMUS-VIR-Nhom8</uri>
-        </author>
-        <published>2026-07-28T08:55:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wookiegen/tog-bench: TOG-Bench: a Tiny-Object Generation benchmark on aerial imagery (AI-TOD-v2). Two scores: Detectability (Det-4) + Appearance (DINOv3-sat kNN).]]></title>
