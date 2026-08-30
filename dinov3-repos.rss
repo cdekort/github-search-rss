@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-29T05:58:21.446Z</updated>
+    <updated>2026-08-30T04:03:39.259Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[qimaqi/dinov3_downstream]]></title>
+        <id>https://github.com/qimaqi/dinov3_downstream</id>
+        <link href="https://github.com/qimaqi/dinov3_downstream"/>
+        <updated>2026-08-29T23:10:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>qimaqi</name>
+            <email>qimaqi@noreply.github.com</email>
+            <uri>https://github.com/qimaqi</uri>
+        </author>
+        <published>2026-08-06T16:51:37.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-08-29T04:30:59.000Z</updated>
+        <updated>2026-08-29T18:50:20.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -19,6 +32,84 @@
             <uri>https://github.com/tomgrizz</uri>
         </author>
         <published>2026-08-25T14:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZHider/videopref: 个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头]]></title>
+        <id>https://github.com/ZHider/videopref</id>
+        <link href="https://github.com/ZHider/videopref"/>
+        <updated>2026-08-29T17:53:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19692893?u=a22a073615d62d35ef7217ff0c03a4dab79d488f&v=4" width="64" height="64" alt=""/><br/><div>个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头</div>]]></content>
+        <author>
+            <name>ZHider</name>
+            <email>ZHider@noreply.github.com</email>
+            <uri>https://github.com/ZHider</uri>
+        </author>
+        <published>2026-08-29T17:11:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[joeroche/doplgrep: Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.]]></title>
+        <id>https://github.com/joeroche/doplgrep</id>
+        <link href="https://github.com/joeroche/doplgrep"/>
+        <updated>2026-08-29T17:46:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/152044820?v=4" width="64" height="64" alt=""/><br/><div>Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.</div>]]></content>
+        <author>
+            <name>joeroche</name>
+            <email>joeroche@noreply.github.com</email>
+            <uri>https://github.com/joeroche</uri>
+        </author>
+        <published>2026-02-06T23:36:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alain4221/visualsearch: Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX]]></title>
+        <id>https://github.com/alain4221/visualsearch</id>
+        <link href="https://github.com/alain4221/visualsearch"/>
+        <updated>2026-08-29T16:24:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/307270473?v=4" width="64" height="64" alt=""/><br/><div>Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX</div>]]></content>
+        <author>
+            <name>alain4221</name>
+            <email>alain4221@noreply.github.com</email>
+            <uri>https://github.com/alain4221</uri>
+        </author>
+        <published>2026-07-30T07:04:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[upashanadutta-maker/csiro-pasture-biomass: Computer vision pipeline for pasture biomass prediction using DINOv3 embeddings, Ridge regression, reproducible inference, Pytest, and GitHub Actions.]]></title>
+        <id>https://github.com/upashanadutta-maker/csiro-pasture-biomass</id>
+        <link href="https://github.com/upashanadutta-maker/csiro-pasture-biomass"/>
+        <updated>2026-08-29T08:33:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/112981832?u=cdc27f490c353df8bf6cb41e33a0900909181d20&v=4" width="64" height="64" alt=""/><br/><div>Computer vision pipeline for pasture biomass prediction using DINOv3 embeddings, Ridge regression, reproducible inference, Pytest, and GitHub Actions.</div>]]></content>
+        <author>
+            <name>upashanadutta-maker</name>
+            <email>upashanadutta-maker@noreply.github.com</email>
+            <uri>https://github.com/upashanadutta-maker</uri>
+        </author>
+        <published>2026-07-31T07:50:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.]]></title>
+        <id>https://github.com/michalprusek/Exemplar</id>
+        <link href="https://github.com/michalprusek/Exemplar"/>
+        <updated>2026-08-29T07:25:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4" width="64" height="64" alt=""/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>]]></content>
+        <author>
+            <name>michalprusek</name>
+            <email>michalprusek@noreply.github.com</email>
+            <uri>https://github.com/michalprusek</uri>
+        </author>
+        <published>2026-07-22T14:40:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[celien99/wxSurfaceDefect: DINOv3+Dinomaly 面向高分辨率工业表面、结构件与装配件的正常样本异常检测框架，解决泛化性不足问题]]></title>
+        <id>https://github.com/celien99/wxSurfaceDefect</id>
+        <link href="https://github.com/celien99/wxSurfaceDefect"/>
+        <updated>2026-08-29T07:31:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>DINOv3+Dinomaly 面向高分辨率工业表面、结构件与装配件的正常样本异常检测框架，解决泛化性不足问题</div>]]></content>
+        <author>
+            <name>celien99</name>
+            <email>celien99@noreply.github.com</email>
+            <uri>https://github.com/celien99</uri>
+        </author>
+        <published>2026-08-10T05:01:02.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zahin2470/ProtoVision: Self-Supervised Few-Shot Object Recognition]]></title>
@@ -47,19 +138,6 @@
         <published>2026-07-28T08:55:19.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.]]></title>
-        <id>https://github.com/michalprusek/Exemplar</id>
-        <link href="https://github.com/michalprusek/Exemplar"/>
-        <updated>2026-08-28T13:59:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4" width="64" height="64" alt=""/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>]]></content>
-        <author>
-            <name>michalprusek</name>
-            <email>michalprusek@noreply.github.com</email>
-            <uri>https://github.com/michalprusek</uri>
-        </author>
-        <published>2026-07-22T14:40:53.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[xujialiu/SnapOrbit: Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.]]></title>
         <id>https://github.com/xujialiu/SnapOrbit</id>
         <link href="https://github.com/xujialiu/SnapOrbit"/>
@@ -86,19 +164,6 @@
         <published>2026-08-05T10:16:35.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[celien99/wxSurfaceDefect: DINOv3+Dinomaly 面向高分辨率工业表面、结构件与装配件的正常样本异常检测框架，解决泛化性不足问题]]></title>
-        <id>https://github.com/celien99/wxSurfaceDefect</id>
-        <link href="https://github.com/celien99/wxSurfaceDefect"/>
-        <updated>2026-08-28T06:00:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4" width="64" height="64" alt=""/><br/><div>DINOv3+Dinomaly 面向高分辨率工业表面、结构件与装配件的正常样本异常检测框架，解决泛化性不足问题</div>]]></content>
-        <author>
-            <name>celien99</name>
-            <email>celien99@noreply.github.com</email>
-            <uri>https://github.com/celien99</uri>
-        </author>
-        <published>2026-08-10T05:01:02.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
         <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
         <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
@@ -123,19 +188,6 @@
             <uri>https://github.com/liuhb511</uri>
         </author>
         <published>2026-08-24T08:17:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qimaqi/dinov3_downstream]]></title>
-        <id>https://github.com/qimaqi/dinov3_downstream</id>
-        <link href="https://github.com/qimaqi/dinov3_downstream"/>
-        <updated>2026-08-27T22:28:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>qimaqi</name>
-            <email>qimaqi@noreply.github.com</email>
-            <uri>https://github.com/qimaqi</uri>
-        </author>
-        <published>2026-08-06T16:51:37.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[InsightML/crop-counter: Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.]]></title>
@@ -214,57 +266,5 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[raza-neub/DINOv3-Object-Detection]]></title>
-        <id>https://github.com/raza-neub/DINOv3-Object-Detection</id>
-        <link href="https://github.com/raza-neub/DINOv3-Object-Detection"/>
-        <updated>2026-08-26T08:23:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/239283869?u=62708ef7d91cd87d11aeff19bfad0d0e839f887a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>raza-neub</name>
-            <email>raza-neub@noreply.github.com</email>
-            <uri>https://github.com/raza-neub</uri>
-        </author>
-        <published>2026-08-24T09:38:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xuanpluspro/DINOv3-Plant-Segmentation: A high-precision plant phenotype segmentation framework based on DINOv3, featuring LoRA fine-tuning, frequency enhancement, and SSM decoding.]]></title>
-        <id>https://github.com/xuanpluspro/DINOv3-Plant-Segmentation</id>
-        <link href="https://github.com/xuanpluspro/DINOv3-Plant-Segmentation"/>
-        <updated>2026-08-26T02:37:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/224542710?v=4" width="64" height="64" alt=""/><br/><div>A high-precision plant phenotype segmentation framework based on DINOv3, featuring LoRA fine-tuning, frequency enhancement, and SSM decoding.</div>]]></content>
-        <author>
-            <name>xuanpluspro</name>
-            <email>xuanpluspro@noreply.github.com</email>
-            <uri>https://github.com/xuanpluspro</uri>
-        </author>
-        <published>2026-08-26T02:14:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[baiding72/dinov3]]></title>
-        <id>https://github.com/baiding72/dinov3</id>
-        <link href="https://github.com/baiding72/dinov3"/>
-        <updated>2026-08-26T02:18:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>baiding72</name>
-            <email>baiding72@noreply.github.com</email>
-            <uri>https://github.com/baiding72</uri>
-        </author>
-        <published>2026-08-17T02:46:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RyanKim17920/microDINOv3: DINOv3 in pure, dependency-free Python]]></title>
-        <id>https://github.com/RyanKim17920/microDINOv3</id>
-        <link href="https://github.com/RyanKim17920/microDINOv3"/>
-        <updated>2026-08-25T20:37:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136863723?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 in pure, dependency-free Python</div>]]></content>
-        <author>
-            <name>RyanKim17920</name>
-            <email>RyanKim17920@noreply.github.com</email>
-            <uri>https://github.com/RyanKim17920</uri>
-        </author>
-        <published>2026-03-11T23:25:35.000Z</published>
     </entry>
 </feed>

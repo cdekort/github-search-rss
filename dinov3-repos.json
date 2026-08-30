@@ -6,14 +6,91 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/qimaqi/dinov3_downstream",
+            "title": "qimaqi/dinov3_downstream",
+            "date_modified": "2026-08-29T23:10:31.000Z",
+            "date_published": "2026-08-06T16:51:37.000Z",
+            "author": {
+                "name": "qimaqi",
+                "url": "https://github.com/qimaqi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-08-29T04:30:59.000Z",
+            "date_modified": "2026-08-29T18:50:20.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19692893?u=a22a073615d62d35ef7217ff0c03a4dab79d488f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头</div>",
+            "url": "https://github.com/ZHider/videopref",
+            "title": "ZHider/videopref: 个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头",
+            "date_modified": "2026-08-29T17:53:55.000Z",
+            "date_published": "2026-08-29T17:11:00.000Z",
+            "author": {
+                "name": "ZHider",
+                "url": "https://github.com/ZHider"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152044820?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.</div>",
+            "url": "https://github.com/joeroche/doplgrep",
+            "title": "joeroche/doplgrep: Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.",
+            "date_modified": "2026-08-29T17:46:08.000Z",
+            "date_published": "2026-02-06T23:36:21.000Z",
+            "author": {
+                "name": "joeroche",
+                "url": "https://github.com/joeroche"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/307270473?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX</div>",
+            "url": "https://github.com/alain4221/visualsearch",
+            "title": "alain4221/visualsearch: Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX",
+            "date_modified": "2026-08-29T16:24:14.000Z",
+            "date_published": "2026-07-30T07:04:36.000Z",
+            "author": {
+                "name": "alain4221",
+                "url": "https://github.com/alain4221"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112981832?u=cdc27f490c353df8bf6cb41e33a0900909181d20&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Computer vision pipeline for pasture biomass prediction using DINOv3 embeddings, Ridge regression, reproducible inference, Pytest, and GitHub Actions.</div>",
+            "url": "https://github.com/upashanadutta-maker/csiro-pasture-biomass",
+            "title": "upashanadutta-maker/csiro-pasture-biomass: Computer vision pipeline for pasture biomass prediction using DINOv3 embeddings, Ridge regression, reproducible inference, Pytest, and GitHub Actions.",
+            "date_modified": "2026-08-29T08:33:51.000Z",
+            "date_published": "2026-07-31T07:50:08.000Z",
+            "author": {
+                "name": "upashanadutta-maker",
+                "url": "https://github.com/upashanadutta-maker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>",
+            "url": "https://github.com/michalprusek/Exemplar",
+            "title": "michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.",
+            "date_modified": "2026-08-29T07:25:48.000Z",
+            "date_published": "2026-07-22T14:40:53.000Z",
+            "author": {
+                "name": "michalprusek",
+                "url": "https://github.com/michalprusek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3+Dinomaly 面向高分辨率工业表面、结构件与装配件的正常样本异常检测框架，解决泛化性不足问题</div>",
+            "url": "https://github.com/celien99/wxSurfaceDefect",
+            "title": "celien99/wxSurfaceDefect: DINOv3+Dinomaly 面向高分辨率工业表面、结构件与装配件的正常样本异常检测框架，解决泛化性不足问题",
+            "date_modified": "2026-08-29T07:31:43.000Z",
+            "date_published": "2026-08-10T05:01:02.000Z",
+            "author": {
+                "name": "celien99",
+                "url": "https://github.com/celien99"
             }
         },
         {
@@ -39,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>",
-            "url": "https://github.com/michalprusek/Exemplar",
-            "title": "michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.",
-            "date_modified": "2026-08-28T13:59:06.000Z",
-            "date_published": "2026-07-22T14:40:53.000Z",
-            "author": {
-                "name": "michalprusek",
-                "url": "https://github.com/michalprusek"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46064313?u=0d1f289af88261498afd239bf7f1f5360fb81eeb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.</div>",
             "url": "https://github.com/xujialiu/SnapOrbit",
             "title": "xujialiu/SnapOrbit: Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.",
@@ -72,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96935702?u=fc71ea2a4530a9ab1f4f996041099ca9b002e5d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3+Dinomaly 面向高分辨率工业表面、结构件与装配件的正常样本异常检测框架，解决泛化性不足问题</div>",
-            "url": "https://github.com/celien99/wxSurfaceDefect",
-            "title": "celien99/wxSurfaceDefect: DINOv3+Dinomaly 面向高分辨率工业表面、结构件与装配件的正常样本异常检测框架，解决泛化性不足问题",
-            "date_modified": "2026-08-28T06:00:17.000Z",
-            "date_published": "2026-08-10T05:01:02.000Z",
-            "author": {
-                "name": "celien99",
-                "url": "https://github.com/celien99"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
             "title": "JeonHaneul/2D-PDM_DINOv3",
@@ -102,17 +157,6 @@
             "author": {
                 "name": "liuhb511",
                 "url": "https://github.com/liuhb511"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/qimaqi/dinov3_downstream",
-            "title": "qimaqi/dinov3_downstream",
-            "date_modified": "2026-08-27T22:28:44.000Z",
-            "date_published": "2026-08-06T16:51:37.000Z",
-            "author": {
-                "name": "qimaqi",
-                "url": "https://github.com/qimaqi"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "lightly-ai",
                 "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239283869?u=62708ef7d91cd87d11aeff19bfad0d0e839f887a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/raza-neub/DINOv3-Object-Detection",
-            "title": "raza-neub/DINOv3-Object-Detection",
-            "date_modified": "2026-08-26T08:23:44.000Z",
-            "date_published": "2026-08-24T09:38:32.000Z",
-            "author": {
-                "name": "raza-neub",
-                "url": "https://github.com/raza-neub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/224542710?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A high-precision plant phenotype segmentation framework based on DINOv3, featuring LoRA fine-tuning, frequency enhancement, and SSM decoding.</div>",
-            "url": "https://github.com/xuanpluspro/DINOv3-Plant-Segmentation",
-            "title": "xuanpluspro/DINOv3-Plant-Segmentation: A high-precision plant phenotype segmentation framework based on DINOv3, featuring LoRA fine-tuning, frequency enhancement, and SSM decoding.",
-            "date_modified": "2026-08-26T02:37:23.000Z",
-            "date_published": "2026-08-26T02:14:54.000Z",
-            "author": {
-                "name": "xuanpluspro",
-                "url": "https://github.com/xuanpluspro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/baiding72/dinov3",
-            "title": "baiding72/dinov3",
-            "date_modified": "2026-08-26T02:18:03.000Z",
-            "date_published": "2026-08-17T02:46:56.000Z",
-            "author": {
-                "name": "baiding72",
-                "url": "https://github.com/baiding72"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136863723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 in pure, dependency-free Python</div>",
-            "url": "https://github.com/RyanKim17920/microDINOv3",
-            "title": "RyanKim17920/microDINOv3: DINOv3 in pure, dependency-free Python",
-            "date_modified": "2026-08-25T20:37:45.000Z",
-            "date_published": "2026-03-11T23:25:35.000Z",
-            "author": {
-                "name": "RyanKim17920",
-                "url": "https://github.com/RyanKim17920"
             }
         }
     ]
