@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-08-30T04:03:39.259Z</updated>
+    <updated>2026-08-31T04:09:22.286Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[qimaqi/dinov3_downstream]]></title>
-        <id>https://github.com/qimaqi/dinov3_downstream</id>
-        <link href="https://github.com/qimaqi/dinov3_downstream"/>
-        <updated>2026-08-29T23:10:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>qimaqi</name>
-            <email>qimaqi@noreply.github.com</email>
-            <uri>https://github.com/qimaqi</uri>
-        </author>
-        <published>2026-08-06T16:51:37.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-08-29T18:50:20.000Z</updated>
+        <updated>2026-08-31T04:05:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -34,10 +21,88 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZHider/videopref: 个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头]]></title>
-        <id>https://github.com/ZHider/videopref</id>
-        <link href="https://github.com/ZHider/videopref"/>
-        <updated>2026-08-29T17:53:55.000Z</updated>
+        <title type="html"><![CDATA[liuhb511/dinov3: dinov3 code]]></title>
+        <id>https://github.com/liuhb511/dinov3</id>
+        <link href="https://github.com/liuhb511/dinov3"/>
+        <updated>2026-08-31T02:41:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/162868687?v=4" width="64" height="64" alt=""/><br/><div>dinov3 code</div>]]></content>
+        <author>
+            <name>liuhb511</name>
+            <email>liuhb511@noreply.github.com</email>
+            <uri>https://github.com/liuhb511</uri>
+        </author>
+        <published>2026-08-24T08:17:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qimaqi/dinov3_downstream]]></title>
+        <id>https://github.com/qimaqi/dinov3_downstream</id>
+        <link href="https://github.com/qimaqi/dinov3_downstream"/>
+        <updated>2026-08-30T21:33:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>qimaqi</name>
+            <email>qimaqi@noreply.github.com</email>
+            <uri>https://github.com/qimaqi</uri>
+        </author>
+        <published>2026-08-06T16:51:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mohammad-albarham/DINOv3-and-Mask2Former-for-Urban-Streetscapes-Instance-Segmentation: Combining DINOv3 and Mask2Former for Urban Streetscapes Instance Segmentation]]></title>
+        <id>https://github.com/mohammad-albarham/DINOv3-and-Mask2Former-for-Urban-Streetscapes-Instance-Segmentation</id>
+        <link href="https://github.com/mohammad-albarham/DINOv3-and-Mask2Former-for-Urban-Streetscapes-Instance-Segmentation"/>
+        <updated>2026-08-30T19:55:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42673854?u=8ee611db23dd66c5b7c162432ff2d58ffd83cdce&v=4" width="64" height="64" alt=""/><br/><div>Combining DINOv3 and Mask2Former for Urban Streetscapes Instance Segmentation</div>]]></content>
+        <author>
+            <name>mohammad-albarham</name>
+            <email>mohammad-albarham@noreply.github.com</email>
+            <uri>https://github.com/mohammad-albarham</uri>
+        </author>
+        <published>2025-10-01T06:39:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nusroth/Computer_Vision: A comprehensive computer vision project for synthetic outdoor waste detection and tracking, comparing YOLOv10, YOLOv12, YOLOv26, and RF-DETR with self-supervised learning methods including SimCLR, BYOL, I-JEPA, and DINOv3, followed by ByteTrack-based video tracking.]]></title>
+        <id>https://github.com/Nusroth/Computer_Vision</id>
+        <link href="https://github.com/Nusroth/Computer_Vision"/>
+        <updated>2026-08-30T18:41:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145489019?u=2d8811aea716810dfaff71de479bdf15ce6d665a&v=4" width="64" height="64" alt=""/><br/><div>A comprehensive computer vision project for synthetic outdoor waste detection and tracking, comparing YOLOv10, YOLOv12, YOLOv26, and RF-DETR with self-supervised learning methods including SimCLR, BYOL, I-JEPA, and DINOv3, followed by ByteTrack-based video tracking.</div>]]></content>
+        <author>
+            <name>Nusroth</name>
+            <email>Nusroth@noreply.github.com</email>
+            <uri>https://github.com/Nusroth</uri>
+        </author>
+        <published>2026-08-30T17:01:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[baiding72/dinov3]]></title>
+        <id>https://github.com/baiding72/dinov3</id>
+        <link href="https://github.com/baiding72/dinov3"/>
+        <updated>2026-08-30T15:46:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>baiding72</name>
+            <email>baiding72@noreply.github.com</email>
+            <uri>https://github.com/baiding72</uri>
+        </author>
+        <published>2026-08-17T02:46:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gajeshladhar/nepal-flood: Flood Damage Mapping with DINOv3 — label-free extent segmentation and building loss detection for the 2026 Nepal glacial outburst flood]]></title>
+        <id>https://github.com/gajeshladhar/nepal-flood</id>
+        <link href="https://github.com/gajeshladhar/nepal-flood"/>
+        <updated>2026-08-30T12:06:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53854779?u=f8d9ec24bb0092095680b877d08e7d1bf950a8b9&v=4" width="64" height="64" alt=""/><br/><div>Flood Damage Mapping with DINOv3 — label-free extent segmentation and building loss detection for the 2026 Nepal glacial outburst flood</div>]]></content>
+        <author>
+            <name>gajeshladhar</name>
+            <email>gajeshladhar@noreply.github.com</email>
+            <uri>https://github.com/gajeshladhar</uri>
+        </author>
+        <published>2026-08-30T11:51:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZHider/visual-pref: 个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头]]></title>
+        <id>https://github.com/ZHider/visual-pref</id>
+        <link href="https://github.com/ZHider/visual-pref"/>
+        <updated>2026-08-30T10:47:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19692893?u=a22a073615d62d35ef7217ff0c03a4dab79d488f&v=4" width="64" height="64" alt=""/><br/><div>个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头</div>]]></content>
         <author>
             <name>ZHider</name>
@@ -45,6 +110,19 @@
             <uri>https://github.com/ZHider</uri>
         </author>
         <published>2026-08-29T17:11:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXHX14/CSIRO-Image2Biomass-Prediction: DINOv3-based pasture biomass prediction with multimodal learning, TaskQuery, segmentation supervision, TTA and physics-consistent post-processing.]]></title>
+        <id>https://github.com/CXHX14/CSIRO-Image2Biomass-Prediction</id>
+        <link href="https://github.com/CXHX14/CSIRO-Image2Biomass-Prediction"/>
+        <updated>2026-08-30T09:48:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57832184?u=e97b5a6b34f84aa94b22b2fbd65eade42e04029b&v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based pasture biomass prediction with multimodal learning, TaskQuery, segmentation supervision, TTA and physics-consistent post-processing.</div>]]></content>
+        <author>
+            <name>CXHX14</name>
+            <email>CXHX14@noreply.github.com</email>
+            <uri>https://github.com/CXHX14</uri>
+        </author>
+        <published>2026-08-30T09:25:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[joeroche/doplgrep: Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.]]></title>
@@ -141,7 +219,7 @@
         <title type="html"><![CDATA[xujialiu/SnapOrbit: Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.]]></title>
         <id>https://github.com/xujialiu/SnapOrbit</id>
         <link href="https://github.com/xujialiu/SnapOrbit"/>
-        <updated>2026-08-28T11:08:49.000Z</updated>
+        <updated>2026-08-31T02:41:47.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46064313?u=0d1f289af88261498afd239bf7f1f5360fb81eeb&v=4" width="64" height="64" alt=""/><br/><div>Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.</div>]]></content>
         <author>
             <name>xujialiu</name>
@@ -177,19 +255,6 @@
         <published>2026-07-15T08:27:58.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[liuhb511/dinov3: dinov3 code]]></title>
-        <id>https://github.com/liuhb511/dinov3</id>
-        <link href="https://github.com/liuhb511/dinov3"/>
-        <updated>2026-08-28T03:42:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/162868687?v=4" width="64" height="64" alt=""/><br/><div>dinov3 code</div>]]></content>
-        <author>
-            <name>liuhb511</name>
-            <email>liuhb511@noreply.github.com</email>
-            <uri>https://github.com/liuhb511</uri>
-        </author>
-        <published>2026-08-24T08:17:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[InsightML/crop-counter: Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.]]></title>
         <id>https://github.com/InsightML/crop-counter</id>
         <link href="https://github.com/InsightML/crop-counter"/>
@@ -201,70 +266,5 @@
             <uri>https://github.com/InsightML</uri>
         </author>
         <published>2026-08-18T18:07:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mughees-Awaan/Dino_training_for_IST: We will first train the existing DINOv3 model to work better on agricultural imagery and the real positive/negative-click task, test whether the upgraded DINO is better on held-out reconstructed source groups, and then use that DINO as an offline teacher for a much faster MobileNet deployment model.]]></title>
-        <id>https://github.com/Mughees-Awaan/Dino_training_for_IST</id>
-        <link href="https://github.com/Mughees-Awaan/Dino_training_for_IST"/>
-        <updated>2026-08-27T12:10:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/174691317?v=4" width="64" height="64" alt=""/><br/><div>We will first train the existing DINOv3 model to work better on agricultural imagery and the real positive/negative-click task, test whether the upgraded DINO is better on held-out reconstructed source groups, and then use that DINO as an offline teacher for a much faster MobileNet deployment model.</div>]]></content>
-        <author>
-            <name>Mughees-Awaan</name>
-            <email>Mughees-Awaan@noreply.github.com</email>
-            <uri>https://github.com/Mughees-Awaan</uri>
-        </author>
-        <published>2026-08-26T18:13:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers]]></title>
-        <id>https://github.com/Brezemil/_trainer_lightly</id>
-        <link href="https://github.com/Brezemil/_trainer_lightly"/>
-        <updated>2026-08-27T09:37:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47831888?v=4" width="64" height="64" alt=""/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>]]></content>
-        <author>
-            <name>Brezemil</name>
-            <email>Brezemil@noreply.github.com</email>
-            <uri>https://github.com/Brezemil</uri>
-        </author>
-        <published>2026-06-19T20:02:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wookiegen/tog-bench: TOG-Bench: a Tiny-Object Generation benchmark on aerial imagery (AI-TOD-v2). Two scores: Detectability (Det-4) + Appearance (DINOv3-sat kNN).]]></title>
-        <id>https://github.com/wookiegen/tog-bench</id>
-        <link href="https://github.com/wookiegen/tog-bench"/>
-        <updated>2026-08-27T00:33:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/272757496?v=4" width="64" height="64" alt=""/><br/><div>TOG-Bench: a Tiny-Object Generation benchmark on aerial imagery (AI-TOD-v2). Two scores: Detectability (Det-4) + Appearance (DINOv3-sat kNN).</div>]]></content>
-        <author>
-            <name>wookiegen</name>
-            <email>wookiegen@noreply.github.com</email>
-            <uri>https://github.com/wookiegen</uri>
-        </author>
-        <published>2026-08-26T07:42:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jamal-saeedi/PyraFuse: DINOv3-based semantic segmentation for skin, fabric, and background — PyTorch, Hugging Face, and TensorRT.]]></title>
-        <id>https://github.com/jamal-saeedi/PyraFuse</id>
-        <link href="https://github.com/jamal-saeedi/PyraFuse"/>
-        <updated>2026-08-26T16:31:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50617366?u=c180ef6843b320ff4432dffede4a4c48f0913dba&v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based semantic segmentation for skin, fabric, and background — PyTorch, Hugging Face, and TensorRT.</div>]]></content>
-        <author>
-            <name>jamal-saeedi</name>
-            <email>jamal-saeedi@noreply.github.com</email>
-            <uri>https://github.com/jamal-saeedi</uri>
-        </author>
-        <published>2026-06-22T08:55:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-08-27T17:05:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
 </feed>
