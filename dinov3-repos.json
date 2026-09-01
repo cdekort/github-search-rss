@@ -6,14 +6,102 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231433306?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lzyyy0-o/CLIP-DINOV3",
+            "title": "lzyyy0-o/CLIP-DINOV3",
+            "date_modified": "2026-09-01T03:22:57.000Z",
+            "date_published": "2026-08-24T09:58:22.000Z",
+            "author": {
+                "name": "lzyyy0-o",
+                "url": "https://github.com/lzyyy0-o"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/baiding72/dinov3",
+            "title": "baiding72/dinov3",
+            "date_modified": "2026-09-01T03:02:01.000Z",
+            "date_published": "2026-08-17T02:46:56.000Z",
+            "author": {
+                "name": "baiding72",
+                "url": "https://github.com/baiding72"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-08-31T04:05:44.000Z",
+            "date_modified": "2026-08-31T23:46:23.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51661735?u=28ad6608443de3e40153389160d611c06c874500&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/abarenblitt/CHM_DINOV3",
+            "title": "abarenblitt/CHM_DINOV3",
+            "date_modified": "2026-08-31T20:55:50.000Z",
+            "date_published": "2026-07-29T20:07:19.000Z",
+            "author": {
+                "name": "abarenblitt",
+                "url": "https://github.com/abarenblitt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152044820?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.</div>",
+            "url": "https://github.com/joeroche/doplgrep",
+            "title": "joeroche/doplgrep: Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.",
+            "date_modified": "2026-08-31T20:12:46.000Z",
+            "date_published": "2026-02-06T23:36:21.000Z",
+            "author": {
+                "name": "joeroche",
+                "url": "https://github.com/joeroche"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292118655?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ljz330/Dinov3-sat",
+            "title": "ljz330/Dinov3-sat",
+            "date_modified": "2026-08-31T11:55:39.000Z",
+            "date_published": "2026-07-24T13:07:35.000Z",
+            "author": {
+                "name": "ljz330",
+                "url": "https://github.com/ljz330"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-08-31T11:06:25.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11475900?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 based (horse) pose estimation in Rust using Burn</div>",
+            "url": "https://github.com/MichaelEssich/dino_v3_rust",
+            "title": "MichaelEssich/dino_v3_rust: DINOv3 based (horse) pose estimation in Rust using Burn",
+            "date_modified": "2026-08-31T19:03:02.000Z",
+            "date_published": "2026-08-31T09:29:48.000Z",
+            "author": {
+                "name": "MichaelEssich",
+                "url": "https://github.com/MichaelEssich"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19692893?u=a22a073615d62d35ef7217ff0c03a4dab79d488f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头</div>",
+            "url": "https://github.com/ZHider/visual-pref",
+            "title": "ZHider/visual-pref: 个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头",
+            "date_modified": "2026-08-31T06:17:43.000Z",
+            "date_published": "2026-08-29T17:11:00.000Z",
+            "author": {
+                "name": "ZHider",
+                "url": "https://github.com/ZHider"
             }
         },
         {
@@ -25,17 +113,6 @@
             "author": {
                 "name": "liuhb511",
                 "url": "https://github.com/liuhb511"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56117354?u=d42cedce35a39238b0b46e78917292d6ac3a84b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/qimaqi/dinov3_downstream",
-            "title": "qimaqi/dinov3_downstream",
-            "date_modified": "2026-08-30T21:33:34.000Z",
-            "date_published": "2026-08-06T16:51:37.000Z",
-            "author": {
-                "name": "qimaqi",
-                "url": "https://github.com/qimaqi"
             }
         },
         {
@@ -61,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/baiding72/dinov3",
-            "title": "baiding72/dinov3",
-            "date_modified": "2026-08-30T15:46:35.000Z",
-            "date_published": "2026-08-17T02:46:56.000Z",
-            "author": {
-                "name": "baiding72",
-                "url": "https://github.com/baiding72"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53854779?u=f8d9ec24bb0092095680b877d08e7d1bf950a8b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flood Damage Mapping with DINOv3 — label-free extent segmentation and building loss detection for the 2026 Nepal glacial outburst flood</div>",
             "url": "https://github.com/gajeshladhar/nepal-flood",
             "title": "gajeshladhar/nepal-flood: Flood Damage Mapping with DINOv3 — label-free extent segmentation and building loss detection for the 2026 Nepal glacial outburst flood",
@@ -83,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19692893?u=a22a073615d62d35ef7217ff0c03a4dab79d488f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头</div>",
-            "url": "https://github.com/ZHider/visual-pref",
-            "title": "ZHider/visual-pref: 个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头",
-            "date_modified": "2026-08-30T10:47:17.000Z",
-            "date_published": "2026-08-29T17:11:00.000Z",
-            "author": {
-                "name": "ZHider",
-                "url": "https://github.com/ZHider"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57832184?u=e97b5a6b34f84aa94b22b2fbd65eade42e04029b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-based pasture biomass prediction with multimodal learning, TaskQuery, segmentation supervision, TTA and physics-consistent post-processing.</div>",
             "url": "https://github.com/CXHX14/CSIRO-Image2Biomass-Prediction",
             "title": "CXHX14/CSIRO-Image2Biomass-Prediction: DINOv3-based pasture biomass prediction with multimodal learning, TaskQuery, segmentation supervision, TTA and physics-consistent post-processing.",
@@ -102,17 +157,6 @@
             "author": {
                 "name": "CXHX14",
                 "url": "https://github.com/CXHX14"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152044820?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.</div>",
-            "url": "https://github.com/joeroche/doplgrep",
-            "title": "joeroche/doplgrep: Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.",
-            "date_modified": "2026-08-29T17:46:08.000Z",
-            "date_published": "2026-02-06T23:36:21.000Z",
-            "author": {
-                "name": "joeroche",
-                "url": "https://github.com/joeroche"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "HCMUS-VIR-Nhom8",
                 "url": "https://github.com/HCMUS-VIR-Nhom8"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46064313?u=0d1f289af88261498afd239bf7f1f5360fb81eeb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.</div>",
-            "url": "https://github.com/xujialiu/SnapOrbit",
-            "title": "xujialiu/SnapOrbit: Uncertainty-aware DINOv3+LoRA framework for differentiating thyroid eye disease (TED), space-occupying lesions (SOLs), and normal controls from smartphone external eye photos.",
-            "date_modified": "2026-08-31T02:41:47.000Z",
-            "date_published": "2026-08-28T10:05:35.000Z",
-            "author": {
-                "name": "xujialiu",
-                "url": "https://github.com/xujialiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180073581?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Yukidachi/DINOv3_0804",
-            "title": "Yukidachi/DINOv3_0804",
-            "date_modified": "2026-08-28T07:45:56.000Z",
-            "date_published": "2026-08-05T10:16:35.000Z",
-            "author": {
-                "name": "Yukidachi",
-                "url": "https://github.com/Yukidachi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
-            "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-08-28T04:15:39.000Z",
-            "date_published": "2026-07-15T08:27:58.000Z",
-            "author": {
-                "name": "JeonHaneul",
-                "url": "https://github.com/JeonHaneul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136749920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.</div>",
-            "url": "https://github.com/InsightML/crop-counter",
-            "title": "InsightML/crop-counter: Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.",
-            "date_modified": "2026-08-27T15:01:39.000Z",
-            "date_published": "2026-08-18T18:07:16.000Z",
-            "author": {
-                "name": "InsightML",
-                "url": "https://github.com/InsightML"
             }
         }
     ]
