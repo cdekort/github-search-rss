@@ -9,11 +9,176 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-02T03:16:38.000Z",
+            "date_modified": "2026-09-03T03:15:43.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
+            "title": "lingshan2003/Dinov3txtforSAT",
+            "date_modified": "2026-09-03T02:58:57.000Z",
+            "date_published": "2026-09-02T14:23:59.000Z",
+            "author": {
+                "name": "lingshan2003",
+                "url": "https://github.com/lingshan2003"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204633871?u=c4b767518318e9f752da117aca44c313725cf24d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote‑sensing segmentation with finetuned sam3 and dinov3</div>",
+            "url": "https://github.com/HHU-JialeChen/rs_sam3_dinov3",
+            "title": "HHU-JialeChen/rs_sam3_dinov3: Remote‑sensing segmentation with finetuned sam3 and dinov3",
+            "date_modified": "2026-09-03T01:09:27.000Z",
+            "date_published": "2026-09-03T01:06:54.000Z",
+            "author": {
+                "name": "HHU-JialeChen",
+                "url": "https://github.com/HHU-JialeChen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71817542?u=7d86bcc8e690617def6c1ed2b8abc4eaccbc2c12&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AIMS-R30: DINOv3 LoRA ensemble for Barrett's neoplasia detection. RARE 2026 challenge submission, University of Leeds.</div>",
+            "url": "https://github.com/omariosc/rare26-aims",
+            "title": "omariosc/rare26-aims: AIMS-R30: DINOv3 LoRA ensemble for Barrett's neoplasia detection. RARE 2026 challenge submission, University of Leeds.",
+            "date_modified": "2026-09-02T21:51:13.000Z",
+            "date_published": "2026-09-02T19:24:12.000Z",
+            "author": {
+                "name": "omariosc",
+                "url": "https://github.com/omariosc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>",
+            "url": "https://github.com/michalprusek/Exemplar",
+            "title": "michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.",
+            "date_modified": "2026-09-02T18:40:55.000Z",
+            "date_published": "2026-07-22T14:40:53.000Z",
+            "author": {
+                "name": "michalprusek",
+                "url": "https://github.com/michalprusek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152044820?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.</div>",
+            "url": "https://github.com/joeroche/doplgrep",
+            "title": "joeroche/doplgrep: Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.",
+            "date_modified": "2026-09-02T15:28:18.000Z",
+            "date_published": "2026-02-06T23:36:21.000Z",
+            "author": {
+                "name": "joeroche",
+                "url": "https://github.com/joeroche"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77196741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.</div>",
+            "url": "https://github.com/bensh240/crohn-ct-mr-unified",
+            "title": "bensh240/crohn-ct-mr-unified: Unified CT and MR enterography foundation-model pipeline for Crohn's disease. Code for the npj Digital Medicine paper.",
+            "date_modified": "2026-09-02T14:01:02.000Z",
+            "date_published": "2026-06-09T20:48:10.000Z",
+            "author": {
+                "name": "bensh240",
+                "url": "https://github.com/bensh240"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238452422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Computer vision methods for culvert blockage detection from CCTV imagery, including VLMs, DINOv3 and ResNet baselines with cross-site evaluation.</div>",
+            "url": "https://github.com/arlineom-sketch/Culvert-blockage-detection",
+            "title": "arlineom-sketch/Culvert-blockage-detection: Computer vision methods for culvert blockage detection from CCTV imagery, including VLMs, DINOv3 and ResNet baselines with cross-site evaluation.",
+            "date_modified": "2026-09-02T12:35:02.000Z",
+            "date_published": "2026-09-01T14:43:48.000Z",
+            "author": {
+                "name": "arlineom-sketch",
+                "url": "https://github.com/arlineom-sketch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41234756?u=1040994becfdf37f04c66156a1c22ae6ab4de703&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Landmarking via cycle consistency</div>",
+            "url": "https://github.com/alexrvandam/DINOLand",
+            "title": "alexrvandam/DINOLand: DINOv3 Landmarking via cycle consistency",
+            "date_modified": "2026-09-02T10:37:32.000Z",
+            "date_published": "2026-09-02T09:23:08.000Z",
+            "author": {
+                "name": "alexrvandam",
+                "url": "https://github.com/alexrvandam"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_base_patch16_dinov3_qkvb.lvd1689m on Hugging Face</div>",
+            "url": "https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-base-patch16-dinov3-qkvb.lvd1689m",
+            "title": "vaibhavartsmaac-bot/ai-model-timm-vit-base-patch16-dinov3-qkvb.lvd1689m: AI model catalog entry for timm/vit_base_patch16_dinov3_qkvb.lvd1689m on Hugging Face",
+            "date_modified": "2026-09-02T07:27:12.000Z",
+            "date_published": "2026-09-02T07:26:50.000Z",
+            "author": {
+                "name": "vaibhavartsmaac-bot",
+                "url": "https://github.com/vaibhavartsmaac-bot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315676240?u=95e1c3d5944ce53d49bcbebb53f00236e13bd4d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_base_patch16_dinov3_qkvb.lvd1689m on Hugging Face</div>",
+            "url": "https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-base-patch16-dinov3-qkvb.lvd1689m",
+            "title": "vaibhav06062005-ctrl/ai-model-timm-vit-base-patch16-dinov3-qkvb.lvd1689m: AI model catalog entry for timm/vit_base_patch16_dinov3_qkvb.lvd1689m on Hugging Face",
+            "date_modified": "2026-09-02T07:22:13.000Z",
+            "date_published": "2026-09-02T07:19:33.000Z",
+            "author": {
+                "name": "vaibhav06062005-ctrl",
+                "url": "https://github.com/vaibhav06062005-ctrl"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_base_patch16_dinov3.lvd1689m on Hugging Face</div>",
+            "url": "https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-base-patch16-dinov3.lvd1689m",
+            "title": "vaibhavartsmaac-bot/ai-model-timm-vit-base-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_base_patch16_dinov3.lvd1689m on Hugging Face",
+            "date_modified": "2026-09-02T06:58:04.000Z",
+            "date_published": "2026-09-02T06:57:30.000Z",
+            "author": {
+                "name": "vaibhavartsmaac-bot",
+                "url": "https://github.com/vaibhavartsmaac-bot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315676240?u=95e1c3d5944ce53d49bcbebb53f00236e13bd4d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_base_patch16_dinov3.lvd1689m on Hugging Face</div>",
+            "url": "https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-base-patch16-dinov3.lvd1689m",
+            "title": "vaibhav06062005-ctrl/ai-model-timm-vit-base-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_base_patch16_dinov3.lvd1689m on Hugging Face",
+            "date_modified": "2026-09-02T06:20:31.000Z",
+            "date_published": "2026-09-02T06:19:09.000Z",
+            "author": {
+                "name": "vaibhav06062005-ctrl",
+                "url": "https://github.com/vaibhav06062005-ctrl"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face</div>",
+            "url": "https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-large-patch16-dinov3.lvd1689m",
+            "title": "vaibhavartsmaac-bot/ai-model-timm-vit-large-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face",
+            "date_modified": "2026-09-02T06:03:51.000Z",
+            "date_published": "2026-09-02T06:02:47.000Z",
+            "author": {
+                "name": "vaibhavartsmaac-bot",
+                "url": "https://github.com/vaibhavartsmaac-bot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315676240?u=95e1c3d5944ce53d49bcbebb53f00236e13bd4d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face</div>",
+            "url": "https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-large-patch16-dinov3.lvd1689m",
+            "title": "vaibhav06062005-ctrl/ai-model-timm-vit-large-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face",
+            "date_modified": "2026-09-02T06:00:50.000Z",
+            "date_published": "2026-09-02T06:00:16.000Z",
+            "author": {
+                "name": "vaibhav06062005-ctrl",
+                "url": "https://github.com/vaibhav06062005-ctrl"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_small_patch16_dinov3.lvd1689m on Hugging Face</div>",
+            "url": "https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-small-patch16-dinov3.lvd1689m",
+            "title": "vaibhavartsmaac-bot/ai-model-timm-vit-small-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_small_patch16_dinov3.lvd1689m on Hugging Face",
+            "date_modified": "2026-09-02T05:27:21.000Z",
+            "date_published": "2026-09-02T05:26:34.000Z",
+            "author": {
+                "name": "vaibhavartsmaac-bot",
+                "url": "https://github.com/vaibhavartsmaac-bot"
             }
         },
         {
@@ -25,17 +190,6 @@
             "author": {
                 "name": "liuhb511",
                 "url": "https://github.com/liuhb511"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152044820?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.</div>",
-            "url": "https://github.com/joeroche/doplgrep",
-            "title": "joeroche/doplgrep: Local image similarity search with DINOv3 embeddings, SQLite, and HNSW.",
-            "date_modified": "2026-09-01T17:22:10.000Z",
-            "date_published": "2026-02-06T23:36:21.000Z",
-            "author": {
-                "name": "joeroche",
-                "url": "https://github.com/joeroche"
             }
         },
         {
@@ -69,160 +223,6 @@
             "author": {
                 "name": "vaibhavartsmaac-bot",
                 "url": "https://github.com/vaibhavartsmaac-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315676240?u=95e1c3d5944ce53d49bcbebb53f00236e13bd4d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_small_patch16_dinov3.lvd1689m on Hugging Face</div>",
-            "url": "https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-small-patch16-dinov3.lvd1689m",
-            "title": "vaibhav06062005-ctrl/ai-model-timm-vit-small-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_small_patch16_dinov3.lvd1689m on Hugging Face",
-            "date_modified": "2026-09-01T11:44:37.000Z",
-            "date_published": "2026-09-01T11:31:59.000Z",
-            "author": {
-                "name": "vaibhav06062005-ctrl",
-                "url": "https://github.com/vaibhav06062005-ctrl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315676240?u=95e1c3d5944ce53d49bcbebb53f00236e13bd4d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for camenduru/dinov3-vitl16-pretrain-lvd1689m on Hugging Face</div>",
-            "url": "https://github.com/vaibhav06062005-ctrl/ai-model-camenduru-dinov3-vitl16-pretrain-lvd1689m",
-            "title": "vaibhav06062005-ctrl/ai-model-camenduru-dinov3-vitl16-pretrain-lvd1689m: AI model catalog entry for camenduru/dinov3-vitl16-pretrain-lvd1689m on Hugging Face",
-            "date_modified": "2026-09-01T11:07:56.000Z",
-            "date_published": "2026-09-01T11:04:09.000Z",
-            "author": {
-                "name": "vaibhav06062005-ctrl",
-                "url": "https://github.com/vaibhav06062005-ctrl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54661241?u=5cdb8851d655b6672fd31134f0b3a1d6db309eaf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-supervised content-based image retrieval for abdominal ultrasound (DINOv3 + FAISS) — VI Lab, KKU</div>",
-            "url": "https://github.com/Peckkie/USAI-ImageRetrieval",
-            "title": "Peckkie/USAI-ImageRetrieval: Self-supervised content-based image retrieval for abdominal ultrasound (DINOv3 + FAISS) — VI Lab, KKU",
-            "date_modified": "2026-09-01T08:10:07.000Z",
-            "date_published": "2026-09-01T08:05:12.000Z",
-            "author": {
-                "name": "Peckkie",
-                "url": "https://github.com/Peckkie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/baiding72/dinov3",
-            "title": "baiding72/dinov3",
-            "date_modified": "2026-09-01T03:02:01.000Z",
-            "date_published": "2026-08-17T02:46:56.000Z",
-            "author": {
-                "name": "baiding72",
-                "url": "https://github.com/baiding72"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292118655?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ljz330/Dinov3-sat",
-            "title": "ljz330/Dinov3-sat",
-            "date_modified": "2026-08-31T11:55:39.000Z",
-            "date_published": "2026-07-24T13:07:35.000Z",
-            "author": {
-                "name": "ljz330",
-                "url": "https://github.com/ljz330"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-08-31T11:06:25.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11475900?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 based (horse) pose estimation in Rust using Burn</div>",
-            "url": "https://github.com/MichaelEssich/dino_v3_rust",
-            "title": "MichaelEssich/dino_v3_rust: DINOv3 based (horse) pose estimation in Rust using Burn",
-            "date_modified": "2026-08-31T19:03:02.000Z",
-            "date_published": "2026-08-31T09:29:48.000Z",
-            "author": {
-                "name": "MichaelEssich",
-                "url": "https://github.com/MichaelEssich"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19692893?u=a22a073615d62d35ef7217ff0c03a4dab79d488f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头</div>",
-            "url": "https://github.com/ZHider/visual-pref",
-            "title": "ZHider/visual-pref: 个人视频喜好二分类器：冻结 DINOv3 骨干 + Masked Attention Pooling + 轻量 MLP 分类头",
-            "date_modified": "2026-08-31T06:17:43.000Z",
-            "date_published": "2026-08-29T17:11:00.000Z",
-            "author": {
-                "name": "ZHider",
-                "url": "https://github.com/ZHider"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42673854?u=8ee611db23dd66c5b7c162432ff2d58ffd83cdce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Combining DINOv3 and Mask2Former for Urban Streetscapes Instance Segmentation</div>",
-            "url": "https://github.com/mohammad-albarham/DINOv3-and-Mask2Former-for-Urban-Streetscapes-Instance-Segmentation",
-            "title": "mohammad-albarham/DINOv3-and-Mask2Former-for-Urban-Streetscapes-Instance-Segmentation: Combining DINOv3 and Mask2Former for Urban Streetscapes Instance Segmentation",
-            "date_modified": "2026-08-30T19:55:39.000Z",
-            "date_published": "2025-10-01T06:39:34.000Z",
-            "author": {
-                "name": "mohammad-albarham",
-                "url": "https://github.com/mohammad-albarham"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145489019?u=2d8811aea716810dfaff71de479bdf15ce6d665a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive computer vision project for synthetic outdoor waste detection and tracking, comparing YOLOv10, YOLOv12, YOLOv26, and RF-DETR with self-supervised learning methods including SimCLR, BYOL, I-JEPA, and DINOv3, followed by ByteTrack-based video tracking.</div>",
-            "url": "https://github.com/Nusroth/Computer_Vision",
-            "title": "Nusroth/Computer_Vision: A comprehensive computer vision project for synthetic outdoor waste detection and tracking, comparing YOLOv10, YOLOv12, YOLOv26, and RF-DETR with self-supervised learning methods including SimCLR, BYOL, I-JEPA, and DINOv3, followed by ByteTrack-based video tracking.",
-            "date_modified": "2026-08-30T18:41:14.000Z",
-            "date_published": "2026-08-30T17:01:36.000Z",
-            "author": {
-                "name": "Nusroth",
-                "url": "https://github.com/Nusroth"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53854779?u=f8d9ec24bb0092095680b877d08e7d1bf950a8b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flood Damage Mapping with DINOv3 — label-free extent segmentation and building loss detection for the 2026 Nepal glacial outburst flood</div>",
-            "url": "https://github.com/gajeshladhar/nepal-flood",
-            "title": "gajeshladhar/nepal-flood: Flood Damage Mapping with DINOv3 — label-free extent segmentation and building loss detection for the 2026 Nepal glacial outburst flood",
-            "date_modified": "2026-08-30T12:06:28.000Z",
-            "date_published": "2026-08-30T11:51:41.000Z",
-            "author": {
-                "name": "gajeshladhar",
-                "url": "https://github.com/gajeshladhar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57832184?u=e97b5a6b34f84aa94b22b2fbd65eade42e04029b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-based pasture biomass prediction with multimodal learning, TaskQuery, segmentation supervision, TTA and physics-consistent post-processing.</div>",
-            "url": "https://github.com/CXHX14/CSIRO-Image2Biomass-Prediction",
-            "title": "CXHX14/CSIRO-Image2Biomass-Prediction: DINOv3-based pasture biomass prediction with multimodal learning, TaskQuery, segmentation supervision, TTA and physics-consistent post-processing.",
-            "date_modified": "2026-08-30T09:48:56.000Z",
-            "date_published": "2026-08-30T09:25:52.000Z",
-            "author": {
-                "name": "CXHX14",
-                "url": "https://github.com/CXHX14"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/307270473?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX</div>",
-            "url": "https://github.com/alain4221/visualsearch",
-            "title": "alain4221/visualsearch: Поиск похожих товаров по фото: SigLIP-2/DINOv3 эмбеддинги + Qdrant ANN + FastAPI, с батчингом и путём на ONNX",
-            "date_modified": "2026-08-29T16:24:14.000Z",
-            "date_published": "2026-07-30T07:04:36.000Z",
-            "author": {
-                "name": "alain4221",
-                "url": "https://github.com/alain4221"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112981832?u=cdc27f490c353df8bf6cb41e33a0900909181d20&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Computer vision pipeline for pasture biomass prediction using DINOv3 embeddings, Ridge regression, reproducible inference, Pytest, and GitHub Actions.</div>",
-            "url": "https://github.com/upashanadutta-maker/csiro-pasture-biomass",
-            "title": "upashanadutta-maker/csiro-pasture-biomass: Computer vision pipeline for pasture biomass prediction using DINOv3 embeddings, Ridge regression, reproducible inference, Pytest, and GitHub Actions.",
-            "date_modified": "2026-08-29T08:33:51.000Z",
-            "date_published": "2026-07-31T07:50:08.000Z",
-            "author": {
-                "name": "upashanadutta-maker",
-                "url": "https://github.com/upashanadutta-maker"
             }
         }
     ]
