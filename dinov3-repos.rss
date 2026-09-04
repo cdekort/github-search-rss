@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-09-03T03:19:02.782Z</updated>
+    <updated>2026-09-04T03:17:03.139Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-09-03T03:15:43.000Z</updated>
+        <updated>2026-09-04T03:15:00.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
         <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
         <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
-        <updated>2026-09-03T02:58:57.000Z</updated>
+        <updated>2026-09-04T02:57:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>lingshan2003</name>
@@ -32,6 +32,110 @@
             <uri>https://github.com/lingshan2003</uri>
         </author>
         <published>2026-09-02T14:23:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[abarenblitt/CHM_DINOV3]]></title>
+        <id>https://github.com/abarenblitt/CHM_DINOV3</id>
+        <link href="https://github.com/abarenblitt/CHM_DINOV3"/>
+        <updated>2026-09-03T20:03:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51661735?u=28ad6608443de3e40153389160d611c06c874500&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>abarenblitt</name>
+            <email>abarenblitt@noreply.github.com</email>
+            <uri>https://github.com/abarenblitt</uri>
+        </author>
+        <published>2026-07-29T20:07:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pavviktorn/dinov3-vit7b16-pretrain-lvd1689m: Source and configuration files for dinov3-vit7b16-pretrain-lvd1689m]]></title>
+        <id>https://github.com/pavviktorn/dinov3-vit7b16-pretrain-lvd1689m</id>
+        <link href="https://github.com/pavviktorn/dinov3-vit7b16-pretrain-lvd1689m"/>
+        <updated>2026-09-03T15:58:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87066081?v=4" width="64" height="64" alt=""/><br/><div>Source and configuration files for dinov3-vit7b16-pretrain-lvd1689m</div>]]></content>
+        <author>
+            <name>pavviktorn</name>
+            <email>pavviktorn@noreply.github.com</email>
+            <uri>https://github.com/pavviktorn</uri>
+        </author>
+        <published>2026-09-03T15:30:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kinga-1/Raman-Hotspot-ML-Project: Machine learning pipeline for automated identification of SERS hotspot regions from optical microscopy images (SHIN_ML). Compares Random Forest, RF-VFM, Attention U-Net, DINOv3 U-Net, and SAM-2 for binary hotspot segmentation. MSc Digital Chemistry project at University of Liverpool. ]]></title>
+        <id>https://github.com/Kinga-1/Raman-Hotspot-ML-Project</id>
+        <link href="https://github.com/Kinga-1/Raman-Hotspot-ML-Project"/>
+        <updated>2026-09-03T15:03:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118557809?v=4" width="64" height="64" alt=""/><br/><div>Machine learning pipeline for automated identification of SERS hotspot regions from optical microscopy images (SHIN_ML). Compares Random Forest, RF-VFM, Attention U-Net, DINOv3 U-Net, and SAM-2 for binary hotspot segmentation. MSc Digital Chemistry project at University of Liverpool. </div>]]></content>
+        <author>
+            <name>Kinga-1</name>
+            <email>Kinga-1@noreply.github.com</email>
+            <uri>https://github.com/Kinga-1</uri>
+        </author>
+        <published>2026-09-03T13:40:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mughees-Awaan/Dino_training_for_IST: We will first train the existing DINOv3 model to work better on agricultural imagery and the real positive/negative-click task, test whether the upgraded DINO is better on held-out reconstructed source groups, and then use that DINO as an offline teacher for a much faster MobileNet deployment model.]]></title>
+        <id>https://github.com/Mughees-Awaan/Dino_training_for_IST</id>
+        <link href="https://github.com/Mughees-Awaan/Dino_training_for_IST"/>
+        <updated>2026-09-03T13:42:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/174691317?v=4" width="64" height="64" alt=""/><br/><div>We will first train the existing DINOv3 model to work better on agricultural imagery and the real positive/negative-click task, test whether the upgraded DINO is better on held-out reconstructed source groups, and then use that DINO as an offline teacher for a much faster MobileNet deployment model.</div>]]></content>
+        <author>
+            <name>Mughees-Awaan</name>
+            <email>Mughees-Awaan@noreply.github.com</email>
+            <uri>https://github.com/Mughees-Awaan</uri>
+        </author>
+        <published>2026-08-26T18:13:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_one_shot_demo: Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model]]></title>
+        <id>https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo</id>
+        <link href="https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo"/>
+        <updated>2026-09-03T12:24:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4" width="64" height="64" alt=""/><br/><div>Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model</div>]]></content>
+        <author>
+            <name>IoT-gamer</name>
+            <email>IoT-gamer@noreply.github.com</email>
+            <uri>https://github.com/IoT-gamer</uri>
+        </author>
+        <published>2025-09-18T08:33:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HabibBekir/Vision-foundation-model-upsampling-for-downstream-tasks: This project explores DINOv3, a vision foundation model, and develops a novel feature upsampling method to improve its patch-level representations for pixel-level tasks such as semantic segmentation. The method will be trained on ImageNet and benchmarked against state-of-the-art approaches like FeatUp]]></title>
+        <id>https://github.com/HabibBekir/Vision-foundation-model-upsampling-for-downstream-tasks</id>
+        <link href="https://github.com/HabibBekir/Vision-foundation-model-upsampling-for-downstream-tasks"/>
+        <updated>2026-09-03T11:44:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106748906?u=ce58eef3abe1b6aa2ac5fcb4843cadc6b1ba817b&v=4" width="64" height="64" alt=""/><br/><div>This project explores DINOv3, a vision foundation model, and develops a novel feature upsampling method to improve its patch-level representations for pixel-level tasks such as semantic segmentation. The method will be trained on ImageNet and benchmarked against state-of-the-art approaches like FeatUp</div>]]></content>
+        <author>
+            <name>HabibBekir</name>
+            <email>HabibBekir@noreply.github.com</email>
+            <uri>https://github.com/HabibBekir</uri>
+        </author>
+        <published>2026-09-03T10:56:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[liuhb511/dinov3: dinov3 code]]></title>
+        <id>https://github.com/liuhb511/dinov3</id>
+        <link href="https://github.com/liuhb511/dinov3"/>
+        <updated>2026-09-03T09:24:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/162868687?v=4" width="64" height="64" alt=""/><br/><div>dinov3 code</div>]]></content>
+        <author>
+            <name>liuhb511</name>
+            <email>liuhb511@noreply.github.com</email>
+            <uri>https://github.com/liuhb511</uri>
+        </author>
+        <published>2026-08-24T08:17:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[baiding72/dinov3]]></title>
+        <id>https://github.com/baiding72/dinov3</id>
+        <link href="https://github.com/baiding72/dinov3"/>
+        <updated>2026-09-03T07:10:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>baiding72</name>
+            <email>baiding72@noreply.github.com</email>
+            <uri>https://github.com/baiding72</uri>
+        </author>
+        <published>2026-08-17T02:46:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[HHU-JialeChen/rs_sam3_dinov3: Remote‑sensing segmentation with finetuned sam3 and dinov3]]></title>
@@ -162,109 +266,5 @@
             <uri>https://github.com/vaibhavartsmaac-bot</uri>
         </author>
         <published>2026-09-02T06:57:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vaibhav06062005-ctrl/ai-model-timm-vit-base-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_base_patch16_dinov3.lvd1689m on Hugging Face]]></title>
-        <id>https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-base-patch16-dinov3.lvd1689m</id>
-        <link href="https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-base-patch16-dinov3.lvd1689m"/>
-        <updated>2026-09-02T06:20:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/315676240?u=95e1c3d5944ce53d49bcbebb53f00236e13bd4d9&v=4" width="64" height="64" alt=""/><br/><div>AI model catalog entry for timm/vit_base_patch16_dinov3.lvd1689m on Hugging Face</div>]]></content>
-        <author>
-            <name>vaibhav06062005-ctrl</name>
-            <email>vaibhav06062005-ctrl@noreply.github.com</email>
-            <uri>https://github.com/vaibhav06062005-ctrl</uri>
-        </author>
-        <published>2026-09-02T06:19:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vaibhavartsmaac-bot/ai-model-timm-vit-large-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face]]></title>
-        <id>https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-large-patch16-dinov3.lvd1689m</id>
-        <link href="https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-large-patch16-dinov3.lvd1689m"/>
-        <updated>2026-09-02T06:03:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4" width="64" height="64" alt=""/><br/><div>AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face</div>]]></content>
-        <author>
-            <name>vaibhavartsmaac-bot</name>
-            <email>vaibhavartsmaac-bot@noreply.github.com</email>
-            <uri>https://github.com/vaibhavartsmaac-bot</uri>
-        </author>
-        <published>2026-09-02T06:02:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vaibhav06062005-ctrl/ai-model-timm-vit-large-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face]]></title>
-        <id>https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-large-patch16-dinov3.lvd1689m</id>
-        <link href="https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-large-patch16-dinov3.lvd1689m"/>
-        <updated>2026-09-02T06:00:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/315676240?u=95e1c3d5944ce53d49bcbebb53f00236e13bd4d9&v=4" width="64" height="64" alt=""/><br/><div>AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face</div>]]></content>
-        <author>
-            <name>vaibhav06062005-ctrl</name>
-            <email>vaibhav06062005-ctrl@noreply.github.com</email>
-            <uri>https://github.com/vaibhav06062005-ctrl</uri>
-        </author>
-        <published>2026-09-02T06:00:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vaibhavartsmaac-bot/ai-model-timm-vit-small-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_small_patch16_dinov3.lvd1689m on Hugging Face]]></title>
-        <id>https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-small-patch16-dinov3.lvd1689m</id>
-        <link href="https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-small-patch16-dinov3.lvd1689m"/>
-        <updated>2026-09-02T05:27:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4" width="64" height="64" alt=""/><br/><div>AI model catalog entry for timm/vit_small_patch16_dinov3.lvd1689m on Hugging Face</div>]]></content>
-        <author>
-            <name>vaibhavartsmaac-bot</name>
-            <email>vaibhavartsmaac-bot@noreply.github.com</email>
-            <uri>https://github.com/vaibhavartsmaac-bot</uri>
-        </author>
-        <published>2026-09-02T05:26:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[liuhb511/dinov3: dinov3 code]]></title>
-        <id>https://github.com/liuhb511/dinov3</id>
-        <link href="https://github.com/liuhb511/dinov3"/>
-        <updated>2026-09-02T02:42:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/162868687?v=4" width="64" height="64" alt=""/><br/><div>dinov3 code</div>]]></content>
-        <author>
-            <name>liuhb511</name>
-            <email>liuhb511@noreply.github.com</email>
-            <uri>https://github.com/liuhb511</uri>
-        </author>
-        <published>2026-08-24T08:17:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[abarenblitt/CHM_DINOV3]]></title>
-        <id>https://github.com/abarenblitt/CHM_DINOV3</id>
-        <link href="https://github.com/abarenblitt/CHM_DINOV3"/>
-        <updated>2026-09-01T16:48:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51661735?u=28ad6608443de3e40153389160d611c06c874500&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>abarenblitt</name>
-            <email>abarenblitt@noreply.github.com</email>
-            <uri>https://github.com/abarenblitt</uri>
-        </author>
-        <published>2026-07-29T20:07:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lzyyy0-o/CLIP-DINOV3]]></title>
-        <id>https://github.com/lzyyy0-o/CLIP-DINOV3</id>
-        <link href="https://github.com/lzyyy0-o/CLIP-DINOV3"/>
-        <updated>2026-09-01T13:13:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/231433306?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>lzyyy0-o</name>
-            <email>lzyyy0-o@noreply.github.com</email>
-            <uri>https://github.com/lzyyy0-o</uri>
-        </author>
-        <published>2026-08-24T09:58:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vaibhavartsmaac-bot/ai-model-camenduru-dinov3-vitl16-pretrain-lvd1689m: AI model catalog entry for camenduru/dinov3-vitl16-pretrain-lvd1689m on Hugging Face]]></title>
-        <id>https://github.com/vaibhavartsmaac-bot/ai-model-camenduru-dinov3-vitl16-pretrain-lvd1689m</id>
-        <link href="https://github.com/vaibhavartsmaac-bot/ai-model-camenduru-dinov3-vitl16-pretrain-lvd1689m"/>
-        <updated>2026-09-01T12:14:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4" width="64" height="64" alt=""/><br/><div>AI model catalog entry for camenduru/dinov3-vitl16-pretrain-lvd1689m on Hugging Face</div>]]></content>
-        <author>
-            <name>vaibhavartsmaac-bot</name>
-            <email>vaibhavartsmaac-bot@noreply.github.com</email>
-            <uri>https://github.com/vaibhavartsmaac-bot</uri>
-        </author>
-        <published>2026-09-01T12:08:50.000Z</published>
     </entry>
 </feed>

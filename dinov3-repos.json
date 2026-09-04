@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-03T03:15:43.000Z",
+            "date_modified": "2026-09-04T03:15:00.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -20,11 +20,99 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
             "title": "lingshan2003/Dinov3txtforSAT",
-            "date_modified": "2026-09-03T02:58:57.000Z",
+            "date_modified": "2026-09-04T02:57:17.000Z",
             "date_published": "2026-09-02T14:23:59.000Z",
             "author": {
                 "name": "lingshan2003",
                 "url": "https://github.com/lingshan2003"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51661735?u=28ad6608443de3e40153389160d611c06c874500&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/abarenblitt/CHM_DINOV3",
+            "title": "abarenblitt/CHM_DINOV3",
+            "date_modified": "2026-09-03T20:03:18.000Z",
+            "date_published": "2026-07-29T20:07:19.000Z",
+            "author": {
+                "name": "abarenblitt",
+                "url": "https://github.com/abarenblitt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87066081?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Source and configuration files for dinov3-vit7b16-pretrain-lvd1689m</div>",
+            "url": "https://github.com/pavviktorn/dinov3-vit7b16-pretrain-lvd1689m",
+            "title": "pavviktorn/dinov3-vit7b16-pretrain-lvd1689m: Source and configuration files for dinov3-vit7b16-pretrain-lvd1689m",
+            "date_modified": "2026-09-03T15:58:40.000Z",
+            "date_published": "2026-09-03T15:30:46.000Z",
+            "author": {
+                "name": "pavviktorn",
+                "url": "https://github.com/pavviktorn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118557809?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Machine learning pipeline for automated identification of SERS hotspot regions from optical microscopy images (SHIN_ML). Compares Random Forest, RF-VFM, Attention U-Net, DINOv3 U-Net, and SAM-2 for binary hotspot segmentation. MSc Digital Chemistry project at University of Liverpool. </div>",
+            "url": "https://github.com/Kinga-1/Raman-Hotspot-ML-Project",
+            "title": "Kinga-1/Raman-Hotspot-ML-Project: Machine learning pipeline for automated identification of SERS hotspot regions from optical microscopy images (SHIN_ML). Compares Random Forest, RF-VFM, Attention U-Net, DINOv3 U-Net, and SAM-2 for binary hotspot segmentation. MSc Digital Chemistry project at University of Liverpool. ",
+            "date_modified": "2026-09-03T15:03:47.000Z",
+            "date_published": "2026-09-03T13:40:31.000Z",
+            "author": {
+                "name": "Kinga-1",
+                "url": "https://github.com/Kinga-1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174691317?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>We will first train the existing DINOv3 model to work better on agricultural imagery and the real positive/negative-click task, test whether the upgraded DINO is better on held-out reconstructed source groups, and then use that DINO as an offline teacher for a much faster MobileNet deployment model.</div>",
+            "url": "https://github.com/Mughees-Awaan/Dino_training_for_IST",
+            "title": "Mughees-Awaan/Dino_training_for_IST: We will first train the existing DINOv3 model to work better on agricultural imagery and the real positive/negative-click task, test whether the upgraded DINO is better on held-out reconstructed source groups, and then use that DINO as an offline teacher for a much faster MobileNet deployment model.",
+            "date_modified": "2026-09-03T13:42:31.000Z",
+            "date_published": "2026-08-26T18:13:57.000Z",
+            "author": {
+                "name": "Mughees-Awaan",
+                "url": "https://github.com/Mughees-Awaan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model</div>",
+            "url": "https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo",
+            "title": "IoT-gamer/flutter_dinov3_one_shot_demo: Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model",
+            "date_modified": "2026-09-03T12:24:05.000Z",
+            "date_published": "2025-09-18T08:33:33.000Z",
+            "author": {
+                "name": "IoT-gamer",
+                "url": "https://github.com/IoT-gamer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106748906?u=ce58eef3abe1b6aa2ac5fcb4843cadc6b1ba817b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project explores DINOv3, a vision foundation model, and develops a novel feature upsampling method to improve its patch-level representations for pixel-level tasks such as semantic segmentation. The method will be trained on ImageNet and benchmarked against state-of-the-art approaches like FeatUp</div>",
+            "url": "https://github.com/HabibBekir/Vision-foundation-model-upsampling-for-downstream-tasks",
+            "title": "HabibBekir/Vision-foundation-model-upsampling-for-downstream-tasks: This project explores DINOv3, a vision foundation model, and develops a novel feature upsampling method to improve its patch-level representations for pixel-level tasks such as semantic segmentation. The method will be trained on ImageNet and benchmarked against state-of-the-art approaches like FeatUp",
+            "date_modified": "2026-09-03T11:44:03.000Z",
+            "date_published": "2026-09-03T10:56:51.000Z",
+            "author": {
+                "name": "HabibBekir",
+                "url": "https://github.com/HabibBekir"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
+            "url": "https://github.com/liuhb511/dinov3",
+            "title": "liuhb511/dinov3: dinov3 code",
+            "date_modified": "2026-09-03T09:24:06.000Z",
+            "date_published": "2026-08-24T08:17:00.000Z",
+            "author": {
+                "name": "liuhb511",
+                "url": "https://github.com/liuhb511"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/baiding72/dinov3",
+            "title": "baiding72/dinov3",
+            "date_modified": "2026-09-03T07:10:26.000Z",
+            "date_published": "2026-08-17T02:46:56.000Z",
+            "author": {
+                "name": "baiding72",
+                "url": "https://github.com/baiding72"
             }
         },
         {
@@ -132,94 +220,6 @@
             "title": "vaibhavartsmaac-bot/ai-model-timm-vit-base-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_base_patch16_dinov3.lvd1689m on Hugging Face",
             "date_modified": "2026-09-02T06:58:04.000Z",
             "date_published": "2026-09-02T06:57:30.000Z",
-            "author": {
-                "name": "vaibhavartsmaac-bot",
-                "url": "https://github.com/vaibhavartsmaac-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315676240?u=95e1c3d5944ce53d49bcbebb53f00236e13bd4d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_base_patch16_dinov3.lvd1689m on Hugging Face</div>",
-            "url": "https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-base-patch16-dinov3.lvd1689m",
-            "title": "vaibhav06062005-ctrl/ai-model-timm-vit-base-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_base_patch16_dinov3.lvd1689m on Hugging Face",
-            "date_modified": "2026-09-02T06:20:31.000Z",
-            "date_published": "2026-09-02T06:19:09.000Z",
-            "author": {
-                "name": "vaibhav06062005-ctrl",
-                "url": "https://github.com/vaibhav06062005-ctrl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face</div>",
-            "url": "https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-large-patch16-dinov3.lvd1689m",
-            "title": "vaibhavartsmaac-bot/ai-model-timm-vit-large-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face",
-            "date_modified": "2026-09-02T06:03:51.000Z",
-            "date_published": "2026-09-02T06:02:47.000Z",
-            "author": {
-                "name": "vaibhavartsmaac-bot",
-                "url": "https://github.com/vaibhavartsmaac-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315676240?u=95e1c3d5944ce53d49bcbebb53f00236e13bd4d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face</div>",
-            "url": "https://github.com/vaibhav06062005-ctrl/ai-model-timm-vit-large-patch16-dinov3.lvd1689m",
-            "title": "vaibhav06062005-ctrl/ai-model-timm-vit-large-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_large_patch16_dinov3.lvd1689m on Hugging Face",
-            "date_modified": "2026-09-02T06:00:50.000Z",
-            "date_published": "2026-09-02T06:00:16.000Z",
-            "author": {
-                "name": "vaibhav06062005-ctrl",
-                "url": "https://github.com/vaibhav06062005-ctrl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for timm/vit_small_patch16_dinov3.lvd1689m on Hugging Face</div>",
-            "url": "https://github.com/vaibhavartsmaac-bot/ai-model-timm-vit-small-patch16-dinov3.lvd1689m",
-            "title": "vaibhavartsmaac-bot/ai-model-timm-vit-small-patch16-dinov3.lvd1689m: AI model catalog entry for timm/vit_small_patch16_dinov3.lvd1689m on Hugging Face",
-            "date_modified": "2026-09-02T05:27:21.000Z",
-            "date_published": "2026-09-02T05:26:34.000Z",
-            "author": {
-                "name": "vaibhavartsmaac-bot",
-                "url": "https://github.com/vaibhavartsmaac-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
-            "url": "https://github.com/liuhb511/dinov3",
-            "title": "liuhb511/dinov3: dinov3 code",
-            "date_modified": "2026-09-02T02:42:33.000Z",
-            "date_published": "2026-08-24T08:17:00.000Z",
-            "author": {
-                "name": "liuhb511",
-                "url": "https://github.com/liuhb511"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51661735?u=28ad6608443de3e40153389160d611c06c874500&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/abarenblitt/CHM_DINOV3",
-            "title": "abarenblitt/CHM_DINOV3",
-            "date_modified": "2026-09-01T16:48:38.000Z",
-            "date_published": "2026-07-29T20:07:19.000Z",
-            "author": {
-                "name": "abarenblitt",
-                "url": "https://github.com/abarenblitt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231433306?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/lzyyy0-o/CLIP-DINOV3",
-            "title": "lzyyy0-o/CLIP-DINOV3",
-            "date_modified": "2026-09-01T13:13:28.000Z",
-            "date_published": "2026-08-24T09:58:22.000Z",
-            "author": {
-                "name": "lzyyy0-o",
-                "url": "https://github.com/lzyyy0-o"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/319346192?u=47ec797de2f6935ea526ad7400dab271750ec999&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI model catalog entry for camenduru/dinov3-vitl16-pretrain-lvd1689m on Hugging Face</div>",
-            "url": "https://github.com/vaibhavartsmaac-bot/ai-model-camenduru-dinov3-vitl16-pretrain-lvd1689m",
-            "title": "vaibhavartsmaac-bot/ai-model-camenduru-dinov3-vitl16-pretrain-lvd1689m: AI model catalog entry for camenduru/dinov3-vitl16-pretrain-lvd1689m on Hugging Face",
-            "date_modified": "2026-09-01T12:14:25.000Z",
-            "date_published": "2026-09-01T12:08:50.000Z",
             "author": {
                 "name": "vaibhavartsmaac-bot",
                 "url": "https://github.com/vaibhavartsmaac-bot"
