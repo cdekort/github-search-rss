@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-09-05T03:20:20.177Z</updated>
+    <updated>2026-09-06T03:20:04.757Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-09-05T03:17:19.000Z</updated>
+        <updated>2026-09-06T03:19:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -21,10 +21,127 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
+        <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
+        <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
+        <updated>2026-09-06T00:38:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>lingshan2003</name>
+            <email>lingshan2003@noreply.github.com</email>
+            <uri>https://github.com/lingshan2003</uri>
+        </author>
+        <published>2026-09-02T14:23:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[junyi2005/signdino: SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation]]></title>
+        <id>https://github.com/junyi2005/signdino</id>
+        <link href="https://github.com/junyi2005/signdino"/>
+        <updated>2026-09-05T22:37:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/214130794?v=4" width="64" height="64" alt=""/><br/><div>SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation</div>]]></content>
+        <author>
+            <name>junyi2005</name>
+            <email>junyi2005@noreply.github.com</email>
+            <uri>https://github.com/junyi2005</uri>
+        </author>
+        <published>2026-09-05T18:48:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ikramechennouf2023-maker/earthquake-damage-assessment: Building damage detection and classification from satellite imagery using DINOv3-UperNet, evaluated on xBD dataset and applied to the 2023 Al Haouz earthquake (Morocco) — internship project at FSEC]]></title>
+        <id>https://github.com/ikramechennouf2023-maker/earthquake-damage-assessment</id>
+        <link href="https://github.com/ikramechennouf2023-maker/earthquake-damage-assessment"/>
+        <updated>2026-09-05T21:30:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/234921498?u=5428787b23c37fce34d1ca47da1b46cf8d2506c4&v=4" width="64" height="64" alt=""/><br/><div>Building damage detection and classification from satellite imagery using DINOv3-UperNet, evaluated on xBD dataset and applied to the 2023 Al Haouz earthquake (Morocco) — internship project at FSEC</div>]]></content>
+        <author>
+            <name>ikramechennouf2023-maker</name>
+            <email>ikramechennouf2023-maker@noreply.github.com</email>
+            <uri>https://github.com/ikramechennouf2023-maker</uri>
+        </author>
+        <published>2026-09-05T21:30:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MathavanKanesh/Evaluating-DinoV3-model]]></title>
+        <id>https://github.com/MathavanKanesh/Evaluating-DinoV3-model</id>
+        <link href="https://github.com/MathavanKanesh/Evaluating-DinoV3-model"/>
+        <updated>2026-09-05T18:56:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/227476378?u=2d21af30af3abc7f2595157028a13d6146c7ddb8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>MathavanKanesh</name>
+            <email>MathavanKanesh@noreply.github.com</email>
+            <uri>https://github.com/MathavanKanesh</uri>
+        </author>
+        <published>2026-09-05T18:56:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imran-Ali-Soomro/AutoLabler: AI-powered image annotation tool: YOLO11, YOLO-World, SAM, SAM2, DINOv3 behind a FastAPI backend with a React labeling UI.]]></title>
+        <id>https://github.com/Imran-Ali-Soomro/AutoLabler</id>
+        <link href="https://github.com/Imran-Ali-Soomro/AutoLabler"/>
+        <updated>2026-09-05T18:29:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64371342?u=61538604639e11d9d8eea031d36aee73fcddf595&v=4" width="64" height="64" alt=""/><br/><div>AI-powered image annotation tool: YOLO11, YOLO-World, SAM, SAM2, DINOv3 behind a FastAPI backend with a React labeling UI.</div>]]></content>
+        <author>
+            <name>Imran-Ali-Soomro</name>
+            <email>Imran-Ali-Soomro@noreply.github.com</email>
+            <uri>https://github.com/Imran-Ali-Soomro</uri>
+        </author>
+        <published>2026-09-05T17:32:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/worldmodel-inference-optimisation: TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.]]></title>
+        <id>https://github.com/sebspel/worldmodel-inference-optimisation</id>
+        <link href="https://github.com/sebspel/worldmodel-inference-optimisation"/>
+        <updated>2026-09-05T16:50:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>TensorRT inference optimisation study of two Push-T world models (LeWM vs DINOv3-WM): planning-latency, GPU-memory, and task-quality benchmarks across FP32→FP16→INT8→FP8 on an L40S.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gniquyp/Dinov3-sat]]></title>
+        <id>https://github.com/Gniquyp/Dinov3-sat</id>
+        <link href="https://github.com/Gniquyp/Dinov3-sat"/>
+        <updated>2026-09-05T15:46:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/308777872?u=075d98f6bcb514ccc5c05be2fcde3ffc2d0c067e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Gniquyp</name>
+            <email>Gniquyp@noreply.github.com</email>
+            <uri>https://github.com/Gniquyp</uri>
+        </author>
+        <published>2026-07-27T14:05:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ayushcoder894/RARE26-Robust-DINOv3: Frozen DINOv3 ViT-L linear-probe method and Grand Challenge container for RARE26 Barrett's neoplasia recognition]]></title>
+        <id>https://github.com/ayushcoder894/RARE26-Robust-DINOv3</id>
+        <link href="https://github.com/ayushcoder894/RARE26-Robust-DINOv3"/>
+        <updated>2026-09-05T07:16:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180160500?v=4" width="64" height="64" alt=""/><br/><div>Frozen DINOv3 ViT-L linear-probe method and Grand Challenge container for RARE26 Barrett's neoplasia recognition</div>]]></content>
+        <author>
+            <name>ayushcoder894</name>
+            <email>ayushcoder894@noreply.github.com</email>
+            <uri>https://github.com/ayushcoder894</uri>
+        </author>
+        <published>2026-09-05T07:15:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kevin060110/DINOv3-PSPNet-VOC2012: Semantic segmentation on PASCAL VOC2012 using DINOv3 ViT-S/16 and PSPNet]]></title>
+        <id>https://github.com/Kevin060110/DINOv3-PSPNet-VOC2012</id>
+        <link href="https://github.com/Kevin060110/DINOv3-PSPNet-VOC2012"/>
+        <updated>2026-09-05T05:04:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/207675136?v=4" width="64" height="64" alt=""/><br/><div>Semantic segmentation on PASCAL VOC2012 using DINOv3 ViT-S/16 and PSPNet</div>]]></content>
+        <author>
+            <name>Kevin060110</name>
+            <email>Kevin060110@noreply.github.com</email>
+            <uri>https://github.com/Kevin060110</uri>
+        </author>
+        <published>2026-09-05T04:46:27.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PINTO0309/YawNet: YawNet: Full-circle head-yaw regression via biternion (cos/sin) + von Mises κ, DINOv3 teacher-student distillation on a purely synthetic 42k dataset.]]></title>
         <id>https://github.com/PINTO0309/YawNet</id>
         <link href="https://github.com/PINTO0309/YawNet"/>
-        <updated>2026-09-05T03:07:04.000Z</updated>
+        <updated>2026-09-05T17:14:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>YawNet: Full-circle head-yaw regression via biternion (cos/sin) + von Mises κ, DINOv3 teacher-student distillation on a purely synthetic 42k dataset.</div>]]></content>
         <author>
             <name>PINTO0309</name>
@@ -58,19 +175,6 @@
             <uri>https://github.com/zacharydenton</uri>
         </author>
         <published>2026-09-04T13:22:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
-        <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
-        <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
-        <updated>2026-09-04T14:11:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>lingshan2003</name>
-            <email>lingshan2003@noreply.github.com</email>
-            <uri>https://github.com/lingshan2003</uri>
-        </author>
-        <published>2026-09-02T14:23:59.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Irennnne/DINOv3-IML: DINOv3 Beats Specialized Detectors: A Simple Foundation Model Baseline for Image Forensics]]></title>
@@ -162,109 +266,5 @@
             <uri>https://github.com/Kinga-1</uri>
         </author>
         <published>2026-09-03T13:40:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mughees-Awaan/Dino_training_for_IST: We will first train the existing DINOv3 model to work better on agricultural imagery and the real positive/negative-click task, test whether the upgraded DINO is better on held-out reconstructed source groups, and then use that DINO as an offline teacher for a much faster MobileNet deployment model.]]></title>
-        <id>https://github.com/Mughees-Awaan/Dino_training_for_IST</id>
-        <link href="https://github.com/Mughees-Awaan/Dino_training_for_IST"/>
-        <updated>2026-09-03T13:42:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/174691317?v=4" width="64" height="64" alt=""/><br/><div>We will first train the existing DINOv3 model to work better on agricultural imagery and the real positive/negative-click task, test whether the upgraded DINO is better on held-out reconstructed source groups, and then use that DINO as an offline teacher for a much faster MobileNet deployment model.</div>]]></content>
-        <author>
-            <name>Mughees-Awaan</name>
-            <email>Mughees-Awaan@noreply.github.com</email>
-            <uri>https://github.com/Mughees-Awaan</uri>
-        </author>
-        <published>2026-08-26T18:13:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_one_shot_demo: Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model]]></title>
-        <id>https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo</id>
-        <link href="https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo"/>
-        <updated>2026-09-03T12:24:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4" width="64" height="64" alt=""/><br/><div>Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model</div>]]></content>
-        <author>
-            <name>IoT-gamer</name>
-            <email>IoT-gamer@noreply.github.com</email>
-            <uri>https://github.com/IoT-gamer</uri>
-        </author>
-        <published>2025-09-18T08:33:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HabibBekir/Vision-foundation-model-upsampling-for-downstream-tasks: This project explores DINOv3, a vision foundation model, and develops a novel feature upsampling method to improve its patch-level representations for pixel-level tasks such as semantic segmentation. The method will be trained on ImageNet and benchmarked against state-of-the-art approaches like FeatUp]]></title>
-        <id>https://github.com/HabibBekir/Vision-foundation-model-upsampling-for-downstream-tasks</id>
-        <link href="https://github.com/HabibBekir/Vision-foundation-model-upsampling-for-downstream-tasks"/>
-        <updated>2026-09-03T11:44:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106748906?u=ce58eef3abe1b6aa2ac5fcb4843cadc6b1ba817b&v=4" width="64" height="64" alt=""/><br/><div>This project explores DINOv3, a vision foundation model, and develops a novel feature upsampling method to improve its patch-level representations for pixel-level tasks such as semantic segmentation. The method will be trained on ImageNet and benchmarked against state-of-the-art approaches like FeatUp</div>]]></content>
-        <author>
-            <name>HabibBekir</name>
-            <email>HabibBekir@noreply.github.com</email>
-            <uri>https://github.com/HabibBekir</uri>
-        </author>
-        <published>2026-09-03T10:56:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[liuhb511/dinov3: dinov3 code]]></title>
-        <id>https://github.com/liuhb511/dinov3</id>
-        <link href="https://github.com/liuhb511/dinov3"/>
-        <updated>2026-09-03T09:24:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/162868687?v=4" width="64" height="64" alt=""/><br/><div>dinov3 code</div>]]></content>
-        <author>
-            <name>liuhb511</name>
-            <email>liuhb511@noreply.github.com</email>
-            <uri>https://github.com/liuhb511</uri>
-        </author>
-        <published>2026-08-24T08:17:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[baiding72/dinov3]]></title>
-        <id>https://github.com/baiding72/dinov3</id>
-        <link href="https://github.com/baiding72/dinov3"/>
-        <updated>2026-09-03T07:10:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>baiding72</name>
-            <email>baiding72@noreply.github.com</email>
-            <uri>https://github.com/baiding72</uri>
-        </author>
-        <published>2026-08-17T02:46:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HHU-JialeChen/rs_sam3_dinov3: Remote‑sensing segmentation with finetuned sam3 and dinov3]]></title>
-        <id>https://github.com/HHU-JialeChen/rs_sam3_dinov3</id>
-        <link href="https://github.com/HHU-JialeChen/rs_sam3_dinov3"/>
-        <updated>2026-09-03T01:09:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/204633871?u=c4b767518318e9f752da117aca44c313725cf24d&v=4" width="64" height="64" alt=""/><br/><div>Remote‑sensing segmentation with finetuned sam3 and dinov3</div>]]></content>
-        <author>
-            <name>HHU-JialeChen</name>
-            <email>HHU-JialeChen@noreply.github.com</email>
-            <uri>https://github.com/HHU-JialeChen</uri>
-        </author>
-        <published>2026-09-03T01:06:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[omariosc/rare26-aims: AIMS-R30: DINOv3 LoRA ensemble for Barrett's neoplasia detection. RARE 2026 challenge submission, University of Leeds.]]></title>
-        <id>https://github.com/omariosc/rare26-aims</id>
-        <link href="https://github.com/omariosc/rare26-aims"/>
-        <updated>2026-09-02T21:51:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71817542?u=7d86bcc8e690617def6c1ed2b8abc4eaccbc2c12&v=4" width="64" height="64" alt=""/><br/><div>AIMS-R30: DINOv3 LoRA ensemble for Barrett's neoplasia detection. RARE 2026 challenge submission, University of Leeds.</div>]]></content>
-        <author>
-            <name>omariosc</name>
-            <email>omariosc@noreply.github.com</email>
-            <uri>https://github.com/omariosc</uri>
-        </author>
-        <published>2026-09-02T19:24:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[michalprusek/Exemplar: Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.]]></title>
-        <id>https://github.com/michalprusek/Exemplar</id>
-        <link href="https://github.com/michalprusek/Exemplar"/>
-        <updated>2026-09-02T18:40:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4" width="64" height="64" alt=""/><br/><div>Few-shot biomedical image segmentation from ~8 masks: frozen DINOv3 + a bank of classical native-resolution priors, fused in one light head. ISBI 2027 reference implementation.</div>]]></content>
-        <author>
-            <name>michalprusek</name>
-            <email>michalprusek@noreply.github.com</email>
-            <uri>https://github.com/michalprusek</uri>
-        </author>
-        <published>2026-07-22T14:40:53.000Z</published>
     </entry>
 </feed>
