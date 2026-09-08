@@ -9,11 +9,99 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-07T03:17:57.000Z",
+            "date_modified": "2026-09-08T03:24:55.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188662411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-label classifier predicting which formal attributes (composition/color/line/brushstroke/light) of an artwork are salient emotion cues - FAB-G Salience Extension</div>",
+            "url": "https://github.com/Sv-Arcode/fab-g-salience-classifier",
+            "title": "Sv-Arcode/fab-g-salience-classifier: Multi-label classifier predicting which formal attributes (composition/color/line/brushstroke/light) of an artwork are salient emotion cues - FAB-G Salience Extension",
+            "date_modified": "2026-09-07T14:31:03.000Z",
+            "date_published": "2026-09-07T14:19:00.000Z",
+            "author": {
+                "name": "Sv-Arcode",
+                "url": "https://github.com/Sv-Arcode"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188662411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fine-tune SigLIP2 &amp; DINOv3 for joint arousal / valence / emotion classification on 5,532 annotated artworks (EmoArt-5k), with a shared split, imbalance-aware losses and full eval pipeline.</div>",
+            "url": "https://github.com/Sv-Arcode/emoart-multitask",
+            "title": "Sv-Arcode/emoart-multitask: Fine-tune SigLIP2 & DINOv3 for joint arousal / valence / emotion classification on 5,532 annotated artworks (EmoArt-5k), with a shared split, imbalance-aware losses and full eval pipeline.",
+            "date_modified": "2026-09-07T13:57:02.000Z",
+            "date_published": "2026-09-07T13:51:45.000Z",
+            "author": {
+                "name": "Sv-Arcode",
+                "url": "https://github.com/Sv-Arcode"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ViT-S+/16 forward pass hand-written in AMD's Loom kernel language for gfx1151 (Radeon 8060S)</div>",
+            "url": "https://github.com/zacharydenton/dinov3-loom",
+            "title": "zacharydenton/dinov3-loom: DINOv3 ViT-S+/16 forward pass hand-written in AMD's Loom kernel language for gfx1151 (Radeon 8060S)",
+            "date_modified": "2026-09-07T10:18:25.000Z",
+            "date_published": "2026-09-04T13:22:58.000Z",
+            "author": {
+                "name": "zacharydenton",
+                "url": "https://github.com/zacharydenton"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
+            "title": "lingshan2003/Dinov3txtforSAT",
+            "date_modified": "2026-09-07T09:14:16.000Z",
+            "date_published": "2026-09-02T14:23:59.000Z",
+            "author": {
+                "name": "lingshan2003",
+                "url": "https://github.com/lingshan2003"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47831888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>",
+            "url": "https://github.com/Brezemil/_trainer_lightly",
+            "title": "Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers",
+            "date_modified": "2026-09-07T07:23:31.000Z",
+            "date_published": "2026-06-19T20:02:09.000Z",
+            "author": {
+                "name": "Brezemil",
+                "url": "https://github.com/Brezemil"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
+            "title": "JeonHaneul/2D-PDM_DINOv3",
+            "date_modified": "2026-09-07T07:17:46.000Z",
+            "date_published": "2026-07-15T08:27:58.000Z",
+            "author": {
+                "name": "JeonHaneul",
+                "url": "https://github.com/JeonHaneul"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/210314661?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AkiyamaMizuki423/AD-DINOV3-Zero-shot-Industrial-Anomaly-Detection-Ampace2026.8",
+            "title": "AkiyamaMizuki423/AD-DINOV3-Zero-shot-Industrial-Anomaly-Detection-Ampace2026.8",
+            "date_modified": "2026-09-07T06:33:08.000Z",
+            "date_published": "2026-09-07T06:33:07.000Z",
+            "author": {
+                "name": "AkiyamaMizuki423",
+                "url": "https://github.com/AkiyamaMizuki423"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214130794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation</div>",
+            "url": "https://github.com/junyi2005/signdino",
+            "title": "junyi2005/signdino: SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation",
+            "date_modified": "2026-09-07T03:54:33.000Z",
+            "date_published": "2026-09-05T18:48:45.000Z",
+            "author": {
+                "name": "junyi2005",
+                "url": "https://github.com/junyi2005"
             }
         },
         {
@@ -47,28 +135,6 @@
             "author": {
                 "name": "notsong",
                 "url": "https://github.com/notsong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
-            "title": "lingshan2003/Dinov3txtforSAT",
-            "date_modified": "2026-09-06T00:38:14.000Z",
-            "date_published": "2026-09-02T14:23:59.000Z",
-            "author": {
-                "name": "lingshan2003",
-                "url": "https://github.com/lingshan2003"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214130794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation</div>",
-            "url": "https://github.com/junyi2005/signdino",
-            "title": "junyi2005/signdino: SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation",
-            "date_modified": "2026-09-05T22:37:08.000Z",
-            "date_published": "2026-09-05T18:48:45.000Z",
-            "author": {
-                "name": "junyi2005",
-                "url": "https://github.com/junyi2005"
             }
         },
         {
@@ -152,77 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>YawNet: Full-circle head-yaw regression via biternion (cos/sin) + von Mises κ, DINOv3 teacher-student distillation on a purely synthetic 42k dataset.</div>",
             "url": "https://github.com/PINTO0309/YawNet",
             "title": "PINTO0309/YawNet: YawNet: Full-circle head-yaw regression via biternion (cos/sin) + von Mises κ, DINOv3 teacher-student distillation on a purely synthetic 42k dataset.",
-            "date_modified": "2026-09-06T13:39:51.000Z",
+            "date_modified": "2026-09-08T02:23:49.000Z",
             "date_published": "2026-09-05T00:08:29.000Z",
             "author": {
                 "name": "PINTO0309",
                 "url": "https://github.com/PINTO0309"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87066081?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Source and configuration files for dinov3-vit7b16-pretrain-lvd1689m</div>",
-            "url": "https://github.com/pavviktorn/dinov3-vit7b16-pretrain-lvd1689m",
-            "title": "pavviktorn/dinov3-vit7b16-pretrain-lvd1689m: Source and configuration files for dinov3-vit7b16-pretrain-lvd1689m",
-            "date_modified": "2026-09-04T17:32:43.000Z",
-            "date_published": "2026-09-03T15:30:46.000Z",
-            "author": {
-                "name": "pavviktorn",
-                "url": "https://github.com/pavviktorn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ViT-S+/16 forward pass hand-written in AMD's Loom kernel language for gfx1151 (Radeon 8060S)</div>",
-            "url": "https://github.com/zacharydenton/dinov3-loom",
-            "title": "zacharydenton/dinov3-loom: DINOv3 ViT-S+/16 forward pass hand-written in AMD's Loom kernel language for gfx1151 (Radeon 8060S)",
-            "date_modified": "2026-09-04T15:34:06.000Z",
-            "date_published": "2026-09-04T13:22:58.000Z",
-            "author": {
-                "name": "zacharydenton",
-                "url": "https://github.com/zacharydenton"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99130111?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 Beats Specialized Detectors: A Simple Foundation Model Baseline for Image Forensics</div>",
-            "url": "https://github.com/Irennnne/DINOv3-IML",
-            "title": "Irennnne/DINOv3-IML: DINOv3 Beats Specialized Detectors: A Simple Foundation Model Baseline for Image Forensics",
-            "date_modified": "2026-09-04T12:13:02.000Z",
-            "date_published": "2026-04-14T09:06:01.000Z",
-            "author": {
-                "name": "Irennnne",
-                "url": "https://github.com/Irennnne"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/324360072?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3_MVTEC-DATASET-BACKGROUN-REMOVE</div>",
-            "url": "https://github.com/hyderr1/DINOv3_MVTEC-DATASET-BACKGROUN-REMOVE",
-            "title": "hyderr1/DINOv3_MVTEC-DATASET-BACKGROUN-REMOVE: DINOv3_MVTEC-DATASET-BACKGROUN-REMOVE",
-            "date_modified": "2026-09-04T07:38:25.000Z",
-            "date_published": "2026-09-04T07:25:42.000Z",
-            "author": {
-                "name": "hyderr1",
-                "url": "https://github.com/hyderr1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96578295?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 + Mask2Former organic fusion for lunar linear structures instance segmentation</div>",
-            "url": "https://github.com/Zsammond/lunar-linear-structure-segmentation",
-            "title": "Zsammond/lunar-linear-structure-segmentation: DINOv3 + Mask2Former organic fusion for lunar linear structures instance segmentation",
-            "date_modified": "2026-09-04T07:05:17.000Z",
-            "date_published": "2026-09-04T07:04:39.000Z",
-            "author": {
-                "name": "Zsammond",
-                "url": "https://github.com/Zsammond"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68293964?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-guided finetuning and multi-channel extensions for RAM (Reconstruct Anything Model). MSc thesis project, University of Bristol.</div>",
-            "url": "https://github.com/rohan-crypto/ram-dino-multichannel",
-            "title": "rohan-crypto/ram-dino-multichannel: DINOv3-guided finetuning and multi-channel extensions for RAM (Reconstruct Anything Model). MSc thesis project, University of Bristol.",
-            "date_modified": "2026-09-04T05:20:34.000Z",
-            "date_published": "2026-09-04T05:09:04.000Z",
-            "author": {
-                "name": "rohan-crypto",
-                "url": "https://github.com/rohan-crypto"
             }
         }
     ]
