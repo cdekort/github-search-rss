@@ -2,16 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-09-09T03:29:11.859Z</updated>
+    <updated>2026-09-10T03:27:32.204Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
+        <id>https://github.com/tomgrizz/ganaraska-live</id>
+        <link href="https://github.com/tomgrizz/ganaraska-live"/>
+        <updated>2026-09-10T03:20:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
+        <author>
+            <name>tomgrizz</name>
+            <email>tomgrizz@noreply.github.com</email>
+            <uri>https://github.com/tomgrizz</uri>
+        </author>
+        <published>2026-08-25T14:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ver0810/yolov8-dinov3]]></title>
+        <id>https://github.com/ver0810/yolov8-dinov3</id>
+        <link href="https://github.com/ver0810/yolov8-dinov3"/>
+        <updated>2026-09-10T02:52:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53964268?u=5e7d8bf61946faa49f540c33c076dc51509ff5fd&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ver0810</name>
+            <email>ver0810@noreply.github.com</email>
+            <uri>https://github.com/ver0810</uri>
+        </author>
+        <published>2026-07-15T08:53:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GrumpyPanda98/CardScope-Pokemon-Recognition: CardScope: DINOv3 image retrieval and recognition research for Japanese Pokemon cards, with an interactive card-type embedding map.]]></title>
+        <id>https://github.com/GrumpyPanda98/CardScope-Pokemon-Recognition</id>
+        <link href="https://github.com/GrumpyPanda98/CardScope-Pokemon-Recognition"/>
+        <updated>2026-09-10T02:42:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63777030?u=68f3c5184153ddb7ba208ddd86f3ce367604ebe0&v=4" width="64" height="64" alt=""/><br/><div>CardScope: DINOv3 image retrieval and recognition research for Japanese Pokemon cards, with an interactive card-type embedding map.</div>]]></content>
+        <author>
+            <name>GrumpyPanda98</name>
+            <email>GrumpyPanda98@noreply.github.com</email>
+            <uri>https://github.com/GrumpyPanda98</uri>
+        </author>
+        <published>2026-05-09T21:29:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chasehejtmanek-cmyk/boss: BOSS: street-level parkour spot detector (DINOv3 ViT-B/16 fine-tune, 5-fold ensemble). Built with DINOv3.]]></title>
+        <id>https://github.com/chasehejtmanek-cmyk/boss</id>
+        <link href="https://github.com/chasehejtmanek-cmyk/boss"/>
+        <updated>2026-09-10T02:15:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/266269567?v=4" width="64" height="64" alt=""/><br/><div>BOSS: street-level parkour spot detector (DINOv3 ViT-B/16 fine-tune, 5-fold ensemble). Built with DINOv3.</div>]]></content>
+        <author>
+            <name>chasehejtmanek-cmyk</name>
+            <email>chasehejtmanek-cmyk@noreply.github.com</email>
+            <uri>https://github.com/chasehejtmanek-cmyk</uri>
+        </author>
+        <published>2026-09-10T02:05:21.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
         <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
         <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
-        <updated>2026-09-09T03:22:31.000Z</updated>
+        <updated>2026-09-10T02:14:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>lingshan2003</name>
@@ -19,6 +71,45 @@
             <uri>https://github.com/lingshan2003</uri>
         </author>
         <published>2026-09-02T14:23:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sellaro-net/backremove: Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.]]></title>
+        <id>https://github.com/sellaro-net/backremove</id>
+        <link href="https://github.com/sellaro-net/backremove"/>
+        <updated>2026-09-09T19:32:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/325402715?v=4" width="64" height="64" alt=""/><br/><div>Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.</div>]]></content>
+        <author>
+            <name>sellaro-net</name>
+            <email>sellaro-net@noreply.github.com</email>
+            <uri>https://github.com/sellaro-net</uri>
+        </author>
+        <published>2026-02-15T11:40:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[longxiang-ai/TransNormal: Official implementation of "TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.]]></title>
+        <id>https://github.com/longxiang-ai/TransNormal</id>
+        <link href="https://github.com/longxiang-ai/TransNormal"/>
+        <updated>2026-09-09T13:28:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68198130?u=6a9b87af1d8b6a5686fe1af7451d13c7cb0f4d13&v=4" width="64" height="64" alt=""/><br/><div>Official implementation of "TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.</div>]]></content>
+        <author>
+            <name>longxiang-ai</name>
+            <email>longxiang-ai@noreply.github.com</email>
+            <uri>https://github.com/longxiang-ai</uri>
+        </author>
+        <published>2026-01-30T05:10:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kohillyang/AxisQuant: INT8 inference engines for vision transformers (SAM 2.1, SAM 3, DINOv3, ViT, DeiT): free-axis scales, producer-fused quantization, in-register rotation. 1.2-2x TensorRT FP16, lossless at W8A8.]]></title>
+        <id>https://github.com/kohillyang/AxisQuant</id>
+        <link href="https://github.com/kohillyang/AxisQuant"/>
+        <updated>2026-09-09T03:53:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7751507?v=4" width="64" height="64" alt=""/><br/><div>INT8 inference engines for vision transformers (SAM 2.1, SAM 3, DINOv3, ViT, DeiT): free-axis scales, producer-fused quantization, in-register rotation. 1.2-2x TensorRT FP16, lossless at W8A8.</div>]]></content>
+        <author>
+            <name>kohillyang</name>
+            <email>kohillyang@noreply.github.com</email>
+            <uri>https://github.com/kohillyang</uri>
+        </author>
+        <published>2026-09-09T03:44:54.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[liuhb511/dinov3: dinov3 code]]></title>
@@ -32,32 +123,6 @@
             <uri>https://github.com/liuhb511</uri>
         </author>
         <published>2026-08-24T08:17:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sellaro-net/backremove: Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.]]></title>
-        <id>https://github.com/sellaro-net/backremove</id>
-        <link href="https://github.com/sellaro-net/backremove"/>
-        <updated>2026-09-08T22:38:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/325402715?v=4" width="64" height="64" alt=""/><br/><div>Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.</div>]]></content>
-        <author>
-            <name>sellaro-net</name>
-            <email>sellaro-net@noreply.github.com</email>
-            <uri>https://github.com/sellaro-net</uri>
-        </author>
-        <published>2026-02-15T11:40:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
-        <id>https://github.com/tomgrizz/ganaraska-live</id>
-        <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-09-08T21:24:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
-        <author>
-            <name>tomgrizz</name>
-            <email>tomgrizz@noreply.github.com</email>
-            <uri>https://github.com/tomgrizz</uri>
-        </author>
-        <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[chenxi639/dinov3_pspnet]]></title>
@@ -97,19 +162,6 @@
             <uri>https://github.com/Yilyyy</uri>
         </author>
         <published>2026-07-29T00:32:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ver0810/yolov8-dinov3]]></title>
-        <id>https://github.com/ver0810/yolov8-dinov3</id>
-        <link href="https://github.com/ver0810/yolov8-dinov3"/>
-        <updated>2026-09-08T07:10:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53964268?u=5e7d8bf61946faa49f540c33c076dc51509ff5fd&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ver0810</name>
-            <email>ver0810@noreply.github.com</email>
-            <uri>https://github.com/ver0810</uri>
-        </author>
-        <published>2026-07-15T08:53:37.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
@@ -214,57 +266,5 @@
             <uri>https://github.com/AkiyamaMizuki423</uri>
         </author>
         <published>2026-09-07T06:33:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[junyi2005/signdino: SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation]]></title>
-        <id>https://github.com/junyi2005/signdino</id>
-        <link href="https://github.com/junyi2005/signdino"/>
-        <updated>2026-09-07T03:54:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/214130794?v=4" width="64" height="64" alt=""/><br/><div>SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation</div>]]></content>
-        <author>
-            <name>junyi2005</name>
-            <email>junyi2005@noreply.github.com</email>
-            <uri>https://github.com/junyi2005</uri>
-        </author>
-        <published>2026-09-05T18:48:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aisdav/museum-retrieval: Zero-shot museum artwork retrieval with DINOv3, RootSIFT and graph diffusion]]></title>
-        <id>https://github.com/aisdav/museum-retrieval</id>
-        <link href="https://github.com/aisdav/museum-retrieval"/>
-        <updated>2026-09-06T11:20:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/131756584?u=f09c60ea3334a272005942e92601cb68b7834a06&v=4" width="64" height="64" alt=""/><br/><div>Zero-shot museum artwork retrieval with DINOv3, RootSIFT and graph diffusion</div>]]></content>
-        <author>
-            <name>aisdav</name>
-            <email>aisdav@noreply.github.com</email>
-            <uri>https://github.com/aisdav</uri>
-        </author>
-        <published>2026-09-06T11:19:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
-        <id>https://github.com/ganzijie1/dongzhou</id>
-        <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-09-06T10:24:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
-        <author>
-            <name>ganzijie1</name>
-            <email>ganzijie1@noreply.github.com</email>
-            <uri>https://github.com/ganzijie1</uri>
-        </author>
-        <published>2026-08-13T05:30:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[notsong/DINOv3-Seg-Doo: 基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。(独立副本, 原 DINOv3-CARNet-Doo)]]></title>
-        <id>https://github.com/notsong/DINOv3-Seg-Doo</id>
-        <link href="https://github.com/notsong/DINOv3-Seg-Doo"/>
-        <updated>2026-09-06T05:24:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4" width="64" height="64" alt=""/><br/><div>基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。(独立副本, 原 DINOv3-CARNet-Doo)</div>]]></content>
-        <author>
-            <name>notsong</name>
-            <email>notsong@noreply.github.com</email>
-            <uri>https://github.com/notsong</uri>
-        </author>
-        <published>2026-09-06T05:23:52.000Z</published>
     </entry>
 </feed>
