@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-10T03:20:14.000Z",
+            "date_modified": "2026-09-11T03:20:31.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,14 +17,80 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154721220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>카메라트랩 야생동물 영상 검토 프로그램 — SAM3 탐지 + DINOv3 임베딩 + 벡터DB kNN 종 판정, 브라우저 검토·승인 (FastAPI)</div>",
+            "url": "https://github.com/jeongseok-03/camtrap_app",
+            "title": "jeongseok-03/camtrap_app: 카메라트랩 야생동물 영상 검토 프로그램 — SAM3 탐지 + DINOv3 임베딩 + 벡터DB kNN 종 판정, 브라우저 검토·승인 (FastAPI)",
+            "date_modified": "2026-09-11T01:59:25.000Z",
+            "date_published": "2026-07-28T10:38:05.000Z",
+            "author": {
+                "name": "jeongseok-03",
+                "url": "https://github.com/jeongseok-03"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>",
+            "url": "https://github.com/zacharydenton/dinov3-hrx",
+            "title": "zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom",
+            "date_modified": "2026-09-10T21:02:01.000Z",
+            "date_published": "2026-09-04T13:22:58.000Z",
+            "author": {
+                "name": "zacharydenton",
+                "url": "https://github.com/zacharydenton"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53964268?u=5e7d8bf61946faa49f540c33c076dc51509ff5fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ver0810/yolov8-dinov3",
             "title": "ver0810/yolov8-dinov3",
-            "date_modified": "2026-09-10T02:52:32.000Z",
+            "date_modified": "2026-09-10T15:23:24.000Z",
             "date_published": "2026-07-15T08:53:37.000Z",
             "author": {
                 "name": "ver0810",
                 "url": "https://github.com/ver0810"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
+            "title": "lingshan2003/Dinov3txtforSAT",
+            "date_modified": "2026-09-10T15:23:32.000Z",
+            "date_published": "2026-09-02T14:23:59.000Z",
+            "author": {
+                "name": "lingshan2003",
+                "url": "https://github.com/lingshan2003"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208363042?u=185e2d70cf80fa5b87ba38e0fea3401a007b970d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/everyispossible/DINOv3-Face",
+            "title": "everyispossible/DINOv3-Face",
+            "date_modified": "2026-09-10T15:02:13.000Z",
+            "date_published": "2026-09-10T14:49:11.000Z",
+            "author": {
+                "name": "everyispossible",
+                "url": "https://github.com/everyispossible"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/325402715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.</div>",
+            "url": "https://github.com/sellaro-net/backremove",
+            "title": "sellaro-net/backremove: Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.",
+            "date_modified": "2026-09-10T13:10:42.000Z",
+            "date_published": "2026-02-15T11:40:07.000Z",
+            "author": {
+                "name": "sellaro-net",
+                "url": "https://github.com/sellaro-net"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149578916?u=4dec59fff501e2b148596db1eda0bcec236aa3ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>8-class vehicle body type classifier using DINOv3, EfficientNet-B2, ResNet18, and MobileNetV4. Custom-curated dataset, ONNX export, HuggingFace models, Gradio and React/FastAPI demos.</div>",
+            "url": "https://github.com/EnesDemir143/autolens-ai",
+            "title": "EnesDemir143/autolens-ai: 8-class vehicle body type classifier using DINOv3, EfficientNet-B2, ResNet18, and MobileNetV4. Custom-curated dataset, ONNX export, HuggingFace models, Gradio and React/FastAPI demos.",
+            "date_modified": "2026-09-10T12:08:03.000Z",
+            "date_published": "2026-05-06T20:37:01.000Z",
+            "author": {
+                "name": "EnesDemir143",
+                "url": "https://github.com/EnesDemir143"
             }
         },
         {
@@ -50,32 +116,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
-            "title": "lingshan2003/Dinov3txtforSAT",
-            "date_modified": "2026-09-10T02:14:18.000Z",
-            "date_published": "2026-09-02T14:23:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>",
+            "url": "https://github.com/facebookresearch/Flow-World-Models",
+            "title": "facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.",
+            "date_modified": "2026-09-10T10:58:35.000Z",
+            "date_published": "2026-07-06T19:41:03.000Z",
             "author": {
-                "name": "lingshan2003",
-                "url": "https://github.com/lingshan2003"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/325402715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.</div>",
-            "url": "https://github.com/sellaro-net/backremove",
-            "title": "sellaro-net/backremove: Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.",
-            "date_modified": "2026-09-09T19:32:22.000Z",
-            "date_published": "2026-02-15T11:40:07.000Z",
-            "author": {
-                "name": "sellaro-net",
-                "url": "https://github.com/sellaro-net"
+                "name": "facebookresearch",
+                "url": "https://github.com/facebookresearch"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68198130?u=6a9b87af1d8b6a5686fe1af7451d13c7cb0f4d13&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of \"TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation\" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.</div>",
             "url": "https://github.com/longxiang-ai/TransNormal",
             "title": "longxiang-ai/TransNormal: Official implementation of \"TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation\" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.",
-            "date_modified": "2026-09-09T13:28:51.000Z",
+            "date_modified": "2026-09-10T06:46:25.000Z",
             "date_published": "2026-01-30T05:10:23.000Z",
             "author": {
                 "name": "longxiang-ai",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "JeonHaneul",
                 "url": "https://github.com/JeonHaneul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188662411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-label classifier predicting which formal attributes (composition/color/line/brushstroke/light) of an artwork are salient emotion cues - FAB-G Salience Extension</div>",
-            "url": "https://github.com/Sv-Arcode/fab-g-salience-classifier",
-            "title": "Sv-Arcode/fab-g-salience-classifier: Multi-label classifier predicting which formal attributes (composition/color/line/brushstroke/light) of an artwork are salient emotion cues - FAB-G Salience Extension",
-            "date_modified": "2026-09-07T14:31:03.000Z",
-            "date_published": "2026-09-07T14:19:00.000Z",
-            "author": {
-                "name": "Sv-Arcode",
-                "url": "https://github.com/Sv-Arcode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188662411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fine-tune SigLIP2 &amp; DINOv3 for joint arousal / valence / emotion classification on 5,532 annotated artworks (EmoArt-5k), with a shared split, imbalance-aware losses and full eval pipeline.</div>",
-            "url": "https://github.com/Sv-Arcode/emoart-multitask",
-            "title": "Sv-Arcode/emoart-multitask: Fine-tune SigLIP2 & DINOv3 for joint arousal / valence / emotion classification on 5,532 annotated artworks (EmoArt-5k), with a shared split, imbalance-aware losses and full eval pipeline.",
-            "date_modified": "2026-09-07T13:57:02.000Z",
-            "date_published": "2026-09-07T13:51:45.000Z",
-            "author": {
-                "name": "Sv-Arcode",
-                "url": "https://github.com/Sv-Arcode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ViT-S+/16 forward pass hand-written in AMD's Loom kernel language for gfx1151 (Radeon 8060S)</div>",
-            "url": "https://github.com/zacharydenton/dinov3-loom",
-            "title": "zacharydenton/dinov3-loom: DINOv3 ViT-S+/16 forward pass hand-written in AMD's Loom kernel language for gfx1151 (Radeon 8060S)",
-            "date_modified": "2026-09-07T10:18:25.000Z",
-            "date_published": "2026-09-04T13:22:58.000Z",
-            "author": {
-                "name": "zacharydenton",
-                "url": "https://github.com/zacharydenton"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47831888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>",
-            "url": "https://github.com/Brezemil/_trainer_lightly",
-            "title": "Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers",
-            "date_modified": "2026-09-07T07:23:31.000Z",
-            "date_published": "2026-06-19T20:02:09.000Z",
-            "author": {
-                "name": "Brezemil",
-                "url": "https://github.com/Brezemil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/210314661?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/AkiyamaMizuki423/AD-DINOV3-Zero-shot-Industrial-Anomaly-Detection-Ampace2026.8",
-            "title": "AkiyamaMizuki423/AD-DINOV3-Zero-shot-Industrial-Anomaly-Detection-Ampace2026.8",
-            "date_modified": "2026-09-07T06:33:08.000Z",
-            "date_published": "2026-09-07T06:33:07.000Z",
-            "author": {
-                "name": "AkiyamaMizuki423",
-                "url": "https://github.com/AkiyamaMizuki423"
             }
         }
     ]
