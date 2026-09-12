@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-09-11T03:24:45.129Z</updated>
+    <updated>2026-09-12T03:30:05.811Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-09-11T03:20:31.000Z</updated>
+        <updated>2026-09-12T03:27:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -19,6 +19,32 @@
             <uri>https://github.com/tomgrizz</uri>
         </author>
         <published>2026-08-25T14:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ver0810/yolov8-dinov3]]></title>
+        <id>https://github.com/ver0810/yolov8-dinov3</id>
+        <link href="https://github.com/ver0810/yolov8-dinov3"/>
+        <updated>2026-09-12T00:37:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53964268?u=5e7d8bf61946faa49f540c33c076dc51509ff5fd&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ver0810</name>
+            <email>ver0810@noreply.github.com</email>
+            <uri>https://github.com/ver0810</uri>
+        </author>
+        <published>2026-07-15T08:53:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
+        <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
+        <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
+        <updated>2026-09-11T03:52:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>lingshan2003</name>
+            <email>lingshan2003@noreply.github.com</email>
+            <uri>https://github.com/lingshan2003</uri>
+        </author>
+        <published>2026-09-02T14:23:59.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jeongseok-03/camtrap_app: 카메라트랩 야생동물 영상 검토 프로그램 — SAM3 탐지 + DINOv3 임베딩 + 벡터DB kNN 종 판정, 브라우저 검토·승인 (FastAPI)]]></title>
@@ -45,32 +71,6 @@
             <uri>https://github.com/zacharydenton</uri>
         </author>
         <published>2026-09-04T13:22:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ver0810/yolov8-dinov3]]></title>
-        <id>https://github.com/ver0810/yolov8-dinov3</id>
-        <link href="https://github.com/ver0810/yolov8-dinov3"/>
-        <updated>2026-09-10T15:23:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53964268?u=5e7d8bf61946faa49f540c33c076dc51509ff5fd&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ver0810</name>
-            <email>ver0810@noreply.github.com</email>
-            <uri>https://github.com/ver0810</uri>
-        </author>
-        <published>2026-07-15T08:53:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
-        <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
-        <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
-        <updated>2026-09-10T15:23:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>lingshan2003</name>
-            <email>lingshan2003@noreply.github.com</email>
-            <uri>https://github.com/lingshan2003</uri>
-        </author>
-        <published>2026-09-02T14:23:59.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[everyispossible/DINOv3-Face]]></title>
@@ -154,7 +154,7 @@
         <title type="html"><![CDATA[longxiang-ai/TransNormal: Official implementation of "TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.]]></title>
         <id>https://github.com/longxiang-ai/TransNormal</id>
         <link href="https://github.com/longxiang-ai/TransNormal"/>
-        <updated>2026-09-10T06:46:25.000Z</updated>
+        <updated>2026-09-11T04:31:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68198130?u=6a9b87af1d8b6a5686fe1af7451d13c7cb0f4d13&v=4" width="64" height="64" alt=""/><br/><div>Official implementation of "TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.</div>]]></content>
         <author>
             <name>longxiang-ai</name>
@@ -229,19 +229,6 @@
         <published>2026-07-29T00:32:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jingwang7236/dinov3-sw]]></title>
-        <id>https://github.com/jingwang7236/dinov3-sw</id>
-        <link href="https://github.com/jingwang7236/dinov3-sw"/>
-        <updated>2026-09-08T06:46:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179892188?u=364193bd8c41f3e2e57bc63e4ea90bae5c979ec6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>jingwang7236</name>
-            <email>jingwang7236@noreply.github.com</email>
-            <uri>https://github.com/jingwang7236</uri>
-        </author>
-        <published>2026-05-13T06:44:47.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Yilyyy/dinov3: ConvNext_tiny]]></title>
         <id>https://github.com/Yilyyy/dinov3</id>
         <link href="https://github.com/Yilyyy/dinov3"/>
@@ -266,5 +253,18 @@
             <uri>https://github.com/JeonHaneul</uri>
         </author>
         <published>2026-07-15T08:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sv-Arcode/fab-g-salience-classifier: Multi-label classifier predicting which formal attributes (composition/color/line/brushstroke/light) of an artwork are salient emotion cues - FAB-G Salience Extension]]></title>
+        <id>https://github.com/Sv-Arcode/fab-g-salience-classifier</id>
+        <link href="https://github.com/Sv-Arcode/fab-g-salience-classifier"/>
+        <updated>2026-09-07T14:31:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/188662411?v=4" width="64" height="64" alt=""/><br/><div>Multi-label classifier predicting which formal attributes (composition/color/line/brushstroke/light) of an artwork are salient emotion cues - FAB-G Salience Extension</div>]]></content>
+        <author>
+            <name>Sv-Arcode</name>
+            <email>Sv-Arcode@noreply.github.com</email>
+            <uri>https://github.com/Sv-Arcode</uri>
+        </author>
+        <published>2026-09-07T14:19:00.000Z</published>
     </entry>
 </feed>
