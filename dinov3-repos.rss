@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-09-12T03:30:05.811Z</updated>
+    <updated>2026-09-13T03:36:08.767Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-09-12T03:27:31.000Z</updated>
+        <updated>2026-09-13T03:30:16.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[ver0810/yolov8-dinov3]]></title>
         <id>https://github.com/ver0810/yolov8-dinov3</id>
         <link href="https://github.com/ver0810/yolov8-dinov3"/>
-        <updated>2026-09-12T00:37:49.000Z</updated>
+        <updated>2026-09-12T15:28:42.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53964268?u=5e7d8bf61946faa49f540c33c076dc51509ff5fd&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>ver0810</name>
@@ -32,6 +32,19 @@
             <uri>https://github.com/ver0810</uri>
         </author>
         <published>2026-07-15T08:53:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ymxlzgy/FoundAD: [ICLR 2026] The implementation of the paper Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors]]></title>
+        <id>https://github.com/ymxlzgy/FoundAD</id>
+        <link href="https://github.com/ymxlzgy/FoundAD"/>
+        <updated>2026-09-12T08:14:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18535373?u=3ca95f84c29e5bfabaf63fcd11eca6cf4a32d345&v=4" width="64" height="64" alt=""/><br/><div>[ICLR 2026] The implementation of the paper Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors</div>]]></content>
+        <author>
+            <name>ymxlzgy</name>
+            <email>ymxlzgy@noreply.github.com</email>
+            <uri>https://github.com/ymxlzgy</uri>
+        </author>
+        <published>2025-08-15T12:28:54.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
@@ -141,7 +154,7 @@
         <title type="html"><![CDATA[facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.]]></title>
         <id>https://github.com/facebookresearch/Flow-World-Models</id>
         <link href="https://github.com/facebookresearch/Flow-World-Models"/>
-        <updated>2026-09-10T10:58:35.000Z</updated>
+        <updated>2026-09-12T07:44:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16943930?v=4" width="64" height="64" alt=""/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>]]></content>
         <author>
             <name>facebookresearch</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/JeonHaneul</uri>
         </author>
         <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sv-Arcode/fab-g-salience-classifier: Multi-label classifier predicting which formal attributes (composition/color/line/brushstroke/light) of an artwork are salient emotion cues - FAB-G Salience Extension]]></title>
-        <id>https://github.com/Sv-Arcode/fab-g-salience-classifier</id>
-        <link href="https://github.com/Sv-Arcode/fab-g-salience-classifier"/>
-        <updated>2026-09-07T14:31:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/188662411?v=4" width="64" height="64" alt=""/><br/><div>Multi-label classifier predicting which formal attributes (composition/color/line/brushstroke/light) of an artwork are salient emotion cues - FAB-G Salience Extension</div>]]></content>
-        <author>
-            <name>Sv-Arcode</name>
-            <email>Sv-Arcode@noreply.github.com</email>
-            <uri>https://github.com/Sv-Arcode</uri>
-        </author>
-        <published>2026-09-07T14:19:00.000Z</published>
     </entry>
 </feed>
