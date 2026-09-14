@@ -9,11 +9,55 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-13T03:30:16.000Z",
+            "date_modified": "2026-09-14T03:41:38.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148569940?u=82ea4548039bcaa3c6572d63c6ae73a97b235df9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/KhangDaoz/dinov3",
+            "title": "KhangDaoz/dinov3",
+            "date_modified": "2026-09-14T03:33:42.000Z",
+            "date_published": "2026-09-08T16:03:09.000Z",
+            "author": {
+                "name": "KhangDaoz",
+                "url": "https://github.com/KhangDaoz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
+            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
+            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
+            "date_modified": "2026-09-14T00:34:17.000Z",
+            "date_published": "2026-03-25T17:20:53.000Z",
+            "author": {
+                "name": "alifarzadjamali",
+                "url": "https://github.com/alifarzadjamali"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor</div>",
+            "url": "https://github.com/IoT-gamer/flutter_dinov3_arcore_demo",
+            "title": "IoT-gamer/flutter_dinov3_arcore_demo: Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor",
+            "date_modified": "2026-09-13T12:01:11.000Z",
+            "date_published": "2025-10-03T03:17:56.000Z",
+            "author": {
+                "name": "IoT-gamer",
+                "url": "https://github.com/IoT-gamer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150625228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Post-training quantisation of two Push-T world models (LeWM vs DINOv3-WM) on an L40S: planning-cycle latency and success rate across FP32→FP16→FP8→INT8 TensorRT engines.</div>",
+            "url": "https://github.com/sebspel/worldmodel-ptq-asymmetry",
+            "title": "sebspel/worldmodel-ptq-asymmetry: Post-training quantisation of two Push-T world models (LeWM vs DINOv3-WM) on an L40S: planning-cycle latency and success rate across FP32→FP16→FP8→INT8 TensorRT engines.",
+            "date_modified": "2026-09-13T11:41:27.000Z",
+            "date_published": "2026-06-21T10:09:39.000Z",
+            "author": {
+                "name": "sebspel",
+                "url": "https://github.com/sebspel"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "chenxi639",
                 "url": "https://github.com/chenxi639"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148569940?u=82ea4548039bcaa3c6572d63c6ae73a97b235df9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/KhangDaoz/dinov3",
-            "title": "KhangDaoz/dinov3",
-            "date_modified": "2026-09-08T16:07:13.000Z",
-            "date_published": "2026-09-08T16:03:09.000Z",
-            "author": {
-                "name": "KhangDaoz",
-                "url": "https://github.com/KhangDaoz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132837276?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Yilyyy/dinov3_ConvNext_",
-            "title": "Yilyyy/dinov3_ConvNext_",
-            "date_modified": "2026-09-08T09:34:34.000Z",
-            "date_published": "2026-07-29T00:32:03.000Z",
-            "author": {
-                "name": "Yilyyy",
-                "url": "https://github.com/Yilyyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132837276?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ConvNext_tiny</div>",
-            "url": "https://github.com/Yilyyy/dinov3",
-            "title": "Yilyyy/dinov3: ConvNext_tiny",
-            "date_modified": "2026-09-08T05:47:21.000Z",
-            "date_published": "2026-09-08T05:47:16.000Z",
-            "author": {
-                "name": "Yilyyy",
-                "url": "https://github.com/Yilyyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
-            "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-09-08T04:42:13.000Z",
-            "date_published": "2026-07-15T08:27:58.000Z",
-            "author": {
-                "name": "JeonHaneul",
-                "url": "https://github.com/JeonHaneul"
             }
         }
     ]

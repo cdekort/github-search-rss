@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-09-13T03:36:08.767Z</updated>
+    <updated>2026-09-14T03:45:49.891Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-09-13T03:30:16.000Z</updated>
+        <updated>2026-09-14T03:41:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -19,6 +19,58 @@
             <uri>https://github.com/tomgrizz</uri>
         </author>
         <published>2026-08-25T14:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KhangDaoz/dinov3]]></title>
+        <id>https://github.com/KhangDaoz/dinov3</id>
+        <link href="https://github.com/KhangDaoz/dinov3"/>
+        <updated>2026-09-14T03:33:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148569940?u=82ea4548039bcaa3c6572d63c6ae73a97b235df9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>KhangDaoz</name>
+            <email>KhangDaoz@noreply.github.com</email>
+            <uri>https://github.com/KhangDaoz</uri>
+        </author>
+        <published>2026-09-08T16:03:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.]]></title>
+        <id>https://github.com/alifarzadjamali/fashion-compatibility-benchmark</id>
+        <link href="https://github.com/alifarzadjamali/fashion-compatibility-benchmark"/>
+        <updated>2026-09-14T00:34:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4" width="64" height="64" alt=""/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>]]></content>
+        <author>
+            <name>alifarzadjamali</name>
+            <email>alifarzadjamali@noreply.github.com</email>
+            <uri>https://github.com/alifarzadjamali</uri>
+        </author>
+        <published>2026-03-25T17:20:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_arcore_demo: Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor]]></title>
+        <id>https://github.com/IoT-gamer/flutter_dinov3_arcore_demo</id>
+        <link href="https://github.com/IoT-gamer/flutter_dinov3_arcore_demo"/>
+        <updated>2026-09-13T12:01:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4" width="64" height="64" alt=""/><br/><div>Flutter app that automates ARCore hit-test on object using single reference image and DINOv3 feature extractor</div>]]></content>
+        <author>
+            <name>IoT-gamer</name>
+            <email>IoT-gamer@noreply.github.com</email>
+            <uri>https://github.com/IoT-gamer</uri>
+        </author>
+        <published>2025-10-03T03:17:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebspel/worldmodel-ptq-asymmetry: Post-training quantisation of two Push-T world models (LeWM vs DINOv3-WM) on an L40S: planning-cycle latency and success rate across FP32→FP16→FP8→INT8 TensorRT engines.]]></title>
+        <id>https://github.com/sebspel/worldmodel-ptq-asymmetry</id>
+        <link href="https://github.com/sebspel/worldmodel-ptq-asymmetry"/>
+        <updated>2026-09-13T11:41:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Post-training quantisation of two Push-T world models (LeWM vs DINOv3-WM) on an L40S: planning-cycle latency and success rate across FP32→FP16→FP8→INT8 TensorRT engines.</div>]]></content>
+        <author>
+            <name>sebspel</name>
+            <email>sebspel@noreply.github.com</email>
+            <uri>https://github.com/sebspel</uri>
+        </author>
+        <published>2026-06-21T10:09:39.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ver0810/yolov8-dinov3]]></title>
@@ -214,57 +266,5 @@
             <uri>https://github.com/chenxi639</uri>
         </author>
         <published>2026-09-08T13:39:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KhangDaoz/dinov3]]></title>
-        <id>https://github.com/KhangDaoz/dinov3</id>
-        <link href="https://github.com/KhangDaoz/dinov3"/>
-        <updated>2026-09-08T16:07:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148569940?u=82ea4548039bcaa3c6572d63c6ae73a97b235df9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>KhangDaoz</name>
-            <email>KhangDaoz@noreply.github.com</email>
-            <uri>https://github.com/KhangDaoz</uri>
-        </author>
-        <published>2026-09-08T16:03:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yilyyy/dinov3_ConvNext_]]></title>
-        <id>https://github.com/Yilyyy/dinov3_ConvNext_</id>
-        <link href="https://github.com/Yilyyy/dinov3_ConvNext_"/>
-        <updated>2026-09-08T09:34:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/132837276?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Yilyyy</name>
-            <email>Yilyyy@noreply.github.com</email>
-            <uri>https://github.com/Yilyyy</uri>
-        </author>
-        <published>2026-07-29T00:32:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yilyyy/dinov3: ConvNext_tiny]]></title>
-        <id>https://github.com/Yilyyy/dinov3</id>
-        <link href="https://github.com/Yilyyy/dinov3"/>
-        <updated>2026-09-08T05:47:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/132837276?v=4" width="64" height="64" alt=""/><br/><div>ConvNext_tiny</div>]]></content>
-        <author>
-            <name>Yilyyy</name>
-            <email>Yilyyy@noreply.github.com</email>
-            <uri>https://github.com/Yilyyy</uri>
-        </author>
-        <published>2026-09-08T05:47:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-09-08T04:42:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
     </entry>
 </feed>
