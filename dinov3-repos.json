@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
+            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
+            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
+            "date_modified": "2026-09-14T23:53:57.000Z",
+            "date_published": "2026-03-25T17:20:53.000Z",
+            "author": {
+                "name": "alifarzadjamali",
+                "url": "https://github.com/alifarzadjamali"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-14T03:41:38.000Z",
+            "date_modified": "2026-09-14T23:29:12.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,10 +28,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191923327?u=45da918b3b1a124add750422a02865295e8dc9a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Análise de patches e fumaça em imagens de satélite com DINOv3 e INSID3</div>",
+            "url": "https://github.com/GuilhermeLourenceto/dinov3-fumaca-satelite",
+            "title": "GuilhermeLourenceto/dinov3-fumaca-satelite: Análise de patches e fumaça em imagens de satélite com DINOv3 e INSID3",
+            "date_modified": "2026-09-14T18:42:36.000Z",
+            "date_published": "2026-09-14T18:38:14.000Z",
+            "author": {
+                "name": "GuilhermeLourenceto",
+                "url": "https://github.com/GuilhermeLourenceto"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83930955?u=84eba9044744d0140f62e2b4909d7c51e1ad630a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/chaejoon23/dinov3-image-search",
+            "title": "chaejoon23/dinov3-image-search",
+            "date_modified": "2026-09-14T18:37:57.000Z",
+            "date_published": "2025-12-08T14:36:49.000Z",
+            "author": {
+                "name": "chaejoon23",
+                "url": "https://github.com/chaejoon23"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148569940?u=82ea4548039bcaa3c6572d63c6ae73a97b235df9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/KhangDaoz/dinov3",
             "title": "KhangDaoz/dinov3",
-            "date_modified": "2026-09-14T03:33:42.000Z",
+            "date_modified": "2026-09-14T17:47:12.000Z",
             "date_published": "2026-09-08T16:03:09.000Z",
             "author": {
                 "name": "KhangDaoz",
@@ -28,14 +61,102 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
-            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
-            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
-            "date_modified": "2026-09-14T00:34:17.000Z",
-            "date_published": "2026-03-25T17:20:53.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227476378?u=2d21af30af3abc7f2595157028a13d6146c7ddb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MathavanKanesh/Evaluating-DinoV3-model",
+            "title": "MathavanKanesh/Evaluating-DinoV3-model",
+            "date_modified": "2026-09-14T16:12:18.000Z",
+            "date_published": "2026-09-05T18:56:56.000Z",
             "author": {
-                "name": "alifarzadjamali",
-                "url": "https://github.com/alifarzadjamali"
+                "name": "MathavanKanesh",
+                "url": "https://github.com/MathavanKanesh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-09-15T02:29:49.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119643234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.</div>",
+            "url": "https://github.com/tangkunszu/ToothDino",
+            "title": "tangkunszu/ToothDino: ToothDINO adapts DINOv3 ViT-B/16 to panoramic dental radiographs with two annotation-free modules: DAVC for dental-aware global/local view   construction and ABM for anatomy-biased masked-token sampling, improving transferable dental representations without changing the backbone or   SSL losses.",
+            "date_modified": "2026-09-14T16:12:37.000Z",
+            "date_published": "2026-07-13T13:21:27.000Z",
+            "author": {
+                "name": "tangkunszu",
+                "url": "https://github.com/tangkunszu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71817542?u=7d86bcc8e690617def6c1ed2b8abc4eaccbc2c12&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AIMS-R30: DINOv3 LoRA ensemble for Barrett's neoplasia detection. RARE 2026 challenge submission, University of Leeds.</div>",
+            "url": "https://github.com/omariosc/rare26-aims",
+            "title": "omariosc/rare26-aims: AIMS-R30: DINOv3 LoRA ensemble for Barrett's neoplasia detection. RARE 2026 challenge submission, University of Leeds.",
+            "date_modified": "2026-09-14T10:02:57.000Z",
+            "date_published": "2026-09-02T19:24:12.000Z",
+            "author": {
+                "name": "omariosc",
+                "url": "https://github.com/omariosc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136749920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.</div>",
+            "url": "https://github.com/InsightML/crop-counter",
+            "title": "InsightML/crop-counter: Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.",
+            "date_modified": "2026-09-14T12:07:14.000Z",
+            "date_published": "2026-08-18T18:07:16.000Z",
+            "author": {
+                "name": "InsightML",
+                "url": "https://github.com/InsightML"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71661198?u=1e180a1bdac10f90ca3cab01d5da51b0ad883cee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-supervised representation learning on multi-channel microscopy images with DINO, DINOv2 and DINOv3.</div>",
+            "url": "https://github.com/JonasMeirer/scDINOv2",
+            "title": "JonasMeirer/scDINOv2: Self-supervised representation learning on multi-channel microscopy images with DINO, DINOv2 and DINOv3.",
+            "date_modified": "2026-09-14T16:12:42.000Z",
+            "date_published": "2026-03-30T11:46:42.000Z",
+            "author": {
+                "name": "JonasMeirer",
+                "url": "https://github.com/JonasMeirer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95161335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Partial research release: evaluation utilities and prediction samples for DINOv3-based training-free COD.</div>",
+            "url": "https://github.com/lsmileovo/ReFiND3",
+            "title": "lsmileovo/ReFiND3: Partial research release: evaluation utilities and prediction samples for DINOv3-based training-free COD.",
+            "date_modified": "2026-09-14T07:24:45.000Z",
+            "date_published": "2026-09-14T07:24:35.000Z",
+            "author": {
+                "name": "lsmileovo",
+                "url": "https://github.com/lsmileovo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277798578?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yuuniqueh/dinov3-pspnet-voc-segmentation",
+            "title": "yuuniqueh/dinov3-pspnet-voc-segmentation",
+            "date_modified": "2026-09-14T16:12:45.000Z",
+            "date_published": "2026-09-14T06:44:47.000Z",
+            "author": {
+                "name": "yuuniqueh",
+                "url": "https://github.com/yuuniqueh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53964268?u=5e7d8bf61946faa49f540c33c076dc51509ff5fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ver0810/yolov8-dinov3",
+            "title": "ver0810/yolov8-dinov3",
+            "date_modified": "2026-09-14T16:12:46.000Z",
+            "date_published": "2026-07-15T08:53:37.000Z",
+            "author": {
+                "name": "ver0810",
+                "url": "https://github.com/ver0810"
             }
         },
         {
@@ -58,17 +179,6 @@
             "author": {
                 "name": "sebspel",
                 "url": "https://github.com/sebspel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53964268?u=5e7d8bf61946faa49f540c33c076dc51509ff5fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ver0810/yolov8-dinov3",
-            "title": "ver0810/yolov8-dinov3",
-            "date_modified": "2026-09-12T15:28:42.000Z",
-            "date_published": "2026-07-15T08:53:37.000Z",
-            "author": {
-                "name": "ver0810",
-                "url": "https://github.com/ver0810"
             }
         },
         {
@@ -113,116 +223,6 @@
             "author": {
                 "name": "zacharydenton",
                 "url": "https://github.com/zacharydenton"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208363042?u=185e2d70cf80fa5b87ba38e0fea3401a007b970d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/everyispossible/DINOv3-Face",
-            "title": "everyispossible/DINOv3-Face",
-            "date_modified": "2026-09-10T15:02:13.000Z",
-            "date_published": "2026-09-10T14:49:11.000Z",
-            "author": {
-                "name": "everyispossible",
-                "url": "https://github.com/everyispossible"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/325402715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.</div>",
-            "url": "https://github.com/sellaro-net/backremove",
-            "title": "sellaro-net/backremove: Native Rust background removal API with withoutBG Fast and BiRefNet Quality. Windows CUDA runtime and Linux CPU Docker image. Built with DINOv3.",
-            "date_modified": "2026-09-10T13:10:42.000Z",
-            "date_published": "2026-02-15T11:40:07.000Z",
-            "author": {
-                "name": "sellaro-net",
-                "url": "https://github.com/sellaro-net"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149578916?u=4dec59fff501e2b148596db1eda0bcec236aa3ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>8-class vehicle body type classifier using DINOv3, EfficientNet-B2, ResNet18, and MobileNetV4. Custom-curated dataset, ONNX export, HuggingFace models, Gradio and React/FastAPI demos.</div>",
-            "url": "https://github.com/EnesDemir143/autolens-ai",
-            "title": "EnesDemir143/autolens-ai: 8-class vehicle body type classifier using DINOv3, EfficientNet-B2, ResNet18, and MobileNetV4. Custom-curated dataset, ONNX export, HuggingFace models, Gradio and React/FastAPI demos.",
-            "date_modified": "2026-09-10T12:08:03.000Z",
-            "date_published": "2026-05-06T20:37:01.000Z",
-            "author": {
-                "name": "EnesDemir143",
-                "url": "https://github.com/EnesDemir143"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63777030?u=68f3c5184153ddb7ba208ddd86f3ce367604ebe0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CardScope: DINOv3 image retrieval and recognition research for Japanese Pokemon cards, with an interactive card-type embedding map.</div>",
-            "url": "https://github.com/GrumpyPanda98/CardScope-Pokemon-Recognition",
-            "title": "GrumpyPanda98/CardScope-Pokemon-Recognition: CardScope: DINOv3 image retrieval and recognition research for Japanese Pokemon cards, with an interactive card-type embedding map.",
-            "date_modified": "2026-09-10T02:42:59.000Z",
-            "date_published": "2026-05-09T21:29:18.000Z",
-            "author": {
-                "name": "GrumpyPanda98",
-                "url": "https://github.com/GrumpyPanda98"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/266269567?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BOSS: street-level parkour spot detector (DINOv3 ViT-B/16 fine-tune, 5-fold ensemble). Built with DINOv3.</div>",
-            "url": "https://github.com/chasehejtmanek-cmyk/boss",
-            "title": "chasehejtmanek-cmyk/boss: BOSS: street-level parkour spot detector (DINOv3 ViT-B/16 fine-tune, 5-fold ensemble). Built with DINOv3.",
-            "date_modified": "2026-09-10T02:15:24.000Z",
-            "date_published": "2026-09-10T02:05:21.000Z",
-            "author": {
-                "name": "chasehejtmanek-cmyk",
-                "url": "https://github.com/chasehejtmanek-cmyk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16943930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.</div>",
-            "url": "https://github.com/facebookresearch/Flow-World-Models",
-            "title": "facebookresearch/Flow-World-Models: FlowWM stochastic world modeling via flow matching in DINOv3 feature space, with the FuturePerception (Waymo) benchmark.",
-            "date_modified": "2026-09-12T07:44:04.000Z",
-            "date_published": "2026-07-06T19:41:03.000Z",
-            "author": {
-                "name": "facebookresearch",
-                "url": "https://github.com/facebookresearch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68198130?u=6a9b87af1d8b6a5686fe1af7451d13c7cb0f4d13&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of \"TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation\" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.</div>",
-            "url": "https://github.com/longxiang-ai/TransNormal",
-            "title": "longxiang-ai/TransNormal: Official implementation of \"TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation\" (ICML 2026). Single-step diffusion model for accurate surface normal prediction of transparent objects.",
-            "date_modified": "2026-09-11T04:31:44.000Z",
-            "date_published": "2026-01-30T05:10:23.000Z",
-            "author": {
-                "name": "longxiang-ai",
-                "url": "https://github.com/longxiang-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7751507?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>INT8 inference engines for vision transformers (SAM 2.1, SAM 3, DINOv3, ViT, DeiT): free-axis scales, producer-fused quantization, in-register rotation. 1.2-2x TensorRT FP16, lossless at W8A8.</div>",
-            "url": "https://github.com/kohillyang/AxisQuant",
-            "title": "kohillyang/AxisQuant: INT8 inference engines for vision transformers (SAM 2.1, SAM 3, DINOv3, ViT, DeiT): free-axis scales, producer-fused quantization, in-register rotation. 1.2-2x TensorRT FP16, lossless at W8A8.",
-            "date_modified": "2026-09-09T03:53:01.000Z",
-            "date_published": "2026-09-09T03:44:54.000Z",
-            "author": {
-                "name": "kohillyang",
-                "url": "https://github.com/kohillyang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
-            "url": "https://github.com/liuhb511/dinov3",
-            "title": "liuhb511/dinov3: dinov3 code",
-            "date_modified": "2026-09-09T02:28:50.000Z",
-            "date_published": "2026-08-24T08:17:00.000Z",
-            "author": {
-                "name": "liuhb511",
-                "url": "https://github.com/liuhb511"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/229602888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/chenxi639/dinov3_pspnet",
-            "title": "chenxi639/dinov3_pspnet",
-            "date_modified": "2026-09-08T17:04:34.000Z",
-            "date_published": "2026-09-08T13:39:43.000Z",
-            "author": {
-                "name": "chenxi639",
-                "url": "https://github.com/chenxi639"
             }
         }
     ]
