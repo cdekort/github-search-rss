@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-09-17T03:48:46.889Z</updated>
+    <updated>2026-09-18T03:34:48.515Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-09-17T03:40:26.000Z</updated>
+        <updated>2026-09-18T03:33:32.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -21,10 +21,88 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom]]></title>
+        <id>https://github.com/zacharydenton/dinov3-hrx</id>
+        <link href="https://github.com/zacharydenton/dinov3-hrx"/>
+        <updated>2026-09-18T00:36:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>]]></content>
+        <author>
+            <name>zacharydenton</name>
+            <email>zacharydenton@noreply.github.com</email>
+            <uri>https://github.com/zacharydenton</uri>
+        </author>
+        <published>2026-09-04T13:22:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DenisSud/mesh-quality: 3D mesh defect classification — AI Journey main stage (frozen DINOv3 + attentive probe, LB 13.86)]]></title>
+        <id>https://github.com/DenisSud/mesh-quality</id>
+        <link href="https://github.com/DenisSud/mesh-quality"/>
+        <updated>2026-09-17T17:17:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/85438327?v=4" width="64" height="64" alt=""/><br/><div>3D mesh defect classification — AI Journey main stage (frozen DINOv3 + attentive probe, LB 13.86)</div>]]></content>
+        <author>
+            <name>DenisSud</name>
+            <email>DenisSud@noreply.github.com</email>
+            <uri>https://github.com/DenisSud</uri>
+        </author>
+        <published>2026-09-17T16:56:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KhangDaoz/dinov3]]></title>
+        <id>https://github.com/KhangDaoz/dinov3</id>
+        <link href="https://github.com/KhangDaoz/dinov3"/>
+        <updated>2026-09-17T17:05:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148569940?u=82ea4548039bcaa3c6572d63c6ae73a97b235df9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>KhangDaoz</name>
+            <email>KhangDaoz@noreply.github.com</email>
+            <uri>https://github.com/KhangDaoz</uri>
+        </author>
+        <published>2026-09-08T16:03:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orcalian/FineTuning_DinoV3_vitl16_15M]]></title>
+        <id>https://github.com/Orcalian/FineTuning_DinoV3_vitl16_15M</id>
+        <link href="https://github.com/Orcalian/FineTuning_DinoV3_vitl16_15M"/>
+        <updated>2026-09-17T16:55:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15846493?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Orcalian</name>
+            <email>Orcalian@noreply.github.com</email>
+            <uri>https://github.com/Orcalian</uri>
+        </author>
+        <published>2026-09-17T16:55:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[techCRTIC/VirtualTryOn: Experimental TouchDesigner component (FluxRT) by CRTIC: TensorRT-accelerated gaze estimation with gazelle-dinov3]]></title>
+        <id>https://github.com/techCRTIC/VirtualTryOn</id>
+        <link href="https://github.com/techCRTIC/VirtualTryOn"/>
+        <updated>2026-09-17T16:41:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/267346952?u=eeeed4c32cd55f471f514ccc9058372afa51f8d4&v=4" width="64" height="64" alt=""/><br/><div>Experimental TouchDesigner component (FluxRT) by CRTIC: TensorRT-accelerated gaze estimation with gazelle-dinov3</div>]]></content>
+        <author>
+            <name>techCRTIC</name>
+            <email>techCRTIC@noreply.github.com</email>
+            <uri>https://github.com/techCRTIC</uri>
+        </author>
+        <published>2026-09-17T16:11:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Najongs/DINObotPose: DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지]]></title>
+        <id>https://github.com/Najongs/DINObotPose</id>
+        <link href="https://github.com/Najongs/DINObotPose"/>
+        <updated>2026-09-17T15:05:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/139130012?u=0ea273da354ddaff7901fff449a89ac880ea32ab&v=4" width="64" height="64" alt=""/><br/><div>DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지</div>]]></content>
+        <author>
+            <name>Najongs</name>
+            <email>Najongs@noreply.github.com</email>
+            <uri>https://github.com/Najongs</uri>
+        </author>
+        <published>2026-09-15T03:10:35.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
         <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
         <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-09-17T03:29:08.000Z</updated>
+        <updated>2026-09-17T12:48:48.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>JeonHaneul</name>
@@ -32,6 +110,45 @@
             <uri>https://github.com/JeonHaneul</uri>
         </author>
         <published>2026-07-15T08:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[syxscott/Radiolaria-DINOv3: Fine-Grained Few-Shot Classification with DINOv3]]></title>
+        <id>https://github.com/syxscott/Radiolaria-DINOv3</id>
+        <link href="https://github.com/syxscott/Radiolaria-DINOv3"/>
+        <updated>2026-09-17T10:39:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/116614798?u=60d3510d8ca8b2268f86ce9b58f8ad1d934a2436&v=4" width="64" height="64" alt=""/><br/><div>Fine-Grained Few-Shot Classification with DINOv3</div>]]></content>
+        <author>
+            <name>syxscott</name>
+            <email>syxscott@noreply.github.com</email>
+            <uri>https://github.com/syxscott</uri>
+        </author>
+        <published>2026-01-11T08:01:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dunliang0513/DINO-Performance-Evaluation: Benchmarking DINOv2 vs DINOv3 for missing-component and defect detection on PCB assemblies - accuracy and latency]]></title>
+        <id>https://github.com/dunliang0513/DINO-Performance-Evaluation</id>
+        <link href="https://github.com/dunliang0513/DINO-Performance-Evaluation"/>
+        <updated>2026-09-17T08:15:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81207108?u=bf23081d6c81294f649a6c40562246f2c073a982&v=4" width="64" height="64" alt=""/><br/><div>Benchmarking DINOv2 vs DINOv3 for missing-component and defect detection on PCB assemblies - accuracy and latency</div>]]></content>
+        <author>
+            <name>dunliang0513</name>
+            <email>dunliang0513@noreply.github.com</email>
+            <uri>https://github.com/dunliang0513</uri>
+        </author>
+        <published>2026-09-16T08:15:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tangkunszu/DinoDental: DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.]]></title>
+        <id>https://github.com/tangkunszu/DinoDental</id>
+        <link href="https://github.com/tangkunszu/DinoDental"/>
+        <updated>2026-09-17T07:47:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119643234?v=4" width="64" height="64" alt=""/><br/><div>DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.</div>]]></content>
+        <author>
+            <name>tangkunszu</name>
+            <email>tangkunszu@noreply.github.com</email>
+            <uri>https://github.com/tangkunszu</uri>
+        </author>
+        <published>2026-07-13T10:19:33.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AXERA-TECH/DEIMv2.axera: [DEIMv2] Real Time Object Detection Meets DINOv3 Demo on Axera NPU]]></title>
@@ -50,7 +167,7 @@
         <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
         <id>https://github.com/little51/dinov3-course</id>
         <link href="https://github.com/little51/dinov3-course"/>
-        <updated>2026-09-17T00:52:37.000Z</updated>
+        <updated>2026-09-18T01:42:47.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
         <author>
             <name>little51</name>
@@ -58,19 +175,6 @@
             <uri>https://github.com/little51</uri>
         </author>
         <published>2026-05-03T12:40:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom]]></title>
-        <id>https://github.com/zacharydenton/dinov3-hrx</id>
-        <link href="https://github.com/zacharydenton/dinov3-hrx"/>
-        <updated>2026-09-17T00:13:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>]]></content>
-        <author>
-            <name>zacharydenton</name>
-            <email>zacharydenton@noreply.github.com</email>
-            <uri>https://github.com/zacharydenton</uri>
-        </author>
-        <published>2026-09-04T13:22:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[saverin0/Change-Detection-Using-Dinov3]]></title>
@@ -84,19 +188,6 @@
             <uri>https://github.com/saverin0</uri>
         </author>
         <published>2026-09-16T21:26:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KhangDaoz/dinov3]]></title>
-        <id>https://github.com/KhangDaoz/dinov3</id>
-        <link href="https://github.com/KhangDaoz/dinov3"/>
-        <updated>2026-09-16T16:23:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148569940?u=82ea4548039bcaa3c6572d63c6ae73a97b235df9&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>KhangDaoz</name>
-            <email>KhangDaoz@noreply.github.com</email>
-            <uri>https://github.com/KhangDaoz</uri>
-        </author>
-        <published>2026-09-08T16:03:09.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[GeoLuchenchen/BTC-plusplus: Universal framework for remote sensing change detection — encoder → diff →   decoder, 31 decoders, 2 backbones]]></title>
@@ -151,32 +242,6 @@
         <published>2026-09-16T13:17:02.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tangkunszu/DinoDental: DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.]]></title>
-        <id>https://github.com/tangkunszu/DinoDental</id>
-        <link href="https://github.com/tangkunszu/DinoDental"/>
-        <updated>2026-09-16T09:51:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/119643234?v=4" width="64" height="64" alt=""/><br/><div>DinoDental is a DINOv3-based dental imaging project that supports detection, classification, and segmentation. It organizes custom configs, backbones, and evaluation code for dental downstream tasks on top of OpenMMLab.</div>]]></content>
-        <author>
-            <name>tangkunszu</name>
-            <email>tangkunszu@noreply.github.com</email>
-            <uri>https://github.com/tangkunszu</uri>
-        </author>
-        <published>2026-07-13T10:19:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dunliang0513/DINO-Performance-Evaluation: Benchmarking DINOv2 vs DINOv3 for missing-component and defect detection on PCB assemblies - accuracy and latency]]></title>
-        <id>https://github.com/dunliang0513/DINO-Performance-Evaluation</id>
-        <link href="https://github.com/dunliang0513/DINO-Performance-Evaluation"/>
-        <updated>2026-09-16T08:27:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/81207108?u=bf23081d6c81294f649a6c40562246f2c073a982&v=4" width="64" height="64" alt=""/><br/><div>Benchmarking DINOv2 vs DINOv3 for missing-component and defect detection on PCB assemblies - accuracy and latency</div>]]></content>
-        <author>
-            <name>dunliang0513</name>
-            <email>dunliang0513@noreply.github.com</email>
-            <uri>https://github.com/dunliang0513</uri>
-        </author>
-        <published>2026-09-16T08:15:02.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[jongha611/FGVC-DINOv3]]></title>
         <id>https://github.com/jongha611/FGVC-DINOv3</id>
         <link href="https://github.com/jongha611/FGVC-DINOv3"/>
@@ -201,70 +266,5 @@
             <uri>https://github.com/AhnafAhmed29</uri>
         </author>
         <published>2026-09-15T16:45:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Najongs/DINObotPose: DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지]]></title>
-        <id>https://github.com/Najongs/DINObotPose</id>
-        <link href="https://github.com/Najongs/DINObotPose"/>
-        <updated>2026-09-16T00:49:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/139130012?u=0ea273da354ddaff7901fff449a89ac880ea32ab&v=4" width="64" height="64" alt=""/><br/><div>DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지</div>]]></content>
-        <author>
-            <name>Najongs</name>
-            <email>Najongs@noreply.github.com</email>
-            <uri>https://github.com/Najongs</uri>
-        </author>
-        <published>2026-09-15T03:10:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xhj-1219/R2S-DINOv3]]></title>
-        <id>https://github.com/xhj-1219/R2S-DINOv3</id>
-        <link href="https://github.com/xhj-1219/R2S-DINOv3"/>
-        <updated>2026-09-15T15:18:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241040729?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>xhj-1219</name>
-            <email>xhj-1219@noreply.github.com</email>
-            <uri>https://github.com/xhj-1219</uri>
-        </author>
-        <published>2026-09-15T15:01:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.]]></title>
-        <id>https://github.com/alifarzadjamali/fashion-compatibility-benchmark</id>
-        <link href="https://github.com/alifarzadjamali/fashion-compatibility-benchmark"/>
-        <updated>2026-09-15T04:53:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4" width="64" height="64" alt=""/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>]]></content>
-        <author>
-            <name>alifarzadjamali</name>
-            <email>alifarzadjamali@noreply.github.com</email>
-            <uri>https://github.com/alifarzadjamali</uri>
-        </author>
-        <published>2026-03-25T17:20:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GuilhermeLourenceto/dinov3-fumaca-satelite: Análise de patches e fumaça em imagens de satélite com DINOv3 e INSID3]]></title>
-        <id>https://github.com/GuilhermeLourenceto/dinov3-fumaca-satelite</id>
-        <link href="https://github.com/GuilhermeLourenceto/dinov3-fumaca-satelite"/>
-        <updated>2026-09-14T18:42:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/191923327?u=45da918b3b1a124add750422a02865295e8dc9a3&v=4" width="64" height="64" alt=""/><br/><div>Análise de patches e fumaça em imagens de satélite com DINOv3 e INSID3</div>]]></content>
-        <author>
-            <name>GuilhermeLourenceto</name>
-            <email>GuilhermeLourenceto@noreply.github.com</email>
-            <uri>https://github.com/GuilhermeLourenceto</uri>
-        </author>
-        <published>2026-09-14T18:38:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chaejoon23/dinov3-image-search]]></title>
-        <id>https://github.com/chaejoon23/dinov3-image-search</id>
-        <link href="https://github.com/chaejoon23/dinov3-image-search"/>
-        <updated>2026-09-14T18:37:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/83930955?u=95c3c44313974b97d8f40eeeec60d79eedece81a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>chaejoon23</name>
-            <email>chaejoon23@noreply.github.com</email>
-            <uri>https://github.com/chaejoon23</uri>
-        </author>
-        <published>2025-12-08T14:36:49.000Z</published>
     </entry>
 </feed>
