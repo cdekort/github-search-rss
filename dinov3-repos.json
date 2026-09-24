@@ -9,11 +9,77 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-23T03:38:21.000Z",
+            "date_modified": "2026-09-24T03:29:16.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
+            "url": "https://github.com/kingwingfly/lets_embed",
+            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
+            "date_modified": "2026-09-23T21:09:33.000Z",
+            "date_published": "2026-05-17T07:13:23.000Z",
+            "author": {
+                "name": "kingwingfly",
+                "url": "https://github.com/kingwingfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-09-23T17:25:06.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
+            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
+            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
+            "date_modified": "2026-09-23T10:52:01.000Z",
+            "date_published": "2026-03-25T17:20:53.000Z",
+            "author": {
+                "name": "alifarzadjamali",
+                "url": "https://github.com/alifarzadjamali"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304723767?u=689e10067cdbeb1c0507ea7cd5f5d5642e7bebe9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.</div>",
+            "url": "https://github.com/DiVincenzo11/BlurDoRA-IML",
+            "title": "DiVincenzo11/BlurDoRA-IML: Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.",
+            "date_modified": "2026-09-23T10:41:21.000Z",
+            "date_published": "2026-09-23T10:28:35.000Z",
+            "author": {
+                "name": "DiVincenzo11",
+                "url": "https://github.com/DiVincenzo11"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139130012?u=0ea273da354ddaff7901fff449a89ac880ea32ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지</div>",
+            "url": "https://github.com/Najongs/DINObotPose",
+            "title": "Najongs/DINObotPose: DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지",
+            "date_modified": "2026-09-23T19:41:09.000Z",
+            "date_published": "2026-09-15T03:10:35.000Z",
+            "author": {
+                "name": "Najongs",
+                "url": "https://github.com/Najongs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>",
+            "url": "https://github.com/zacharydenton/dinov3-hrx",
+            "title": "zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom",
+            "date_modified": "2026-09-23T03:45:26.000Z",
+            "date_published": "2026-09-04T13:22:58.000Z",
+            "author": {
+                "name": "zacharydenton",
+                "url": "https://github.com/zacharydenton"
             }
         },
         {
@@ -39,28 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>",
-            "url": "https://github.com/zacharydenton/dinov3-hrx",
-            "title": "zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom",
-            "date_modified": "2026-09-22T22:45:19.000Z",
-            "date_published": "2026-09-04T13:22:58.000Z",
-            "author": {
-                "name": "zacharydenton",
-                "url": "https://github.com/zacharydenton"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
-            "url": "https://github.com/kingwingfly/lets_embed",
-            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
-            "date_modified": "2026-09-22T20:31:45.000Z",
-            "date_published": "2026-05-17T07:13:23.000Z",
-            "author": {
-                "name": "kingwingfly",
-                "url": "https://github.com/kingwingfly"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47831888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>",
             "url": "https://github.com/Brezemil/_trainer_lightly",
             "title": "Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers",
@@ -69,17 +113,6 @@
             "author": {
                 "name": "Brezemil",
                 "url": "https://github.com/Brezemil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
-            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
-            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
-            "date_modified": "2026-09-22T14:32:49.000Z",
-            "date_published": "2026-03-25T17:20:53.000Z",
-            "author": {
-                "name": "alifarzadjamali",
-                "url": "https://github.com/alifarzadjamali"
             }
         },
         {
@@ -102,17 +135,6 @@
             "author": {
                 "name": "ashybui16",
                 "url": "https://github.com/ashybui16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-09-22T20:21:18.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "JeonHaneul",
                 "url": "https://github.com/JeonHaneul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/baiding72/dinov3",
-            "title": "baiding72/dinov3",
-            "date_modified": "2026-09-21T02:10:30.000Z",
-            "date_published": "2026-08-17T02:46:56.000Z",
-            "author": {
-                "name": "baiding72",
-                "url": "https://github.com/baiding72"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71960985?u=7c37b79b6fb1a2770283eea7b0abb3a1b6091fee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/karuniaperjuangan/dinov3-classification-sd-198",
-            "title": "karuniaperjuangan/dinov3-classification-sd-198",
-            "date_modified": "2026-09-20T15:51:01.000Z",
-            "date_published": "2026-09-20T13:19:49.000Z",
-            "author": {
-                "name": "karuniaperjuangan",
-                "url": "https://github.com/karuniaperjuangan"
             }
         }
     ]

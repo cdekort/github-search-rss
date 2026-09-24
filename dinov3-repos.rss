@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-09-23T03:41:03.529Z</updated>
+    <updated>2026-09-24T03:32:07.206Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-09-23T03:38:21.000Z</updated>
+        <updated>2026-09-24T03:29:16.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -19,6 +19,84 @@
             <uri>https://github.com/tomgrizz</uri>
         </author>
         <published>2026-08-25T14:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
+        <id>https://github.com/kingwingfly/lets_embed</id>
+        <link href="https://github.com/kingwingfly/lets_embed"/>
+        <updated>2026-09-23T21:09:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
+        <author>
+            <name>kingwingfly</name>
+            <email>kingwingfly@noreply.github.com</email>
+            <uri>https://github.com/kingwingfly</uri>
+        </author>
+        <published>2026-05-17T07:13:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-09-23T17:25:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.]]></title>
+        <id>https://github.com/alifarzadjamali/fashion-compatibility-benchmark</id>
+        <link href="https://github.com/alifarzadjamali/fashion-compatibility-benchmark"/>
+        <updated>2026-09-23T10:52:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4" width="64" height="64" alt=""/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>]]></content>
+        <author>
+            <name>alifarzadjamali</name>
+            <email>alifarzadjamali@noreply.github.com</email>
+            <uri>https://github.com/alifarzadjamali</uri>
+        </author>
+        <published>2026-03-25T17:20:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiVincenzo11/BlurDoRA-IML: Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.]]></title>
+        <id>https://github.com/DiVincenzo11/BlurDoRA-IML</id>
+        <link href="https://github.com/DiVincenzo11/BlurDoRA-IML"/>
+        <updated>2026-09-23T10:41:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/304723767?u=689e10067cdbeb1c0507ea7cd5f5d5642e7bebe9&v=4" width="64" height="64" alt=""/><br/><div>Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.</div>]]></content>
+        <author>
+            <name>DiVincenzo11</name>
+            <email>DiVincenzo11@noreply.github.com</email>
+            <uri>https://github.com/DiVincenzo11</uri>
+        </author>
+        <published>2026-09-23T10:28:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Najongs/DINObotPose: DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지]]></title>
+        <id>https://github.com/Najongs/DINObotPose</id>
+        <link href="https://github.com/Najongs/DINObotPose"/>
+        <updated>2026-09-23T19:41:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/139130012?u=0ea273da354ddaff7901fff449a89ac880ea32ab&v=4" width="64" height="64" alt=""/><br/><div>DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지</div>]]></content>
+        <author>
+            <name>Najongs</name>
+            <email>Najongs@noreply.github.com</email>
+            <uri>https://github.com/Najongs</uri>
+        </author>
+        <published>2026-09-15T03:10:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom]]></title>
+        <id>https://github.com/zacharydenton/dinov3-hrx</id>
+        <link href="https://github.com/zacharydenton/dinov3-hrx"/>
+        <updated>2026-09-23T03:45:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>]]></content>
+        <author>
+            <name>zacharydenton</name>
+            <email>zacharydenton@noreply.github.com</email>
+            <uri>https://github.com/zacharydenton</uri>
+        </author>
+        <published>2026-09-04T13:22:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[dunliang0513/DINO-Performance-Evaluation: Benchmarking DINOv2 vs DINOv3 for missing-component and defect detection on PCB assemblies - accuracy and latency]]></title>
@@ -47,32 +125,6 @@
         <published>2026-09-05T18:56:56.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom]]></title>
-        <id>https://github.com/zacharydenton/dinov3-hrx</id>
-        <link href="https://github.com/zacharydenton/dinov3-hrx"/>
-        <updated>2026-09-22T22:45:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>]]></content>
-        <author>
-            <name>zacharydenton</name>
-            <email>zacharydenton@noreply.github.com</email>
-            <uri>https://github.com/zacharydenton</uri>
-        </author>
-        <published>2026-09-04T13:22:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-09-22T20:31:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers]]></title>
         <id>https://github.com/Brezemil/_trainer_lightly</id>
         <link href="https://github.com/Brezemil/_trainer_lightly"/>
@@ -84,19 +136,6 @@
             <uri>https://github.com/Brezemil</uri>
         </author>
         <published>2026-06-19T20:02:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.]]></title>
-        <id>https://github.com/alifarzadjamali/fashion-compatibility-benchmark</id>
-        <link href="https://github.com/alifarzadjamali/fashion-compatibility-benchmark"/>
-        <updated>2026-09-22T14:32:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4" width="64" height="64" alt=""/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>]]></content>
-        <author>
-            <name>alifarzadjamali</name>
-            <email>alifarzadjamali@noreply.github.com</email>
-            <uri>https://github.com/alifarzadjamali</uri>
-        </author>
-        <published>2026-03-25T17:20:53.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JetstreamSR/seed-detection-and-classification: A computer vision pipeline for seed detection and classification using YOLOv12, DINOv3, and uncertainty-based analysis.]]></title>
@@ -123,19 +162,6 @@
             <uri>https://github.com/ashybui16</uri>
         </author>
         <published>2026-09-22T09:58:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-09-22T20:21:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[imtiendat0311/coral-dinov3]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/JeonHaneul</uri>
         </author>
         <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[baiding72/dinov3]]></title>
-        <id>https://github.com/baiding72/dinov3</id>
-        <link href="https://github.com/baiding72/dinov3"/>
-        <updated>2026-09-21T02:10:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68223736?u=da7a014e5114d0ed213a1bc2d5189a529f910e43&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>baiding72</name>
-            <email>baiding72@noreply.github.com</email>
-            <uri>https://github.com/baiding72</uri>
-        </author>
-        <published>2026-08-17T02:46:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[karuniaperjuangan/dinov3-classification-sd-198]]></title>
-        <id>https://github.com/karuniaperjuangan/dinov3-classification-sd-198</id>
-        <link href="https://github.com/karuniaperjuangan/dinov3-classification-sd-198"/>
-        <updated>2026-09-20T15:51:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71960985?u=7c37b79b6fb1a2770283eea7b0abb3a1b6091fee&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>karuniaperjuangan</name>
-            <email>karuniaperjuangan@noreply.github.com</email>
-            <uri>https://github.com/karuniaperjuangan</uri>
-        </author>
-        <published>2026-09-20T13:19:49.000Z</published>
     </entry>
 </feed>
