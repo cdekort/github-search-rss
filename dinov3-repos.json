@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-24T03:29:16.000Z",
+            "date_modified": "2026-09-25T03:43:48.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>",
+            "url": "https://github.com/zacharydenton/dinov3-hrx",
+            "title": "zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom",
+            "date_modified": "2026-09-24T21:11:03.000Z",
+            "date_published": "2026-09-04T13:22:58.000Z",
+            "author": {
+                "name": "zacharydenton",
+                "url": "https://github.com/zacharydenton"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
             "url": "https://github.com/kingwingfly/lets_embed",
             "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
-            "date_modified": "2026-09-23T21:09:33.000Z",
+            "date_modified": "2026-09-24T19:58:31.000Z",
             "date_published": "2026-05-17T07:13:23.000Z",
             "author": {
                 "name": "kingwingfly",
@@ -28,10 +39,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187920718?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/dvkhanh911/dinov3-anomaly-detection",
+            "title": "dvkhanh911/dinov3-anomaly-detection",
+            "date_modified": "2026-09-24T11:47:11.000Z",
+            "date_published": "2026-09-19T08:20:59.000Z",
+            "author": {
+                "name": "dvkhanh911",
+                "url": "https://github.com/dvkhanh911"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143726059?u=9d435615cc65040321516dbafb2b5dc3ea496b5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research framework for drone detection on VisioDECT, benchmarking supervised YOLO/RF-DETR models against SimCLR, BYOL, I-JEPA, and DINOv3 self-supervised representations, with low-label learning, label-efficiency ablations, error analysis, and multi-object tracking.</div>",
+            "url": "https://github.com/AhnafAhmed29/VisioDECT-Self-Supervised-Drone-Detection",
+            "title": "AhnafAhmed29/VisioDECT-Self-Supervised-Drone-Detection: Research framework for drone detection on VisioDECT, benchmarking supervised YOLO/RF-DETR models against SimCLR, BYOL, I-JEPA, and DINOv3 self-supervised representations, with low-label learning, label-efficiency ablations, error analysis, and multi-object tracking.",
+            "date_modified": "2026-09-24T08:41:39.000Z",
+            "date_published": "2026-09-15T16:45:43.000Z",
+            "author": {
+                "name": "AhnafAhmed29",
+                "url": "https://github.com/AhnafAhmed29"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-09-23T17:25:06.000Z",
+            "date_modified": "2026-09-25T00:54:36.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -69,17 +102,6 @@
             "author": {
                 "name": "Najongs",
                 "url": "https://github.com/Najongs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>",
-            "url": "https://github.com/zacharydenton/dinov3-hrx",
-            "title": "zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom",
-            "date_modified": "2026-09-23T03:45:26.000Z",
-            "date_published": "2026-09-04T13:22:58.000Z",
-            "author": {
-                "name": "zacharydenton",
-                "url": "https://github.com/zacharydenton"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Kaniz-Reza",
                 "url": "https://github.com/Kaniz-Reza"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304802587?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Dow0413/dinov3_nav",
-            "title": "Dow0413/dinov3_nav",
-            "date_modified": "2026-09-21T19:20:20.000Z",
-            "date_published": "2026-09-20T06:13:22.000Z",
-            "author": {
-                "name": "Dow0413",
-                "url": "https://github.com/Dow0413"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
-            "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-09-21T19:20:17.000Z",
-            "date_published": "2026-07-15T08:27:58.000Z",
-            "author": {
-                "name": "JeonHaneul",
-                "url": "https://github.com/JeonHaneul"
             }
         }
     ]
