@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-27T03:58:17.000Z",
+            "date_modified": "2026-09-28T04:06:01.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,10 +17,98 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145397440?u=069e8b396c206dd1f2540d1e7433c369b61d3070&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simulation-first FR3 ribbon-cable assembly research: macro vision, ROS2, cable mechanics, reproducible experiments and an illustrated research notebook.</div>",
+            "url": "https://github.com/lakshya-asu/ffc-insertion-research",
+            "title": "lakshya-asu/ffc-insertion-research: Simulation-first FR3 ribbon-cable assembly research: macro vision, ROS2, cable mechanics, reproducible experiments and an illustrated research notebook.",
+            "date_modified": "2026-09-28T03:58:19.000Z",
+            "date_published": "2026-09-27T16:00:39.000Z",
+            "author": {
+                "name": "lakshya-asu",
+                "url": "https://github.com/lakshya-asu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75724261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jayd972/Multi-Agent-dinov3-explainable-tumor-detection-framework",
+            "title": "jayd972/Multi-Agent-dinov3-explainable-tumor-detection-framework",
+            "date_modified": "2026-09-28T00:41:29.000Z",
+            "date_published": "2026-02-05T11:01:15.000Z",
+            "author": {
+                "name": "jayd972",
+                "url": "https://github.com/jayd972"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118448679?u=c175b42b4b3488657daa26cf50ef0a339ab32841&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Training-free open-vocabulary semantic segmentation using DINOv3 reference memory and retrieval-guided spatial prompting of frozen SAM 3.</div>",
+            "url": "https://github.com/boudiafA/SegRAG",
+            "title": "boudiafA/SegRAG: Training-free open-vocabulary semantic segmentation using DINOv3 reference memory and retrieval-guided spatial prompting of frozen SAM 3.",
+            "date_modified": "2026-09-27T21:06:58.000Z",
+            "date_published": "2026-04-02T10:12:36.000Z",
+            "author": {
+                "name": "boudiafA",
+                "url": "https://github.com/boudiafA"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222839560?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jongha611/FGVC-DINOv3",
+            "title": "jongha611/FGVC-DINOv3",
+            "date_modified": "2026-09-27T20:34:37.000Z",
+            "date_published": "2026-05-19T06:25:20.000Z",
+            "author": {
+                "name": "jongha611",
+                "url": "https://github.com/jongha611"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
+            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
+            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
+            "date_modified": "2026-09-27T17:59:40.000Z",
+            "date_published": "2026-03-25T17:20:53.000Z",
+            "author": {
+                "name": "alifarzadjamali",
+                "url": "https://github.com/alifarzadjamali"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36097028?u=43ef8e5c953f545afd85a8476d970d82076e03df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Dinov3的embedding模型搭建</div>",
+            "url": "https://github.com/wondron/dinov3_machine",
+            "title": "wondron/dinov3_machine: 基于Dinov3的embedding模型搭建",
+            "date_modified": "2026-09-27T20:34:41.000Z",
+            "date_published": "2026-09-27T07:18:18.000Z",
+            "author": {
+                "name": "wondron",
+                "url": "https://github.com/wondron"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165764559?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.</div>",
+            "url": "https://github.com/xiaofangZH/Bio-inspired-MOT",
+            "title": "xiaofangZH/Bio-inspired-MOT: This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.",
+            "date_modified": "2026-09-27T12:58:37.000Z",
+            "date_published": "2026-06-10T01:58:47.000Z",
+            "author": {
+                "name": "xiaofangZH",
+                "url": "https://github.com/xiaofangZH"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58044241?u=ab416415105f9b92d02dad92c2fc671ee1f0896e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Zorain98/DINOv3-ViT-for-Blood-Group-Classification",
+            "title": "Zorain98/DINOv3-ViT-for-Blood-Group-Classification",
+            "date_modified": "2026-09-27T08:23:54.000Z",
+            "date_published": "2026-09-27T08:21:39.000Z",
+            "author": {
+                "name": "Zorain98",
+                "url": "https://github.com/Zorain98"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model</div>",
             "url": "https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo",
             "title": "IoT-gamer/flutter_dinov3_one_shot_demo: Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model",
-            "date_modified": "2026-09-26T13:48:00.000Z",
+            "date_modified": "2026-09-27T04:20:13.000Z",
             "date_published": "2025-09-18T08:33:33.000Z",
             "author": {
                 "name": "IoT-gamer",
@@ -42,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32098079?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/IlikeBB/Real-Only-DINOv3-PatchBank-for-Deepfake-Detection",
             "title": "IlikeBB/Real-Only-DINOv3-PatchBank-for-Deepfake-Detection",
-            "date_modified": "2026-09-26T12:07:30.000Z",
+            "date_modified": "2026-09-27T04:13:41.000Z",
             "date_published": "2026-09-21T05:36:55.000Z",
             "author": {
                 "name": "IlikeBB",
@@ -135,94 +223,6 @@
             "author": {
                 "name": "AlyoshaLV999",
                 "url": "https://github.com/AlyoshaLV999"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom</div>",
-            "url": "https://github.com/zacharydenton/dinov3-hrx",
-            "title": "zacharydenton/dinov3-hrx: DINOv3 ViT-S+/16 inference in Rust for AMD GPUs with HRX and Loom",
-            "date_modified": "2026-09-24T21:11:03.000Z",
-            "date_published": "2026-09-04T13:22:58.000Z",
-            "author": {
-                "name": "zacharydenton",
-                "url": "https://github.com/zacharydenton"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187920718?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/dvkhanh911/dinov3-anomaly-detection",
-            "title": "dvkhanh911/dinov3-anomaly-detection",
-            "date_modified": "2026-09-24T11:47:11.000Z",
-            "date_published": "2026-09-19T08:20:59.000Z",
-            "author": {
-                "name": "dvkhanh911",
-                "url": "https://github.com/dvkhanh911"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143726059?u=9d435615cc65040321516dbafb2b5dc3ea496b5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research framework for drone detection on VisioDECT, benchmarking supervised YOLO/RF-DETR models against SimCLR, BYOL, I-JEPA, and DINOv3 self-supervised representations, with low-label learning, label-efficiency ablations, error analysis, and multi-object tracking.</div>",
-            "url": "https://github.com/AhnafAhmed29/VisioDECT-Self-Supervised-Drone-Detection",
-            "title": "AhnafAhmed29/VisioDECT-Self-Supervised-Drone-Detection: Research framework for drone detection on VisioDECT, benchmarking supervised YOLO/RF-DETR models against SimCLR, BYOL, I-JEPA, and DINOv3 self-supervised representations, with low-label learning, label-efficiency ablations, error analysis, and multi-object tracking.",
-            "date_modified": "2026-09-24T08:41:39.000Z",
-            "date_published": "2026-09-15T16:45:43.000Z",
-            "author": {
-                "name": "AhnafAhmed29",
-                "url": "https://github.com/AhnafAhmed29"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19193291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Drag-to-select similarity search over Mars CTX / Murray Lab mosaic imagery (DINOv3 + FAISS)</div>",
-            "url": "https://github.com/davidackerman/mars_ctx_explorer",
-            "title": "davidackerman/mars_ctx_explorer: Drag-to-select similarity search over Mars CTX / Murray Lab mosaic imagery (DINOv3 + FAISS)",
-            "date_modified": "2026-09-26T22:45:02.000Z",
-            "date_published": "2026-09-23T23:50:48.000Z",
-            "author": {
-                "name": "davidackerman",
-                "url": "https://github.com/davidackerman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-09-25T00:54:36.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
-            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
-            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
-            "date_modified": "2026-09-23T10:52:01.000Z",
-            "date_published": "2026-03-25T17:20:53.000Z",
-            "author": {
-                "name": "alifarzadjamali",
-                "url": "https://github.com/alifarzadjamali"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304723767?u=689e10067cdbeb1c0507ea7cd5f5d5642e7bebe9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.</div>",
-            "url": "https://github.com/DiVincenzo11/BlurDoRA-IML",
-            "title": "DiVincenzo11/BlurDoRA-IML: Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.",
-            "date_modified": "2026-09-23T10:41:21.000Z",
-            "date_published": "2026-09-23T10:28:35.000Z",
-            "author": {
-                "name": "DiVincenzo11",
-                "url": "https://github.com/DiVincenzo11"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139130012?u=0ea273da354ddaff7901fff449a89ac880ea32ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지</div>",
-            "url": "https://github.com/Najongs/DINObotPose",
-            "title": "Najongs/DINObotPose: DINObotPose — 사전학습 비전 파운데이션 모델과 기구학 피팅으로 단안 영상에서 로봇 포즈·관절각 추정. 논문 재현 패키지",
-            "date_modified": "2026-09-23T19:41:09.000Z",
-            "date_published": "2026-09-15T03:10:35.000Z",
-            "author": {
-                "name": "Najongs",
-                "url": "https://github.com/Najongs"
             }
         }
     ]
