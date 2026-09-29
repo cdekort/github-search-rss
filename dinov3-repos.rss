@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-09-28T04:06:23.182Z</updated>
+    <updated>2026-09-29T04:39:05.904Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-09-28T04:06:01.000Z</updated>
+        <updated>2026-09-29T04:33:43.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[lakshya-asu/ffc-insertion-research: Simulation-first FR3 ribbon-cable assembly research: macro vision, ROS2, cable mechanics, reproducible experiments and an illustrated research notebook.]]></title>
         <id>https://github.com/lakshya-asu/ffc-insertion-research</id>
         <link href="https://github.com/lakshya-asu/ffc-insertion-research"/>
-        <updated>2026-09-28T03:58:19.000Z</updated>
+        <updated>2026-09-29T04:22:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145397440?u=069e8b396c206dd1f2540d1e7433c369b61d3070&v=4" width="64" height="64" alt=""/><br/><div>Simulation-first FR3 ribbon-cable assembly research: macro vision, ROS2, cable mechanics, reproducible experiments and an illustrated research notebook.</div>]]></content>
         <author>
             <name>lakshya-asu</name>
@@ -32,6 +32,201 @@
             <uri>https://github.com/lakshya-asu</uri>
         </author>
         <published>2026-09-27T16:00:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rithikashree25/brain-tumor-dinov3-pca-gradcam]]></title>
+        <id>https://github.com/Rithikashree25/brain-tumor-dinov3-pca-gradcam</id>
+        <link href="https://github.com/Rithikashree25/brain-tumor-dinov3-pca-gradcam"/>
+        <updated>2026-09-29T04:07:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/196409808?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Rithikashree25</name>
+            <email>Rithikashree25@noreply.github.com</email>
+            <uri>https://github.com/Rithikashree25</uri>
+        </author>
+        <published>2026-09-29T03:57:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaywalk18/DAGA: Official code for 'DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers' (NeurIPS 2026)]]></title>
+        <id>https://github.com/Jaywalk18/DAGA</id>
+        <link href="https://github.com/Jaywalk18/DAGA"/>
+        <updated>2026-09-29T03:12:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63108064?u=406bac6c79675d7145922b8d4baba291c21f3aca&v=4" width="64" height="64" alt=""/><br/><div>Official code for 'DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers' (NeurIPS 2026)</div>]]></content>
+        <author>
+            <name>Jaywalk18</name>
+            <email>Jaywalk18@noreply.github.com</email>
+            <uri>https://github.com/Jaywalk18</uri>
+        </author>
+        <published>2026-01-21T12:19:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[weimingz996/Tarot-SAM3_Code: Tarot-SAM3: A training-free framework for explicit and implicit referring expression segmentation with SAM3, combining expression reasoning and DINOv3-guided mask self-refinement.]]></title>
+        <id>https://github.com/weimingz996/Tarot-SAM3_Code</id>
+        <link href="https://github.com/weimingz996/Tarot-SAM3_Code"/>
+        <updated>2026-09-29T02:56:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136681140?v=4" width="64" height="64" alt=""/><br/><div>Tarot-SAM3: A training-free framework for explicit and implicit referring expression segmentation with SAM3, combining expression reasoning and DINOv3-guided mask self-refinement.</div>]]></content>
+        <author>
+            <name>weimingz996</name>
+            <email>weimingz996@noreply.github.com</email>
+            <uri>https://github.com/weimingz996</uri>
+        </author>
+        <published>2026-09-26T09:06:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ahughes0227/training-platform: Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.]]></title>
+        <id>https://github.com/ahughes0227/training-platform</id>
+        <link href="https://github.com/ahughes0227/training-platform"/>
+        <updated>2026-09-28T23:54:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/133914261?v=4" width="64" height="64" alt=""/><br/><div>Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.</div>]]></content>
+        <author>
+            <name>ahughes0227</name>
+            <email>ahughes0227@noreply.github.com</email>
+            <uri>https://github.com/ahughes0227</uri>
+        </author>
+        <published>2026-09-28T10:50:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bednarjosef/neuroguessr-app: Fully offline on-device photo geolocation for Android — DINOv3 encoder + 300k-place visual index, no network at any point]]></title>
+        <id>https://github.com/bednarjosef/neuroguessr-app</id>
+        <link href="https://github.com/bednarjosef/neuroguessr-app"/>
+        <updated>2026-09-28T22:38:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70231378?u=e00bcec72e28ead9483471412211d2e1d93e2b09&v=4" width="64" height="64" alt=""/><br/><div>Fully offline on-device photo geolocation for Android — DINOv3 encoder + 300k-place visual index, no network at any point</div>]]></content>
+        <author>
+            <name>bednarjosef</name>
+            <email>bednarjosef@noreply.github.com</email>
+            <uri>https://github.com/bednarjosef</uri>
+        </author>
+        <published>2026-07-25T16:32:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bednarjosef/neuroguessr-2: Single-image geolocalization: DINOv3 geocell classifier + gated retrieval over 1.2M Street View images. 34.1 km median error, runs offline on a phone.]]></title>
+        <id>https://github.com/bednarjosef/neuroguessr-2</id>
+        <link href="https://github.com/bednarjosef/neuroguessr-2"/>
+        <updated>2026-09-28T22:36:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/70231378?u=e00bcec72e28ead9483471412211d2e1d93e2b09&v=4" width="64" height="64" alt=""/><br/><div>Single-image geolocalization: DINOv3 geocell classifier + gated retrieval over 1.2M Street View images. 34.1 km median error, runs offline on a phone.</div>]]></content>
+        <author>
+            <name>bednarjosef</name>
+            <email>bednarjosef@noreply.github.com</email>
+            <uri>https://github.com/bednarjosef</uri>
+        </author>
+        <published>2026-07-21T12:08:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[isuchy/uav-geolocalization-spatial-structure: Retrieval pipeline, tile catalogues and flight ground truth for a controlled evaluation of descriptor pooling and geographic index partitioning in UAV visual geolocalization with a frozen DINOv3 backbone.]]></title>
+        <id>https://github.com/isuchy/uav-geolocalization-spatial-structure</id>
+        <link href="https://github.com/isuchy/uav-geolocalization-spatial-structure"/>
+        <updated>2026-09-28T21:58:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19557763?v=4" width="64" height="64" alt=""/><br/><div>Retrieval pipeline, tile catalogues and flight ground truth for a controlled evaluation of descriptor pooling and geographic index partitioning in UAV visual geolocalization with a frozen DINOv3 backbone.</div>]]></content>
+        <author>
+            <name>isuchy</name>
+            <email>isuchy@noreply.github.com</email>
+            <uri>https://github.com/isuchy</uri>
+        </author>
+        <published>2026-09-28T12:12:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sweetlhare/falcon-chel-lct-2026: CHEL: interpretable vehicle retrieval for LCT 2026. DINOv3 + KISSME, CPU inference, operator evidence.]]></title>
+        <id>https://github.com/sweetlhare/falcon-chel-lct-2026</id>
+        <link href="https://github.com/sweetlhare/falcon-chel-lct-2026"/>
+        <updated>2026-09-28T18:21:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43065450?u=676a7527205cc718bbe337aeb0baebb8ad0bb814&v=4" width="64" height="64" alt=""/><br/><div>CHEL: interpretable vehicle retrieval for LCT 2026. DINOv3 + KISSME, CPU inference, operator evidence.</div>]]></content>
+        <author>
+            <name>sweetlhare</name>
+            <email>sweetlhare@noreply.github.com</email>
+            <uri>https://github.com/sweetlhare</uri>
+        </author>
+        <published>2026-09-28T15:40:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[saverin0/sar-transfer-glaciers: Do frozen image encoders transfer to SAR? Glacier calving fronts on CaFFe: frozen DINOv3 (satellite and photo), C-RADIO, TerraMind and SARATR-X with small heads vs a U-Net from scratch; pixel size vs radar band; frozen-feature views.]]></title>
+        <id>https://github.com/saverin0/sar-transfer-glaciers</id>
+        <link href="https://github.com/saverin0/sar-transfer-glaciers"/>
+        <updated>2026-09-28T17:45:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73588208?u=b6aeeaf85c4e57f28a17f08b4ecabcbe3fa2d936&v=4" width="64" height="64" alt=""/><br/><div>Do frozen image encoders transfer to SAR? Glacier calving fronts on CaFFe: frozen DINOv3 (satellite and photo), C-RADIO, TerraMind and SARATR-X with small heads vs a U-Net from scratch; pixel size vs radar band; frozen-feature views.</div>]]></content>
+        <author>
+            <name>saverin0</name>
+            <email>saverin0@noreply.github.com</email>
+            <uri>https://github.com/saverin0</uri>
+        </author>
+        <published>2026-09-28T05:41:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dvkhanh911/dinov3-anomaly-detection]]></title>
+        <id>https://github.com/dvkhanh911/dinov3-anomaly-detection</id>
+        <link href="https://github.com/dvkhanh911/dinov3-anomaly-detection"/>
+        <updated>2026-09-28T15:05:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/187920718?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>dvkhanh911</name>
+            <email>dvkhanh911@noreply.github.com</email>
+            <uri>https://github.com/dvkhanh911</uri>
+        </author>
+        <published>2026-09-19T08:20:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nishanth3112/PathoVision_AI: PathoVision AI is a production-grade digital pathology platform using DINOv2/DINOv3 and attention-based MIL to detect suspicious metastatic tissue in histopathology images.]]></title>
+        <id>https://github.com/nishanth3112/PathoVision_AI</id>
+        <link href="https://github.com/nishanth3112/PathoVision_AI"/>
+        <updated>2026-09-28T13:29:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104993734?u=8b263b25e95d4df40e4e47e3ae750d0226d5de33&v=4" width="64" height="64" alt=""/><br/><div>PathoVision AI is a production-grade digital pathology platform using DINOv2/DINOv3 and attention-based MIL to detect suspicious metastatic tissue in histopathology images.</div>]]></content>
+        <author>
+            <name>nishanth3112</name>
+            <email>nishanth3112@noreply.github.com</email>
+            <uri>https://github.com/nishanth3112</uri>
+        </author>
+        <published>2026-09-28T13:15:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tianhuanyu/ivf_foundation: Foundation model training pipeline using JEPA-v2 and DINOv3]]></title>
+        <id>https://github.com/Tianhuanyu/ivf_foundation</id>
+        <link href="https://github.com/Tianhuanyu/ivf_foundation"/>
+        <updated>2026-09-28T11:49:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32757697?u=ad3f654c5567dd93d6c4d8589b7fd84f3a7c2816&v=4" width="64" height="64" alt=""/><br/><div>Foundation model training pipeline using JEPA-v2 and DINOv3</div>]]></content>
+        <author>
+            <name>Tianhuanyu</name>
+            <email>Tianhuanyu@noreply.github.com</email>
+            <uri>https://github.com/Tianhuanyu</uri>
+        </author>
+        <published>2026-08-05T19:44:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[junyi2005/signdino: SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation]]></title>
+        <id>https://github.com/junyi2005/signdino</id>
+        <link href="https://github.com/junyi2005/signdino"/>
+        <updated>2026-09-28T19:07:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/214130794?v=4" width="64" height="64" alt=""/><br/><div>SignDino: Self-Supervised Sign Language Representation Learning via Temporal-Axis Self-Distillation</div>]]></content>
+        <author>
+            <name>junyi2005</name>
+            <email>junyi2005@noreply.github.com</email>
+            <uri>https://github.com/junyi2005</uri>
+        </author>
+        <published>2026-09-05T18:48:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT-gamer/segment-anything-dinov3-onnx: A set of tools and examples for converting and utilizing powerful vision models, DINOv3 and EdgeTAM (SAM2), within the ONNX ecosystem.]]></title>
+        <id>https://github.com/IoT-gamer/segment-anything-dinov3-onnx</id>
+        <link href="https://github.com/IoT-gamer/segment-anything-dinov3-onnx"/>
+        <updated>2026-09-28T09:24:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4" width="64" height="64" alt=""/><br/><div>A set of tools and examples for converting and utilizing powerful vision models, DINOv3 and EdgeTAM (SAM2), within the ONNX ecosystem.</div>]]></content>
+        <author>
+            <name>IoT-gamer</name>
+            <email>IoT-gamer@noreply.github.com</email>
+            <uri>https://github.com/IoT-gamer</uri>
+        </author>
+        <published>2025-09-05T06:54:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wondron/dinov3_machine: 基于Dinov3的embedding模型搭建]]></title>
+        <id>https://github.com/wondron/dinov3_machine</id>
+        <link href="https://github.com/wondron/dinov3_machine"/>
+        <updated>2026-09-28T07:40:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36097028?u=43ef8e5c953f545afd85a8476d970d82076e03df&v=4" width="64" height="64" alt=""/><br/><div>基于Dinov3的embedding模型搭建</div>]]></content>
+        <author>
+            <name>wondron</name>
+            <email>wondron@noreply.github.com</email>
+            <uri>https://github.com/wondron</uri>
+        </author>
+        <published>2026-09-27T07:18:18.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jayd972/Multi-Agent-dinov3-explainable-tumor-detection-framework]]></title>
@@ -50,7 +245,7 @@
         <title type="html"><![CDATA[boudiafA/SegRAG: Training-free open-vocabulary semantic segmentation using DINOv3 reference memory and retrieval-guided spatial prompting of frozen SAM 3.]]></title>
         <id>https://github.com/boudiafA/SegRAG</id>
         <link href="https://github.com/boudiafA/SegRAG"/>
-        <updated>2026-09-27T21:06:58.000Z</updated>
+        <updated>2026-09-28T11:40:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118448679?u=c175b42b4b3488657daa26cf50ef0a339ab32841&v=4" width="64" height="64" alt=""/><br/><div>Training-free open-vocabulary semantic segmentation using DINOv3 reference memory and retrieval-guided spatial prompting of frozen SAM 3.</div>]]></content>
         <author>
             <name>boudiafA</name>
@@ -71,200 +266,5 @@
             <uri>https://github.com/jongha611</uri>
         </author>
         <published>2026-05-19T06:25:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.]]></title>
-        <id>https://github.com/alifarzadjamali/fashion-compatibility-benchmark</id>
-        <link href="https://github.com/alifarzadjamali/fashion-compatibility-benchmark"/>
-        <updated>2026-09-27T17:59:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4" width="64" height="64" alt=""/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>]]></content>
-        <author>
-            <name>alifarzadjamali</name>
-            <email>alifarzadjamali@noreply.github.com</email>
-            <uri>https://github.com/alifarzadjamali</uri>
-        </author>
-        <published>2026-03-25T17:20:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wondron/dinov3_machine: 基于Dinov3的embedding模型搭建]]></title>
-        <id>https://github.com/wondron/dinov3_machine</id>
-        <link href="https://github.com/wondron/dinov3_machine"/>
-        <updated>2026-09-27T20:34:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36097028?u=43ef8e5c953f545afd85a8476d970d82076e03df&v=4" width="64" height="64" alt=""/><br/><div>基于Dinov3的embedding模型搭建</div>]]></content>
-        <author>
-            <name>wondron</name>
-            <email>wondron@noreply.github.com</email>
-            <uri>https://github.com/wondron</uri>
-        </author>
-        <published>2026-09-27T07:18:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xiaofangZH/Bio-inspired-MOT: This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.]]></title>
-        <id>https://github.com/xiaofangZH/Bio-inspired-MOT</id>
-        <link href="https://github.com/xiaofangZH/Bio-inspired-MOT"/>
-        <updated>2026-09-27T12:58:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165764559?v=4" width="64" height="64" alt=""/><br/><div>This is a new multi-object tracking model based on DINOv3 and a novel bio-visual imitation mechanism.</div>]]></content>
-        <author>
-            <name>xiaofangZH</name>
-            <email>xiaofangZH@noreply.github.com</email>
-            <uri>https://github.com/xiaofangZH</uri>
-        </author>
-        <published>2026-06-10T01:58:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zorain98/DINOv3-ViT-for-Blood-Group-Classification]]></title>
-        <id>https://github.com/Zorain98/DINOv3-ViT-for-Blood-Group-Classification</id>
-        <link href="https://github.com/Zorain98/DINOv3-ViT-for-Blood-Group-Classification"/>
-        <updated>2026-09-27T08:23:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58044241?u=ab416415105f9b92d02dad92c2fc671ee1f0896e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Zorain98</name>
-            <email>Zorain98@noreply.github.com</email>
-            <uri>https://github.com/Zorain98</uri>
-        </author>
-        <published>2026-09-27T08:21:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_one_shot_demo: Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model]]></title>
-        <id>https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo</id>
-        <link href="https://github.com/IoT-gamer/flutter_dinov3_one_shot_demo"/>
-        <updated>2026-09-27T04:20:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4" width="64" height="64" alt=""/><br/><div>Flutter application demonstrating real-time, one-shot object segmentation using a DINOv3 feature extractor model</div>]]></content>
-        <author>
-            <name>IoT-gamer</name>
-            <email>IoT-gamer@noreply.github.com</email>
-            <uri>https://github.com/IoT-gamer</uri>
-        </author>
-        <published>2025-09-18T08:33:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jamal-saeedi/PyraFuse: DINOv3-based semantic segmentation for skin, fabric, and background — PyTorch, Hugging Face, and TensorRT.]]></title>
-        <id>https://github.com/jamal-saeedi/PyraFuse</id>
-        <link href="https://github.com/jamal-saeedi/PyraFuse"/>
-        <updated>2026-09-26T12:50:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50617366?u=c180ef6843b320ff4432dffede4a4c48f0913dba&v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based semantic segmentation for skin, fabric, and background — PyTorch, Hugging Face, and TensorRT.</div>]]></content>
-        <author>
-            <name>jamal-saeedi</name>
-            <email>jamal-saeedi@noreply.github.com</email>
-            <uri>https://github.com/jamal-saeedi</uri>
-        </author>
-        <published>2026-06-22T08:55:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IlikeBB/Real-Only-DINOv3-PatchBank-for-Deepfake-Detection]]></title>
-        <id>https://github.com/IlikeBB/Real-Only-DINOv3-PatchBank-for-Deepfake-Detection</id>
-        <link href="https://github.com/IlikeBB/Real-Only-DINOv3-PatchBank-for-Deepfake-Detection"/>
-        <updated>2026-09-27T04:13:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32098079?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>IlikeBB</name>
-            <email>IlikeBB@noreply.github.com</email>
-            <uri>https://github.com/IlikeBB</uri>
-        </author>
-        <published>2026-09-21T05:36:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tangyingtyty/DINOv3-HOHA-L]]></title>
-        <id>https://github.com/tangyingtyty/DINOv3-HOHA-L</id>
-        <link href="https://github.com/tangyingtyty/DINOv3-HOHA-L"/>
-        <updated>2026-09-26T12:07:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51815078?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>tangyingtyty</name>
-            <email>tangyingtyty@noreply.github.com</email>
-            <uri>https://github.com/tangyingtyty</uri>
-        </author>
-        <published>2026-06-19T18:51:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sebspel/worldmodel-ptq-asymmetry: Post-training quantisation of two Push-T world models (LeWM vs DINOv3-WM) on an L40S: planning-cycle latency and success rate across FP32→FP16→FP8→INT8 TensorRT engines.]]></title>
-        <id>https://github.com/sebspel/worldmodel-ptq-asymmetry</id>
-        <link href="https://github.com/sebspel/worldmodel-ptq-asymmetry"/>
-        <updated>2026-09-26T10:23:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/150625228?v=4" width="64" height="64" alt=""/><br/><div>Post-training quantisation of two Push-T world models (LeWM vs DINOv3-WM) on an L40S: planning-cycle latency and success rate across FP32→FP16→FP8→INT8 TensorRT engines.</div>]]></content>
-        <author>
-            <name>sebspel</name>
-            <email>sebspel@noreply.github.com</email>
-            <uri>https://github.com/sebspel</uri>
-        </author>
-        <published>2026-06-21T10:09:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[weimingz996/Tarot-SAM3_Code: Tarot-SAM3: A training-free framework for explicit and implicit referring expression segmentation with SAM3, combining expression reasoning and DINOv3-guided mask self-refinement.]]></title>
-        <id>https://github.com/weimingz996/Tarot-SAM3_Code</id>
-        <link href="https://github.com/weimingz996/Tarot-SAM3_Code"/>
-        <updated>2026-09-26T09:12:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/136681140?v=4" width="64" height="64" alt=""/><br/><div>Tarot-SAM3: A training-free framework for explicit and implicit referring expression segmentation with SAM3, combining expression reasoning and DINOv3-guided mask self-refinement.</div>]]></content>
-        <author>
-            <name>weimingz996</name>
-            <email>weimingz996@noreply.github.com</email>
-            <uri>https://github.com/weimingz996</uri>
-        </author>
-        <published>2026-09-26T09:06:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jaywalk18/DAGA: Official code for 'DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers' (NeurIPS 2026)]]></title>
-        <id>https://github.com/Jaywalk18/DAGA</id>
-        <link href="https://github.com/Jaywalk18/DAGA"/>
-        <updated>2026-09-26T08:32:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/63108064?u=406bac6c79675d7145922b8d4baba291c21f3aca&v=4" width="64" height="64" alt=""/><br/><div>Official code for 'DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers' (NeurIPS 2026)</div>]]></content>
-        <author>
-            <name>Jaywalk18</name>
-            <email>Jaywalk18@noreply.github.com</email>
-            <uri>https://github.com/Jaywalk18</uri>
-        </author>
-        <published>2026-01-21T12:19:31.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-09-26T00:05:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[abarenblitt/CHM_DINOV3]]></title>
-        <id>https://github.com/abarenblitt/CHM_DINOV3</id>
-        <link href="https://github.com/abarenblitt/CHM_DINOV3"/>
-        <updated>2026-09-25T18:24:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51661735?u=28ad6608443de3e40153389160d611c06c874500&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>abarenblitt</name>
-            <email>abarenblitt@noreply.github.com</email>
-            <uri>https://github.com/abarenblitt</uri>
-        </author>
-        <published>2026-07-29T20:07:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alterreal/dinomics: Easily extract DINOv2 / DINOv3 features from 2D medical images and 3D volumes ]]></title>
-        <id>https://github.com/alterreal/dinomics</id>
-        <link href="https://github.com/alterreal/dinomics"/>
-        <updated>2026-09-25T16:12:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/91196460?u=2459302b584930a3c30b18d29cb9ae6443806065&v=4" width="64" height="64" alt=""/><br/><div>Easily extract DINOv2 / DINOv3 features from 2D medical images and 3D volumes </div>]]></content>
-        <author>
-            <name>alterreal</name>
-            <email>alterreal@noreply.github.com</email>
-            <uri>https://github.com/alterreal</uri>
-        </author>
-        <published>2026-09-24T16:32:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlyoshaLV999/DINOv3-Image-Classifier]]></title>
-        <id>https://github.com/AlyoshaLV999/DINOv3-Image-Classifier</id>
-        <link href="https://github.com/AlyoshaLV999/DINOv3-Image-Classifier"/>
-        <updated>2026-09-25T13:45:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/110649214?u=aae4edb5a873ec6bcd68dc4b238f7a3bed33ec5e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>AlyoshaLV999</name>
-            <email>AlyoshaLV999@noreply.github.com</email>
-            <uri>https://github.com/AlyoshaLV999</uri>
-        </author>
-        <published>2026-09-20T04:53:27.000Z</published>
     </entry>
 </feed>
