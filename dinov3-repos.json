@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-09-30T04:18:16.000Z",
+            "date_modified": "2026-10-01T04:32:50.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,25 +17,168 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
-            "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-09-30T04:09:09.000Z",
-            "date_published": "2026-07-15T08:27:58.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31117295?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/caojiachen1/dinov3-ggml",
+            "title": "caojiachen1/dinov3-ggml",
+            "date_modified": "2026-10-01T02:01:48.000Z",
+            "date_published": "2026-07-28T08:25:02.000Z",
             "author": {
-                "name": "JeonHaneul",
-                "url": "https://github.com/JeonHaneul"
+                "name": "caojiachen1",
+                "url": "https://github.com/caojiachen1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15927868?u=b41ca429810a66da22094a84134a740bab54e3c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magic: The Gathering card scanner using obb detection and visual retrieval.</div>",
+            "url": "https://github.com/matteot11/open-card-collector",
+            "title": "matteot11/open-card-collector: Magic: The Gathering card scanner using obb detection and visual retrieval.",
+            "date_modified": "2026-09-30T21:34:22.000Z",
+            "date_published": "2026-09-21T17:46:18.000Z",
+            "author": {
+                "name": "matteot11",
+                "url": "https://github.com/matteot11"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/205571647?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Ge1sT0327/DINOv3-Spatial-Injection-Hallucination-Suppression",
+            "title": "Ge1sT0327/DINOv3-Spatial-Injection-Hallucination-Suppression",
+            "date_modified": "2026-09-30T16:44:53.000Z",
+            "date_published": "2026-09-30T16:44:40.000Z",
+            "author": {
+                "name": "Ge1sT0327",
+                "url": "https://github.com/Ge1sT0327"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3例子</div>",
+            "url": "https://github.com/little51/dinov3-samples",
+            "title": "little51/dinov3-samples: dinov3例子",
+            "date_modified": "2026-09-30T14:19:31.000Z",
+            "date_published": "2025-09-16T04:51:48.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3训练示例</div>",
+            "url": "https://github.com/little51/dinov3-train",
+            "title": "little51/dinov3-train: DINOv3训练示例",
+            "date_modified": "2026-09-30T14:18:31.000Z",
+            "date_published": "2025-09-26T13:47:21.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9286366?u=12a445321a572d92fdf006f5379df83ca739e768&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Companion code and figures for the ViT-Adapter blog series (DINOv3 + ViT-Adapter + Mask2Former).</div>",
+            "url": "https://github.com/MedAliMimouni/vit-adapter-blog-series",
+            "title": "MedAliMimouni/vit-adapter-blog-series: Companion code and figures for the ViT-Adapter blog series (DINOv3 + ViT-Adapter + Mask2Former).",
+            "date_modified": "2026-09-30T13:39:48.000Z",
+            "date_published": "2026-08-12T12:58:10.000Z",
+            "author": {
+                "name": "MedAliMimouni",
+                "url": "https://github.com/MedAliMimouni"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32065439?u=0e11e8042485acbde5a59a9db3ad7b70c5db3732&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mask2Former implementation with DINOv3 backbone</div>",
+            "url": "https://github.com/PaulMcHard/DINOv3-Mask2Former",
+            "title": "PaulMcHard/DINOv3-Mask2Former: Mask2Former implementation with DINOv3 backbone",
+            "date_modified": "2026-10-01T01:41:28.000Z",
+            "date_published": "2026-01-07T10:16:42.000Z",
+            "author": {
+                "name": "PaulMcHard",
+                "url": "https://github.com/PaulMcHard"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127124234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ContrattoAlessandro/DinoV3_TL_Detection",
+            "title": "ContrattoAlessandro/DinoV3_TL_Detection",
+            "date_modified": "2026-10-01T01:41:30.000Z",
+            "date_published": "2026-09-30T09:27:27.000Z",
+            "author": {
+                "name": "ContrattoAlessandro",
+                "url": "https://github.com/ContrattoAlessandro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36097028?u=43ef8e5c953f545afd85a8476d970d82076e03df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Dinov3的embedding模型搭建</div>",
+            "url": "https://github.com/wondron/dinov3_machine",
+            "title": "wondron/dinov3_machine: 基于Dinov3的embedding模型搭建",
+            "date_modified": "2026-10-01T00:25:19.000Z",
+            "date_published": "2026-09-27T07:18:18.000Z",
+            "author": {
+                "name": "wondron",
+                "url": "https://github.com/wondron"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6444018?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinoseg — click-to-label segmentation on top of frozen DINOv3 features</div>",
+            "url": "https://github.com/ZisIsNotZis/dinoseg",
+            "title": "ZisIsNotZis/dinoseg: dinoseg — click-to-label segmentation on top of frozen DINOv3 features",
+            "date_modified": "2026-10-01T01:41:32.000Z",
+            "date_published": "2026-09-30T07:21:06.000Z",
+            "author": {
+                "name": "ZisIsNotZis",
+                "url": "https://github.com/ZisIsNotZis"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114906506?u=162e38216b3adfb4f5a98490301a66735241bb1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>",
             "url": "https://github.com/onlylrs/Modern-Vit-Adapter",
             "title": "onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ",
-            "date_modified": "2026-09-30T03:07:42.000Z",
+            "date_modified": "2026-09-30T07:10:38.000Z",
             "date_published": "2026-04-03T08:10:59.000Z",
             "author": {
                 "name": "onlylrs",
                 "url": "https://github.com/onlylrs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104980585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 Demo on Axera NPU</div>",
+            "url": "https://github.com/AXERA-TECH/DEIMv2.axera",
+            "title": "AXERA-TECH/DEIMv2.axera: [DEIMv2] Real Time Object Detection Meets DINOv3 Demo on Axera NPU",
+            "date_modified": "2026-10-01T01:29:08.000Z",
+            "date_published": "2026-09-16T02:15:30.000Z",
+            "author": {
+                "name": "AXERA-TECH",
+                "url": "https://github.com/AXERA-TECH"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6444018?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dino.py — DINOv2/DINOv3 feature extraction straight on ggml</div>",
+            "url": "https://github.com/ZisIsNotZis/dino.py",
+            "title": "ZisIsNotZis/dino.py: dino.py — DINOv2/DINOv3 feature extraction straight on ggml",
+            "date_modified": "2026-10-01T01:41:33.000Z",
+            "date_published": "2026-09-30T06:49:21.000Z",
+            "author": {
+                "name": "ZisIsNotZis",
+                "url": "https://github.com/ZisIsNotZis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239283869?u=62708ef7d91cd87d11aeff19bfad0d0e839f887a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/raza-neub/DINOv3-Object-Detection",
+            "title": "raza-neub/DINOv3-Object-Detection",
+            "date_modified": "2026-10-01T01:41:36.000Z",
+            "date_published": "2026-08-24T09:38:32.000Z",
+            "author": {
+                "name": "raza-neub",
+                "url": "https://github.com/raza-neub"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
+            "title": "JeonHaneul/2D-PDM_DINOv3",
+            "date_modified": "2026-09-30T21:54:51.000Z",
+            "date_published": "2026-07-15T08:27:58.000Z",
+            "author": {
+                "name": "JeonHaneul",
+                "url": "https://github.com/JeonHaneul"
             }
         },
         {
@@ -75,154 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19557763?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Retrieval pipeline, tile catalogues and flight ground truth for a controlled evaluation of descriptor pooling and geographic index partitioning in UAV visual geolocalization with a frozen DINOv3 backbone.</div>",
             "url": "https://github.com/isuchy/uav-geolocalization-spatial-structure",
             "title": "isuchy/uav-geolocalization-spatial-structure: Retrieval pipeline, tile catalogues and flight ground truth for a controlled evaluation of descriptor pooling and geographic index partitioning in UAV visual geolocalization with a frozen DINOv3 backbone.",
-            "date_modified": "2026-09-30T02:40:56.000Z",
+            "date_modified": "2026-10-01T01:17:16.000Z",
             "date_published": "2026-09-28T12:12:13.000Z",
             "author": {
                 "name": "isuchy",
                 "url": "https://github.com/isuchy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127877592?u=b13611088cdcf54072cbf251581a1b31b3e50ff9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Notebooks and environment file to run a dinov3 fine-tuned on boreal CHM</div>",
-            "url": "https://github.com/mfrost2NCCS/dinov3_inference",
-            "title": "mfrost2NCCS/dinov3_inference: Notebooks and environment file to run a dinov3 fine-tuned on boreal CHM",
-            "date_modified": "2026-09-29T17:23:40.000Z",
-            "date_published": "2026-09-29T17:22:33.000Z",
-            "author": {
-                "name": "mfrost2NCCS",
-                "url": "https://github.com/mfrost2NCCS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/234041561?u=bd603a6b32ee5350fe2aeac7e517413e09e9aed0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sentinel-2 super-resolution, 10 m → 2.5 m: SUPIR drafts the detail, a 12M-parameter verification head checks it against real satellite passes (DINOv3-SAT) and outputs a per-pixel confidence map. Smart India Hackathon 2025.</div>",
-            "url": "https://github.com/Harp404/sentinel-superres",
-            "title": "Harp404/sentinel-superres: Sentinel-2 super-resolution, 10 m → 2.5 m: SUPIR drafts the detail, a 12M-parameter verification head checks it against real satellite passes (DINOv3-SAT) and outputs a per-pixel confidence map. Smart India Hackathon 2025.",
-            "date_modified": "2026-09-29T14:50:25.000Z",
-            "date_published": "2026-09-29T14:29:02.000Z",
-            "author": {
-                "name": "Harp404",
-                "url": "https://github.com/Harp404"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22090441?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Zhengzijie/insulator_ssl_dinov3",
-            "title": "Zhengzijie/insulator_ssl_dinov3",
-            "date_modified": "2026-09-29T21:03:06.000Z",
-            "date_published": "2026-09-29T11:46:36.000Z",
-            "author": {
-                "name": "Zhengzijie",
-                "url": "https://github.com/Zhengzijie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71661198?u=1e180a1bdac10f90ca3cab01d5da51b0ad883cee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-supervised representation learning on multi-channel microscopy images with DINO, DINOv2 and DINOv3.</div>",
-            "url": "https://github.com/JonasMeirer/scDINOv2",
-            "title": "JonasMeirer/scDINOv2: Self-supervised representation learning on multi-channel microscopy images with DINO, DINOv2 and DINOv3.",
-            "date_modified": "2026-09-29T10:44:39.000Z",
-            "date_published": "2026-03-30T11:46:42.000Z",
-            "author": {
-                "name": "JonasMeirer",
-                "url": "https://github.com/JonasMeirer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187920718?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/dvkhanh911/dinov3-anomaly-detection",
-            "title": "dvkhanh911/dinov3-anomaly-detection",
-            "date_modified": "2026-09-29T10:07:57.000Z",
-            "date_published": "2026-09-19T08:20:59.000Z",
-            "author": {
-                "name": "dvkhanh911",
-                "url": "https://github.com/dvkhanh911"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28673837?u=e12dad2b7726d1ed11bd76ce755d93fb81cfaddf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Category-aware dual-track multi-view industrial anomaly detection: PatchCore-style memory banks (seen) + MuSc (unseen) on DINOv3 — 77.477 Test A / 74.778 Test B</div>",
-            "url": "https://github.com/Alice7371/dual-track-anomaly-detection",
-            "title": "Alice7371/dual-track-anomaly-detection: Category-aware dual-track multi-view industrial anomaly detection: PatchCore-style memory banks (seen) + MuSc (unseen) on DINOv3 — 77.477 Test A / 74.778 Test B",
-            "date_modified": "2026-09-29T09:42:00.000Z",
-            "date_published": "2026-09-06T08:36:42.000Z",
-            "author": {
-                "name": "Alice7371",
-                "url": "https://github.com/Alice7371"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/211655416?u=01ba4a34f6df4cfe782d1efaf5dc56782fd1a240&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>사진과 외형 조건으로 유기견 입양 공고를 찾는 멀티모달 검색. 고정된 DINOv3에 CLIP 텍스트를 가볍게 정렬하고 한국·대만·PetFinder 공고로 평가 / Photo-and-attribute retrieval for shelter dog listings with frozen DINOv3 and domain-aligned CLIP text</div>",
-            "url": "https://github.com/YuMinBee/meongtamjeong",
-            "title": "YuMinBee/meongtamjeong: 사진과 외형 조건으로 유기견 입양 공고를 찾는 멀티모달 검색. 고정된 DINOv3에 CLIP 텍스트를 가볍게 정렬하고 한국·대만·PetFinder 공고로 평가 / Photo-and-attribute retrieval for shelter dog listings with frozen DINOv3 and domain-aligned CLIP text",
-            "date_modified": "2026-09-29T09:36:55.000Z",
-            "date_published": "2025-08-28T06:16:23.000Z",
-            "author": {
-                "name": "YuMinBee",
-                "url": "https://github.com/YuMinBee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36097028?u=43ef8e5c953f545afd85a8476d970d82076e03df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Dinov3的embedding模型搭建</div>",
-            "url": "https://github.com/wondron/dinov3_machine",
-            "title": "wondron/dinov3_machine: 基于Dinov3的embedding模型搭建",
-            "date_modified": "2026-09-29T09:24:00.000Z",
-            "date_published": "2026-09-27T07:18:18.000Z",
-            "author": {
-                "name": "wondron",
-                "url": "https://github.com/wondron"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63108064?u=406bac6c79675d7145922b8d4baba291c21f3aca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official code for 'DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers' (NeurIPS 2026)</div>",
-            "url": "https://github.com/Jaywalk18/DAGA",
-            "title": "Jaywalk18/DAGA: Official code for 'DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers' (NeurIPS 2026)",
-            "date_modified": "2026-09-29T07:03:52.000Z",
-            "date_published": "2026-01-21T12:19:31.000Z",
-            "author": {
-                "name": "Jaywalk18",
-                "url": "https://github.com/Jaywalk18"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110649214?u=aae4edb5a873ec6bcd68dc4b238f7a3bed33ec5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/AlyoshaLV999/DINOv3-Image-Classifier",
-            "title": "AlyoshaLV999/DINOv3-Image-Classifier",
-            "date_modified": "2026-09-29T06:49:47.000Z",
-            "date_published": "2026-09-20T04:53:27.000Z",
-            "author": {
-                "name": "AlyoshaLV999",
-                "url": "https://github.com/AlyoshaLV999"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196409808?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Rithikashree25/brain-tumor-dinov3-pca-gradcam",
-            "title": "Rithikashree25/brain-tumor-dinov3-pca-gradcam",
-            "date_modified": "2026-09-29T04:07:53.000Z",
-            "date_published": "2026-09-29T03:57:27.000Z",
-            "author": {
-                "name": "Rithikashree25",
-                "url": "https://github.com/Rithikashree25"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136681140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tarot-SAM3: A training-free framework for explicit and implicit referring expression segmentation with SAM3, combining expression reasoning and DINOv3-guided mask self-refinement.</div>",
-            "url": "https://github.com/weimingz996/Tarot-SAM3_Code",
-            "title": "weimingz996/Tarot-SAM3_Code: Tarot-SAM3: A training-free framework for explicit and implicit referring expression segmentation with SAM3, combining expression reasoning and DINOv3-guided mask self-refinement.",
-            "date_modified": "2026-09-29T02:56:44.000Z",
-            "date_published": "2026-09-26T09:06:01.000Z",
-            "author": {
-                "name": "weimingz996",
-                "url": "https://github.com/weimingz996"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133914261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.</div>",
-            "url": "https://github.com/ahughes0227/training-platform",
-            "title": "ahughes0227/training-platform: Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.",
-            "date_modified": "2026-09-28T23:54:28.000Z",
-            "date_published": "2026-09-28T10:50:11.000Z",
-            "author": {
-                "name": "ahughes0227",
-                "url": "https://github.com/ahughes0227"
             }
         }
     ]
