@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-10-01T04:34:41.622Z</updated>
+    <updated>2026-10-02T04:27:06.793Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-10-01T04:32:50.000Z</updated>
+        <updated>2026-10-02T04:26:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[caojiachen1/dinov3-ggml]]></title>
         <id>https://github.com/caojiachen1/dinov3-ggml</id>
         <link href="https://github.com/caojiachen1/dinov3-ggml"/>
-        <updated>2026-10-01T02:01:48.000Z</updated>
+        <updated>2026-10-02T01:58:21.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31117295?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>caojiachen1</name>
@@ -34,10 +34,101 @@
         <published>2026-07-28T08:25:02.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Diego-Meloni/DinoV3-Inpainting-Forensics: Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.]]></title>
+        <id>https://github.com/Diego-Meloni/DinoV3-Inpainting-Forensics</id>
+        <link href="https://github.com/Diego-Meloni/DinoV3-Inpainting-Forensics"/>
+        <updated>2026-10-02T01:20:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/202764278?u=c88528cb9b70049ab5562623989be6bea9299524&v=4" width="64" height="64" alt=""/><br/><div>Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.</div>]]></content>
+        <author>
+            <name>Diego-Meloni</name>
+            <email>Diego-Meloni@noreply.github.com</email>
+            <uri>https://github.com/Diego-Meloni</uri>
+        </author>
+        <published>2026-10-02T01:20:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ahughes0227/training-platform: Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.]]></title>
+        <id>https://github.com/ahughes0227/training-platform</id>
+        <link href="https://github.com/ahughes0227/training-platform"/>
+        <updated>2026-10-01T22:59:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/133914261?v=4" width="64" height="64" alt=""/><br/><div>Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.</div>]]></content>
+        <author>
+            <name>ahughes0227</name>
+            <email>ahughes0227@noreply.github.com</email>
+            <uri>https://github.com/ahughes0227</uri>
+        </author>
+        <published>2026-09-28T10:50:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bovi-analytics/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)]]></title>
+        <id>https://github.com/Bovi-analytics/PEFT-Fine-tuning-cows</id>
+        <link href="https://github.com/Bovi-analytics/PEFT-Fine-tuning-cows"/>
+        <updated>2026-10-01T21:01:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11755055?v=4" width="64" height="64" alt=""/><br/><div>Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)</div>]]></content>
+        <author>
+            <name>Bovi-analytics</name>
+            <email>Bovi-analytics@noreply.github.com</email>
+            <uri>https://github.com/Bovi-analytics</uri>
+        </author>
+        <published>2026-02-02T14:04:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ContrattoAlessandro/DinoV3_TL_Detection]]></title>
+        <id>https://github.com/ContrattoAlessandro/DinoV3_TL_Detection</id>
+        <link href="https://github.com/ContrattoAlessandro/DinoV3_TL_Detection"/>
+        <updated>2026-10-01T20:13:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/127124234?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ContrattoAlessandro</name>
+            <email>ContrattoAlessandro@noreply.github.com</email>
+            <uri>https://github.com/ContrattoAlessandro</uri>
+        </author>
+        <published>2026-09-30T09:27:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noah-Bjorner/dinov3-vit-large-distilled]]></title>
+        <id>https://github.com/Noah-Bjorner/dinov3-vit-large-distilled</id>
+        <link href="https://github.com/Noah-Bjorner/dinov3-vit-large-distilled"/>
+        <updated>2026-10-01T21:43:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97152746?u=330343eeabb8ce57e585c85ddd49971d71255d46&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Noah-Bjorner</name>
+            <email>Noah-Bjorner@noreply.github.com</email>
+            <uri>https://github.com/Noah-Bjorner</uri>
+        </author>
+        <published>2025-12-02T12:58:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[duonyyy/Computer-Vision-From-Basics-to-Advanced: Comprehensive Computer Vision Curriculum (28 Sessions) — From OpenCV, CNNs, YOLO, and U-Net to Vision Transformers, DINOv3, SAM, VLMs, Diffusion, and 3D Vision.]]></title>
+        <id>https://github.com/duonyyy/Computer-Vision-From-Basics-to-Advanced</id>
+        <link href="https://github.com/duonyyy/Computer-Vision-From-Basics-to-Advanced"/>
+        <updated>2026-10-01T09:00:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114120653?v=4" width="64" height="64" alt=""/><br/><div>Comprehensive Computer Vision Curriculum (28 Sessions) — From OpenCV, CNNs, YOLO, and U-Net to Vision Transformers, DINOv3, SAM, VLMs, Diffusion, and 3D Vision.</div>]]></content>
+        <author>
+            <name>duonyyy</name>
+            <email>duonyyy@noreply.github.com</email>
+            <uri>https://github.com/duonyyy</uri>
+        </author>
+        <published>2026-10-01T09:00:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
+        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
+        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
+        <updated>2026-10-01T07:33:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JeonHaneul</name>
+            <email>JeonHaneul@noreply.github.com</email>
+            <uri>https://github.com/JeonHaneul</uri>
+        </author>
+        <published>2026-07-15T08:27:58.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[matteot11/open-card-collector: Magic: The Gathering card scanner using obb detection and visual retrieval.]]></title>
         <id>https://github.com/matteot11/open-card-collector</id>
         <link href="https://github.com/matteot11/open-card-collector"/>
-        <updated>2026-09-30T21:34:22.000Z</updated>
+        <updated>2026-10-01T07:29:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15927868?u=b41ca429810a66da22094a84134a740bab54e3c7&v=4" width="64" height="64" alt=""/><br/><div>Magic: The Gathering card scanner using obb detection and visual retrieval.</div>]]></content>
         <author>
             <name>matteot11</name>
@@ -47,10 +138,36 @@
         <published>2026-09-21T17:46:18.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[YuMinBee/meongtamjeong: 사진과 외형 조건으로 유기견 입양 공고를 찾는 멀티모달 검색. 고정된 DINOv3에 CLIP 텍스트를 가볍게 정렬하고 한국·대만·PetFinder 공고로 평가 / Photo-and-attribute retrieval for shelter dog listings with frozen DINOv3 and domain-aligned CLIP text]]></title>
+        <id>https://github.com/YuMinBee/meongtamjeong</id>
+        <link href="https://github.com/YuMinBee/meongtamjeong"/>
+        <updated>2026-10-01T06:24:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/211655416?u=01ba4a34f6df4cfe782d1efaf5dc56782fd1a240&v=4" width="64" height="64" alt=""/><br/><div>사진과 외형 조건으로 유기견 입양 공고를 찾는 멀티모달 검색. 고정된 DINOv3에 CLIP 텍스트를 가볍게 정렬하고 한국·대만·PetFinder 공고로 평가 / Photo-and-attribute retrieval for shelter dog listings with frozen DINOv3 and domain-aligned CLIP text</div>]]></content>
+        <author>
+            <name>YuMinBee</name>
+            <email>YuMinBee@noreply.github.com</email>
+            <uri>https://github.com/YuMinBee</uri>
+        </author>
+        <published>2025-08-28T06:16:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope (JWST) images. It tiles MIRI and NIRCam FITS mosaics, embeds them with DINOv3 or DINOv2, and ranks tiles by patch distance (AnomalyDINO) to surface odd galaxies and artifacts without labels.]]></title>
+        <id>https://github.com/SomethingObvious/JWSTDetector</id>
+        <link href="https://github.com/SomethingObvious/JWSTDetector"/>
+        <updated>2026-10-01T05:51:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4" width="64" height="64" alt=""/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope (JWST) images. It tiles MIRI and NIRCam FITS mosaics, embeds them with DINOv3 or DINOv2, and ranks tiles by patch distance (AnomalyDINO) to surface odd galaxies and artifacts without labels.</div>]]></content>
+        <author>
+            <name>SomethingObvious</name>
+            <email>SomethingObvious@noreply.github.com</email>
+            <uri>https://github.com/SomethingObvious</uri>
+        </author>
+        <published>2026-01-03T07:48:06.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ge1sT0327/DINOv3-Spatial-Injection-Hallucination-Suppression]]></title>
         <id>https://github.com/Ge1sT0327/DINOv3-Spatial-Injection-Hallucination-Suppression</id>
         <link href="https://github.com/Ge1sT0327/DINOv3-Spatial-Injection-Hallucination-Suppression"/>
-        <updated>2026-09-30T16:44:53.000Z</updated>
+        <updated>2026-10-01T05:20:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/205571647?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>Ge1sT0327</name>
@@ -112,19 +229,6 @@
         <published>2026-01-07T10:16:42.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ContrattoAlessandro/DinoV3_TL_Detection]]></title>
-        <id>https://github.com/ContrattoAlessandro/DinoV3_TL_Detection</id>
-        <link href="https://github.com/ContrattoAlessandro/DinoV3_TL_Detection"/>
-        <updated>2026-10-01T01:41:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/127124234?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ContrattoAlessandro</name>
-            <email>ContrattoAlessandro@noreply.github.com</email>
-            <uri>https://github.com/ContrattoAlessandro</uri>
-        </author>
-        <published>2026-09-30T09:27:27.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[wondron/dinov3_machine: 基于Dinov3的embedding模型搭建]]></title>
         <id>https://github.com/wondron/dinov3_machine</id>
         <link href="https://github.com/wondron/dinov3_machine"/>
@@ -162,109 +266,5 @@
             <uri>https://github.com/onlylrs</uri>
         </author>
         <published>2026-04-03T08:10:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AXERA-TECH/DEIMv2.axera: [DEIMv2] Real Time Object Detection Meets DINOv3 Demo on Axera NPU]]></title>
-        <id>https://github.com/AXERA-TECH/DEIMv2.axera</id>
-        <link href="https://github.com/AXERA-TECH/DEIMv2.axera"/>
-        <updated>2026-10-01T01:29:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104980585?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 Demo on Axera NPU</div>]]></content>
-        <author>
-            <name>AXERA-TECH</name>
-            <email>AXERA-TECH@noreply.github.com</email>
-            <uri>https://github.com/AXERA-TECH</uri>
-        </author>
-        <published>2026-09-16T02:15:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZisIsNotZis/dino.py: dino.py — DINOv2/DINOv3 feature extraction straight on ggml]]></title>
-        <id>https://github.com/ZisIsNotZis/dino.py</id>
-        <link href="https://github.com/ZisIsNotZis/dino.py"/>
-        <updated>2026-10-01T01:41:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6444018?v=4" width="64" height="64" alt=""/><br/><div>dino.py — DINOv2/DINOv3 feature extraction straight on ggml</div>]]></content>
-        <author>
-            <name>ZisIsNotZis</name>
-            <email>ZisIsNotZis@noreply.github.com</email>
-            <uri>https://github.com/ZisIsNotZis</uri>
-        </author>
-        <published>2026-09-30T06:49:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[raza-neub/DINOv3-Object-Detection]]></title>
-        <id>https://github.com/raza-neub/DINOv3-Object-Detection</id>
-        <link href="https://github.com/raza-neub/DINOv3-Object-Detection"/>
-        <updated>2026-10-01T01:41:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/239283869?u=62708ef7d91cd87d11aeff19bfad0d0e839f887a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>raza-neub</name>
-            <email>raza-neub@noreply.github.com</email>
-            <uri>https://github.com/raza-neub</uri>
-        </author>
-        <published>2026-08-24T09:38:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-09-30T21:54:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lakshya-asu/ffc-insertion-research: Simulation-first FR3 ribbon-cable assembly research: macro vision, ROS2, cable mechanics, reproducible experiments and an illustrated research notebook.]]></title>
-        <id>https://github.com/lakshya-asu/ffc-insertion-research</id>
-        <link href="https://github.com/lakshya-asu/ffc-insertion-research"/>
-        <updated>2026-09-30T01:51:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145397440?u=069e8b396c206dd1f2540d1e7433c369b61d3070&v=4" width="64" height="64" alt=""/><br/><div>Simulation-first FR3 ribbon-cable assembly research: macro vision, ROS2, cable mechanics, reproducible experiments and an illustrated research notebook.</div>]]></content>
-        <author>
-            <name>lakshya-asu</name>
-            <email>lakshya-asu@noreply.github.com</email>
-            <uri>https://github.com/lakshya-asu</uri>
-        </author>
-        <published>2026-09-27T16:00:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[saverin0/sar-transfer-domains: Do frozen image encoders transfer to radar images outside glaciers? Part two of sar-transfer-glaciers. Sentinel-1 glacial lakes, snow, forest types and alpine glaciers with frozen satellite DINOv3 and C-RADIOv4, a linear probe and a small decoder, and frozen-feature views.]]></title>
-        <id>https://github.com/saverin0/sar-transfer-domains</id>
-        <link href="https://github.com/saverin0/sar-transfer-domains"/>
-        <updated>2026-09-29T21:48:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73588208?u=b6aeeaf85c4e57f28a17f08b4ecabcbe3fa2d936&v=4" width="64" height="64" alt=""/><br/><div>Do frozen image encoders transfer to radar images outside glaciers? Part two of sar-transfer-glaciers. Sentinel-1 glacial lakes, snow, forest types and alpine glaciers with frozen satellite DINOv3 and C-RADIOv4, a linear probe and a small decoder, and frozen-feature views.</div>]]></content>
-        <author>
-            <name>saverin0</name>
-            <email>saverin0@noreply.github.com</email>
-            <uri>https://github.com/saverin0</uri>
-        </author>
-        <published>2026-09-29T21:09:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[baturayozgurun/crossHOPE: CrossHOPE: Multi-modal RGB-D cross-attention fusion for 6D object pose estimation targeting Physical AI applications. Frozen DINOv3 + sparse 3D CNN (spconv) with geometry-aware fusion, trained on HOPE-Video plus synthetic data rendered from the object meshes: 13.7° / 5.3 mm mean error and 60% within 10°/10 mm on unseen scenes.]]></title>
-        <id>https://github.com/baturayozgurun/crossHOPE</id>
-        <link href="https://github.com/baturayozgurun/crossHOPE"/>
-        <updated>2026-09-29T20:55:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76174639?u=14fa7552863f3416f4d5b46e9a259c25d076e60b&v=4" width="64" height="64" alt=""/><br/><div>CrossHOPE: Multi-modal RGB-D cross-attention fusion for 6D object pose estimation targeting Physical AI applications. Frozen DINOv3 + sparse 3D CNN (spconv) with geometry-aware fusion, trained on HOPE-Video plus synthetic data rendered from the object meshes: 13.7° / 5.3 mm mean error and 60% within 10°/10 mm on unseen scenes.</div>]]></content>
-        <author>
-            <name>baturayozgurun</name>
-            <email>baturayozgurun@noreply.github.com</email>
-            <uri>https://github.com/baturayozgurun</uri>
-        </author>
-        <published>2026-09-29T20:37:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[isuchy/uav-geolocalization-spatial-structure: Retrieval pipeline, tile catalogues and flight ground truth for a controlled evaluation of descriptor pooling and geographic index partitioning in UAV visual geolocalization with a frozen DINOv3 backbone.]]></title>
-        <id>https://github.com/isuchy/uav-geolocalization-spatial-structure</id>
-        <link href="https://github.com/isuchy/uav-geolocalization-spatial-structure"/>
-        <updated>2026-10-01T01:17:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19557763?v=4" width="64" height="64" alt=""/><br/><div>Retrieval pipeline, tile catalogues and flight ground truth for a controlled evaluation of descriptor pooling and geographic index partitioning in UAV visual geolocalization with a frozen DINOv3 backbone.</div>]]></content>
-        <author>
-            <name>isuchy</name>
-            <email>isuchy@noreply.github.com</email>
-            <uri>https://github.com/isuchy</uri>
-        </author>
-        <published>2026-09-28T12:12:13.000Z</published>
     </entry>
 </feed>
