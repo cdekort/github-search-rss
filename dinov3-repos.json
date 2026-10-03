@@ -9,11 +9,99 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-02T04:26:38.000Z",
+            "date_modified": "2026-10-03T04:07:21.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64195574?u=1ef3be128e5d3c9d650587349f057cdedc6f63e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI &amp; Docker.</div>",
+            "url": "https://github.com/dimagordienko/cargo-load-estimation",
+            "title": "dimagordienko/cargo-load-estimation: Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI & Docker.",
+            "date_modified": "2026-10-02T21:12:02.000Z",
+            "date_published": "2026-10-02T21:12:00.000Z",
+            "author": {
+                "name": "dimagordienko",
+                "url": "https://github.com/dimagordienko"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33086982?u=1e6c48a8363579a405b5ee5555f8f5dda6498fe0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Which Transformer Blocks Should You Keep? An Exhaustive Map of Layer-Subset Selection in a Pretrained ViT</div>",
+            "url": "https://github.com/steffen-jung/dinov3-subset",
+            "title": "steffen-jung/dinov3-subset: Which Transformer Blocks Should You Keep? An Exhaustive Map of Layer-Subset Selection in a Pretrained ViT",
+            "date_modified": "2026-10-02T17:56:09.000Z",
+            "date_published": "2026-10-02T17:53:14.000Z",
+            "author": {
+                "name": "steffen-jung",
+                "url": "https://github.com/steffen-jung"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11755055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)</div>",
+            "url": "https://github.com/Bovi-analytics/PEFT-Fine-tuning-cows",
+            "title": "Bovi-analytics/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)",
+            "date_modified": "2026-10-02T17:28:50.000Z",
+            "date_published": "2026-02-02T14:04:04.000Z",
+            "author": {
+                "name": "Bovi-analytics",
+                "url": "https://github.com/Bovi-analytics"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29337051?u=2dac7ff2147779a10cf6be95a7899b2f8248dc0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local workbench for medical vision foundation models: inference, attention, patch embeddings and residual-stream probing for DINOv2/DINOv3, RAD-DINO, MedDINOv3 and CXformer. Runs entirely on Apple Silicon.</div>",
+            "url": "https://github.com/KeremKurban/medfm-lab",
+            "title": "KeremKurban/medfm-lab: Local workbench for medical vision foundation models: inference, attention, patch embeddings and residual-stream probing for DINOv2/DINOv3, RAD-DINO, MedDINOv3 and CXformer. Runs entirely on Apple Silicon.",
+            "date_modified": "2026-10-02T15:17:39.000Z",
+            "date_published": "2026-10-02T14:29:45.000Z",
+            "author": {
+                "name": "KeremKurban",
+                "url": "https://github.com/KeremKurban"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158986198?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controllable 256×256 synthetic faces: a diffusion transformer in DINOv3 space plus a one-step GAN student, running in your browser with WebGPU.</div>",
+            "url": "https://github.com/msraaghavan/HumanDiT",
+            "title": "msraaghavan/HumanDiT: Controllable 256×256 synthetic faces: a diffusion transformer in DINOv3 space plus a one-step GAN student, running in your browser with WebGPU.",
+            "date_modified": "2026-10-02T10:54:48.000Z",
+            "date_published": "2026-10-02T10:37:20.000Z",
+            "author": {
+                "name": "msraaghavan",
+                "url": "https://github.com/msraaghavan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190254462?u=85302929c4a36490fd37d3b8fe81dd0c403938fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>语义分割作业：DINOv3 ViT-S/16 + PSP 式分割头，在 PASCAL VOC2012 上训练与验证。</div>",
+            "url": "https://github.com/CestmoiJ/semantic-segmentation-homework-dinov3-pspnet",
+            "title": "CestmoiJ/semantic-segmentation-homework-dinov3-pspnet: 语义分割作业：DINOv3 ViT-S/16 + PSP 式分割头，在 PASCAL VOC2012 上训练与验证。",
+            "date_modified": "2026-10-02T12:44:53.000Z",
+            "date_published": "2026-10-02T09:16:26.000Z",
+            "author": {
+                "name": "CestmoiJ",
+                "url": "https://github.com/CestmoiJ"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104980585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 Demo on Axera NPU</div>",
+            "url": "https://github.com/AXERA-TECH/DEIMv2.axera",
+            "title": "AXERA-TECH/DEIMv2.axera: [DEIMv2] Real Time Object Detection Meets DINOv3 Demo on Axera NPU",
+            "date_modified": "2026-10-02T06:46:04.000Z",
+            "date_published": "2026-09-16T02:15:30.000Z",
+            "author": {
+                "name": "AXERA-TECH",
+                "url": "https://github.com/AXERA-TECH"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202764278?u=c88528cb9b70049ab5562623989be6bea9299524&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.</div>",
+            "url": "https://github.com/Diego-Meloni/DinoV3-Inpainting-Forensics",
+            "title": "Diego-Meloni/DinoV3-Inpainting-Forensics: Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.",
+            "date_modified": "2026-10-02T13:46:08.000Z",
+            "date_published": "2026-10-02T01:20:29.000Z",
+            "author": {
+                "name": "Diego-Meloni",
+                "url": "https://github.com/Diego-Meloni"
             }
         },
         {
@@ -28,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202764278?u=c88528cb9b70049ab5562623989be6bea9299524&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.</div>",
-            "url": "https://github.com/Diego-Meloni/DinoV3-Inpainting-Forensics",
-            "title": "Diego-Meloni/DinoV3-Inpainting-Forensics: Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.",
-            "date_modified": "2026-10-02T01:20:35.000Z",
-            "date_published": "2026-10-02T01:20:29.000Z",
-            "author": {
-                "name": "Diego-Meloni",
-                "url": "https://github.com/Diego-Meloni"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133914261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.</div>",
             "url": "https://github.com/ahughes0227/training-platform",
             "title": "ahughes0227/training-platform: Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.",
@@ -47,17 +124,6 @@
             "author": {
                 "name": "ahughes0227",
                 "url": "https://github.com/ahughes0227"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11755055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)</div>",
-            "url": "https://github.com/Bovi-analytics/PEFT-Fine-tuning-cows",
-            "title": "Bovi-analytics/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)",
-            "date_modified": "2026-10-01T21:01:17.000Z",
-            "date_published": "2026-02-02T14:04:04.000Z",
-            "author": {
-                "name": "Bovi-analytics",
-                "url": "https://github.com/Bovi-analytics"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "little51",
                 "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3训练示例</div>",
-            "url": "https://github.com/little51/dinov3-train",
-            "title": "little51/dinov3-train: DINOv3训练示例",
-            "date_modified": "2026-09-30T14:18:31.000Z",
-            "date_published": "2025-09-26T13:47:21.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9286366?u=12a445321a572d92fdf006f5379df83ca739e768&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Companion code and figures for the ViT-Adapter blog series (DINOv3 + ViT-Adapter + Mask2Former).</div>",
-            "url": "https://github.com/MedAliMimouni/vit-adapter-blog-series",
-            "title": "MedAliMimouni/vit-adapter-blog-series: Companion code and figures for the ViT-Adapter blog series (DINOv3 + ViT-Adapter + Mask2Former).",
-            "date_modified": "2026-09-30T13:39:48.000Z",
-            "date_published": "2026-08-12T12:58:10.000Z",
-            "author": {
-                "name": "MedAliMimouni",
-                "url": "https://github.com/MedAliMimouni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32065439?u=0e11e8042485acbde5a59a9db3ad7b70c5db3732&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mask2Former implementation with DINOv3 backbone</div>",
-            "url": "https://github.com/PaulMcHard/DINOv3-Mask2Former",
-            "title": "PaulMcHard/DINOv3-Mask2Former: Mask2Former implementation with DINOv3 backbone",
-            "date_modified": "2026-10-01T01:41:28.000Z",
-            "date_published": "2026-01-07T10:16:42.000Z",
-            "author": {
-                "name": "PaulMcHard",
-                "url": "https://github.com/PaulMcHard"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36097028?u=43ef8e5c953f545afd85a8476d970d82076e03df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Dinov3的embedding模型搭建</div>",
-            "url": "https://github.com/wondron/dinov3_machine",
-            "title": "wondron/dinov3_machine: 基于Dinov3的embedding模型搭建",
-            "date_modified": "2026-10-01T00:25:19.000Z",
-            "date_published": "2026-09-27T07:18:18.000Z",
-            "author": {
-                "name": "wondron",
-                "url": "https://github.com/wondron"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6444018?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinoseg — click-to-label segmentation on top of frozen DINOv3 features</div>",
-            "url": "https://github.com/ZisIsNotZis/dinoseg",
-            "title": "ZisIsNotZis/dinoseg: dinoseg — click-to-label segmentation on top of frozen DINOv3 features",
-            "date_modified": "2026-10-01T01:41:32.000Z",
-            "date_published": "2026-09-30T07:21:06.000Z",
-            "author": {
-                "name": "ZisIsNotZis",
-                "url": "https://github.com/ZisIsNotZis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114906506?u=162e38216b3adfb4f5a98490301a66735241bb1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>",
-            "url": "https://github.com/onlylrs/Modern-Vit-Adapter",
-            "title": "onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ",
-            "date_modified": "2026-09-30T07:10:38.000Z",
-            "date_published": "2026-04-03T08:10:59.000Z",
-            "author": {
-                "name": "onlylrs",
-                "url": "https://github.com/onlylrs"
             }
         }
     ]
