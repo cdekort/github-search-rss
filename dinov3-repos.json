@@ -9,11 +9,66 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-03T04:07:21.000Z",
+            "date_modified": "2026-10-04T04:37:03.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>",
+            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
+            "title": "Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation",
+            "date_modified": "2026-10-04T04:09:35.000Z",
+            "date_published": "2026-03-16T10:28:22.000Z",
+            "author": {
+                "name": "Intellindust-AI-Lab",
+                "url": "https://github.com/Intellindust-AI-Lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
+            "title": "lingshan2003/Dinov3txtforSAT",
+            "date_modified": "2026-10-04T03:26:56.000Z",
+            "date_published": "2026-09-02T14:23:59.000Z",
+            "author": {
+                "name": "lingshan2003",
+                "url": "https://github.com/lingshan2003"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31117295?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/caojiachen1/dinov3-ggml",
+            "title": "caojiachen1/dinov3-ggml",
+            "date_modified": "2026-10-04T00:39:09.000Z",
+            "date_published": "2026-07-28T08:25:02.000Z",
+            "author": {
+                "name": "caojiachen1",
+                "url": "https://github.com/caojiachen1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199507597?u=67bd8b50e3785bb85d7996e8a2bd2115459c490d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore real-time object detection with IoTKITs. This project demonstrates how AI and computer vision work together to detect and recognize objects for practical IoT solutions.</div>",
+            "url": "https://github.com/mrpaul-10/Object_detection_IoTKITs_",
+            "title": "mrpaul-10/Object_detection_IoTKITs_: Explore real-time object detection with IoTKITs. This project demonstrates how AI and computer vision work together to detect and recognize objects for practical IoT solutions.",
+            "date_modified": "2026-10-03T18:35:50.000Z",
+            "date_published": "2026-08-25T17:26:16.000Z",
+            "author": {
+                "name": "mrpaul-10",
+                "url": "https://github.com/mrpaul-10"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
+            "url": "https://github.com/kingwingfly/lets_embed",
+            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
+            "date_modified": "2026-10-03T14:52:11.000Z",
+            "date_published": "2026-05-17T07:13:23.000Z",
+            "author": {
+                "name": "kingwingfly",
+                "url": "https://github.com/kingwingfly"
             }
         },
         {
@@ -31,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33086982?u=1e6c48a8363579a405b5ee5555f8f5dda6498fe0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Which Transformer Blocks Should You Keep? An Exhaustive Map of Layer-Subset Selection in a Pretrained ViT</div>",
             "url": "https://github.com/steffen-jung/dinov3-subset",
             "title": "steffen-jung/dinov3-subset: Which Transformer Blocks Should You Keep? An Exhaustive Map of Layer-Subset Selection in a Pretrained ViT",
-            "date_modified": "2026-10-02T17:56:09.000Z",
+            "date_modified": "2026-10-03T05:51:45.000Z",
             "date_published": "2026-10-02T17:53:14.000Z",
             "author": {
                 "name": "steffen-jung",
@@ -53,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29337051?u=2dac7ff2147779a10cf6be95a7899b2f8248dc0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local workbench for medical vision foundation models: inference, attention, patch embeddings and residual-stream probing for DINOv2/DINOv3, RAD-DINO, MedDINOv3 and CXformer. Runs entirely on Apple Silicon.</div>",
             "url": "https://github.com/KeremKurban/medfm-lab",
             "title": "KeremKurban/medfm-lab: Local workbench for medical vision foundation models: inference, attention, patch embeddings and residual-stream probing for DINOv2/DINOv3, RAD-DINO, MedDINOv3 and CXformer. Runs entirely on Apple Silicon.",
-            "date_modified": "2026-10-02T15:17:39.000Z",
+            "date_modified": "2026-10-03T05:51:46.000Z",
             "date_published": "2026-10-02T14:29:45.000Z",
             "author": {
                 "name": "KeremKurban",
@@ -102,17 +157,6 @@
             "author": {
                 "name": "Diego-Meloni",
                 "url": "https://github.com/Diego-Meloni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31117295?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/caojiachen1/dinov3-ggml",
-            "title": "caojiachen1/dinov3-ggml",
-            "date_modified": "2026-10-02T01:58:21.000Z",
-            "date_published": "2026-07-28T08:25:02.000Z",
-            "author": {
-                "name": "caojiachen1",
-                "url": "https://github.com/caojiachen1"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "matteot11",
                 "url": "https://github.com/matteot11"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/211655416?u=01ba4a34f6df4cfe782d1efaf5dc56782fd1a240&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>사진과 외형 조건으로 유기견 입양 공고를 찾는 멀티모달 검색. 고정된 DINOv3에 CLIP 텍스트를 가볍게 정렬하고 한국·대만·PetFinder 공고로 평가 / Photo-and-attribute retrieval for shelter dog listings with frozen DINOv3 and domain-aligned CLIP text</div>",
-            "url": "https://github.com/YuMinBee/meongtamjeong",
-            "title": "YuMinBee/meongtamjeong: 사진과 외형 조건으로 유기견 입양 공고를 찾는 멀티모달 검색. 고정된 DINOv3에 CLIP 텍스트를 가볍게 정렬하고 한국·대만·PetFinder 공고로 평가 / Photo-and-attribute retrieval for shelter dog listings with frozen DINOv3 and domain-aligned CLIP text",
-            "date_modified": "2026-10-01T06:24:57.000Z",
-            "date_published": "2025-08-28T06:16:23.000Z",
-            "author": {
-                "name": "YuMinBee",
-                "url": "https://github.com/YuMinBee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope (JWST) images. It tiles MIRI and NIRCam FITS mosaics, embeds them with DINOv3 or DINOv2, and ranks tiles by patch distance (AnomalyDINO) to surface odd galaxies and artifacts without labels.</div>",
-            "url": "https://github.com/SomethingObvious/JWSTDetector",
-            "title": "SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope (JWST) images. It tiles MIRI and NIRCam FITS mosaics, embeds them with DINOv3 or DINOv2, and ranks tiles by patch distance (AnomalyDINO) to surface odd galaxies and artifacts without labels.",
-            "date_modified": "2026-10-01T05:51:26.000Z",
-            "date_published": "2026-01-03T07:48:06.000Z",
-            "author": {
-                "name": "SomethingObvious",
-                "url": "https://github.com/SomethingObvious"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/205571647?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Ge1sT0327/DINOv3-Spatial-Injection-Hallucination-Suppression",
-            "title": "Ge1sT0327/DINOv3-Spatial-Injection-Hallucination-Suppression",
-            "date_modified": "2026-10-01T05:20:44.000Z",
-            "date_published": "2026-09-30T16:44:40.000Z",
-            "author": {
-                "name": "Ge1sT0327",
-                "url": "https://github.com/Ge1sT0327"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3例子</div>",
-            "url": "https://github.com/little51/dinov3-samples",
-            "title": "little51/dinov3-samples: dinov3例子",
-            "date_modified": "2026-09-30T14:19:31.000Z",
-            "date_published": "2025-09-16T04:51:48.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
             }
         }
     ]
