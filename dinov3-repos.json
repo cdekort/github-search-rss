@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-04T04:37:03.000Z",
+            "date_modified": "2026-10-05T04:28:14.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,25 +17,113 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>",
-            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
-            "title": "Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation",
-            "date_modified": "2026-10-04T04:09:35.000Z",
-            "date_published": "2026-03-16T10:28:22.000Z",
-            "author": {
-                "name": "Intellindust-AI-Lab",
-                "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
             "title": "lingshan2003/Dinov3txtforSAT",
-            "date_modified": "2026-10-04T03:26:56.000Z",
+            "date_modified": "2026-10-05T02:39:22.000Z",
             "date_published": "2026-09-02T14:23:59.000Z",
             "author": {
                 "name": "lingshan2003",
                 "url": "https://github.com/lingshan2003"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89757647?u=825bb793ea82dcc449f3159dc12c826276750846&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>EchoDino: A self-supervised foundation model for transferable pediatric and adult echocardiography analysis.</div>",
+            "url": "https://github.com/Sean-C71/EchoDino",
+            "title": "Sean-C71/EchoDino: EchoDino: A self-supervised foundation model for transferable pediatric and adult echocardiography analysis.",
+            "date_modified": "2026-10-05T03:56:23.000Z",
+            "date_published": "2026-10-04T22:32:00.000Z",
+            "author": {
+                "name": "Sean-C71",
+                "url": "https://github.com/Sean-C71"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21262462?u=56a03bc87ba6d2ab4494b8da8c1a54fb5b4cd5b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/francescovigni/dinov3-vos-occlusion",
+            "title": "francescovigni/dinov3-vos-occlusion",
+            "date_modified": "2026-10-04T20:53:22.000Z",
+            "date_published": "2026-10-04T20:10:51.000Z",
+            "author": {
+                "name": "francescovigni",
+                "url": "https://github.com/francescovigni"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49451821?u=c56b532cacde65ec0ee8a81246424ba60d65d53a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Wasilkas/dinov3-embedder",
+            "title": "Wasilkas/dinov3-embedder",
+            "date_modified": "2026-10-04T17:47:48.000Z",
+            "date_published": "2026-10-04T17:47:12.000Z",
+            "author": {
+                "name": "Wasilkas",
+                "url": "https://github.com/Wasilkas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148757024?u=5a9d5bbf924f05509708b264fbf12fc81577d6e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10</div>",
+            "url": "https://github.com/sumeyyesaray/DINO",
+            "title": "sumeyyesaray/DINO: Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10",
+            "date_modified": "2026-10-04T16:16:29.000Z",
+            "date_published": "2026-07-29T12:07:32.000Z",
+            "author": {
+                "name": "sumeyyesaray",
+                "url": "https://github.com/sumeyyesaray"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/234921498?u=5428787b23c37fce34d1ca47da1b46cf8d2506c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Détection et classification des bâtiments endommagés à partir d'images satellitaires (DINOv3-UperNet), évalué sur xBD et appliqué au séisme d'Al Haouz 2023 — projet de stage FSEC</div>",
+            "url": "https://github.com/ikramechennouf2023-maker/earthquake-damage-assessment",
+            "title": "ikramechennouf2023-maker/earthquake-damage-assessment: Détection et classification des bâtiments endommagés à partir d'images satellitaires (DINOv3-UperNet), évalué sur xBD et appliqué au séisme d'Al Haouz 2023 — projet de stage FSEC",
+            "date_modified": "2026-10-04T15:43:33.000Z",
+            "date_published": "2026-09-05T21:30:59.000Z",
+            "author": {
+                "name": "ikramechennouf2023-maker",
+                "url": "https://github.com/ikramechennouf2023-maker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64195574?u=1ef3be128e5d3c9d650587349f057cdedc6f63e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI &amp; Docker.</div>",
+            "url": "https://github.com/dimagordienko/cargo-load-estimation",
+            "title": "dimagordienko/cargo-load-estimation: Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI & Docker.",
+            "date_modified": "2026-10-04T11:02:41.000Z",
+            "date_published": "2026-10-02T21:12:00.000Z",
+            "author": {
+                "name": "dimagordienko",
+                "url": "https://github.com/dimagordienko"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102018763?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mechanistic interpretability study comparing the learned feature dictionaries of DINOv3, CLIP, and I-JEPA using Sparse Autoencoders (SAEs) and COCO instance masks.</div>",
+            "url": "https://github.com/peyman-paknezhad/sae-vision-concepts",
+            "title": "peyman-paknezhad/sae-vision-concepts: A mechanistic interpretability study comparing the learned feature dictionaries of DINOv3, CLIP, and I-JEPA using Sparse Autoencoders (SAEs) and COCO instance masks.",
+            "date_modified": "2026-10-04T11:57:26.000Z",
+            "date_published": "2026-10-04T09:24:50.000Z",
+            "author": {
+                "name": "peyman-paknezhad",
+                "url": "https://github.com/peyman-paknezhad"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100414351?u=74ba53df3c204148c4901026d23bb2a31acf4540&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI catch-intelligence platform for Indonesian fisheries: a DINOv3 fish classifier (86% real-world accuracy) paired with a writer–critic RAG pipeline that generates fully evidence-grounded knowledge cards (100% supported claims).</div>",
+            "url": "https://github.com/AthillaZaidan/Fishora",
+            "title": "AthillaZaidan/Fishora: AI catch-intelligence platform for Indonesian fisheries: a DINOv3 fish classifier (86% real-world accuracy) paired with a writer–critic RAG pipeline that generates fully evidence-grounded knowledge cards (100% supported claims).",
+            "date_modified": "2026-10-04T06:37:55.000Z",
+            "date_published": "2026-09-04T01:23:52.000Z",
+            "author": {
+                "name": "AthillaZaidan",
+                "url": "https://github.com/AthillaZaidan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>",
+            "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
+            "title": "Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation",
+            "date_modified": "2026-10-04T17:20:36.000Z",
+            "date_published": "2026-03-16T10:28:22.000Z",
+            "author": {
+                "name": "Intellindust-AI-Lab",
+                "url": "https://github.com/Intellindust-AI-Lab"
             }
         },
         {
@@ -53,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199507597?u=67bd8b50e3785bb85d7996e8a2bd2115459c490d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore real-time object detection with IoTKITs. This project demonstrates how AI and computer vision work together to detect and recognize objects for practical IoT solutions.</div>",
             "url": "https://github.com/mrpaul-10/Object_detection_IoTKITs_",
             "title": "mrpaul-10/Object_detection_IoTKITs_: Explore real-time object detection with IoTKITs. This project demonstrates how AI and computer vision work together to detect and recognize objects for practical IoT solutions.",
-            "date_modified": "2026-10-03T18:35:50.000Z",
+            "date_modified": "2026-10-04T16:45:36.000Z",
             "date_published": "2026-08-25T17:26:16.000Z",
             "author": {
                 "name": "mrpaul-10",
@@ -69,17 +157,6 @@
             "author": {
                 "name": "kingwingfly",
                 "url": "https://github.com/kingwingfly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64195574?u=1ef3be128e5d3c9d650587349f057cdedc6f63e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI &amp; Docker.</div>",
-            "url": "https://github.com/dimagordienko/cargo-load-estimation",
-            "title": "dimagordienko/cargo-load-estimation: Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI & Docker.",
-            "date_modified": "2026-10-02T21:12:02.000Z",
-            "date_published": "2026-10-02T21:12:00.000Z",
-            "author": {
-                "name": "dimagordienko",
-                "url": "https://github.com/dimagordienko"
             }
         },
         {
@@ -146,83 +223,6 @@
             "author": {
                 "name": "AXERA-TECH",
                 "url": "https://github.com/AXERA-TECH"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202764278?u=c88528cb9b70049ab5562623989be6bea9299524&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.</div>",
-            "url": "https://github.com/Diego-Meloni/DinoV3-Inpainting-Forensics",
-            "title": "Diego-Meloni/DinoV3-Inpainting-Forensics: Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.",
-            "date_modified": "2026-10-02T13:46:08.000Z",
-            "date_published": "2026-10-02T01:20:29.000Z",
-            "author": {
-                "name": "Diego-Meloni",
-                "url": "https://github.com/Diego-Meloni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133914261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.</div>",
-            "url": "https://github.com/ahughes0227/training-platform",
-            "title": "ahughes0227/training-platform: Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.",
-            "date_modified": "2026-10-01T22:59:05.000Z",
-            "date_published": "2026-09-28T10:50:11.000Z",
-            "author": {
-                "name": "ahughes0227",
-                "url": "https://github.com/ahughes0227"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127124234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ContrattoAlessandro/DinoV3_TL_Detection",
-            "title": "ContrattoAlessandro/DinoV3_TL_Detection",
-            "date_modified": "2026-10-01T20:13:30.000Z",
-            "date_published": "2026-09-30T09:27:27.000Z",
-            "author": {
-                "name": "ContrattoAlessandro",
-                "url": "https://github.com/ContrattoAlessandro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97152746?u=330343eeabb8ce57e585c85ddd49971d71255d46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Noah-Bjorner/dinov3-vit-large-distilled",
-            "title": "Noah-Bjorner/dinov3-vit-large-distilled",
-            "date_modified": "2026-10-01T21:43:05.000Z",
-            "date_published": "2025-12-02T12:58:19.000Z",
-            "author": {
-                "name": "Noah-Bjorner",
-                "url": "https://github.com/Noah-Bjorner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114120653?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comprehensive Computer Vision Curriculum (28 Sessions) — From OpenCV, CNNs, YOLO, and U-Net to Vision Transformers, DINOv3, SAM, VLMs, Diffusion, and 3D Vision.</div>",
-            "url": "https://github.com/duonyyy/Computer-Vision-From-Basics-to-Advanced",
-            "title": "duonyyy/Computer-Vision-From-Basics-to-Advanced: Comprehensive Computer Vision Curriculum (28 Sessions) — From OpenCV, CNNs, YOLO, and U-Net to Vision Transformers, DINOv3, SAM, VLMs, Diffusion, and 3D Vision.",
-            "date_modified": "2026-10-01T09:00:53.000Z",
-            "date_published": "2026-10-01T09:00:21.000Z",
-            "author": {
-                "name": "duonyyy",
-                "url": "https://github.com/duonyyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
-            "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-10-01T07:33:12.000Z",
-            "date_published": "2026-07-15T08:27:58.000Z",
-            "author": {
-                "name": "JeonHaneul",
-                "url": "https://github.com/JeonHaneul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15927868?u=b41ca429810a66da22094a84134a740bab54e3c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magic: The Gathering card scanner using obb detection and visual retrieval.</div>",
-            "url": "https://github.com/matteot11/open-card-collector",
-            "title": "matteot11/open-card-collector: Magic: The Gathering card scanner using obb detection and visual retrieval.",
-            "date_modified": "2026-10-01T07:29:44.000Z",
-            "date_published": "2026-09-21T17:46:18.000Z",
-            "author": {
-                "name": "matteot11",
-                "url": "https://github.com/matteot11"
             }
         }
     ]

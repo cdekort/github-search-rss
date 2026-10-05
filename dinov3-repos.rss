@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-10-04T04:41:42.366Z</updated>
+    <updated>2026-10-05T04:29:26.614Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-10-04T04:37:03.000Z</updated>
+        <updated>2026-10-05T04:28:14.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -21,23 +21,10 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
-        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-10-04T04:09:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2026-03-16T10:28:22.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
         <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
         <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
-        <updated>2026-10-04T03:26:56.000Z</updated>
+        <updated>2026-10-05T02:39:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>lingshan2003</name>
@@ -45,6 +32,123 @@
             <uri>https://github.com/lingshan2003</uri>
         </author>
         <published>2026-09-02T14:23:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sean-C71/EchoDino: EchoDino: A self-supervised foundation model for transferable pediatric and adult echocardiography analysis.]]></title>
+        <id>https://github.com/Sean-C71/EchoDino</id>
+        <link href="https://github.com/Sean-C71/EchoDino"/>
+        <updated>2026-10-05T03:56:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89757647?u=825bb793ea82dcc449f3159dc12c826276750846&v=4" width="64" height="64" alt=""/><br/><div>EchoDino: A self-supervised foundation model for transferable pediatric and adult echocardiography analysis.</div>]]></content>
+        <author>
+            <name>Sean-C71</name>
+            <email>Sean-C71@noreply.github.com</email>
+            <uri>https://github.com/Sean-C71</uri>
+        </author>
+        <published>2026-10-04T22:32:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[francescovigni/dinov3-vos-occlusion]]></title>
+        <id>https://github.com/francescovigni/dinov3-vos-occlusion</id>
+        <link href="https://github.com/francescovigni/dinov3-vos-occlusion"/>
+        <updated>2026-10-04T20:53:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/21262462?u=56a03bc87ba6d2ab4494b8da8c1a54fb5b4cd5b1&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>francescovigni</name>
+            <email>francescovigni@noreply.github.com</email>
+            <uri>https://github.com/francescovigni</uri>
+        </author>
+        <published>2026-10-04T20:10:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wasilkas/dinov3-embedder]]></title>
+        <id>https://github.com/Wasilkas/dinov3-embedder</id>
+        <link href="https://github.com/Wasilkas/dinov3-embedder"/>
+        <updated>2026-10-04T17:47:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49451821?u=c56b532cacde65ec0ee8a81246424ba60d65d53a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Wasilkas</name>
+            <email>Wasilkas@noreply.github.com</email>
+            <uri>https://github.com/Wasilkas</uri>
+        </author>
+        <published>2026-10-04T17:47:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sumeyyesaray/DINO: Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10]]></title>
+        <id>https://github.com/sumeyyesaray/DINO</id>
+        <link href="https://github.com/sumeyyesaray/DINO"/>
+        <updated>2026-10-04T16:16:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148757024?u=5a9d5bbf924f05509708b264fbf12fc81577d6e8&v=4" width="64" height="64" alt=""/><br/><div>Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10</div>]]></content>
+        <author>
+            <name>sumeyyesaray</name>
+            <email>sumeyyesaray@noreply.github.com</email>
+            <uri>https://github.com/sumeyyesaray</uri>
+        </author>
+        <published>2026-07-29T12:07:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ikramechennouf2023-maker/earthquake-damage-assessment: Détection et classification des bâtiments endommagés à partir d'images satellitaires (DINOv3-UperNet), évalué sur xBD et appliqué au séisme d'Al Haouz 2023 — projet de stage FSEC]]></title>
+        <id>https://github.com/ikramechennouf2023-maker/earthquake-damage-assessment</id>
+        <link href="https://github.com/ikramechennouf2023-maker/earthquake-damage-assessment"/>
+        <updated>2026-10-04T15:43:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/234921498?u=5428787b23c37fce34d1ca47da1b46cf8d2506c4&v=4" width="64" height="64" alt=""/><br/><div>Détection et classification des bâtiments endommagés à partir d'images satellitaires (DINOv3-UperNet), évalué sur xBD et appliqué au séisme d'Al Haouz 2023 — projet de stage FSEC</div>]]></content>
+        <author>
+            <name>ikramechennouf2023-maker</name>
+            <email>ikramechennouf2023-maker@noreply.github.com</email>
+            <uri>https://github.com/ikramechennouf2023-maker</uri>
+        </author>
+        <published>2026-09-05T21:30:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dimagordienko/cargo-load-estimation: Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI & Docker.]]></title>
+        <id>https://github.com/dimagordienko/cargo-load-estimation</id>
+        <link href="https://github.com/dimagordienko/cargo-load-estimation"/>
+        <updated>2026-10-04T11:02:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64195574?u=1ef3be128e5d3c9d650587349f057cdedc6f63e1&v=4" width="64" height="64" alt=""/><br/><div>Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI &amp; Docker.</div>]]></content>
+        <author>
+            <name>dimagordienko</name>
+            <email>dimagordienko@noreply.github.com</email>
+            <uri>https://github.com/dimagordienko</uri>
+        </author>
+        <published>2026-10-02T21:12:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[peyman-paknezhad/sae-vision-concepts: A mechanistic interpretability study comparing the learned feature dictionaries of DINOv3, CLIP, and I-JEPA using Sparse Autoencoders (SAEs) and COCO instance masks.]]></title>
+        <id>https://github.com/peyman-paknezhad/sae-vision-concepts</id>
+        <link href="https://github.com/peyman-paknezhad/sae-vision-concepts"/>
+        <updated>2026-10-04T11:57:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/102018763?v=4" width="64" height="64" alt=""/><br/><div>A mechanistic interpretability study comparing the learned feature dictionaries of DINOv3, CLIP, and I-JEPA using Sparse Autoencoders (SAEs) and COCO instance masks.</div>]]></content>
+        <author>
+            <name>peyman-paknezhad</name>
+            <email>peyman-paknezhad@noreply.github.com</email>
+            <uri>https://github.com/peyman-paknezhad</uri>
+        </author>
+        <published>2026-10-04T09:24:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AthillaZaidan/Fishora: AI catch-intelligence platform for Indonesian fisheries: a DINOv3 fish classifier (86% real-world accuracy) paired with a writer–critic RAG pipeline that generates fully evidence-grounded knowledge cards (100% supported claims).]]></title>
+        <id>https://github.com/AthillaZaidan/Fishora</id>
+        <link href="https://github.com/AthillaZaidan/Fishora"/>
+        <updated>2026-10-04T06:37:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/100414351?u=74ba53df3c204148c4901026d23bb2a31acf4540&v=4" width="64" height="64" alt=""/><br/><div>AI catch-intelligence platform for Indonesian fisheries: a DINOv3 fish classifier (86% real-world accuracy) paired with a writer–critic RAG pipeline that generates fully evidence-grounded knowledge cards (100% supported claims).</div>]]></content>
+        <author>
+            <name>AthillaZaidan</name>
+            <email>AthillaZaidan@noreply.github.com</email>
+            <uri>https://github.com/AthillaZaidan</uri>
+        </author>
+        <published>2026-09-04T01:23:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
+        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
+        <updated>2026-10-04T17:20:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2026-03-16T10:28:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[caojiachen1/dinov3-ggml]]></title>
@@ -63,7 +167,7 @@
         <title type="html"><![CDATA[mrpaul-10/Object_detection_IoTKITs_: Explore real-time object detection with IoTKITs. This project demonstrates how AI and computer vision work together to detect and recognize objects for practical IoT solutions.]]></title>
         <id>https://github.com/mrpaul-10/Object_detection_IoTKITs_</id>
         <link href="https://github.com/mrpaul-10/Object_detection_IoTKITs_"/>
-        <updated>2026-10-03T18:35:50.000Z</updated>
+        <updated>2026-10-04T16:45:36.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/199507597?u=67bd8b50e3785bb85d7996e8a2bd2115459c490d&v=4" width="64" height="64" alt=""/><br/><div>Explore real-time object detection with IoTKITs. This project demonstrates how AI and computer vision work together to detect and recognize objects for practical IoT solutions.</div>]]></content>
         <author>
             <name>mrpaul-10</name>
@@ -84,19 +188,6 @@
             <uri>https://github.com/kingwingfly</uri>
         </author>
         <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dimagordienko/cargo-load-estimation: Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI & Docker.]]></title>
-        <id>https://github.com/dimagordienko/cargo-load-estimation</id>
-        <link href="https://github.com/dimagordienko/cargo-load-estimation"/>
-        <updated>2026-10-02T21:12:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64195574?u=1ef3be128e5d3c9d650587349f057cdedc6f63e1&v=4" width="64" height="64" alt=""/><br/><div>Computer vision system for estimating vehicle cargo load from images — DINOv3, regression, FastAPI &amp; Docker.</div>]]></content>
-        <author>
-            <name>dimagordienko</name>
-            <email>dimagordienko@noreply.github.com</email>
-            <uri>https://github.com/dimagordienko</uri>
-        </author>
-        <published>2026-10-02T21:12:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[steffen-jung/dinov3-subset: Which Transformer Blocks Should You Keep? An Exhaustive Map of Layer-Subset Selection in a Pretrained ViT]]></title>
@@ -175,96 +266,5 @@
             <uri>https://github.com/AXERA-TECH</uri>
         </author>
         <published>2026-09-16T02:15:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diego-Meloni/DinoV3-Inpainting-Forensics: Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.]]></title>
-        <id>https://github.com/Diego-Meloni/DinoV3-Inpainting-Forensics</id>
-        <link href="https://github.com/Diego-Meloni/DinoV3-Inpainting-Forensics"/>
-        <updated>2026-10-02T13:46:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/202764278?u=c88528cb9b70049ab5562623989be6bea9299524&v=4" width="64" height="64" alt=""/><br/><div>Resource efficient PyTorch pipeline for detecting of AI-inpainted image regions training simple architectures to interpret the output of a frozen foundation model of the DinoV3 family. Tested the Vision transformer and ConvNext variants. The repo also contains a modified version of the Beyond the Brush pipeline for automatic inpainting generation.</div>]]></content>
-        <author>
-            <name>Diego-Meloni</name>
-            <email>Diego-Meloni@noreply.github.com</email>
-            <uri>https://github.com/Diego-Meloni</uri>
-        </author>
-        <published>2026-10-02T01:20:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ahughes0227/training-platform: Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.]]></title>
-        <id>https://github.com/ahughes0227/training-platform</id>
-        <link href="https://github.com/ahughes0227/training-platform"/>
-        <updated>2026-10-01T22:59:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/133914261?v=4" width="64" height="64" alt=""/><br/><div>Config-driven DINOv3 and MLP defect classification with WebDataset, GCP Vertex AI, MLflow, and Ray Serve.</div>]]></content>
-        <author>
-            <name>ahughes0227</name>
-            <email>ahughes0227@noreply.github.com</email>
-            <uri>https://github.com/ahughes0227</uri>
-        </author>
-        <published>2026-09-28T10:50:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ContrattoAlessandro/DinoV3_TL_Detection]]></title>
-        <id>https://github.com/ContrattoAlessandro/DinoV3_TL_Detection</id>
-        <link href="https://github.com/ContrattoAlessandro/DinoV3_TL_Detection"/>
-        <updated>2026-10-01T20:13:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/127124234?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ContrattoAlessandro</name>
-            <email>ContrattoAlessandro@noreply.github.com</email>
-            <uri>https://github.com/ContrattoAlessandro</uri>
-        </author>
-        <published>2026-09-30T09:27:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noah-Bjorner/dinov3-vit-large-distilled]]></title>
-        <id>https://github.com/Noah-Bjorner/dinov3-vit-large-distilled</id>
-        <link href="https://github.com/Noah-Bjorner/dinov3-vit-large-distilled"/>
-        <updated>2026-10-01T21:43:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/97152746?u=330343eeabb8ce57e585c85ddd49971d71255d46&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Noah-Bjorner</name>
-            <email>Noah-Bjorner@noreply.github.com</email>
-            <uri>https://github.com/Noah-Bjorner</uri>
-        </author>
-        <published>2025-12-02T12:58:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[duonyyy/Computer-Vision-From-Basics-to-Advanced: Comprehensive Computer Vision Curriculum (28 Sessions) — From OpenCV, CNNs, YOLO, and U-Net to Vision Transformers, DINOv3, SAM, VLMs, Diffusion, and 3D Vision.]]></title>
-        <id>https://github.com/duonyyy/Computer-Vision-From-Basics-to-Advanced</id>
-        <link href="https://github.com/duonyyy/Computer-Vision-From-Basics-to-Advanced"/>
-        <updated>2026-10-01T09:00:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114120653?v=4" width="64" height="64" alt=""/><br/><div>Comprehensive Computer Vision Curriculum (28 Sessions) — From OpenCV, CNNs, YOLO, and U-Net to Vision Transformers, DINOv3, SAM, VLMs, Diffusion, and 3D Vision.</div>]]></content>
-        <author>
-            <name>duonyyy</name>
-            <email>duonyyy@noreply.github.com</email>
-            <uri>https://github.com/duonyyy</uri>
-        </author>
-        <published>2026-10-01T09:00:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-10-01T07:33:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[matteot11/open-card-collector: Magic: The Gathering card scanner using obb detection and visual retrieval.]]></title>
-        <id>https://github.com/matteot11/open-card-collector</id>
-        <link href="https://github.com/matteot11/open-card-collector"/>
-        <updated>2026-10-01T07:29:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15927868?u=b41ca429810a66da22094a84134a740bab54e3c7&v=4" width="64" height="64" alt=""/><br/><div>Magic: The Gathering card scanner using obb detection and visual retrieval.</div>]]></content>
-        <author>
-            <name>matteot11</name>
-            <email>matteot11@noreply.github.com</email>
-            <uri>https://github.com/matteot11</uri>
-        </author>
-        <published>2026-09-21T17:46:18.000Z</published>
     </entry>
 </feed>
