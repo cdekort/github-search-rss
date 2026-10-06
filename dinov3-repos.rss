@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-10-05T04:29:26.614Z</updated>
+    <updated>2026-10-06T05:15:26.086Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-10-05T04:28:14.000Z</updated>
+        <updated>2026-10-06T05:10:48.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -21,23 +21,23 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
-        <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
-        <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
-        <updated>2026-10-05T02:39:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).]]></title>
+        <id>https://github.com/wlejon/brovisionml</id>
+        <link href="https://github.com/wlejon/brovisionml"/>
+        <updated>2026-10-06T03:54:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4" width="64" height="64" alt=""/><br/><div>Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).</div>]]></content>
         <author>
-            <name>lingshan2003</name>
-            <email>lingshan2003@noreply.github.com</email>
-            <uri>https://github.com/lingshan2003</uri>
+            <name>wlejon</name>
+            <email>wlejon@noreply.github.com</email>
+            <uri>https://github.com/wlejon</uri>
         </author>
-        <published>2026-09-02T14:23:59.000Z</published>
+        <published>2026-05-31T17:50:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sean-C71/EchoDino: EchoDino: A self-supervised foundation model for transferable pediatric and adult echocardiography analysis.]]></title>
         <id>https://github.com/Sean-C71/EchoDino</id>
         <link href="https://github.com/Sean-C71/EchoDino"/>
-        <updated>2026-10-05T03:56:23.000Z</updated>
+        <updated>2026-10-06T03:53:43.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89757647?u=825bb793ea82dcc449f3159dc12c826276750846&v=4" width="64" height="64" alt=""/><br/><div>EchoDino: A self-supervised foundation model for transferable pediatric and adult echocardiography analysis.</div>]]></content>
         <author>
             <name>Sean-C71</name>
@@ -47,10 +47,153 @@
         <published>2026-10-04T22:32:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[xiangyi93/Flower-Condition-Prediction: 本專案為花卉觀光資訊系統的電腦視覺模組，辨識櫻花、金針花與繡球花。先以 DINOv3＋MLP 進行語義分割，再將保留花卉前景的 RGB 影像交給 YOLO11n-cls，判斷花種與 green、half、full 三種花況，共九個聯合類別。]]></title>
+        <id>https://github.com/xiangyi93/Flower-Condition-Prediction</id>
+        <link href="https://github.com/xiangyi93/Flower-Condition-Prediction"/>
+        <updated>2026-10-06T03:08:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/144150369?u=d0759ebc0ea1e15f01d01b1dfaa8f626061d7642&v=4" width="64" height="64" alt=""/><br/><div>本專案為花卉觀光資訊系統的電腦視覺模組，辨識櫻花、金針花與繡球花。先以 DINOv3＋MLP 進行語義分割，再將保留花卉前景的 RGB 影像交給 YOLO11n-cls，判斷花種與 green、half、full 三種花況，共九個聯合類別。</div>]]></content>
+        <author>
+            <name>xiangyi93</name>
+            <email>xiangyi93@noreply.github.com</email>
+            <uri>https://github.com/xiangyi93</uri>
+        </author>
+        <published>2026-10-05T09:01:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[saverin0/sar-transfer-domains: Do frozen image encoders transfer to radar images outside glaciers? Part two of a SAR transfer series. Sentinel-1 glacial lakes, snow, forest types and alpine glaciers with frozen satellite DINOv3 and C-RADIOv4, a linear probe and a small decoder, and frozen-feature views.]]></title>
+        <id>https://github.com/saverin0/sar-transfer-domains</id>
+        <link href="https://github.com/saverin0/sar-transfer-domains"/>
+        <updated>2026-10-05T18:48:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73588208?u=b6aeeaf85c4e57f28a17f08b4ecabcbe3fa2d936&v=4" width="64" height="64" alt=""/><br/><div>Do frozen image encoders transfer to radar images outside glaciers? Part two of a SAR transfer series. Sentinel-1 glacial lakes, snow, forest types and alpine glaciers with frozen satellite DINOv3 and C-RADIOv4, a linear probe and a small decoder, and frozen-feature views.</div>]]></content>
+        <author>
+            <name>saverin0</name>
+            <email>saverin0@noreply.github.com</email>
+            <uri>https://github.com/saverin0</uri>
+        </author>
+        <published>2026-10-05T18:48:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[saverin0/Change-Detection-Using-Dinov3: Can frozen DINOv3 satellite embeddings find new buildings? Temporal transformer on SpaceNet-7 and LEVIR-CD, free Colab T4. Test F1 0.91 on LEVIR-CD, where a 0.56M-parameter difference head matched a cross-attention head 1.5x its size; 0.18 on SpaceNet-7's much harder monthly task, against 0.02 for raw embedding distance.]]></title>
+        <id>https://github.com/saverin0/Change-Detection-Using-Dinov3</id>
+        <link href="https://github.com/saverin0/Change-Detection-Using-Dinov3"/>
+        <updated>2026-10-05T18:45:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73588208?u=b6aeeaf85c4e57f28a17f08b4ecabcbe3fa2d936&v=4" width="64" height="64" alt=""/><br/><div>Can frozen DINOv3 satellite embeddings find new buildings? Temporal transformer on SpaceNet-7 and LEVIR-CD, free Colab T4. Test F1 0.91 on LEVIR-CD, where a 0.56M-parameter difference head matched a cross-attention head 1.5x its size; 0.18 on SpaceNet-7's much harder monthly task, against 0.02 for raw embedding distance.</div>]]></content>
+        <author>
+            <name>saverin0</name>
+            <email>saverin0@noreply.github.com</email>
+            <uri>https://github.com/saverin0</uri>
+        </author>
+        <published>2026-09-19T11:32:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[saverin0/sar-transfer-glaciers: Do frozen image encoders transfer to SAR? Glacier calving fronts on CaFFe with frozen DINOv3 (satellite and photo), C-RADIO, TerraMind and SARATR-X and small heads, against a U-Net from scratch; pixel size vs radar band; frozen-feature views.]]></title>
+        <id>https://github.com/saverin0/sar-transfer-glaciers</id>
+        <link href="https://github.com/saverin0/sar-transfer-glaciers"/>
+        <updated>2026-10-05T18:44:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73588208?u=b6aeeaf85c4e57f28a17f08b4ecabcbe3fa2d936&v=4" width="64" height="64" alt=""/><br/><div>Do frozen image encoders transfer to SAR? Glacier calving fronts on CaFFe with frozen DINOv3 (satellite and photo), C-RADIO, TerraMind and SARATR-X and small heads, against a U-Net from scratch; pixel size vs radar band; frozen-feature views.</div>]]></content>
+        <author>
+            <name>saverin0</name>
+            <email>saverin0@noreply.github.com</email>
+            <uri>https://github.com/saverin0</uri>
+        </author>
+        <published>2026-09-28T05:41:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alishibli97/gfm-shortcut-learning: Shortcut learning in geospatial foundation models for cross-disaster damage assessment. TerraMind, Prithvi, DOFA and DINOv3 on xView2 and BRIGHT. NeurIPS 2026 REO.]]></title>
+        <id>https://github.com/alishibli97/gfm-shortcut-learning</id>
+        <link href="https://github.com/alishibli97/gfm-shortcut-learning"/>
+        <updated>2026-10-05T15:34:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30579166?u=d735f4cd252ae80f4cbfa1c6de2bd318cf2b89d8&v=4" width="64" height="64" alt=""/><br/><div>Shortcut learning in geospatial foundation models for cross-disaster damage assessment. TerraMind, Prithvi, DOFA and DINOv3 on xView2 and BRIGHT. NeurIPS 2026 REO.</div>]]></content>
+        <author>
+            <name>alishibli97</name>
+            <email>alishibli97@noreply.github.com</email>
+            <uri>https://github.com/alishibli97</uri>
+        </author>
+        <published>2026-10-05T08:19:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ContrattoAlessandro/DinoV3_TL_Detection]]></title>
+        <id>https://github.com/ContrattoAlessandro/DinoV3_TL_Detection</id>
+        <link href="https://github.com/ContrattoAlessandro/DinoV3_TL_Detection"/>
+        <updated>2026-10-05T14:26:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/127124234?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ContrattoAlessandro</name>
+            <email>ContrattoAlessandro@noreply.github.com</email>
+            <uri>https://github.com/ContrattoAlessandro</uri>
+        </author>
+        <published>2026-09-30T09:27:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[saverin0/sar-transfer-distillation: Can a distilled student match its frozen teachers on radar? Part four of a SAR transfer series. A C-RADIO-style ViT-B student learns from SigLIP2, satellite DINOv3, PE-Spatial and TerraFM-B reading Sentinel-1, scored with frozen features on glacial lakes, snow, forest types and alpine glaciers.]]></title>
+        <id>https://github.com/saverin0/sar-transfer-distillation</id>
+        <link href="https://github.com/saverin0/sar-transfer-distillation"/>
+        <updated>2026-10-05T12:56:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73588208?u=b6aeeaf85c4e57f28a17f08b4ecabcbe3fa2d936&v=4" width="64" height="64" alt=""/><br/><div>Can a distilled student match its frozen teachers on radar? Part four of a SAR transfer series. A C-RADIO-style ViT-B student learns from SigLIP2, satellite DINOv3, PE-Spatial and TerraFM-B reading Sentinel-1, scored with frozen features on glacial lakes, snow, forest types and alpine glaciers.</div>]]></content>
+        <author>
+            <name>saverin0</name>
+            <email>saverin0@noreply.github.com</email>
+            <uri>https://github.com/saverin0</uri>
+        </author>
+        <published>2026-10-05T11:55:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
+        <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
+        <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
+        <updated>2026-10-05T09:41:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>lingshan2003</name>
+            <email>lingshan2003@noreply.github.com</email>
+            <uri>https://github.com/lingshan2003</uri>
+        </author>
+        <published>2026-09-02T14:23:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ]]></title>
+        <id>https://github.com/onlylrs/Modern-Vit-Adapter</id>
+        <link href="https://github.com/onlylrs/Modern-Vit-Adapter"/>
+        <updated>2026-10-05T09:40:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114906506?u=162e38216b3adfb4f5a98490301a66735241bb1b&v=4" width="64" height="64" alt=""/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>]]></content>
+        <author>
+            <name>onlylrs</name>
+            <email>onlylrs@noreply.github.com</email>
+            <uri>https://github.com/onlylrs</uri>
+        </author>
+        <published>2026-04-03T08:10:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arun973150/ntire26-ai-image-detector: Generalized AI-generated image detector on the NTIRE 2026 in-the-wild benchmark, tested on unseen generators like Nano Banana (DINOv3 + LoRA).]]></title>
+        <id>https://github.com/Arun973150/ntire26-ai-image-detector</id>
+        <link href="https://github.com/Arun973150/ntire26-ai-image-detector"/>
+        <updated>2026-10-05T08:42:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/153910402?u=40889af9258a7ca6e14e5858a8894e80b53438ae&v=4" width="64" height="64" alt=""/><br/><div>Generalized AI-generated image detector on the NTIRE 2026 in-the-wild benchmark, tested on unseen generators like Nano Banana (DINOv3 + LoRA).</div>]]></content>
+        <author>
+            <name>Arun973150</name>
+            <email>Arun973150@noreply.github.com</email>
+            <uri>https://github.com/Arun973150</uri>
+        </author>
+        <published>2026-06-28T05:30:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KernelFlow-ops/lightly-trian-quant: RTX 5090 optimization of DINOv3 + EoMT segmentation training and inference with fused CUDA kernels, CUDA Graphs, and FP8/FP4 quantization. Achieves 6.3x ViT-L inference and 4.22x training speedups with numerical validation; explores faster FP4 modes.]]></title>
+        <id>https://github.com/KernelFlow-ops/lightly-trian-quant</id>
+        <link href="https://github.com/KernelFlow-ops/lightly-trian-quant"/>
+        <updated>2026-10-05T07:12:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/103517851?u=b4fa37ba10e92c06cb7d957b4fe31ccd204c05fb&v=4" width="64" height="64" alt=""/><br/><div>RTX 5090 optimization of DINOv3 + EoMT segmentation training and inference with fused CUDA kernels, CUDA Graphs, and FP8/FP4 quantization. Achieves 6.3x ViT-L inference and 4.22x training speedups with numerical validation; explores faster FP4 modes.</div>]]></content>
+        <author>
+            <name>KernelFlow-ops</name>
+            <email>KernelFlow-ops@noreply.github.com</email>
+            <uri>https://github.com/KernelFlow-ops</uri>
+        </author>
+        <published>2026-10-05T06:49:56.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[francescovigni/dinov3-vos-occlusion]]></title>
         <id>https://github.com/francescovigni/dinov3-vos-occlusion</id>
         <link href="https://github.com/francescovigni/dinov3-vos-occlusion"/>
-        <updated>2026-10-04T20:53:22.000Z</updated>
+        <updated>2026-10-05T06:18:32.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/21262462?u=56a03bc87ba6d2ab4494b8da8c1a54fb5b4cd5b1&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>francescovigni</name>
@@ -123,148 +266,5 @@
             <uri>https://github.com/peyman-paknezhad</uri>
         </author>
         <published>2026-10-04T09:24:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AthillaZaidan/Fishora: AI catch-intelligence platform for Indonesian fisheries: a DINOv3 fish classifier (86% real-world accuracy) paired with a writer–critic RAG pipeline that generates fully evidence-grounded knowledge cards (100% supported claims).]]></title>
-        <id>https://github.com/AthillaZaidan/Fishora</id>
-        <link href="https://github.com/AthillaZaidan/Fishora"/>
-        <updated>2026-10-04T06:37:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/100414351?u=74ba53df3c204148c4901026d23bb2a31acf4540&v=4" width="64" height="64" alt=""/><br/><div>AI catch-intelligence platform for Indonesian fisheries: a DINOv3 fish classifier (86% real-world accuracy) paired with a writer–critic RAG pipeline that generates fully evidence-grounded knowledge cards (100% supported claims).</div>]]></content>
-        <author>
-            <name>AthillaZaidan</name>
-            <email>AthillaZaidan@noreply.github.com</email>
-            <uri>https://github.com/AthillaZaidan</uri>
-        </author>
-        <published>2026-09-04T01:23:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
-        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
-        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
-        <updated>2026-10-04T17:20:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
-        <author>
-            <name>Intellindust-AI-Lab</name>
-            <email>Intellindust-AI-Lab@noreply.github.com</email>
-            <uri>https://github.com/Intellindust-AI-Lab</uri>
-        </author>
-        <published>2026-03-16T10:28:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[caojiachen1/dinov3-ggml]]></title>
-        <id>https://github.com/caojiachen1/dinov3-ggml</id>
-        <link href="https://github.com/caojiachen1/dinov3-ggml"/>
-        <updated>2026-10-04T00:39:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/31117295?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>caojiachen1</name>
-            <email>caojiachen1@noreply.github.com</email>
-            <uri>https://github.com/caojiachen1</uri>
-        </author>
-        <published>2026-07-28T08:25:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mrpaul-10/Object_detection_IoTKITs_: Explore real-time object detection with IoTKITs. This project demonstrates how AI and computer vision work together to detect and recognize objects for practical IoT solutions.]]></title>
-        <id>https://github.com/mrpaul-10/Object_detection_IoTKITs_</id>
-        <link href="https://github.com/mrpaul-10/Object_detection_IoTKITs_"/>
-        <updated>2026-10-04T16:45:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/199507597?u=67bd8b50e3785bb85d7996e8a2bd2115459c490d&v=4" width="64" height="64" alt=""/><br/><div>Explore real-time object detection with IoTKITs. This project demonstrates how AI and computer vision work together to detect and recognize objects for practical IoT solutions.</div>]]></content>
-        <author>
-            <name>mrpaul-10</name>
-            <email>mrpaul-10@noreply.github.com</email>
-            <uri>https://github.com/mrpaul-10</uri>
-        </author>
-        <published>2026-08-25T17:26:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-10-03T14:52:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[steffen-jung/dinov3-subset: Which Transformer Blocks Should You Keep? An Exhaustive Map of Layer-Subset Selection in a Pretrained ViT]]></title>
-        <id>https://github.com/steffen-jung/dinov3-subset</id>
-        <link href="https://github.com/steffen-jung/dinov3-subset"/>
-        <updated>2026-10-03T05:51:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33086982?u=1e6c48a8363579a405b5ee5555f8f5dda6498fe0&v=4" width="64" height="64" alt=""/><br/><div>Which Transformer Blocks Should You Keep? An Exhaustive Map of Layer-Subset Selection in a Pretrained ViT</div>]]></content>
-        <author>
-            <name>steffen-jung</name>
-            <email>steffen-jung@noreply.github.com</email>
-            <uri>https://github.com/steffen-jung</uri>
-        </author>
-        <published>2026-10-02T17:53:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bovi-analytics/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)]]></title>
-        <id>https://github.com/Bovi-analytics/PEFT-Fine-tuning-cows</id>
-        <link href="https://github.com/Bovi-analytics/PEFT-Fine-tuning-cows"/>
-        <updated>2026-10-02T17:28:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11755055?v=4" width="64" height="64" alt=""/><br/><div>Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)</div>]]></content>
-        <author>
-            <name>Bovi-analytics</name>
-            <email>Bovi-analytics@noreply.github.com</email>
-            <uri>https://github.com/Bovi-analytics</uri>
-        </author>
-        <published>2026-02-02T14:04:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KeremKurban/medfm-lab: Local workbench for medical vision foundation models: inference, attention, patch embeddings and residual-stream probing for DINOv2/DINOv3, RAD-DINO, MedDINOv3 and CXformer. Runs entirely on Apple Silicon.]]></title>
-        <id>https://github.com/KeremKurban/medfm-lab</id>
-        <link href="https://github.com/KeremKurban/medfm-lab"/>
-        <updated>2026-10-03T05:51:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29337051?u=2dac7ff2147779a10cf6be95a7899b2f8248dc0e&v=4" width="64" height="64" alt=""/><br/><div>Local workbench for medical vision foundation models: inference, attention, patch embeddings and residual-stream probing for DINOv2/DINOv3, RAD-DINO, MedDINOv3 and CXformer. Runs entirely on Apple Silicon.</div>]]></content>
-        <author>
-            <name>KeremKurban</name>
-            <email>KeremKurban@noreply.github.com</email>
-            <uri>https://github.com/KeremKurban</uri>
-        </author>
-        <published>2026-10-02T14:29:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[msraaghavan/HumanDiT: Controllable 256×256 synthetic faces: a diffusion transformer in DINOv3 space plus a one-step GAN student, running in your browser with WebGPU.]]></title>
-        <id>https://github.com/msraaghavan/HumanDiT</id>
-        <link href="https://github.com/msraaghavan/HumanDiT"/>
-        <updated>2026-10-02T10:54:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/158986198?v=4" width="64" height="64" alt=""/><br/><div>Controllable 256×256 synthetic faces: a diffusion transformer in DINOv3 space plus a one-step GAN student, running in your browser with WebGPU.</div>]]></content>
-        <author>
-            <name>msraaghavan</name>
-            <email>msraaghavan@noreply.github.com</email>
-            <uri>https://github.com/msraaghavan</uri>
-        </author>
-        <published>2026-10-02T10:37:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CestmoiJ/semantic-segmentation-homework-dinov3-pspnet: 语义分割作业：DINOv3 ViT-S/16 + PSP 式分割头，在 PASCAL VOC2012 上训练与验证。]]></title>
-        <id>https://github.com/CestmoiJ/semantic-segmentation-homework-dinov3-pspnet</id>
-        <link href="https://github.com/CestmoiJ/semantic-segmentation-homework-dinov3-pspnet"/>
-        <updated>2026-10-02T12:44:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/190254462?u=85302929c4a36490fd37d3b8fe81dd0c403938fd&v=4" width="64" height="64" alt=""/><br/><div>语义分割作业：DINOv3 ViT-S/16 + PSP 式分割头，在 PASCAL VOC2012 上训练与验证。</div>]]></content>
-        <author>
-            <name>CestmoiJ</name>
-            <email>CestmoiJ@noreply.github.com</email>
-            <uri>https://github.com/CestmoiJ</uri>
-        </author>
-        <published>2026-10-02T09:16:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AXERA-TECH/DEIMv2.axera: [DEIMv2] Real Time Object Detection Meets DINOv3 Demo on Axera NPU]]></title>
-        <id>https://github.com/AXERA-TECH/DEIMv2.axera</id>
-        <link href="https://github.com/AXERA-TECH/DEIMv2.axera"/>
-        <updated>2026-10-02T06:46:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/104980585?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 Demo on Axera NPU</div>]]></content>
-        <author>
-            <name>AXERA-TECH</name>
-            <email>AXERA-TECH@noreply.github.com</email>
-            <uri>https://github.com/AXERA-TECH</uri>
-        </author>
-        <published>2026-09-16T02:15:30.000Z</published>
     </entry>
 </feed>
