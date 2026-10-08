@@ -2,11 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-10-07T04:43:59.258Z</updated>
+    <updated>2026-10-08T04:54:19.868Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
+        <id>https://github.com/tomgrizz/ganaraska-live</id>
+        <link href="https://github.com/tomgrizz/ganaraska-live"/>
+        <updated>2026-10-08T04:44:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
+        <author>
+            <name>tomgrizz</name>
+            <email>tomgrizz@noreply.github.com</email>
+            <uri>https://github.com/tomgrizz</uri>
+        </author>
+        <published>2026-08-25T14:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
+        <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
+        <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
+        <updated>2026-10-08T01:49:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>lingshan2003</name>
+            <email>lingshan2003@noreply.github.com</email>
+            <uri>https://github.com/lingshan2003</uri>
+        </author>
+        <published>2026-09-02T14:23:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[da-dawit/prior-act: ACT with a trainable DINOv3 scene prior for the ROBOTIS AI Worker]]></title>
+        <id>https://github.com/da-dawit/prior-act</id>
+        <link href="https://github.com/da-dawit/prior-act"/>
+        <updated>2026-10-07T15:23:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111470256?u=f0a155250c97820a1d06311fde4c05c8eb6e20e3&v=4" width="64" height="64" alt=""/><br/><div>ACT with a trainable DINOv3 scene prior for the ROBOTIS AI Worker</div>]]></content>
+        <author>
+            <name>da-dawit</name>
+            <email>da-dawit@noreply.github.com</email>
+            <uri>https://github.com/da-dawit</uri>
+        </author>
+        <published>2026-08-13T09:04:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xxxy0523/SD-SAM: SD-SAM: Synergizing SAM and DINOv3 for  Parameter-Efficient Polyp Segmentation and a  Challenging Benchmark Dataset]]></title>
+        <id>https://github.com/xxxy0523/SD-SAM</id>
+        <link href="https://github.com/xxxy0523/SD-SAM"/>
+        <updated>2026-10-07T13:12:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/281135632?v=4" width="64" height="64" alt=""/><br/><div>SD-SAM: Synergizing SAM and DINOv3 for  Parameter-Efficient Polyp Segmentation and a  Challenging Benchmark Dataset</div>]]></content>
+        <author>
+            <name>xxxy0523</name>
+            <email>xxxy0523@noreply.github.com</email>
+            <uri>https://github.com/xxxy0523</uri>
+        </author>
+        <published>2026-05-02T08:51:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ContrattoAlessandro/DinoV3_TL_Detection]]></title>
+        <id>https://github.com/ContrattoAlessandro/DinoV3_TL_Detection</id>
+        <link href="https://github.com/ContrattoAlessandro/DinoV3_TL_Detection"/>
+        <updated>2026-10-07T09:20:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/127124234?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ContrattoAlessandro</name>
+            <email>ContrattoAlessandro@noreply.github.com</email>
+            <uri>https://github.com/ContrattoAlessandro</uri>
+        </author>
+        <published>2026-09-30T09:27:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ashiq24/soft-equivariance: Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.]]></title>
+        <id>https://github.com/ashiq24/soft-equivariance</id>
+        <link href="https://github.com/ashiq24/soft-equivariance"/>
+        <updated>2026-10-07T06:47:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19257148?u=802b81f25947804d44e73e762349605a60ada804&v=4" width="64" height="64" alt=""/><br/><div>Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.</div>]]></content>
+        <author>
+            <name>ashiq24</name>
+            <email>ashiq24@noreply.github.com</email>
+            <uri>https://github.com/ashiq24</uri>
+        </author>
+        <published>2026-03-07T06:42:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[francescovigni/dinov3-vos-occlusion]]></title>
         <id>https://github.com/francescovigni/dinov3-vos-occlusion</id>
@@ -34,6 +112,19 @@
         <published>2026-06-29T16:40:55.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[yberkayozkan/DinoV3-Unet-Segmentation]]></title>
+        <id>https://github.com/yberkayozkan/DinoV3-Unet-Segmentation</id>
+        <link href="https://github.com/yberkayozkan/DinoV3-Unet-Segmentation"/>
+        <updated>2026-10-07T19:27:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/78213417?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>yberkayozkan</name>
+            <email>yberkayozkan@noreply.github.com</email>
+            <uri>https://github.com/yberkayozkan</uri>
+        </author>
+        <published>2026-10-06T20:25:35.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tomm100/Semantic-Correspondence-with-Visual-Foundation-Models: Addressing the problem of semantic correspondence using visual foundation models like DINOv2, DINOv3 and SAM.]]></title>
         <id>https://github.com/Tomm100/Semantic-Correspondence-with-Visual-Foundation-Models</id>
         <link href="https://github.com/Tomm100/Semantic-Correspondence-with-Visual-Foundation-Models"/>
@@ -47,19 +138,6 @@
         <published>2026-10-06T13:36:40.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
-        <id>https://github.com/tomgrizz/ganaraska-live</id>
-        <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-10-06T13:14:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
-        <author>
-            <name>tomgrizz</name>
-            <email>tomgrizz@noreply.github.com</email>
-            <uri>https://github.com/tomgrizz</uri>
-        </author>
-        <published>2026-08-25T14:33:27.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[matteot11/open-card-collector: Magic: The Gathering card scanner using obb detection and visual retrieval.]]></title>
         <id>https://github.com/matteot11/open-card-collector</id>
         <link href="https://github.com/matteot11/open-card-collector"/>
@@ -71,19 +149,6 @@
             <uri>https://github.com/matteot11</uri>
         </author>
         <published>2026-09-21T17:46:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lingshan2003/Dinov3txtforSAT]]></title>
-        <id>https://github.com/lingshan2003/Dinov3txtforSAT</id>
-        <link href="https://github.com/lingshan2003/Dinov3txtforSAT"/>
-        <updated>2026-10-06T09:36:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200912100?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>lingshan2003</name>
-            <email>lingshan2003@noreply.github.com</email>
-            <uri>https://github.com/lingshan2003</uri>
-        </author>
-        <published>2026-09-02T14:23:59.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
@@ -201,70 +266,5 @@
             <uri>https://github.com/alishibli97</uri>
         </author>
         <published>2026-10-05T08:19:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ContrattoAlessandro/DinoV3_TL_Detection]]></title>
-        <id>https://github.com/ContrattoAlessandro/DinoV3_TL_Detection</id>
-        <link href="https://github.com/ContrattoAlessandro/DinoV3_TL_Detection"/>
-        <updated>2026-10-05T14:26:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/127124234?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ContrattoAlessandro</name>
-            <email>ContrattoAlessandro@noreply.github.com</email>
-            <uri>https://github.com/ContrattoAlessandro</uri>
-        </author>
-        <published>2026-09-30T09:27:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[saverin0/sar-transfer-distillation: Can a distilled student match its frozen teachers on radar? Part four of a SAR transfer series. A C-RADIO-style ViT-B student learns from SigLIP2, satellite DINOv3, PE-Spatial and TerraFM-B reading Sentinel-1, scored with frozen features on glacial lakes, snow, forest types and alpine glaciers.]]></title>
-        <id>https://github.com/saverin0/sar-transfer-distillation</id>
-        <link href="https://github.com/saverin0/sar-transfer-distillation"/>
-        <updated>2026-10-05T12:56:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73588208?u=b6aeeaf85c4e57f28a17f08b4ecabcbe3fa2d936&v=4" width="64" height="64" alt=""/><br/><div>Can a distilled student match its frozen teachers on radar? Part four of a SAR transfer series. A C-RADIO-style ViT-B student learns from SigLIP2, satellite DINOv3, PE-Spatial and TerraFM-B reading Sentinel-1, scored with frozen features on glacial lakes, snow, forest types and alpine glaciers.</div>]]></content>
-        <author>
-            <name>saverin0</name>
-            <email>saverin0@noreply.github.com</email>
-            <uri>https://github.com/saverin0</uri>
-        </author>
-        <published>2026-10-05T11:55:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ]]></title>
-        <id>https://github.com/onlylrs/Modern-Vit-Adapter</id>
-        <link href="https://github.com/onlylrs/Modern-Vit-Adapter"/>
-        <updated>2026-10-05T09:40:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114906506?u=162e38216b3adfb4f5a98490301a66735241bb1b&v=4" width="64" height="64" alt=""/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>]]></content>
-        <author>
-            <name>onlylrs</name>
-            <email>onlylrs@noreply.github.com</email>
-            <uri>https://github.com/onlylrs</uri>
-        </author>
-        <published>2026-04-03T08:10:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arun973150/ntire26-ai-image-detector: Generalized AI-generated image detector on the NTIRE 2026 in-the-wild benchmark, tested on unseen generators like Nano Banana (DINOv3 + LoRA).]]></title>
-        <id>https://github.com/Arun973150/ntire26-ai-image-detector</id>
-        <link href="https://github.com/Arun973150/ntire26-ai-image-detector"/>
-        <updated>2026-10-05T08:42:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/153910402?u=40889af9258a7ca6e14e5858a8894e80b53438ae&v=4" width="64" height="64" alt=""/><br/><div>Generalized AI-generated image detector on the NTIRE 2026 in-the-wild benchmark, tested on unseen generators like Nano Banana (DINOv3 + LoRA).</div>]]></content>
-        <author>
-            <name>Arun973150</name>
-            <email>Arun973150@noreply.github.com</email>
-            <uri>https://github.com/Arun973150</uri>
-        </author>
-        <published>2026-06-28T05:30:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KernelFlow-ops/lightly-trian-quant: RTX 5090 optimization of DINOv3 + EoMT segmentation training and inference with fused CUDA kernels, CUDA Graphs, and FP8/FP4 quantization. Achieves 6.3x ViT-L inference and 4.22x training speedups with numerical validation; explores faster FP4 modes.]]></title>
-        <id>https://github.com/KernelFlow-ops/lightly-trian-quant</id>
-        <link href="https://github.com/KernelFlow-ops/lightly-trian-quant"/>
-        <updated>2026-10-05T07:12:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/103517851?u=b4fa37ba10e92c06cb7d957b4fe31ccd204c05fb&v=4" width="64" height="64" alt=""/><br/><div>RTX 5090 optimization of DINOv3 + EoMT segmentation training and inference with fused CUDA kernels, CUDA Graphs, and FP8/FP4 quantization. Achieves 6.3x ViT-L inference and 4.22x training speedups with numerical validation; explores faster FP4 modes.</div>]]></content>
-        <author>
-            <name>KernelFlow-ops</name>
-            <email>KernelFlow-ops@noreply.github.com</email>
-            <uri>https://github.com/KernelFlow-ops</uri>
-        </author>
-        <published>2026-10-05T06:49:56.000Z</published>
     </entry>
 </feed>

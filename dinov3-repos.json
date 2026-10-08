@@ -6,6 +6,72 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
+            "url": "https://github.com/tomgrizz/ganaraska-live",
+            "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
+            "date_modified": "2026-10-08T04:44:35.000Z",
+            "date_published": "2026-08-25T14:33:27.000Z",
+            "author": {
+                "name": "tomgrizz",
+                "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
+            "title": "lingshan2003/Dinov3txtforSAT",
+            "date_modified": "2026-10-08T01:49:11.000Z",
+            "date_published": "2026-09-02T14:23:59.000Z",
+            "author": {
+                "name": "lingshan2003",
+                "url": "https://github.com/lingshan2003"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111470256?u=f0a155250c97820a1d06311fde4c05c8eb6e20e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ACT with a trainable DINOv3 scene prior for the ROBOTIS AI Worker</div>",
+            "url": "https://github.com/da-dawit/prior-act",
+            "title": "da-dawit/prior-act: ACT with a trainable DINOv3 scene prior for the ROBOTIS AI Worker",
+            "date_modified": "2026-10-07T15:23:31.000Z",
+            "date_published": "2026-08-13T09:04:53.000Z",
+            "author": {
+                "name": "da-dawit",
+                "url": "https://github.com/da-dawit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281135632?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-SAM: Synergizing SAM and DINOv3 for  Parameter-Efficient Polyp Segmentation and a  Challenging Benchmark Dataset</div>",
+            "url": "https://github.com/xxxy0523/SD-SAM",
+            "title": "xxxy0523/SD-SAM: SD-SAM: Synergizing SAM and DINOv3 for  Parameter-Efficient Polyp Segmentation and a  Challenging Benchmark Dataset",
+            "date_modified": "2026-10-07T13:12:22.000Z",
+            "date_published": "2026-05-02T08:51:48.000Z",
+            "author": {
+                "name": "xxxy0523",
+                "url": "https://github.com/xxxy0523"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127124234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ContrattoAlessandro/DinoV3_TL_Detection",
+            "title": "ContrattoAlessandro/DinoV3_TL_Detection",
+            "date_modified": "2026-10-07T09:20:33.000Z",
+            "date_published": "2026-09-30T09:27:27.000Z",
+            "author": {
+                "name": "ContrattoAlessandro",
+                "url": "https://github.com/ContrattoAlessandro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19257148?u=802b81f25947804d44e73e762349605a60ada804&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.</div>",
+            "url": "https://github.com/ashiq24/soft-equivariance",
+            "title": "ashiq24/soft-equivariance: Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.",
+            "date_modified": "2026-10-07T06:47:12.000Z",
+            "date_published": "2026-03-07T06:42:03.000Z",
+            "author": {
+                "name": "ashiq24",
+                "url": "https://github.com/ashiq24"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21262462?u=56a03bc87ba6d2ab4494b8da8c1a54fb5b4cd5b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/francescovigni/dinov3-vos-occlusion",
             "title": "francescovigni/dinov3-vos-occlusion",
@@ -28,6 +94,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78213417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yberkayozkan/DinoV3-Unet-Segmentation",
+            "title": "yberkayozkan/DinoV3-Unet-Segmentation",
+            "date_modified": "2026-10-07T19:27:07.000Z",
+            "date_published": "2026-10-06T20:25:35.000Z",
+            "author": {
+                "name": "yberkayozkan",
+                "url": "https://github.com/yberkayozkan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200934901?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Addressing the problem of semantic correspondence using visual foundation models like DINOv2, DINOv3 and SAM.</div>",
             "url": "https://github.com/Tomm100/Semantic-Correspondence-with-Visual-Foundation-Models",
             "title": "Tomm100/Semantic-Correspondence-with-Visual-Foundation-Models: Addressing the problem of semantic correspondence using visual foundation models like DINOv2, DINOv3 and SAM.",
@@ -39,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
-            "url": "https://github.com/tomgrizz/ganaraska-live",
-            "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-06T13:14:14.000Z",
-            "date_published": "2026-08-25T14:33:27.000Z",
-            "author": {
-                "name": "tomgrizz",
-                "url": "https://github.com/tomgrizz"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15927868?u=b41ca429810a66da22094a84134a740bab54e3c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magic: The Gathering card scanner using obb detection and visual retrieval.</div>",
             "url": "https://github.com/matteot11/open-card-collector",
             "title": "matteot11/open-card-collector: Magic: The Gathering card scanner using obb detection and visual retrieval.",
@@ -58,17 +124,6 @@
             "author": {
                 "name": "matteot11",
                 "url": "https://github.com/matteot11"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
-            "title": "lingshan2003/Dinov3txtforSAT",
-            "date_modified": "2026-10-06T09:36:52.000Z",
-            "date_published": "2026-09-02T14:23:59.000Z",
-            "author": {
-                "name": "lingshan2003",
-                "url": "https://github.com/lingshan2003"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "alishibli97",
                 "url": "https://github.com/alishibli97"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127124234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ContrattoAlessandro/DinoV3_TL_Detection",
-            "title": "ContrattoAlessandro/DinoV3_TL_Detection",
-            "date_modified": "2026-10-05T14:26:33.000Z",
-            "date_published": "2026-09-30T09:27:27.000Z",
-            "author": {
-                "name": "ContrattoAlessandro",
-                "url": "https://github.com/ContrattoAlessandro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73588208?u=b6aeeaf85c4e57f28a17f08b4ecabcbe3fa2d936&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Can a distilled student match its frozen teachers on radar? Part four of a SAR transfer series. A C-RADIO-style ViT-B student learns from SigLIP2, satellite DINOv3, PE-Spatial and TerraFM-B reading Sentinel-1, scored with frozen features on glacial lakes, snow, forest types and alpine glaciers.</div>",
-            "url": "https://github.com/saverin0/sar-transfer-distillation",
-            "title": "saverin0/sar-transfer-distillation: Can a distilled student match its frozen teachers on radar? Part four of a SAR transfer series. A C-RADIO-style ViT-B student learns from SigLIP2, satellite DINOv3, PE-Spatial and TerraFM-B reading Sentinel-1, scored with frozen features on glacial lakes, snow, forest types and alpine glaciers.",
-            "date_modified": "2026-10-05T12:56:43.000Z",
-            "date_published": "2026-10-05T11:55:41.000Z",
-            "author": {
-                "name": "saverin0",
-                "url": "https://github.com/saverin0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114906506?u=162e38216b3adfb4f5a98490301a66735241bb1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. </div>",
-            "url": "https://github.com/onlylrs/Modern-Vit-Adapter",
-            "title": "onlylrs/Modern-Vit-Adapter: A mordernized ViT-Adapter under maintenance. No old and heavy libraries, just the latest pytorch and mordern packages. ",
-            "date_modified": "2026-10-05T09:40:20.000Z",
-            "date_published": "2026-04-03T08:10:59.000Z",
-            "author": {
-                "name": "onlylrs",
-                "url": "https://github.com/onlylrs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153910402?u=40889af9258a7ca6e14e5858a8894e80b53438ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Generalized AI-generated image detector on the NTIRE 2026 in-the-wild benchmark, tested on unseen generators like Nano Banana (DINOv3 + LoRA).</div>",
-            "url": "https://github.com/Arun973150/ntire26-ai-image-detector",
-            "title": "Arun973150/ntire26-ai-image-detector: Generalized AI-generated image detector on the NTIRE 2026 in-the-wild benchmark, tested on unseen generators like Nano Banana (DINOv3 + LoRA).",
-            "date_modified": "2026-10-05T08:42:30.000Z",
-            "date_published": "2026-06-28T05:30:50.000Z",
-            "author": {
-                "name": "Arun973150",
-                "url": "https://github.com/Arun973150"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103517851?u=b4fa37ba10e92c06cb7d957b4fe31ccd204c05fb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RTX 5090 optimization of DINOv3 + EoMT segmentation training and inference with fused CUDA kernels, CUDA Graphs, and FP8/FP4 quantization. Achieves 6.3x ViT-L inference and 4.22x training speedups with numerical validation; explores faster FP4 modes.</div>",
-            "url": "https://github.com/KernelFlow-ops/lightly-trian-quant",
-            "title": "KernelFlow-ops/lightly-trian-quant: RTX 5090 optimization of DINOv3 + EoMT segmentation training and inference with fused CUDA kernels, CUDA Graphs, and FP8/FP4 quantization. Achieves 6.3x ViT-L inference and 4.22x training speedups with numerical validation; explores faster FP4 modes.",
-            "date_modified": "2026-10-05T07:12:05.000Z",
-            "date_published": "2026-10-05T06:49:56.000Z",
-            "author": {
-                "name": "KernelFlow-ops",
-                "url": "https://github.com/KernelFlow-ops"
             }
         }
     ]
