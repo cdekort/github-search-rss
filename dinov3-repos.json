@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-09T04:56:12.000Z",
+            "date_modified": "2026-10-10T04:39:41.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,10 +17,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
+            "url": "https://github.com/liuhb511/dinov3",
+            "title": "liuhb511/dinov3: dinov3 code",
+            "date_modified": "2026-10-10T03:20:05.000Z",
+            "date_published": "2026-08-24T08:17:00.000Z",
+            "author": {
+                "name": "liuhb511",
+                "url": "https://github.com/liuhb511"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
+            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
+            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
+            "date_modified": "2026-10-10T03:10:00.000Z",
+            "date_published": "2026-09-12T23:00:51.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).</div>",
             "url": "https://github.com/wlejon/brovisionml",
             "title": "wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).",
-            "date_modified": "2026-10-09T04:12:01.000Z",
+            "date_modified": "2026-10-10T02:03:01.000Z",
             "date_published": "2026-05-31T17:50:51.000Z",
             "author": {
                 "name": "wlejon",
@@ -28,10 +50,98 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108638916?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>",
+            "url": "https://github.com/Ram21275/tesseract-pose-speedplus",
+            "title": "Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features",
+            "date_modified": "2026-10-09T21:59:53.000Z",
+            "date_published": "2026-10-08T17:33:06.000Z",
+            "author": {
+                "name": "Ram21275",
+                "url": "https://github.com/Ram21275"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9896958?u=d73d9aa78745ea4f8095cfe10983022ecc397cb2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 experiments with a Colab GPU runtime via SSH tunnel</div>",
+            "url": "https://github.com/nutboltu/chinee-apple-cv-benchmark",
+            "title": "nutboltu/chinee-apple-cv-benchmark: DINOv3 experiments with a Colab GPU runtime via SSH tunnel",
+            "date_modified": "2026-10-09T19:50:33.000Z",
+            "date_published": "2026-06-14T02:10:11.000Z",
+            "author": {
+                "name": "nutboltu",
+                "url": "https://github.com/nutboltu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50440725?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/DDDionysus/dinov3-adversarial-robustness",
+            "title": "DDDionysus/dinov3-adversarial-robustness",
+            "date_modified": "2026-10-10T00:48:12.000Z",
+            "date_published": "2026-10-09T11:53:03.000Z",
+            "author": {
+                "name": "DDDionysus",
+                "url": "https://github.com/DDDionysus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9899159?u=d8ef827004ab779172b7efd8f3249315c92ffab1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Label-free taxonomic recovery from frozen DINOv3-7B features on CUB-200-2011 (cross-platform, CUDA/MPS/CPU)</div>",
+            "url": "https://github.com/ricardojmveiga/cub200-dinov3-taxonomy",
+            "title": "ricardojmveiga/cub200-dinov3-taxonomy: Label-free taxonomic recovery from frozen DINOv3-7B features on CUB-200-2011 (cross-platform, CUDA/MPS/CPU)",
+            "date_modified": "2026-10-09T08:16:10.000Z",
+            "date_published": "2026-10-09T08:15:30.000Z",
+            "author": {
+                "name": "ricardojmveiga",
+                "url": "https://github.com/ricardojmveiga"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/253845061?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CPU-only industrial anomaly detection: DINOSaur 2026 / DINOv3, reproducible experiments, ablations and local demo.</div>",
+            "url": "https://github.com/chendi-Shi/cpu-defect-lab-dinov3",
+            "title": "chendi-Shi/cpu-defect-lab-dinov3: CPU-only industrial anomaly detection: DINOSaur 2026 / DINOv3, reproducible experiments, ablations and local demo.",
+            "date_modified": "2026-10-09T08:39:20.000Z",
+            "date_published": "2026-10-09T05:12:01.000Z",
+            "author": {
+                "name": "chendi-Shi",
+                "url": "https://github.com/chendi-Shi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127124234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ContrattoAlessandro/DinoV3_TL_Detection",
+            "title": "ContrattoAlessandro/DinoV3_TL_Detection",
+            "date_modified": "2026-10-09T08:07:38.000Z",
+            "date_published": "2026-09-30T09:27:27.000Z",
+            "author": {
+                "name": "ContrattoAlessandro",
+                "url": "https://github.com/ContrattoAlessandro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69121078?u=3c9d3853490ab20db208f53a52572c9a5ce3bbc8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official code for the UAVid++ paper</div>",
+            "url": "https://github.com/vivichiciudean/uavidplusplus-code",
+            "title": "vivichiciudean/uavidplusplus-code: Official code for the UAVid++ paper",
+            "date_modified": "2026-10-09T07:37:39.000Z",
+            "date_published": "2026-07-14T11:47:45.000Z",
+            "author": {
+                "name": "vivichiciudean",
+                "url": "https://github.com/vivichiciudean"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/406019?u=81b7778839b8a6436195e182cb3ed008b3b640d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nshepperd/dinov3-jax",
+            "title": "nshepperd/dinov3-jax",
+            "date_modified": "2026-10-09T08:39:22.000Z",
+            "date_published": "2026-03-04T07:52:59.000Z",
+            "author": {
+                "name": "nshepperd",
+                "url": "https://github.com/nshepperd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/338148389?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-based remote sensing semantic segmentation with reproducible evaluation and ablation reports</div>",
             "url": "https://github.com/yifanzhang865/DINO-SFF",
             "title": "yifanzhang865/DINO-SFF: DINOv3-based remote sensing semantic segmentation with reproducible evaluation and ablation reports",
-            "date_modified": "2026-10-09T04:09:12.000Z",
+            "date_modified": "2026-10-09T07:37:46.000Z",
             "date_published": "2026-10-09T03:57:19.000Z",
             "author": {
                 "name": "yifanzhang865",
@@ -42,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81073022?u=6d368459d75823a4a270357b24ae9acba5517960&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ConvNeXt-B with LADA, ADSF, and CSGA for dermoscopic skin lesion classification on HAM10000 (99.36% accuracy, 99.01% macro F1)</div>",
             "url": "https://github.com/Mohammad-Aman-Ullah-Khan/dinov3-skin-lesion",
             "title": "Mohammad-Aman-Ullah-Khan/dinov3-skin-lesion: DINOv3 ConvNeXt-B with LADA, ADSF, and CSGA for dermoscopic skin lesion classification on HAM10000 (99.36% accuracy, 99.01% macro F1)",
-            "date_modified": "2026-10-09T03:06:28.000Z",
+            "date_modified": "2026-10-09T13:47:54.000Z",
             "date_published": "2026-10-09T02:17:13.000Z",
             "author": {
                 "name": "Mohammad-Aman-Ullah-Khan",
@@ -50,43 +160,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
-            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
-            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
-            "date_modified": "2026-10-09T04:08:39.000Z",
-            "date_published": "2026-09-12T23:00:51.000Z",
-            "author": {
-                "name": "PINTO0309",
-                "url": "https://github.com/PINTO0309"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
-            "url": "https://github.com/liuhb511/dinov3",
-            "title": "liuhb511/dinov3: dinov3 code",
-            "date_modified": "2026-10-09T00:53:09.000Z",
-            "date_published": "2026-08-24T08:17:00.000Z",
-            "author": {
-                "name": "liuhb511",
-                "url": "https://github.com/liuhb511"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9899159?u=d8ef827004ab779172b7efd8f3249315c92ffab1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Label-free taxonomic recovery from frozen DINOv3-7B features on CUB-200-2011 (cross-platform, CUDA/MPS/CPU)</div>",
-            "url": "https://github.com/ricardojmveiga/cub200-dinov3-taxonomy",
-            "title": "ricardojmveiga/cub200-dinov3-taxonomy: Label-free taxonomic recovery from frozen DINOv3-7B features on CUB-200-2011 (cross-platform, CUDA/MPS/CPU)",
-            "date_modified": "2026-10-09T00:15:45.000Z",
-            "date_published": "2026-10-07T14:55:14.000Z",
-            "author": {
-                "name": "ricardojmveiga",
-                "url": "https://github.com/ricardojmveiga"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31698674?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Label a few images, DINOv3 labels the rest: in-context semantic labeling (INSID3-style) with a coreset memory bank, SAM clicks and COCO/CVAT export</div>",
             "url": "https://github.com/NingMingHao/semlabel",
             "title": "NingMingHao/semlabel: Label a few images, DINOv3 labels the rest: in-context semantic labeling (INSID3-style) with a coreset memory bank, SAM clicks and COCO/CVAT export",
-            "date_modified": "2026-10-08T17:12:09.000Z",
+            "date_modified": "2026-10-09T07:37:53.000Z",
             "date_published": "2026-10-08T17:11:59.000Z",
             "author": {
                 "name": "NingMingHao",
@@ -116,21 +193,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127124234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ContrattoAlessandro/DinoV3_TL_Detection",
-            "title": "ContrattoAlessandro/DinoV3_TL_Detection",
-            "date_modified": "2026-10-08T15:00:11.000Z",
-            "date_published": "2026-09-30T09:27:27.000Z",
-            "author": {
-                "name": "ContrattoAlessandro",
-                "url": "https://github.com/ContrattoAlessandro"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215951859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. Jitter halved on 3DPW.</div>",
             "url": "https://github.com/flyaurelien/kinesia",
             "title": "flyaurelien/kinesia: Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. Jitter halved on 3DPW.",
-            "date_modified": "2026-10-08T12:38:30.000Z",
+            "date_modified": "2026-10-09T13:35:45.000Z",
             "date_published": "2026-10-08T12:38:06.000Z",
             "author": {
                 "name": "flyaurelien",
@@ -152,77 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83825004?u=cb96e41bcde193a007659a733bb13fe77cc31cdd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenVAM: An explainable visual attention framework combining saliency prediction and vision-language models to understand where humans look, what attracts attention, and why.</div>",
             "url": "https://github.com/K-Hooshanfar/OpenVAM",
             "title": "K-Hooshanfar/OpenVAM: OpenVAM: An explainable visual attention framework combining saliency prediction and vision-language models to understand where humans look, what attracts attention, and why.",
-            "date_modified": "2026-10-08T10:40:32.000Z",
+            "date_modified": "2026-10-09T06:50:54.000Z",
             "date_published": "2026-06-13T08:56:48.000Z",
             "author": {
                 "name": "K-Hooshanfar",
                 "url": "https://github.com/K-Hooshanfar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200912100?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/lingshan2003/Dinov3txtforSAT",
-            "title": "lingshan2003/Dinov3txtforSAT",
-            "date_modified": "2026-10-08T10:04:56.000Z",
-            "date_published": "2026-09-02T14:23:59.000Z",
-            "author": {
-                "name": "lingshan2003",
-                "url": "https://github.com/lingshan2003"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31261570?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/peanutcorn/DINOv3-image-seperate",
-            "title": "peanutcorn/DINOv3-image-seperate",
-            "date_modified": "2026-10-08T16:30:56.000Z",
-            "date_published": "2026-10-08T05:53:31.000Z",
-            "author": {
-                "name": "peanutcorn",
-                "url": "https://github.com/peanutcorn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111470256?u=f0a155250c97820a1d06311fde4c05c8eb6e20e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ACT with a trainable DINOv3 scene prior for the ROBOTIS AI Worker</div>",
-            "url": "https://github.com/da-dawit/prior-act",
-            "title": "da-dawit/prior-act: ACT with a trainable DINOv3 scene prior for the ROBOTIS AI Worker",
-            "date_modified": "2026-10-07T15:23:31.000Z",
-            "date_published": "2026-08-13T09:04:53.000Z",
-            "author": {
-                "name": "da-dawit",
-                "url": "https://github.com/da-dawit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281135632?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-SAM: Synergizing SAM and DINOv3 for  Parameter-Efficient Polyp Segmentation and a  Challenging Benchmark Dataset</div>",
-            "url": "https://github.com/xxxy0523/SD-SAM",
-            "title": "xxxy0523/SD-SAM: SD-SAM: Synergizing SAM and DINOv3 for  Parameter-Efficient Polyp Segmentation and a  Challenging Benchmark Dataset",
-            "date_modified": "2026-10-07T13:12:22.000Z",
-            "date_published": "2026-05-02T08:51:48.000Z",
-            "author": {
-                "name": "xxxy0523",
-                "url": "https://github.com/xxxy0523"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19257148?u=802b81f25947804d44e73e762349605a60ada804&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.</div>",
-            "url": "https://github.com/ashiq24/soft-equivariance",
-            "title": "ashiq24/soft-equivariance: Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.",
-            "date_modified": "2026-10-07T06:47:12.000Z",
-            "date_published": "2026-03-07T06:42:03.000Z",
-            "author": {
-                "name": "ashiq24",
-                "url": "https://github.com/ashiq24"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21262462?u=56a03bc87ba6d2ab4494b8da8c1a54fb5b4cd5b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/francescovigni/dinov3-vos-occlusion",
-            "title": "francescovigni/dinov3-vos-occlusion",
-            "date_modified": "2026-10-06T21:09:13.000Z",
-            "date_published": "2026-10-04T20:10:51.000Z",
-            "author": {
-                "name": "francescovigni",
-                "url": "https://github.com/francescovigni"
             }
         }
     ]
