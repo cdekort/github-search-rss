@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-11T04:26:37.000Z",
+            "date_modified": "2026-10-12T04:41:41.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
+            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
+            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
+            "date_modified": "2026-10-12T02:03:12.000Z",
+            "date_published": "2026-09-12T23:00:51.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9896958?u=d73d9aa78745ea4f8095cfe10983022ecc397cb2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 experiments with a Colab GPU runtime via SSH tunnel</div>",
             "url": "https://github.com/nutboltu/chinee-apple-cv-benchmark",
             "title": "nutboltu/chinee-apple-cv-benchmark: DINOv3 experiments with a Colab GPU runtime via SSH tunnel",
-            "date_modified": "2026-10-11T04:04:44.000Z",
+            "date_modified": "2026-10-12T01:56:35.000Z",
             "date_published": "2026-06-14T02:10:11.000Z",
             "author": {
                 "name": "nutboltu",
@@ -28,14 +39,113 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
-            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
-            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
-            "date_modified": "2026-10-11T01:30:17.000Z",
-            "date_published": "2026-09-12T23:00:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).</div>",
+            "url": "https://github.com/wlejon/brovisionml",
+            "title": "wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).",
+            "date_modified": "2026-10-12T00:04:39.000Z",
+            "date_published": "2026-05-31T17:50:51.000Z",
             "author": {
-                "name": "PINTO0309",
-                "url": "https://github.com/PINTO0309"
+                "name": "wlejon",
+                "url": "https://github.com/wlejon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118654977?u=0fae452da02060b2ba1e4c74d3734b9ebba04bab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multimodal handbag retrieval using DINOv2, DINOv3, SigLIP2, and FAISS for image-to-image and text-to-image similarity search.</div>",
+            "url": "https://github.com/aminashojaei/zara-bag-retrieval",
+            "title": "aminashojaei/zara-bag-retrieval: Multimodal handbag retrieval using DINOv2, DINOv3, SigLIP2, and FAISS for image-to-image and text-to-image similarity search.",
+            "date_modified": "2026-10-11T22:55:23.000Z",
+            "date_published": "2026-10-10T21:07:47.000Z",
+            "author": {
+                "name": "aminashojaei",
+                "url": "https://github.com/aminashojaei"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8185542?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Computer Vision Homework #1</div>",
+            "url": "https://github.com/JTIMS56/cv-hw1-seaships-dinov3",
+            "title": "JTIMS56/cv-hw1-seaships-dinov3: Computer Vision Homework #1",
+            "date_modified": "2026-10-11T22:37:32.000Z",
+            "date_published": "2026-10-11T22:17:59.000Z",
+            "author": {
+                "name": "JTIMS56",
+                "url": "https://github.com/JTIMS56"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>",
+            "url": "https://github.com/xocialize/mlx-trellis2-swift",
+            "title": "xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.",
+            "date_modified": "2026-10-11T21:58:23.000Z",
+            "date_published": "2026-07-14T18:36:41.000Z",
+            "author": {
+                "name": "xocialize",
+                "url": "https://github.com/xocialize"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/266269567?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BOSS: street-level parkour spot detector (DINOv3 ViT-B/16 fine-tune, 5-fold ensemble). Built with DINOv3.</div>",
+            "url": "https://github.com/chasehejtmanek-cmyk/boss",
+            "title": "chasehejtmanek-cmyk/boss: BOSS: street-level parkour spot detector (DINOv3 ViT-B/16 fine-tune, 5-fold ensemble). Built with DINOv3.",
+            "date_modified": "2026-10-11T21:11:13.000Z",
+            "date_published": "2026-09-10T02:05:21.000Z",
+            "author": {
+                "name": "chasehejtmanek-cmyk",
+                "url": "https://github.com/chasehejtmanek-cmyk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80530899?u=d031c47db881bf2129144b1899ae2f891e329031&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GeoPhys: The Geometry of Physical Plausibility (NeurIPS2026)</div>",
+            "url": "https://github.com/ChristianInterno/GeoPhys",
+            "title": "ChristianInterno/GeoPhys: GeoPhys: The Geometry of Physical Plausibility (NeurIPS2026)",
+            "date_modified": "2026-10-11T16:49:32.000Z",
+            "date_published": "2026-06-08T18:45:25.000Z",
+            "author": {
+                "name": "ChristianInterno",
+                "url": "https://github.com/ChristianInterno"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45413267?u=664d3ebabc5c11d126476b3670cb7eb893181fff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browser game and reproducible experiments for online game UI re-identification with frozen DINOv3 features.</div>",
+            "url": "https://github.com/KimJaeHwan/rune-hunt-ui-learning-lab",
+            "title": "KimJaeHwan/rune-hunt-ui-learning-lab: Browser game and reproducible experiments for online game UI re-identification with frozen DINOv3 features.",
+            "date_modified": "2026-10-11T14:25:16.000Z",
+            "date_published": "2026-10-11T13:59:12.000Z",
+            "author": {
+                "name": "KimJaeHwan",
+                "url": "https://github.com/KimJaeHwan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/251833965?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Radio spectrum signal recognition (CW/2FSK/LFM) with a frozen DINOv3 backbone and a lightweight trained head: GNU Radio IQ generation → STFT spectrograms → event detection and windowing → classification, with reproducible generation, training and per-SNR evaluation tooling.</div>",
+            "url": "https://github.com/zsable007-bot/RFS_DINO_V3-practice-",
+            "title": "zsable007-bot/RFS_DINO_V3-practice-: Radio spectrum signal recognition (CW/2FSK/LFM) with a frozen DINOv3 backbone and a lightweight trained head: GNU Radio IQ generation → STFT spectrograms → event detection and windowing → classification, with reproducible generation, training and per-SNR evaluation tooling.",
+            "date_modified": "2026-10-11T14:21:47.000Z",
+            "date_published": "2026-10-11T11:47:28.000Z",
+            "author": {
+                "name": "zsable007-bot",
+                "url": "https://github.com/zsable007-bot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123100980?u=a0a31fa38ea181de5d0c01ed426b3c60f73df587&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/veliunusdu/DINOv3",
+            "title": "veliunusdu/DINOv3",
+            "date_modified": "2026-10-11T09:49:56.000Z",
+            "date_published": "2026-10-10T07:56:29.000Z",
+            "author": {
+                "name": "veliunusdu",
+                "url": "https://github.com/veliunusdu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103174891?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stitches DINOv3 patch clusters across tile boundaries into seamless regions, so objects in large aerial imagery stay whole for text- and example-based search and segmentation.</div>",
+            "url": "https://github.com/sensat/unboxed",
+            "title": "sensat/unboxed: Stitches DINOv3 patch clusters across tile boundaries into seamless regions, so objects in large aerial imagery stay whole for text- and example-based search and segmentation.",
+            "date_modified": "2026-10-11T10:54:27.000Z",
+            "date_published": "2026-10-11T06:59:04.000Z",
+            "author": {
+                "name": "sensat",
+                "url": "https://github.com/sensat"
             }
         },
         {
@@ -53,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108169608?u=3b6c1ae3f9ddd81e0456f5d6a959bc1ceb4b0ff0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Baseline for segmantation with frozen DINOv3 backbone</div>",
             "url": "https://github.com/Samyrai47/DINOv3-Segmentation-Baseline",
             "title": "Samyrai47/DINOv3-Segmentation-Baseline: Baseline for segmantation with frozen DINOv3 backbone",
-            "date_modified": "2026-10-10T18:27:23.000Z",
+            "date_modified": "2026-10-11T10:19:20.000Z",
             "date_published": "2026-10-10T14:05:18.000Z",
             "author": {
                 "name": "Samyrai47",
@@ -83,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123100980?u=a0a31fa38ea181de5d0c01ed426b3c60f73df587&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/veliunusdu/DINOv3",
-            "title": "veliunusdu/DINOv3",
-            "date_modified": "2026-10-10T09:01:45.000Z",
-            "date_published": "2026-10-10T07:56:29.000Z",
-            "author": {
-                "name": "veliunusdu",
-                "url": "https://github.com/veliunusdu"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132837276?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Yilyyy/dinov3_ConvNext_",
             "title": "Yilyyy/dinov3_ConvNext_",
@@ -108,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1088078?u=275421ab109216ef61ab2eb77eab42ff84cdd10c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open-vocabulary search over aerial imagery in the browser with DINOv3 and dino.txt</div>",
             "url": "https://github.com/calebrob6/dinosats",
             "title": "calebrob6/dinosats: Open-vocabulary search over aerial imagery in the browser with DINOv3 and dino.txt",
-            "date_modified": "2026-10-10T17:42:14.000Z",
+            "date_modified": "2026-10-11T18:27:07.000Z",
             "date_published": "2026-10-09T18:15:51.000Z",
             "author": {
                 "name": "calebrob6",
@@ -119,110 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162868687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3 code</div>",
             "url": "https://github.com/liuhb511/dinov3",
             "title": "liuhb511/dinov3: dinov3 code",
-            "date_modified": "2026-10-10T06:00:13.000Z",
+            "date_modified": "2026-10-11T10:00:07.000Z",
             "date_published": "2026-08-24T08:17:00.000Z",
             "author": {
                 "name": "liuhb511",
                 "url": "https://github.com/liuhb511"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183899571?u=8572b5922c7c9996e93f56c30ed026b5a9bff4ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-driven label-efficient cotton boll detection: cold-start selection, independent pseudo-label verification, and ROI semantic interpretation.</div>",
-            "url": "https://github.com/hwzhanng/COTTON-DETR",
-            "title": "hwzhanng/COTTON-DETR: DINOv3-driven label-efficient cotton boll detection: cold-start selection, independent pseudo-label verification, and ROI semantic interpretation.",
-            "date_modified": "2026-10-10T06:05:00.000Z",
-            "date_published": "2026-06-15T10:27:32.000Z",
-            "author": {
-                "name": "hwzhanng",
-                "url": "https://github.com/hwzhanng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).</div>",
-            "url": "https://github.com/wlejon/brovisionml",
-            "title": "wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).",
-            "date_modified": "2026-10-10T02:03:01.000Z",
-            "date_published": "2026-05-31T17:50:51.000Z",
-            "author": {
-                "name": "wlejon",
-                "url": "https://github.com/wlejon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108638916?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>",
-            "url": "https://github.com/Ram21275/tesseract-pose-speedplus",
-            "title": "Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features",
-            "date_modified": "2026-10-09T21:59:53.000Z",
-            "date_published": "2026-10-08T17:33:06.000Z",
-            "author": {
-                "name": "Ram21275",
-                "url": "https://github.com/Ram21275"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50440725?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/DDDionysus/dinov3-adversarial-robustness",
-            "title": "DDDionysus/dinov3-adversarial-robustness",
-            "date_modified": "2026-10-10T00:48:12.000Z",
-            "date_published": "2026-10-09T11:53:03.000Z",
-            "author": {
-                "name": "DDDionysus",
-                "url": "https://github.com/DDDionysus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9899159?u=d8ef827004ab779172b7efd8f3249315c92ffab1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Label-free taxonomic recovery from frozen DINOv3-7B features on CUB-200-2011 (cross-platform, CUDA/MPS/CPU)</div>",
-            "url": "https://github.com/ricardojmveiga/cub200-dinov3-taxonomy",
-            "title": "ricardojmveiga/cub200-dinov3-taxonomy: Label-free taxonomic recovery from frozen DINOv3-7B features on CUB-200-2011 (cross-platform, CUDA/MPS/CPU)",
-            "date_modified": "2026-10-09T08:16:10.000Z",
-            "date_published": "2026-10-09T08:15:30.000Z",
-            "author": {
-                "name": "ricardojmveiga",
-                "url": "https://github.com/ricardojmveiga"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/253845061?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CPU-only industrial anomaly detection: DINOSaur 2026 / DINOv3, reproducible experiments, ablations and local demo.</div>",
-            "url": "https://github.com/chendi-Shi/cpu-defect-lab-dinov3",
-            "title": "chendi-Shi/cpu-defect-lab-dinov3: CPU-only industrial anomaly detection: DINOSaur 2026 / DINOv3, reproducible experiments, ablations and local demo.",
-            "date_modified": "2026-10-09T08:39:20.000Z",
-            "date_published": "2026-10-09T05:12:01.000Z",
-            "author": {
-                "name": "chendi-Shi",
-                "url": "https://github.com/chendi-Shi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127124234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ContrattoAlessandro/DinoV3_TL_Detection",
-            "title": "ContrattoAlessandro/DinoV3_TL_Detection",
-            "date_modified": "2026-10-09T08:07:38.000Z",
-            "date_published": "2026-09-30T09:27:27.000Z",
-            "author": {
-                "name": "ContrattoAlessandro",
-                "url": "https://github.com/ContrattoAlessandro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69121078?u=3c9d3853490ab20db208f53a52572c9a5ce3bbc8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official code for the UAVid++ paper</div>",
-            "url": "https://github.com/vivichiciudean/uavidplusplus-code",
-            "title": "vivichiciudean/uavidplusplus-code: Official code for the UAVid++ paper",
-            "date_modified": "2026-10-09T07:37:39.000Z",
-            "date_published": "2026-07-14T11:47:45.000Z",
-            "author": {
-                "name": "vivichiciudean",
-                "url": "https://github.com/vivichiciudean"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/406019?u=81b7778839b8a6436195e182cb3ed008b3b640d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nshepperd/dinov3-jax",
-            "title": "nshepperd/dinov3-jax",
-            "date_modified": "2026-10-09T08:39:22.000Z",
-            "date_published": "2026-03-04T07:52:59.000Z",
-            "author": {
-                "name": "nshepperd",
-                "url": "https://github.com/nshepperd"
             }
         }
     ]
