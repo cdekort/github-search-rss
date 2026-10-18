@@ -6,21 +6,10 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
-            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
-            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
-            "date_modified": "2026-10-17T03:13:24.000Z",
-            "date_published": "2026-09-12T23:00:51.000Z",
-            "author": {
-                "name": "PINTO0309",
-                "url": "https://github.com/PINTO0309"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-17T03:11:23.000Z",
+            "date_modified": "2026-10-18T03:22:59.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -28,10 +17,120 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182646617?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/hdminh279/tsvit-dinov3",
+            "title": "hdminh279/tsvit-dinov3",
+            "date_modified": "2026-10-18T03:08:34.000Z",
+            "date_published": "2026-10-17T14:08:17.000Z",
+            "author": {
+                "name": "hdminh279",
+                "url": "https://github.com/hdminh279"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188012467?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/loanhviet/DeepSatModels-DINOv3",
+            "title": "loanhviet/DeepSatModels-DINOv3",
+            "date_modified": "2026-10-18T01:25:39.000Z",
+            "date_published": "2026-10-18T01:23:28.000Z",
+            "author": {
+                "name": "loanhviet",
+                "url": "https://github.com/loanhviet"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.</div>",
+            "url": "https://github.com/michalprusek/Exemplar",
+            "title": "michalprusek/Exemplar: Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.",
+            "date_modified": "2026-10-17T22:01:28.000Z",
+            "date_published": "2026-07-22T14:40:53.000Z",
+            "author": {
+                "name": "michalprusek",
+                "url": "https://github.com/michalprusek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/340713250?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>3D vision and medical imaging in one Python package: 73 algorithms, 43 datasets in one line, Open3D / SimpleITK / PyVista, MCP server for AI agents</div>",
+            "url": "https://github.com/pardesline/pardesline",
+            "title": "pardesline/pardesline: 3D vision and medical imaging in one Python package: 73 algorithms, 43 datasets in one line, Open3D / SimpleITK / PyVista, MCP server for AI agents",
+            "date_modified": "2026-10-17T20:20:16.000Z",
+            "date_published": "2026-10-10T18:53:11.000Z",
+            "author": {
+                "name": "pardesline",
+                "url": "https://github.com/pardesline"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
+            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
+            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
+            "date_modified": "2026-10-17T19:49:34.000Z",
+            "date_published": "2026-03-25T17:20:53.000Z",
+            "author": {
+                "name": "alifarzadjamali",
+                "url": "https://github.com/alifarzadjamali"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225827372?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Zh0416/DINOV3",
+            "title": "Zh0416/DINOV3",
+            "date_modified": "2026-10-17T17:40:45.000Z",
+            "date_published": "2026-10-14T15:40:19.000Z",
+            "author": {
+                "name": "Zh0416",
+                "url": "https://github.com/Zh0416"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208653570?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Integrating DINOv3 ViT-S/16 into CA-TCC for fitness video representation learning.</div>",
+            "url": "https://github.com/Hming6789/CA-TCC-DINOv3-Fitness",
+            "title": "Hming6789/CA-TCC-DINOv3-Fitness: Integrating DINOv3 ViT-S/16 into CA-TCC for fitness video representation learning.",
+            "date_modified": "2026-10-17T23:08:20.000Z",
+            "date_published": "2026-10-17T16:51:17.000Z",
+            "author": {
+                "name": "Hming6789",
+                "url": "https://github.com/Hming6789"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/256916420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Real or AI-generated? DINOv3 + Mixture-of-Experts detector for greenhouse strawberry photos (0.87 accuracy, agricultural AI competition)</div>",
+            "url": "https://github.com/baejh3333-del/strawberry-fake-detector",
+            "title": "baejh3333-del/strawberry-fake-detector: Real or AI-generated? DINOv3 + Mixture-of-Experts detector for greenhouse strawberry photos (0.87 accuracy, agricultural AI competition)",
+            "date_modified": "2026-10-17T20:04:54.000Z",
+            "date_published": "2026-10-17T15:17:30.000Z",
+            "author": {
+                "name": "baejh3333-del",
+                "url": "https://github.com/baejh3333-del"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148757024?u=5a9d5bbf924f05509708b264fbf12fc81577d6e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10</div>",
+            "url": "https://github.com/sumeyyesaray/DINO",
+            "title": "sumeyyesaray/DINO: Frozen DINOv2/DINOv3 backbone feature evaluation (k-NN + linear probe) on CIFAR-10",
+            "date_modified": "2026-10-17T15:18:27.000Z",
+            "date_published": "2026-07-29T12:07:32.000Z",
+            "author": {
+                "name": "sumeyyesaray",
+                "url": "https://github.com/sumeyyesaray"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81746232?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reference PyTorch implementation and models for DINOv3</div>",
+            "url": "https://github.com/Biosins/dinov3",
+            "title": "Biosins/dinov3: Reference PyTorch implementation and models for DINOv3",
+            "date_modified": "2026-10-17T13:30:49.000Z",
+            "date_published": "2026-10-17T12:22:11.000Z",
+            "author": {
+                "name": "Biosins",
+                "url": "https://github.com/Biosins"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139604720?u=30f9bb12aa5a80fb28891cee2da4fdb158413d43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[NeurIPS'26] RiSE: Residual Subspace Experts for Text-Centric Image Forgery Localization</div>",
             "url": "https://github.com/KahimWong/RiSE",
             "title": "KahimWong/RiSE: [NeurIPS'26] RiSE: Residual Subspace Experts for Text-Centric Image Forgery Localization",
-            "date_modified": "2026-10-17T03:03:30.000Z",
+            "date_modified": "2026-10-17T13:14:35.000Z",
             "date_published": "2026-10-16T06:50:36.000Z",
             "author": {
                 "name": "KahimWong",
@@ -39,10 +138,65 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108638916?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>",
+            "url": "https://github.com/Ram21275/tesseract-pose-speedplus",
+            "title": "Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features",
+            "date_modified": "2026-10-17T12:49:26.000Z",
+            "date_published": "2026-10-08T17:33:06.000Z",
+            "author": {
+                "name": "Ram21275",
+                "url": "https://github.com/Ram21275"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95500945?u=fe3764d383a768df7602f3d816c28c3d1d38366d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FoldingACT: multimodal (vision + tactile) imitation-learning policy for bimanual dexterous paper folding, IROS 2026 Robotic Origami Challenge</div>",
+            "url": "https://github.com/ismael-esp/robotic-origami-challenge",
+            "title": "ismael-esp/robotic-origami-challenge: FoldingACT: multimodal (vision + tactile) imitation-learning policy for bimanual dexterous paper folding, IROS 2026 Robotic Origami Challenge",
+            "date_modified": "2026-10-17T10:07:47.000Z",
+            "date_published": "2026-07-24T09:23:19.000Z",
+            "author": {
+                "name": "ismael-esp",
+                "url": "https://github.com/ismael-esp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36097028?u=43ef8e5c953f545afd85a8476d970d82076e03df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Dinov3的embedding模型搭建</div>",
+            "url": "https://github.com/wondron/dinov3_machine",
+            "title": "wondron/dinov3_machine: 基于Dinov3的embedding模型搭建",
+            "date_modified": "2026-10-17T09:09:43.000Z",
+            "date_published": "2026-09-27T07:18:18.000Z",
+            "author": {
+                "name": "wondron",
+                "url": "https://github.com/wondron"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62112925?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My experiments for Solafune’s Tree Canopy Detection competition: instance segmentation of tree canopies in aerial and satellite imagery with seven setups (Mask2Former, HTC, DINOv2/DINOv3, YOLO26), and what went wrong.</div>",
+            "url": "https://github.com/pranay172/Tree-Canopy-Detection",
+            "title": "pranay172/Tree-Canopy-Detection: My experiments for Solafune’s Tree Canopy Detection competition: instance segmentation of tree canopies in aerial and satellite imagery with seven setups (Mask2Former, HTC, DINOv2/DINOv3, YOLO26), and what went wrong.",
+            "date_modified": "2026-10-17T06:14:36.000Z",
+            "date_published": "2026-10-17T06:08:13.000Z",
+            "author": {
+                "name": "pranay172",
+                "url": "https://github.com/pranay172"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
+            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
+            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
+            "date_modified": "2026-10-17T14:54:09.000Z",
+            "date_published": "2026-09-12T23:00:51.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154432558?u=790b24d5a829e048879f5cf1e0df340eba9b91f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Mducki/CoTMix-DinoV3",
             "title": "Mducki/CoTMix-DinoV3",
-            "date_modified": "2026-10-17T01:20:08.000Z",
+            "date_modified": "2026-10-17T11:39:47.000Z",
             "date_published": "2026-10-17T01:17:52.000Z",
             "author": {
                 "name": "Mducki",
@@ -61,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108638916?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>",
-            "url": "https://github.com/Ram21275/tesseract-pose-speedplus",
-            "title": "Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features",
-            "date_modified": "2026-10-16T19:05:14.000Z",
-            "date_published": "2026-10-08T17:33:06.000Z",
-            "author": {
-                "name": "Ram21275",
-                "url": "https://github.com/Ram21275"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62183782?u=05c6af7938f789438ece3f9f75ba89ebbaafb394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Beyond Segmentation Accuracy: an expert-curated MxIF cell-segmentation benchmark, one leave-slide-out protocol for twelve segmenters, and a four-level biological-fidelity evaluation (cells, phenotypes, neighborhoods, tumor-immune organization). NeurIPS 2026 ASCI workshop. Non-commercial license; please cite.</div>",
             "url": "https://github.com/marjanstoimchev/beyond-segmentation-accuracy",
             "title": "marjanstoimchev/beyond-segmentation-accuracy: Beyond Segmentation Accuracy: an expert-curated MxIF cell-segmentation benchmark, one leave-slide-out protocol for twelve segmenters, and a four-level biological-fidelity evaluation (cells, phenotypes, neighborhoods, tumor-immune organization). NeurIPS 2026 ASCI workshop. Non-commercial license; please cite.",
@@ -80,149 +223,6 @@
             "author": {
                 "name": "marjanstoimchev",
                 "url": "https://github.com/marjanstoimchev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/332538510?u=30f679aa3ae8d77eefee5297dd6ccc9293847db3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find every cut in a video, fix the ones a frame off, pick the scenes you want and export them as clips, natively in ComfyUI: OmniShotCut detection, DINOv3 validation, frame-exact.</div>",
-            "url": "https://github.com/PedroMarinhoDev/ComfyUI-SceneCut",
-            "title": "PedroMarinhoDev/ComfyUI-SceneCut: Find every cut in a video, fix the ones a frame off, pick the scenes you want and export them as clips, natively in ComfyUI: OmniShotCut detection, DINOv3 validation, frame-exact.",
-            "date_modified": "2026-10-16T22:42:20.000Z",
-            "date_published": "2026-10-16T16:06:12.000Z",
-            "author": {
-                "name": "PedroMarinhoDev",
-                "url": "https://github.com/PedroMarinhoDev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141530457?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 + PEFT/LoRA trained over the tacodataset to classify waste materials in the wild.</div>",
-            "url": "https://github.com/DiegoFigarella/waste-classification",
-            "title": "DiegoFigarella/waste-classification: DINOv3 + PEFT/LoRA trained over the tacodataset to classify waste materials in the wild.",
-            "date_modified": "2026-10-16T16:20:31.000Z",
-            "date_published": "2026-10-16T16:20:25.000Z",
-            "author": {
-                "name": "DiegoFigarella",
-                "url": "https://github.com/DiegoFigarella"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219298848?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Domain Adaptive Pretraining in Split Learning for Vision Foundation Models</div>",
-            "url": "https://github.com/Nousphera/SDAPT",
-            "title": "Nousphera/SDAPT: Domain Adaptive Pretraining in Split Learning for Vision Foundation Models",
-            "date_modified": "2026-10-17T01:56:28.000Z",
-            "date_published": "2026-10-06T08:25:21.000Z",
-            "author": {
-                "name": "Nousphera",
-                "url": "https://github.com/Nousphera"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13150896?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a project that uses DINOv3 to detect any objects in live video streams.</div>",
-            "url": "https://github.com/liuzhiyuan2010/dinov3_live",
-            "title": "liuzhiyuan2010/dinov3_live: This is a project that uses DINOv3 to detect any objects in live video streams.",
-            "date_modified": "2026-10-16T19:33:17.000Z",
-            "date_published": "2026-10-16T08:46:02.000Z",
-            "author": {
-                "name": "liuzhiyuan2010",
-                "url": "https://github.com/liuzhiyuan2010"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129951892?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository containing experiments relative to latent space temporal structure enforcement, performed as part of a project at EPFL University in collaboration with the IDIAP Lab</div>",
-            "url": "https://github.com/MikyLanfra/Latent-Space-Learning-for-GPI",
-            "title": "MikyLanfra/Latent-Space-Learning-for-GPI: Repository containing experiments relative to latent space temporal structure enforcement, performed as part of a project at EPFL University in collaboration with the IDIAP Lab",
-            "date_modified": "2026-10-16T11:31:19.000Z",
-            "date_published": "2025-09-30T07:24:17.000Z",
-            "author": {
-                "name": "MikyLanfra",
-                "url": "https://github.com/MikyLanfra"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/340713250?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>3D vision and medical imaging in one Python package: 73 algorithms, 43 datasets in one line, Open3D / SimpleITK / PyVista, MCP server for AI agents</div>",
-            "url": "https://github.com/pardesline/pardesline",
-            "title": "pardesline/pardesline: 3D vision and medical imaging in one Python package: 73 algorithms, 43 datasets in one line, Open3D / SimpleITK / PyVista, MCP server for AI agents",
-            "date_modified": "2026-10-16T11:22:54.000Z",
-            "date_published": "2026-10-10T18:53:11.000Z",
-            "author": {
-                "name": "pardesline",
-                "url": "https://github.com/pardesline"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215951859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.</div>",
-            "url": "https://github.com/flyaurelien/kinesia",
-            "title": "flyaurelien/kinesia: Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.",
-            "date_modified": "2026-10-16T10:12:24.000Z",
-            "date_published": "2026-10-08T12:38:06.000Z",
-            "author": {
-                "name": "flyaurelien",
-                "url": "https://github.com/flyaurelien"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/306050564?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-MSFNet: A Multi-Scale Feature Fusion Network for Land Cover Classification in Mountainous Forest Ecosystems</div>",
-            "url": "https://github.com/zhaoxu-doctor/DINOv3-MSFNet",
-            "title": "zhaoxu-doctor/DINOv3-MSFNet: DINOv3-MSFNet: A Multi-Scale Feature Fusion Network for Land Cover Classification in Mountainous Forest Ecosystems",
-            "date_modified": "2026-10-16T07:55:30.000Z",
-            "date_published": "2026-07-20T11:33:38.000Z",
-            "author": {
-                "name": "zhaoxu-doctor",
-                "url": "https://github.com/zhaoxu-doctor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112103743?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nsynsynsynsy/DINOv3-MedSeg",
-            "title": "nsynsynsynsy/DINOv3-MedSeg",
-            "date_modified": "2026-10-16T19:33:21.000Z",
-            "date_published": "2026-10-15T09:54:43.000Z",
-            "author": {
-                "name": "nsynsynsynsy",
-                "url": "https://github.com/nsynsynsynsy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47831888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers</div>",
-            "url": "https://github.com/Brezemil/_trainer_lightly",
-            "title": "Brezemil/_trainer_lightly: Uses lightly train package to benchmark yolo and rtdetr and custom dinov3 backbone detection transformers",
-            "date_modified": "2026-10-16T05:51:28.000Z",
-            "date_published": "2026-06-19T20:02:09.000Z",
-            "author": {
-                "name": "Brezemil",
-                "url": "https://github.com/Brezemil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225827372?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Zh0416/DINOV3",
-            "title": "Zh0416/DINOV3",
-            "date_modified": "2026-10-16T03:02:55.000Z",
-            "date_published": "2026-10-14T15:40:19.000Z",
-            "author": {
-                "name": "Zh0416",
-                "url": "https://github.com/Zh0416"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63777030?u=68f3c5184153ddb7ba208ddd86f3ce367604ebe0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CardScope: DINOv3 image retrieval and recognition research for Japanese Pokemon cards, with an interactive card-type embedding map.</div>",
-            "url": "https://github.com/nicaja/CardScope",
-            "title": "nicaja/CardScope: CardScope: DINOv3 image retrieval and recognition research for Japanese Pokemon cards, with an interactive card-type embedding map.",
-            "date_modified": "2026-10-15T21:29:25.000Z",
-            "date_published": "2026-05-09T21:29:18.000Z",
-            "author": {
-                "name": "nicaja",
-                "url": "https://github.com/nicaja"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180333412?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.</div>",
-            "url": "https://github.com/Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-",
-            "title": "Lmague/Reproducing-assessing-SAM-for-tree-crown-instance-segmentation-from-drone-imagery-: Reproduction of “Assessing SAM for Tree Crown Instance Segmentation” (ICLR 2025) with an added Mask R-CNN using a DINOv3 backbone to test whether foundation-model features outperform a ResNet-50 baseline.",
-            "date_modified": "2026-10-16T07:32:12.000Z",
-            "date_published": "2025-11-21T18:58:55.000Z",
-            "author": {
-                "name": "Lmague",
-                "url": "https://github.com/Lmague"
             }
         }
     ]
