@@ -6,10 +6,65 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106000550?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archived DINOv3 pilot records and reproducible evidence audit for TRM Assignment 1B. No source imagery or precise locations.</div>",
+            "url": "https://github.com/benjamin3773/trm-1b-pilot-evidence",
+            "title": "benjamin3773/trm-1b-pilot-evidence: Archived DINOv3 pilot records and reproducible evidence audit for TRM Assignment 1B. No source imagery or precise locations.",
+            "date_modified": "2026-10-20T02:29:24.000Z",
+            "date_published": "2026-10-20T02:27:38.000Z",
+            "author": {
+                "name": "benjamin3773",
+                "url": "https://github.com/benjamin3773"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72801634?u=12bcc66fd6c7a7c1ab8a3dc0baecdee7adb16265&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.</div>",
+            "url": "https://github.com/chaoqunWang666/MVPI",
+            "title": "chaoqunWang666/MVPI: Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.",
+            "date_modified": "2026-10-20T01:48:47.000Z",
+            "date_published": "2026-10-20T01:14:40.000Z",
+            "author": {
+                "name": "chaoqunWang666",
+                "url": "https://github.com/chaoqunWang666"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
+            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
+            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
+            "date_modified": "2026-10-20T00:21:01.000Z",
+            "date_published": "2026-09-12T23:00:51.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120471263?u=aa4c90ac880d7a8d1bb55810758f5ed3408b520d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weak labels from NVDB geometry on Statens vegvesen's road photos, a multi-label CNN, and a map of where photos and register disagree.</div>",
+            "url": "https://github.com/kapi0okapi/guardrail-inspector",
+            "title": "kapi0okapi/guardrail-inspector: Weak labels from NVDB geometry on Statens vegvesen's road photos, a multi-label CNN, and a map of where photos and register disagree.",
+            "date_modified": "2026-10-19T15:13:19.000Z",
+            "date_published": "2026-10-19T15:13:07.000Z",
+            "author": {
+                "name": "kapi0okapi",
+                "url": "https://github.com/kapi0okapi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120471263?u=aa4c90ac880d7a8d1bb55810758f5ed3408b520d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apparent age from aligned face images - three heads compared, errors reported per age group, gender and ethnicity.</div>",
+            "url": "https://github.com/kapi0okapi/age-estimation",
+            "title": "kapi0okapi/age-estimation: Apparent age from aligned face images - three heads compared, errors reported per age group, gender and ethnicity.",
+            "date_modified": "2026-10-19T15:12:26.000Z",
+            "date_published": "2026-10-19T15:12:02.000Z",
+            "author": {
+                "name": "kapi0okapi",
+                "url": "https://github.com/kapi0okapi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-19T03:30:28.000Z",
+            "date_modified": "2026-10-19T13:25:43.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,11 +72,55 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188012467?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/loanhviet/DeepSatModels-DINOv3",
+            "title": "loanhviet/DeepSatModels-DINOv3",
+            "date_modified": "2026-10-19T10:17:46.000Z",
+            "date_published": "2026-10-18T01:23:28.000Z",
+            "author": {
+                "name": "loanhviet",
+                "url": "https://github.com/loanhviet"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223193395?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Five-view industrial anomaly detection with Dinomaly2 and DINOv3: training, dense memory, calibration and inference.</div>",
+            "url": "https://github.com/lilinhang12/csig-multiview-anomaly-v372",
+            "title": "lilinhang12/csig-multiview-anomaly-v372: Five-view industrial anomaly detection with Dinomaly2 and DINOv3: training, dense memory, calibration and inference.",
+            "date_modified": "2026-10-19T08:40:44.000Z",
+            "date_published": "2026-10-19T08:28:30.000Z",
+            "author": {
+                "name": "lilinhang12",
+                "url": "https://github.com/lilinhang12"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225883177?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple web app to check whether an image is a real photo or made by AI. Fast, private, and runs 100% locally on CPU. Built with PyTorch, DINOv3, and Streamlit, featuring calibrated confidence.</div>",
+            "url": "https://github.com/Asit0009/DeepCheck",
+            "title": "Asit0009/DeepCheck: A simple web app to check whether an image is a real photo or made by AI. Fast, private, and runs 100% locally on CPU. Built with PyTorch, DINOv3, and Streamlit, featuring calibrated confidence.",
+            "date_modified": "2026-10-19T07:40:24.000Z",
+            "date_published": "2026-10-14T17:19:07.000Z",
+            "author": {
+                "name": "Asit0009",
+                "url": "https://github.com/Asit0009"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65914440?u=9d65516bfa89aa8f29e9fb4b6f0a4cbbe90fd985&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Native-patch DINOv3 defect classification with synthetic-defect training, sealed evaluation contract and LeGrad review</div>",
             "url": "https://github.com/JaeHongChoe/industrial-visual-qc-dinov3",
             "title": "JaeHongChoe/industrial-visual-qc-dinov3: Native-patch DINOv3 defect classification with synthetic-defect training, sealed evaluation contract and LeGrad review",
-            "date_modified": "2026-10-19T01:10:19.000Z",
+            "date_modified": "2026-10-19T11:55:46.000Z",
             "date_published": "2026-10-19T01:10:04.000Z",
+            "author": {
+                "name": "JaeHongChoe",
+                "url": "https://github.com/JaeHongChoe"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65914440?u=9d65516bfa89aa8f29e9fb4b6f0a4cbbe90fd985&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DRAEM-based anomaly segmentation for grayscale industrial part images, plus tile-based DINOv3 experiment</div>",
+            "url": "https://github.com/JaeHongChoe/industrial-draem-anomaly-segmentation",
+            "title": "JaeHongChoe/industrial-draem-anomaly-segmentation: DRAEM-based anomaly segmentation for grayscale industrial part images, plus tile-based DINOv3 experiment",
+            "date_modified": "2026-10-20T00:35:49.000Z",
+            "date_published": "2026-04-20T06:34:19.000Z",
             "author": {
                 "name": "JaeHongChoe",
                 "url": "https://github.com/JaeHongChoe"
@@ -83,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
-            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
-            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
-            "date_modified": "2026-10-19T00:28:09.000Z",
-            "date_published": "2026-09-12T23:00:51.000Z",
-            "author": {
-                "name": "PINTO0309",
-                "url": "https://github.com/PINTO0309"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162776300?u=1ccce151d74aad0d99e356ca5280ce3a48756427&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tomato Leaf Disease Classification using UniRepLKNet and DINOv3</div>",
             "url": "https://github.com/NguyenThanhHaii/TomatoCare",
             "title": "NguyenThanhHaii/TomatoCare: Tomato Leaf Disease Classification using UniRepLKNet and DINOv3",
@@ -135,94 +223,6 @@
             "author": {
                 "name": "kassari65",
                 "url": "https://github.com/kassari65"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158178649?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/VU-TRUONG-AI/CA-TCC-vs-DINOv3",
-            "title": "VU-TRUONG-AI/CA-TCC-vs-DINOv3",
-            "date_modified": "2026-10-18T19:49:37.000Z",
-            "date_published": "2026-10-18T10:26:16.000Z",
-            "author": {
-                "name": "VU-TRUONG-AI",
-                "url": "https://github.com/VU-TRUONG-AI"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182862350?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nguyenlinhs/utae_dinov3",
-            "title": "nguyenlinhs/utae_dinov3",
-            "date_modified": "2026-10-18T19:49:38.000Z",
-            "date_published": "2026-10-18T11:20:06.000Z",
-            "author": {
-                "name": "nguyenlinhs",
-                "url": "https://github.com/nguyenlinhs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170651859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/aduakhavipqua/dinov3-backbone-integration",
-            "title": "aduakhavipqua/dinov3-backbone-integration",
-            "date_modified": "2026-10-18T19:49:39.000Z",
-            "date_published": "2026-10-18T11:18:06.000Z",
-            "author": {
-                "name": "aduakhavipqua",
-                "url": "https://github.com/aduakhavipqua"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182861615?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/NnTien1802/TF-C-DINOv3",
-            "title": "NnTien1802/TF-C-DINOv3",
-            "date_modified": "2026-10-18T19:49:39.000Z",
-            "date_published": "2026-10-18T11:06:16.000Z",
-            "author": {
-                "name": "NnTien1802",
-                "url": "https://github.com/NnTien1802"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188012467?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/loanhviet/DeepSatModels-DINOv3",
-            "title": "loanhviet/DeepSatModels-DINOv3",
-            "date_modified": "2026-10-18T10:10:51.000Z",
-            "date_published": "2026-10-18T01:23:28.000Z",
-            "author": {
-                "name": "loanhviet",
-                "url": "https://github.com/loanhviet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127124234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ContrattoAlessandro/DinoV3_TL_Detection",
-            "title": "ContrattoAlessandro/DinoV3_TL_Detection",
-            "date_modified": "2026-10-18T08:17:31.000Z",
-            "date_published": "2026-09-30T09:27:27.000Z",
-            "author": {
-                "name": "ContrattoAlessandro",
-                "url": "https://github.com/ContrattoAlessandro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180861202?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nguyenphuc210/SOFTSModel-DINOv3",
-            "title": "nguyenphuc210/SOFTSModel-DINOv3",
-            "date_modified": "2026-10-18T08:14:43.000Z",
-            "date_published": "2026-10-18T07:36:21.000Z",
-            "author": {
-                "name": "nguyenphuc210",
-                "url": "https://github.com/nguyenphuc210"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/282931392?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Thay thế hai Encoder của TF-C bằng DINOv3</div>",
-            "url": "https://github.com/vuvandat109/TF-C-DINOv3",
-            "title": "vuvandat109/TF-C-DINOv3: Thay thế hai Encoder của TF-C bằng DINOv3",
-            "date_modified": "2026-10-18T06:49:34.000Z",
-            "date_published": "2026-10-18T06:34:09.000Z",
-            "author": {
-                "name": "vuvandat109",
-                "url": "https://github.com/vuvandat109"
             }
         }
     ]
