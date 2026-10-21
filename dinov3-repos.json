@@ -6,6 +6,138 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
+            "url": "https://github.com/tomgrizz/ganaraska-live",
+            "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
+            "date_modified": "2026-10-21T03:28:39.000Z",
+            "date_published": "2026-08-25T14:33:27.000Z",
+            "author": {
+                "name": "tomgrizz",
+                "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
+            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
+            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
+            "date_modified": "2026-10-21T00:53:50.000Z",
+            "date_published": "2026-09-12T23:00:51.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/qinhy/Ternary-DINOv3",
+            "title": "qinhy/Ternary-DINOv3",
+            "date_modified": "2026-10-21T00:47:44.000Z",
+            "date_published": "2026-07-21T05:15:37.000Z",
+            "author": {
+                "name": "qinhy",
+                "url": "https://github.com/qinhy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2567400?u=5419ba3d8c4d6b8051a946e0c8e3cb10ed062e55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lewjae/dinov3_multiheads",
+            "title": "lewjae/dinov3_multiheads",
+            "date_modified": "2026-10-20T21:04:49.000Z",
+            "date_published": "2026-10-20T21:03:15.000Z",
+            "author": {
+                "name": "lewjae",
+                "url": "https://github.com/lewjae"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.</div>",
+            "url": "https://github.com/michalprusek/Exemplar",
+            "title": "michalprusek/Exemplar: Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.",
+            "date_modified": "2026-10-20T20:27:53.000Z",
+            "date_published": "2026-07-22T14:40:53.000Z",
+            "author": {
+                "name": "michalprusek",
+                "url": "https://github.com/michalprusek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113384683?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ConvNeXt-B + UPerNet для DLR SkyScapes-Dense (MMSegmentation 1.2.2): модель, код и блокнот Colab для инференса и дообучения на своих данных</div>",
+            "url": "https://github.com/tester170/skyscapes-convnext-upernet",
+            "title": "tester170/skyscapes-convnext-upernet: DINOv3 ConvNeXt-B + UPerNet для DLR SkyScapes-Dense (MMSegmentation 1.2.2): модель, код и блокнот Colab для инференса и дообучения на своих данных",
+            "date_modified": "2026-10-20T20:07:10.000Z",
+            "date_published": "2026-10-20T19:53:45.000Z",
+            "author": {
+                "name": "tester170",
+                "url": "https://github.com/tester170"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/279727072?u=79e7db4c046669e4da1c1c818a20b05203295bf7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Поиск автомобилей без госномера: DINOv3 ViT-L/16 + ResNet50-IBN/GeM, top-10 и отказ при низкой уверенности. Веб-сервис, HTTP API и офлайн CLI. Linux / RTX A5000. Команда «Скованные одной цепью».</div>",
+            "url": "https://github.com/Pelmen535/FalconTech",
+            "title": "Pelmen535/FalconTech: Поиск автомобилей без госномера: DINOv3 ViT-L/16 + ResNet50-IBN/GeM, top-10 и отказ при низкой уверенности. Веб-сервис, HTTP API и офлайн CLI. Linux / RTX A5000. Команда «Скованные одной цепью».",
+            "date_modified": "2026-10-20T19:19:51.000Z",
+            "date_published": "2026-09-13T15:28:26.000Z",
+            "author": {
+                "name": "Pelmen535",
+                "url": "https://github.com/Pelmen535"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98447471?u=f7be839d25c591f1cf492e562a60f59f586e6eec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.</div>",
+            "url": "https://github.com/Kkubuck/HFGF-DINOv3",
+            "title": "Kkubuck/HFGF-DINOv3: [Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.",
+            "date_modified": "2026-10-20T16:42:55.000Z",
+            "date_published": "2026-10-20T14:32:20.000Z",
+            "author": {
+                "name": "Kkubuck",
+                "url": "https://github.com/Kkubuck"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219298848?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Domain Adaptive Pretraining in Split Learning for Vision Foundation Models</div>",
+            "url": "https://github.com/Nousphera/SDAPT",
+            "title": "Nousphera/SDAPT: Domain Adaptive Pretraining in Split Learning for Vision Foundation Models",
+            "date_modified": "2026-10-20T12:26:20.000Z",
+            "date_published": "2026-10-06T08:25:21.000Z",
+            "author": {
+                "name": "Nousphera",
+                "url": "https://github.com/Nousphera"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/288882878?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Project page: From Instrument-Mounted Demonstrations to In-Vivo Execution: Learning Bimanual Laparoscopic Appendectomy Without Robot-Collected Demonstrations (arXiv:2609.25625)</div>",
+            "url": "https://github.com/Rosota-Research/instrument-mounted-demonstrations-in-vivo",
+            "title": "Rosota-Research/instrument-mounted-demonstrations-in-vivo: Project page: From Instrument-Mounted Demonstrations to In-Vivo Execution: Learning Bimanual Laparoscopic Appendectomy Without Robot-Collected Demonstrations (arXiv:2609.25625)",
+            "date_modified": "2026-10-20T12:03:33.000Z",
+            "date_published": "2026-10-20T09:03:32.000Z",
+            "author": {
+                "name": "Rosota-Research",
+                "url": "https://github.com/Rosota-Research"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123100980?u=a0a31fa38ea181de5d0c01ed426b3c60f73df587&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/veliunusdu/DINOv3",
+            "title": "veliunusdu/DINOv3",
+            "date_modified": "2026-10-20T07:39:59.000Z",
+            "date_published": "2026-10-10T07:56:29.000Z",
+            "author": {
+                "name": "veliunusdu",
+                "url": "https://github.com/veliunusdu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72801634?u=12bcc66fd6c7a7c1ab8a3dc0baecdee7adb16265&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.</div>",
+            "url": "https://github.com/chaoqunWang666/MVPI",
+            "title": "chaoqunWang666/MVPI: Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.",
+            "date_modified": "2026-10-20T06:17:55.000Z",
+            "date_published": "2026-10-20T01:14:40.000Z",
+            "author": {
+                "name": "chaoqunWang666",
+                "url": "https://github.com/chaoqunWang666"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106000550?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archived DINOv3 pilot records and reproducible evidence audit for TRM Assignment 1B. No source imagery or precise locations.</div>",
             "url": "https://github.com/benjamin3773/trm-1b-pilot-evidence",
             "title": "benjamin3773/trm-1b-pilot-evidence: Archived DINOv3 pilot records and reproducible evidence audit for TRM Assignment 1B. No source imagery or precise locations.",
@@ -14,28 +146,6 @@
             "author": {
                 "name": "benjamin3773",
                 "url": "https://github.com/benjamin3773"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72801634?u=12bcc66fd6c7a7c1ab8a3dc0baecdee7adb16265&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.</div>",
-            "url": "https://github.com/chaoqunWang666/MVPI",
-            "title": "chaoqunWang666/MVPI: Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.",
-            "date_modified": "2026-10-20T01:48:47.000Z",
-            "date_published": "2026-10-20T01:14:40.000Z",
-            "author": {
-                "name": "chaoqunWang666",
-                "url": "https://github.com/chaoqunWang666"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
-            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
-            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
-            "date_modified": "2026-10-20T00:21:01.000Z",
-            "date_published": "2026-09-12T23:00:51.000Z",
-            "author": {
-                "name": "PINTO0309",
-                "url": "https://github.com/PINTO0309"
             }
         },
         {
@@ -58,17 +168,6 @@
             "author": {
                 "name": "kapi0okapi",
                 "url": "https://github.com/kapi0okapi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
-            "url": "https://github.com/tomgrizz/ganaraska-live",
-            "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-19T13:25:43.000Z",
-            "date_published": "2026-08-25T14:33:27.000Z",
-            "author": {
-                "name": "tomgrizz",
-                "url": "https://github.com/tomgrizz"
             }
         },
         {
@@ -105,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65914440?u=9d65516bfa89aa8f29e9fb4b6f0a4cbbe90fd985&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Native-patch DINOv3 defect classification with synthetic-defect training, sealed evaluation contract and LeGrad review</div>",
-            "url": "https://github.com/JaeHongChoe/industrial-visual-qc-dinov3",
-            "title": "JaeHongChoe/industrial-visual-qc-dinov3: Native-patch DINOv3 defect classification with synthetic-defect training, sealed evaluation contract and LeGrad review",
-            "date_modified": "2026-10-19T11:55:46.000Z",
-            "date_published": "2026-10-19T01:10:04.000Z",
-            "author": {
-                "name": "JaeHongChoe",
-                "url": "https://github.com/JaeHongChoe"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65914440?u=9d65516bfa89aa8f29e9fb4b6f0a4cbbe90fd985&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DRAEM-based anomaly segmentation for grayscale industrial part images, plus tile-based DINOv3 experiment</div>",
             "url": "https://github.com/JaeHongChoe/industrial-draem-anomaly-segmentation",
             "title": "JaeHongChoe/industrial-draem-anomaly-segmentation: DRAEM-based anomaly segmentation for grayscale industrial part images, plus tile-based DINOv3 experiment",
@@ -135,94 +223,6 @@
             "author": {
                 "name": "goodcoderind",
                 "url": "https://github.com/goodcoderind"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.</div>",
-            "url": "https://github.com/michalprusek/Exemplar",
-            "title": "michalprusek/Exemplar: Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.",
-            "date_modified": "2026-10-18T20:54:11.000Z",
-            "date_published": "2026-07-22T14:40:53.000Z",
-            "author": {
-                "name": "michalprusek",
-                "url": "https://github.com/michalprusek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>",
-            "url": "https://github.com/YoussefAboelwafa/M2Retinexformer",
-            "title": "YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ",
-            "date_modified": "2026-10-18T17:04:36.000Z",
-            "date_published": "2026-01-04T14:18:52.000Z",
-            "author": {
-                "name": "YoussefAboelwafa",
-                "url": "https://github.com/YoussefAboelwafa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154432558?u=790b24d5a829e048879f5cf1e0df340eba9b91f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Mducki/CoTMix-DinoV3-HAR",
-            "title": "Mducki/CoTMix-DinoV3-HAR",
-            "date_modified": "2026-10-18T19:49:27.000Z",
-            "date_published": "2026-10-18T12:43:22.000Z",
-            "author": {
-                "name": "Mducki",
-                "url": "https://github.com/Mducki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182776070?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/QuocBao2106/SOFTS-DINOv3",
-            "title": "QuocBao2106/SOFTS-DINOv3",
-            "date_modified": "2026-10-18T19:49:28.000Z",
-            "date_published": "2026-10-18T15:10:14.000Z",
-            "author": {
-                "name": "QuocBao2106",
-                "url": "https://github.com/QuocBao2106"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162776300?u=1ccce151d74aad0d99e356ca5280ce3a48756427&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tomato Leaf Disease Classification using UniRepLKNet and DINOv3</div>",
-            "url": "https://github.com/NguyenThanhHaii/TomatoCare",
-            "title": "NguyenThanhHaii/TomatoCare: Tomato Leaf Disease Classification using UniRepLKNet and DINOv3",
-            "date_modified": "2026-10-18T15:03:23.000Z",
-            "date_published": "2026-10-18T07:19:31.000Z",
-            "author": {
-                "name": "NguyenThanhHaii",
-                "url": "https://github.com/NguyenThanhHaii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182646617?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hdminh279/tsvit-dinov3",
-            "title": "hdminh279/tsvit-dinov3",
-            "date_modified": "2026-10-18T14:03:21.000Z",
-            "date_published": "2026-10-17T14:08:17.000Z",
-            "author": {
-                "name": "hdminh279",
-                "url": "https://github.com/hdminh279"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182852785?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/maihwng/wildfire-spread-dinov3-utae",
-            "title": "maihwng/wildfire-spread-dinov3-utae",
-            "date_modified": "2026-10-18T19:49:33.000Z",
-            "date_published": "2026-10-18T12:24:03.000Z",
-            "author": {
-                "name": "maihwng",
-                "url": "https://github.com/maihwng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167221930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kassari65/dinov3_utae",
-            "title": "kassari65/dinov3_utae",
-            "date_modified": "2026-10-18T19:49:35.000Z",
-            "date_published": "2026-10-18T12:02:29.000Z",
-            "author": {
-                "name": "kassari65",
-                "url": "https://github.com/kassari65"
             }
         }
     ]
