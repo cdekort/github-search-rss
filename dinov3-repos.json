@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-21T03:28:39.000Z",
+            "date_modified": "2026-10-22T03:31:50.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,10 +17,54 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88580521?u=888ca32287cefdee168c96eed4541ee8888d8467&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproducible exploratory TIG weld-image experiments: MobileNet, DINOv3, V-JEPA W1-W3, I-JEPA W4, and grouped evaluation evidence.</div>",
+            "url": "https://github.com/RitwijParmar/autonoweld-weld-quality-research",
+            "title": "RitwijParmar/autonoweld-weld-quality-research: Reproducible exploratory TIG weld-image experiments: MobileNet, DINOv3, V-JEPA W1-W3, I-JEPA W4, and grouped evaluation evidence.",
+            "date_modified": "2026-10-22T02:25:33.000Z",
+            "date_published": "2026-10-22T01:56:27.000Z",
+            "author": {
+                "name": "RitwijParmar",
+                "url": "https://github.com/RitwijParmar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
+            "url": "https://github.com/ganzijie1/dongzhou",
+            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
+            "date_modified": "2026-10-21T21:21:32.000Z",
+            "date_published": "2026-08-13T05:30:19.000Z",
+            "author": {
+                "name": "ganzijie1",
+                "url": "https://github.com/ganzijie1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113384683?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ConvNeXt-B + UPerNet для DLR SkyScapes-Dense (MMSegmentation 1.2.2): модель, код и блокнот Colab для инференса и дообучения на своих данных</div>",
+            "url": "https://github.com/tester170/skyscapes-convnext-upernet",
+            "title": "tester170/skyscapes-convnext-upernet: DINOv3 ConvNeXt-B + UPerNet для DLR SkyScapes-Dense (MMSegmentation 1.2.2): модель, код и блокнот Colab для инференса и дообучения на своих данных",
+            "date_modified": "2026-10-21T20:11:22.000Z",
+            "date_published": "2026-10-20T19:53:45.000Z",
+            "author": {
+                "name": "tester170",
+                "url": "https://github.com/tester170"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/324407157?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-teacher visual encoder pretraining with DINOv3, VGGT-Ω and V-JEPA 2.1, including LeRobot v3 sampling, EMA and export.</div>",
+            "url": "https://github.com/OpenPhoenix-Team/Phoenix-Encoder",
+            "title": "OpenPhoenix-Team/Phoenix-Encoder: Multi-teacher visual encoder pretraining with DINOv3, VGGT-Ω and V-JEPA 2.1, including LeRobot v3 sampling, EMA and export.",
+            "date_modified": "2026-10-21T16:12:54.000Z",
+            "date_published": "2026-10-21T15:23:18.000Z",
+            "author": {
+                "name": "OpenPhoenix-Team",
+                "url": "https://github.com/OpenPhoenix-Team"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
             "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
             "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
-            "date_modified": "2026-10-21T00:53:50.000Z",
+            "date_modified": "2026-10-21T12:50:30.000Z",
             "date_published": "2026-09-12T23:00:51.000Z",
             "author": {
                 "name": "PINTO0309",
@@ -28,10 +72,43 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142864414?u=e1b729703c3fdc55563f3961809ecae5b20afb72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/bach0823/sage_dinov3",
+            "title": "bach0823/sage_dinov3",
+            "date_modified": "2026-10-21T10:38:12.000Z",
+            "date_published": "2026-10-19T17:48:24.000Z",
+            "author": {
+                "name": "bach0823",
+                "url": "https://github.com/bach0823"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192683467?u=40a5e281bb422ba8d25f920d1c5f2586acb832fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.</div>",
+            "url": "https://github.com/zhuwenmao/snowlabel",
+            "title": "zhuwenmao/snowlabel: ❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.",
+            "date_modified": "2026-10-22T01:31:50.000Z",
+            "date_published": "2026-06-27T07:56:36.000Z",
+            "author": {
+                "name": "zhuwenmao",
+                "url": "https://github.com/zhuwenmao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214130794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SignDEG (DINO Eats Geometry): Self-Supervised Sign Representations that Absorb Articulated Hand Geometry</div>",
+            "url": "https://github.com/junyi2005/signDEG",
+            "title": "junyi2005/signDEG: SignDEG (DINO Eats Geometry): Self-Supervised Sign Representations that Absorb Articulated Hand Geometry",
+            "date_modified": "2026-10-21T18:20:41.000Z",
+            "date_published": "2026-09-05T18:48:45.000Z",
+            "author": {
+                "name": "junyi2005",
+                "url": "https://github.com/junyi2005"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/qinhy/Ternary-DINOv3",
             "title": "qinhy/Ternary-DINOv3",
-            "date_modified": "2026-10-21T00:47:44.000Z",
+            "date_modified": "2026-10-21T19:59:01.000Z",
             "date_published": "2026-07-21T05:15:37.000Z",
             "author": {
                 "name": "qinhy",
@@ -42,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2567400?u=5419ba3d8c4d6b8051a946e0c8e3cb10ed062e55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/lewjae/dinov3_multiheads",
             "title": "lewjae/dinov3_multiheads",
-            "date_modified": "2026-10-20T21:04:49.000Z",
+            "date_modified": "2026-10-21T20:18:56.000Z",
             "date_published": "2026-10-20T21:03:15.000Z",
             "author": {
                 "name": "lewjae",
@@ -53,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.</div>",
             "url": "https://github.com/michalprusek/Exemplar",
             "title": "michalprusek/Exemplar: Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.",
-            "date_modified": "2026-10-20T20:27:53.000Z",
+            "date_modified": "2026-10-21T17:49:16.000Z",
             "date_published": "2026-07-22T14:40:53.000Z",
             "author": {
                 "name": "michalprusek",
@@ -61,21 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113384683?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ConvNeXt-B + UPerNet для DLR SkyScapes-Dense (MMSegmentation 1.2.2): модель, код и блокнот Colab для инференса и дообучения на своих данных</div>",
-            "url": "https://github.com/tester170/skyscapes-convnext-upernet",
-            "title": "tester170/skyscapes-convnext-upernet: DINOv3 ConvNeXt-B + UPerNet для DLR SkyScapes-Dense (MMSegmentation 1.2.2): модель, код и блокнот Colab для инференса и дообучения на своих данных",
-            "date_modified": "2026-10-20T20:07:10.000Z",
-            "date_published": "2026-10-20T19:53:45.000Z",
-            "author": {
-                "name": "tester170",
-                "url": "https://github.com/tester170"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/279727072?u=79e7db4c046669e4da1c1c818a20b05203295bf7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Поиск автомобилей без госномера: DINOv3 ViT-L/16 + ResNet50-IBN/GeM, top-10 и отказ при низкой уверенности. Веб-сервис, HTTP API и офлайн CLI. Linux / RTX A5000. Команда «Скованные одной цепью».</div>",
             "url": "https://github.com/Pelmen535/FalconTech",
             "title": "Pelmen535/FalconTech: Поиск автомобилей без госномера: DINOv3 ViT-L/16 + ResNet50-IBN/GeM, top-10 и отказ при низкой уверенности. Веб-сервис, HTTP API и офлайн CLI. Linux / RTX A5000. Команда «Скованные одной цепью».",
-            "date_modified": "2026-10-20T19:19:51.000Z",
+            "date_modified": "2026-10-21T19:55:30.000Z",
             "date_published": "2026-09-13T15:28:26.000Z",
             "author": {
                 "name": "Pelmen535",
@@ -83,10 +149,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64066084?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Lewis-26/sage_dinov3",
+            "title": "Lewis-26/sage_dinov3",
+            "date_modified": "2026-10-21T20:18:58.000Z",
+            "date_published": "2026-10-19T22:41:34.000Z",
+            "author": {
+                "name": "Lewis-26",
+                "url": "https://github.com/Lewis-26"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98447471?u=f7be839d25c591f1cf492e562a60f59f586e6eec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.</div>",
             "url": "https://github.com/Kkubuck/HFGF-DINOv3",
             "title": "Kkubuck/HFGF-DINOv3: [Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.",
-            "date_modified": "2026-10-20T16:42:55.000Z",
+            "date_modified": "2026-10-21T19:50:52.000Z",
             "date_published": "2026-10-20T14:32:20.000Z",
             "author": {
                 "name": "Kkubuck",
@@ -97,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219298848?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Domain Adaptive Pretraining in Split Learning for Vision Foundation Models</div>",
             "url": "https://github.com/Nousphera/SDAPT",
             "title": "Nousphera/SDAPT: Domain Adaptive Pretraining in Split Learning for Vision Foundation Models",
-            "date_modified": "2026-10-20T12:26:20.000Z",
+            "date_modified": "2026-10-21T18:30:47.000Z",
             "date_published": "2026-10-06T08:25:21.000Z",
             "author": {
                 "name": "Nousphera",
@@ -130,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72801634?u=12bcc66fd6c7a7c1ab8a3dc0baecdee7adb16265&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.</div>",
             "url": "https://github.com/chaoqunWang666/MVPI",
             "title": "chaoqunWang666/MVPI: Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.",
-            "date_modified": "2026-10-20T06:17:55.000Z",
+            "date_modified": "2026-10-21T19:40:34.000Z",
             "date_published": "2026-10-20T01:14:40.000Z",
             "author": {
                 "name": "chaoqunWang666",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "benjamin3773",
                 "url": "https://github.com/benjamin3773"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120471263?u=aa4c90ac880d7a8d1bb55810758f5ed3408b520d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weak labels from NVDB geometry on Statens vegvesen's road photos, a multi-label CNN, and a map of where photos and register disagree.</div>",
-            "url": "https://github.com/kapi0okapi/guardrail-inspector",
-            "title": "kapi0okapi/guardrail-inspector: Weak labels from NVDB geometry on Statens vegvesen's road photos, a multi-label CNN, and a map of where photos and register disagree.",
-            "date_modified": "2026-10-19T15:13:19.000Z",
-            "date_published": "2026-10-19T15:13:07.000Z",
-            "author": {
-                "name": "kapi0okapi",
-                "url": "https://github.com/kapi0okapi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120471263?u=aa4c90ac880d7a8d1bb55810758f5ed3408b520d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apparent age from aligned face images - three heads compared, errors reported per age group, gender and ethnicity.</div>",
-            "url": "https://github.com/kapi0okapi/age-estimation",
-            "title": "kapi0okapi/age-estimation: Apparent age from aligned face images - three heads compared, errors reported per age group, gender and ethnicity.",
-            "date_modified": "2026-10-19T15:12:26.000Z",
-            "date_published": "2026-10-19T15:12:02.000Z",
-            "author": {
-                "name": "kapi0okapi",
-                "url": "https://github.com/kapi0okapi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188012467?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/loanhviet/DeepSatModels-DINOv3",
-            "title": "loanhviet/DeepSatModels-DINOv3",
-            "date_modified": "2026-10-19T10:17:46.000Z",
-            "date_published": "2026-10-18T01:23:28.000Z",
-            "author": {
-                "name": "loanhviet",
-                "url": "https://github.com/loanhviet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223193395?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Five-view industrial anomaly detection with Dinomaly2 and DINOv3: training, dense memory, calibration and inference.</div>",
-            "url": "https://github.com/lilinhang12/csig-multiview-anomaly-v372",
-            "title": "lilinhang12/csig-multiview-anomaly-v372: Five-view industrial anomaly detection with Dinomaly2 and DINOv3: training, dense memory, calibration and inference.",
-            "date_modified": "2026-10-19T08:40:44.000Z",
-            "date_published": "2026-10-19T08:28:30.000Z",
-            "author": {
-                "name": "lilinhang12",
-                "url": "https://github.com/lilinhang12"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225883177?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple web app to check whether an image is a real photo or made by AI. Fast, private, and runs 100% locally on CPU. Built with PyTorch, DINOv3, and Streamlit, featuring calibrated confidence.</div>",
-            "url": "https://github.com/Asit0009/DeepCheck",
-            "title": "Asit0009/DeepCheck: A simple web app to check whether an image is a real photo or made by AI. Fast, private, and runs 100% locally on CPU. Built with PyTorch, DINOv3, and Streamlit, featuring calibrated confidence.",
-            "date_modified": "2026-10-19T07:40:24.000Z",
-            "date_published": "2026-10-14T17:19:07.000Z",
-            "author": {
-                "name": "Asit0009",
-                "url": "https://github.com/Asit0009"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65914440?u=9d65516bfa89aa8f29e9fb4b6f0a4cbbe90fd985&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DRAEM-based anomaly segmentation for grayscale industrial part images, plus tile-based DINOv3 experiment</div>",
-            "url": "https://github.com/JaeHongChoe/industrial-draem-anomaly-segmentation",
-            "title": "JaeHongChoe/industrial-draem-anomaly-segmentation: DRAEM-based anomaly segmentation for grayscale industrial part images, plus tile-based DINOv3 experiment",
-            "date_modified": "2026-10-20T00:35:49.000Z",
-            "date_published": "2026-04-20T06:34:19.000Z",
-            "author": {
-                "name": "JaeHongChoe",
-                "url": "https://github.com/JaeHongChoe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72217994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>3rd place, Eyes on Heritage hackathon (ALIPH, MBZUAI): classifying change in historic cities from satellite imagery</div>",
-            "url": "https://github.com/goodcoderind/what-the-sky-remembers",
-            "title": "goodcoderind/what-the-sky-remembers: 3rd place, Eyes on Heritage hackathon (ALIPH, MBZUAI): classifying change in historic cities from satellite imagery",
-            "date_modified": "2026-10-18T23:47:35.000Z",
-            "date_published": "2026-10-18T23:47:22.000Z",
-            "author": {
-                "name": "goodcoderind",
-                "url": "https://github.com/goodcoderind"
             }
         }
     ]
