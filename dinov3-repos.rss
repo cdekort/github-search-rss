@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-10-22T03:37:12.923Z</updated>
+    <updated>2026-10-23T03:41:56.760Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-10-22T03:31:50.000Z</updated>
+        <updated>2026-10-23T03:40:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -21,23 +21,166 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RitwijParmar/autonoweld-weld-quality-research: Reproducible exploratory TIG weld-image experiments: MobileNet, DINOv3, V-JEPA W1-W3, I-JEPA W4, and grouped evaluation evidence.]]></title>
-        <id>https://github.com/RitwijParmar/autonoweld-weld-quality-research</id>
-        <link href="https://github.com/RitwijParmar/autonoweld-weld-quality-research"/>
-        <updated>2026-10-22T02:25:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88580521?u=888ca32287cefdee168c96eed4541ee8888d8467&v=4" width="64" height="64" alt=""/><br/><div>Reproducible exploratory TIG weld-image experiments: MobileNet, DINOv3, V-JEPA W1-W3, I-JEPA W4, and grouped evaluation evidence.</div>]]></content>
+        <title type="html"><![CDATA[loanhviet/DeepSatModels-DINOv3]]></title>
+        <id>https://github.com/loanhviet/DeepSatModels-DINOv3</id>
+        <link href="https://github.com/loanhviet/DeepSatModels-DINOv3"/>
+        <updated>2026-10-22T23:58:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/188012467?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>RitwijParmar</name>
-            <email>RitwijParmar@noreply.github.com</email>
-            <uri>https://github.com/RitwijParmar</uri>
+            <name>loanhviet</name>
+            <email>loanhviet@noreply.github.com</email>
+            <uri>https://github.com/loanhviet</uri>
         </author>
-        <published>2026-10-22T01:56:27.000Z</published>
+        <published>2026-10-18T01:23:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vuvandat109/TF-C-DINOv3: Thay thế hai Encoder của TF-C bằng DINOv3]]></title>
+        <id>https://github.com/vuvandat109/TF-C-DINOv3</id>
+        <link href="https://github.com/vuvandat109/TF-C-DINOv3"/>
+        <updated>2026-10-22T21:03:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/282931392?v=4" width="64" height="64" alt=""/><br/><div>Thay thế hai Encoder của TF-C bằng DINOv3</div>]]></content>
+        <author>
+            <name>vuvandat109</name>
+            <email>vuvandat109@noreply.github.com</email>
+            <uri>https://github.com/vuvandat109</uri>
+        </author>
+        <published>2026-10-18T06:34:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pardesline/pardesline: 3D vision and medical imaging in one Python package: 73 algorithms, 43 datasets in one line, Open3D / SimpleITK / PyVista, MCP server for AI agents]]></title>
+        <id>https://github.com/pardesline/pardesline</id>
+        <link href="https://github.com/pardesline/pardesline"/>
+        <updated>2026-10-22T18:20:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/340713250?v=4" width="64" height="64" alt=""/><br/><div>3D vision and medical imaging in one Python package: 73 algorithms, 43 datasets in one line, Open3D / SimpleITK / PyVista, MCP server for AI agents</div>]]></content>
+        <author>
+            <name>pardesline</name>
+            <email>pardesline@noreply.github.com</email>
+            <uri>https://github.com/pardesline</uri>
+        </author>
+        <published>2026-10-10T18:53:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KangaOnGit/Pedestrian_Attribute_Recognition-UPAR2027: PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted ROI-MoE achieved 64.4% Challenge Average on the hidden test set.]]></title>
+        <id>https://github.com/KangaOnGit/Pedestrian_Attribute_Recognition-UPAR2027</id>
+        <link href="https://github.com/KangaOnGit/Pedestrian_Attribute_Recognition-UPAR2027"/>
+        <updated>2026-10-23T01:38:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/171163677?u=c212ad46d993557cef050db4b0835e6487456a3e&v=4" width="64" height="64" alt=""/><br/><div>PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted ROI-MoE achieved 64.4% Challenge Average on the hidden test set.</div>]]></content>
+        <author>
+            <name>KangaOnGit</name>
+            <email>KangaOnGit@noreply.github.com</email>
+            <uri>https://github.com/KangaOnGit</uri>
+        </author>
+        <published>2026-09-23T21:32:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PYBEARC/inside-dinov3-patch-embeddings]]></title>
+        <id>https://github.com/PYBEARC/inside-dinov3-patch-embeddings</id>
+        <link href="https://github.com/PYBEARC/inside-dinov3-patch-embeddings"/>
+        <updated>2026-10-22T21:03:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145388508?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>PYBEARC</name>
+            <email>PYBEARC@noreply.github.com</email>
+            <uri>https://github.com/PYBEARC</uri>
+        </author>
+        <published>2026-10-22T15:19:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-Hooshanfar/OpenVAM: [WACV2027] OpenVAM: An explainable visual attention framework combining saliency prediction and vision-language models to understand where humans look, what attracts attention, and why.]]></title>
+        <id>https://github.com/K-Hooshanfar/OpenVAM</id>
+        <link href="https://github.com/K-Hooshanfar/OpenVAM"/>
+        <updated>2026-10-22T14:34:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/83825004?u=cb96e41bcde193a007659a733bb13fe77cc31cdd&v=4" width="64" height="64" alt=""/><br/><div>[WACV2027] OpenVAM: An explainable visual attention framework combining saliency prediction and vision-language models to understand where humans look, what attracts attention, and why.</div>]]></content>
+        <author>
+            <name>K-Hooshanfar</name>
+            <email>K-Hooshanfar@noreply.github.com</email>
+            <uri>https://github.com/K-Hooshanfar</uri>
+        </author>
+        <published>2026-06-13T08:56:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.]]></title>
+        <id>https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation</id>
+        <link href="https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation"/>
+        <updated>2026-10-22T13:35:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>]]></content>
+        <author>
+            <name>PINTO0309</name>
+            <email>PINTO0309@noreply.github.com</email>
+            <uri>https://github.com/PINTO0309</uri>
+        </author>
+        <published>2026-09-12T23:00:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[canberkandemir/forest-drones: Finding People Under Dense Vegetation with DINOv3]]></title>
+        <id>https://github.com/canberkandemir/forest-drones</id>
+        <link href="https://github.com/canberkandemir/forest-drones"/>
+        <updated>2026-10-22T13:03:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/207846407?v=4" width="64" height="64" alt=""/><br/><div>Finding People Under Dense Vegetation with DINOv3</div>]]></content>
+        <author>
+            <name>canberkandemir</name>
+            <email>canberkandemir@noreply.github.com</email>
+            <uri>https://github.com/canberkandemir</uri>
+        </author>
+        <published>2026-10-22T11:07:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sahmedAdnan/biocluster: A modular, reproducible pipeline that tests whether biological images can be grouped by species without training labels. It extracts features using foundation models, runs multiple unsupervised clustering methods, and evaluates clustering quality using ground-truth species labels. It also helps to annotate the clusters using BioCLIP-2]]></title>
+        <id>https://github.com/sahmedAdnan/biocluster</id>
+        <link href="https://github.com/sahmedAdnan/biocluster"/>
+        <updated>2026-10-22T11:44:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121240366?v=4" width="64" height="64" alt=""/><br/><div>A modular, reproducible pipeline that tests whether biological images can be grouped by species without training labels. It extracts features using foundation models, runs multiple unsupervised clustering methods, and evaluates clustering quality using ground-truth species labels. It also helps to annotate the clusters using BioCLIP-2</div>]]></content>
+        <author>
+            <name>sahmedAdnan</name>
+            <email>sahmedAdnan@noreply.github.com</email>
+            <uri>https://github.com/sahmedAdnan</uri>
+        </author>
+        <published>2026-10-04T00:03:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/EdgeCrafter: [TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/EdgeCrafter</id>
+        <link href="https://github.com/Intellindust-AI-Lab/EdgeCrafter"/>
+        <updated>2026-10-22T10:50:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation</div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2026-03-16T10:28:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ]]></title>
+        <id>https://github.com/Intellindust-AI-Lab/DEIMv2</id>
+        <link href="https://github.com/Intellindust-AI-Lab/DEIMv2"/>
+        <updated>2026-10-22T14:33:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/222131206?v=4" width="64" height="64" alt=""/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>]]></content>
+        <author>
+            <name>Intellindust-AI-Lab</name>
+            <email>Intellindust-AI-Lab@noreply.github.com</email>
+            <uri>https://github.com/Intellindust-AI-Lab</uri>
+        </author>
+        <published>2025-09-19T02:27:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qinhy/Ternary-DINOv3]]></title>
+        <id>https://github.com/qinhy/Ternary-DINOv3</id>
+        <link href="https://github.com/qinhy/Ternary-DINOv3"/>
+        <updated>2026-10-22T09:00:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>qinhy</name>
+            <email>qinhy@noreply.github.com</email>
+            <uri>https://github.com/qinhy</uri>
+        </author>
+        <published>2026-07-21T05:15:37.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
         <id>https://github.com/ganzijie1/dongzhou</id>
         <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-10-21T21:21:32.000Z</updated>
+        <updated>2026-10-22T08:24:48.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
         <author>
             <name>ganzijie1</name>
@@ -45,6 +188,71 @@
             <uri>https://github.com/ganzijie1</uri>
         </author>
         <published>2026-08-13T05:30:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features]]></title>
+        <id>https://github.com/Ram21275/tesseract-pose-speedplus</id>
+        <link href="https://github.com/Ram21275/tesseract-pose-speedplus"/>
+        <updated>2026-10-22T06:16:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108638916?v=4" width="64" height="64" alt=""/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>]]></content>
+        <author>
+            <name>Ram21275</name>
+            <email>Ram21275@noreply.github.com</email>
+            <uri>https://github.com/Ram21275</uri>
+        </author>
+        <published>2026-10-08T17:33:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TylerRust-1/SALT-DINOv3]]></title>
+        <id>https://github.com/TylerRust-1/SALT-DINOv3</id>
+        <link href="https://github.com/TylerRust-1/SALT-DINOv3"/>
+        <updated>2026-10-22T21:03:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/17938877?u=a228f917a6577617b8ffb3994192ec7acfb964af&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>TylerRust-1</name>
+            <email>TylerRust-1@noreply.github.com</email>
+            <uri>https://github.com/TylerRust-1</uri>
+        </author>
+        <published>2026-10-22T06:01:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).]]></title>
+        <id>https://github.com/wlejon/brovisionml</id>
+        <link href="https://github.com/wlejon/brovisionml"/>
+        <updated>2026-10-22T05:42:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4" width="64" height="64" alt=""/><br/><div>Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).</div>]]></content>
+        <author>
+            <name>wlejon</name>
+            <email>wlejon@noreply.github.com</email>
+            <uri>https://github.com/wlejon</uri>
+        </author>
+        <published>2026-05-31T17:50:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haojiakun/DINOv3-Ecommerce-Retrieval]]></title>
+        <id>https://github.com/Haojiakun/DINOv3-Ecommerce-Retrieval</id>
+        <link href="https://github.com/Haojiakun/DINOv3-Ecommerce-Retrieval"/>
+        <updated>2026-10-22T21:03:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/329805817?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Haojiakun</name>
+            <email>Haojiakun@noreply.github.com</email>
+            <uri>https://github.com/Haojiakun</uri>
+        </author>
+        <published>2026-10-22T05:31:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiegoFigarella/waste-classification: DINOv3 + PEFT/LoRA trained over the tacodataset to classify waste materials in the wild.]]></title>
+        <id>https://github.com/DiegoFigarella/waste-classification</id>
+        <link href="https://github.com/DiegoFigarella/waste-classification"/>
+        <updated>2026-10-22T03:45:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/141530457?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 + PEFT/LoRA trained over the tacodataset to classify waste materials in the wild.</div>]]></content>
+        <author>
+            <name>DiegoFigarella</name>
+            <email>DiegoFigarella@noreply.github.com</email>
+            <uri>https://github.com/DiegoFigarella</uri>
+        </author>
+        <published>2026-10-16T16:20:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[tester170/skyscapes-convnext-upernet: DINOv3 ConvNeXt-B + UPerNet для DLR SkyScapes-Dense (MMSegmentation 1.2.2): модель, код и блокнот Colab для инференса и дообучения на своих данных]]></title>
@@ -58,213 +266,5 @@
             <uri>https://github.com/tester170</uri>
         </author>
         <published>2026-10-20T19:53:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenPhoenix-Team/Phoenix-Encoder: Multi-teacher visual encoder pretraining with DINOv3, VGGT-Ω and V-JEPA 2.1, including LeRobot v3 sampling, EMA and export.]]></title>
-        <id>https://github.com/OpenPhoenix-Team/Phoenix-Encoder</id>
-        <link href="https://github.com/OpenPhoenix-Team/Phoenix-Encoder"/>
-        <updated>2026-10-21T16:12:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/324407157?v=4" width="64" height="64" alt=""/><br/><div>Multi-teacher visual encoder pretraining with DINOv3, VGGT-Ω and V-JEPA 2.1, including LeRobot v3 sampling, EMA and export.</div>]]></content>
-        <author>
-            <name>OpenPhoenix-Team</name>
-            <email>OpenPhoenix-Team@noreply.github.com</email>
-            <uri>https://github.com/OpenPhoenix-Team</uri>
-        </author>
-        <published>2026-10-21T15:23:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.]]></title>
-        <id>https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation</id>
-        <link href="https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation"/>
-        <updated>2026-10-21T12:50:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>]]></content>
-        <author>
-            <name>PINTO0309</name>
-            <email>PINTO0309@noreply.github.com</email>
-            <uri>https://github.com/PINTO0309</uri>
-        </author>
-        <published>2026-09-12T23:00:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bach0823/sage_dinov3]]></title>
-        <id>https://github.com/bach0823/sage_dinov3</id>
-        <link href="https://github.com/bach0823/sage_dinov3"/>
-        <updated>2026-10-21T10:38:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/142864414?u=e1b729703c3fdc55563f3961809ecae5b20afb72&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>bach0823</name>
-            <email>bach0823@noreply.github.com</email>
-            <uri>https://github.com/bach0823</uri>
-        </author>
-        <published>2026-10-19T17:48:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhuwenmao/snowlabel: ❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.]]></title>
-        <id>https://github.com/zhuwenmao/snowlabel</id>
-        <link href="https://github.com/zhuwenmao/snowlabel"/>
-        <updated>2026-10-22T01:31:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192683467?u=40a5e281bb422ba8d25f920d1c5f2586acb832fc&v=4" width="64" height="64" alt=""/><br/><div>❄️ Progressive auto-labeling that snowballs: teach an object once and a DINOv3 + SAM + Milvus vector memory pre-fills every similar object next. The model never re-trains - it just remembers.</div>]]></content>
-        <author>
-            <name>zhuwenmao</name>
-            <email>zhuwenmao@noreply.github.com</email>
-            <uri>https://github.com/zhuwenmao</uri>
-        </author>
-        <published>2026-06-27T07:56:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[junyi2005/signDEG: SignDEG (DINO Eats Geometry): Self-Supervised Sign Representations that Absorb Articulated Hand Geometry]]></title>
-        <id>https://github.com/junyi2005/signDEG</id>
-        <link href="https://github.com/junyi2005/signDEG"/>
-        <updated>2026-10-21T18:20:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/214130794?v=4" width="64" height="64" alt=""/><br/><div>SignDEG (DINO Eats Geometry): Self-Supervised Sign Representations that Absorb Articulated Hand Geometry</div>]]></content>
-        <author>
-            <name>junyi2005</name>
-            <email>junyi2005@noreply.github.com</email>
-            <uri>https://github.com/junyi2005</uri>
-        </author>
-        <published>2026-09-05T18:48:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qinhy/Ternary-DINOv3]]></title>
-        <id>https://github.com/qinhy/Ternary-DINOv3</id>
-        <link href="https://github.com/qinhy/Ternary-DINOv3"/>
-        <updated>2026-10-21T19:59:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>qinhy</name>
-            <email>qinhy@noreply.github.com</email>
-            <uri>https://github.com/qinhy</uri>
-        </author>
-        <published>2026-07-21T05:15:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lewjae/dinov3_multiheads]]></title>
-        <id>https://github.com/lewjae/dinov3_multiheads</id>
-        <link href="https://github.com/lewjae/dinov3_multiheads"/>
-        <updated>2026-10-21T20:18:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2567400?u=5419ba3d8c4d6b8051a946e0c8e3cb10ed062e55&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>lewjae</name>
-            <email>lewjae@noreply.github.com</email>
-            <uri>https://github.com/lewjae</uri>
-        </author>
-        <published>2026-10-20T21:03:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[michalprusek/Exemplar: Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.]]></title>
-        <id>https://github.com/michalprusek/Exemplar</id>
-        <link href="https://github.com/michalprusek/Exemplar"/>
-        <updated>2026-10-21T17:49:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4" width="64" height="64" alt=""/><br/><div>Few-shot biomedical segmentation that refits exactly in seconds: a closed-form readout of frozen DINOv3 features and classical priors. ISBI 2027 reference implementation.</div>]]></content>
-        <author>
-            <name>michalprusek</name>
-            <email>michalprusek@noreply.github.com</email>
-            <uri>https://github.com/michalprusek</uri>
-        </author>
-        <published>2026-07-22T14:40:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pelmen535/FalconTech: Поиск автомобилей без госномера: DINOv3 ViT-L/16 + ResNet50-IBN/GeM, top-10 и отказ при низкой уверенности. Веб-сервис, HTTP API и офлайн CLI. Linux / RTX A5000. Команда «Скованные одной цепью».]]></title>
-        <id>https://github.com/Pelmen535/FalconTech</id>
-        <link href="https://github.com/Pelmen535/FalconTech"/>
-        <updated>2026-10-21T19:55:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/279727072?u=79e7db4c046669e4da1c1c818a20b05203295bf7&v=4" width="64" height="64" alt=""/><br/><div>Поиск автомобилей без госномера: DINOv3 ViT-L/16 + ResNet50-IBN/GeM, top-10 и отказ при низкой уверенности. Веб-сервис, HTTP API и офлайн CLI. Linux / RTX A5000. Команда «Скованные одной цепью».</div>]]></content>
-        <author>
-            <name>Pelmen535</name>
-            <email>Pelmen535@noreply.github.com</email>
-            <uri>https://github.com/Pelmen535</uri>
-        </author>
-        <published>2026-09-13T15:28:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lewis-26/sage_dinov3]]></title>
-        <id>https://github.com/Lewis-26/sage_dinov3</id>
-        <link href="https://github.com/Lewis-26/sage_dinov3"/>
-        <updated>2026-10-21T20:18:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64066084?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Lewis-26</name>
-            <email>Lewis-26@noreply.github.com</email>
-            <uri>https://github.com/Lewis-26</uri>
-        </author>
-        <published>2026-10-19T22:41:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kkubuck/HFGF-DINOv3: [Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.]]></title>
-        <id>https://github.com/Kkubuck/HFGF-DINOv3</id>
-        <link href="https://github.com/Kkubuck/HFGF-DINOv3"/>
-        <updated>2026-10-21T19:50:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/98447471?u=f7be839d25c591f1cf492e562a60f59f586e6eec&v=4" width="64" height="64" alt=""/><br/><div>[Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.</div>]]></content>
-        <author>
-            <name>Kkubuck</name>
-            <email>Kkubuck@noreply.github.com</email>
-            <uri>https://github.com/Kkubuck</uri>
-        </author>
-        <published>2026-10-20T14:32:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nousphera/SDAPT: Domain Adaptive Pretraining in Split Learning for Vision Foundation Models]]></title>
-        <id>https://github.com/Nousphera/SDAPT</id>
-        <link href="https://github.com/Nousphera/SDAPT"/>
-        <updated>2026-10-21T18:30:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/219298848?v=4" width="64" height="64" alt=""/><br/><div>Domain Adaptive Pretraining in Split Learning for Vision Foundation Models</div>]]></content>
-        <author>
-            <name>Nousphera</name>
-            <email>Nousphera@noreply.github.com</email>
-            <uri>https://github.com/Nousphera</uri>
-        </author>
-        <published>2026-10-06T08:25:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rosota-Research/instrument-mounted-demonstrations-in-vivo: Project page: From Instrument-Mounted Demonstrations to In-Vivo Execution: Learning Bimanual Laparoscopic Appendectomy Without Robot-Collected Demonstrations (arXiv:2609.25625)]]></title>
-        <id>https://github.com/Rosota-Research/instrument-mounted-demonstrations-in-vivo</id>
-        <link href="https://github.com/Rosota-Research/instrument-mounted-demonstrations-in-vivo"/>
-        <updated>2026-10-20T12:03:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/288882878?v=4" width="64" height="64" alt=""/><br/><div>Project page: From Instrument-Mounted Demonstrations to In-Vivo Execution: Learning Bimanual Laparoscopic Appendectomy Without Robot-Collected Demonstrations (arXiv:2609.25625)</div>]]></content>
-        <author>
-            <name>Rosota-Research</name>
-            <email>Rosota-Research@noreply.github.com</email>
-            <uri>https://github.com/Rosota-Research</uri>
-        </author>
-        <published>2026-10-20T09:03:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[veliunusdu/DINOv3]]></title>
-        <id>https://github.com/veliunusdu/DINOv3</id>
-        <link href="https://github.com/veliunusdu/DINOv3"/>
-        <updated>2026-10-20T07:39:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/123100980?u=a0a31fa38ea181de5d0c01ed426b3c60f73df587&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>veliunusdu</name>
-            <email>veliunusdu@noreply.github.com</email>
-            <uri>https://github.com/veliunusdu</uri>
-        </author>
-        <published>2026-10-10T07:56:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chaoqunWang666/MVPI: Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.]]></title>
-        <id>https://github.com/chaoqunWang666/MVPI</id>
-        <link href="https://github.com/chaoqunWang666/MVPI"/>
-        <updated>2026-10-21T19:40:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/72801634?u=12bcc66fd6c7a7c1ab8a3dc0baecdee7adb16265&v=4" width="64" height="64" alt=""/><br/><div>Official implementation of Multi-view Patch Inference (MVPI) with frozen DINOv3 for industrial anomaly detection.</div>]]></content>
-        <author>
-            <name>chaoqunWang666</name>
-            <email>chaoqunWang666@noreply.github.com</email>
-            <uri>https://github.com/chaoqunWang666</uri>
-        </author>
-        <published>2026-10-20T01:14:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[benjamin3773/trm-1b-pilot-evidence: Archived DINOv3 pilot records and reproducible evidence audit for TRM Assignment 1B. No source imagery or precise locations.]]></title>
-        <id>https://github.com/benjamin3773/trm-1b-pilot-evidence</id>
-        <link href="https://github.com/benjamin3773/trm-1b-pilot-evidence"/>
-        <updated>2026-10-20T02:29:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/106000550?v=4" width="64" height="64" alt=""/><br/><div>Archived DINOv3 pilot records and reproducible evidence audit for TRM Assignment 1B. No source imagery or precise locations.</div>]]></content>
-        <author>
-            <name>benjamin3773</name>
-            <email>benjamin3773@noreply.github.com</email>
-            <uri>https://github.com/benjamin3773</uri>
-        </author>
-        <published>2026-10-20T02:27:38.000Z</published>
     </entry>
 </feed>
