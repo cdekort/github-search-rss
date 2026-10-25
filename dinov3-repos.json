@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-24T03:35:06.000Z",
+            "date_modified": "2026-10-25T03:28:56.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
@@ -17,21 +17,120 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199460020?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Face spoofing detection project for classifying real and presentation-attack face images across six classes. Uses DINOv3, ConvNeXt, FSFM, dual-view preprocessing, TTA, ensemble fusion, and dataset cleaning with DINOv3 embeddings.</div>",
-            "url": "https://github.com/Ditt-A/Face-Spoofing-Detection",
-            "title": "Ditt-A/Face-Spoofing-Detection: Face spoofing detection project for classifying real and presentation-attack face images across six classes. Uses DINOv3, ConvNeXt, FSFM, dual-view preprocessing, TTA, ensemble fusion, and dataset cleaning with DINOv3 embeddings.",
-            "date_modified": "2026-10-24T03:26:23.000Z",
-            "date_published": "2026-05-09T11:50:58.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/332538510?u=46df0786afcfc2ca6e10ec34fde97dbe75044607&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find every cut in a video, fix the ones a frame off, pick the scenes you want and export them as clips, natively in ComfyUI: OmniShotCut detection, DINOv3 validation, frame-exact.</div>",
+            "url": "https://github.com/PedroMarinhoDev/ComfyUI-SceneCut",
+            "title": "PedroMarinhoDev/ComfyUI-SceneCut: Find every cut in a video, fix the ones a frame off, pick the scenes you want and export them as clips, natively in ComfyUI: OmniShotCut detection, DINOv3 validation, frame-exact.",
+            "date_modified": "2026-10-25T03:06:54.000Z",
+            "date_published": "2026-10-16T16:06:12.000Z",
             "author": {
-                "name": "Ditt-A",
-                "url": "https://github.com/Ditt-A"
+                "name": "PedroMarinhoDev",
+                "url": "https://github.com/PedroMarinhoDev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
+            "url": "https://github.com/ganzijie1/dongzhou",
+            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
+            "date_modified": "2026-10-24T23:01:34.000Z",
+            "date_published": "2026-08-13T05:30:19.000Z",
+            "author": {
+                "name": "ganzijie1",
+                "url": "https://github.com/ganzijie1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124628936?u=9127f46bd94ee27cf24e3e4f1d239d67ab806c6c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ARTEMIS V3 · iluminação pública conferida poste a poste, com IA (mira no poste + DINOv3). Projeto desenvolvido para a EDP.</div>",
+            "url": "https://github.com/devcabo/artemis-v3",
+            "title": "devcabo/artemis-v3: ARTEMIS V3 · iluminação pública conferida poste a poste, com IA (mira no poste + DINOv3). Projeto desenvolvido para a EDP.",
+            "date_modified": "2026-10-24T20:54:31.000Z",
+            "date_published": "2026-10-24T20:48:56.000Z",
+            "author": {
+                "name": "devcabo",
+                "url": "https://github.com/devcabo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-10-24T19:28:16.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177523676?u=a6335f82aa567da11b1ef174652d6879be6daa40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RSNA knee MRI (Kaggle): 12 abnormalities, AUROC 0.942 public / 0.928 private. Only 58 of 4,407 studies had image labels, so labels came from reports in 9 languages via LLMs + MedGemma, refined by OOF teachers. ConvNeXt, DINOv3, SwinV2, MRI-CORE and MedImageInsight ensembles read up to 96 sagittal, coronal, axial slices; trained on H100/H200s.</div>",
+            "url": "https://github.com/mamounyosef/knee-abnormality-detection",
+            "title": "mamounyosef/knee-abnormality-detection: RSNA knee MRI (Kaggle): 12 abnormalities, AUROC 0.942 public / 0.928 private. Only 58 of 4,407 studies had image labels, so labels came from reports in 9 languages via LLMs + MedGemma, refined by OOF teachers. ConvNeXt, DINOv3, SwinV2, MRI-CORE and MedImageInsight ensembles read up to 96 sagittal, coronal, axial slices; trained on H100/H200s.",
+            "date_modified": "2026-10-24T17:59:22.000Z",
+            "date_published": "2026-08-12T16:44:00.000Z",
+            "author": {
+                "name": "mamounyosef",
+                "url": "https://github.com/mamounyosef"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158178649?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/VU-TRUONG-AI/CA-TCC-vs-DINOv3",
+            "title": "VU-TRUONG-AI/CA-TCC-vs-DINOv3",
+            "date_modified": "2026-10-24T16:45:06.000Z",
+            "date_published": "2026-10-18T10:26:16.000Z",
+            "author": {
+                "name": "VU-TRUONG-AI",
+                "url": "https://github.com/VU-TRUONG-AI"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
+            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
+            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
+            "date_modified": "2026-10-24T14:28:35.000Z",
+            "date_published": "2026-09-12T23:00:51.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139604720?u=30f9bb12aa5a80fb28891cee2da4fdb158413d43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[NeurIPS'26] RiSE: Residual Subspace Experts for Text-Centric Image Forgery Localization</div>",
+            "url": "https://github.com/KahimWong/RiSE",
+            "title": "KahimWong/RiSE: [NeurIPS'26] RiSE: Residual Subspace Experts for Text-Centric Image Forgery Localization",
+            "date_modified": "2026-10-24T13:45:24.000Z",
+            "date_published": "2026-10-16T06:50:36.000Z",
+            "author": {
+                "name": "KahimWong",
+                "url": "https://github.com/KahimWong"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73996375?u=f68e6eb46b5e7209e81f5d22ceb424a4a54b5cdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A DINOv3-Driven Framework with Multiscale Adaptation and Boundary Refinement for Martian Slope Streak Change Detection</div>",
+            "url": "https://github.com/long123524/DMBNet",
+            "title": "long123524/DMBNet: A DINOv3-Driven Framework with Multiscale Adaptation and Boundary Refinement for Martian Slope Streak Change Detection",
+            "date_modified": "2026-10-24T12:39:49.000Z",
+            "date_published": "2026-09-21T05:18:42.000Z",
+            "author": {
+                "name": "long123524",
+                "url": "https://github.com/long123524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207846407?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Finding People Under Dense Vegetation with DINOv3</div>",
+            "url": "https://github.com/canberkandemir/forest-drones",
+            "title": "canberkandemir/forest-drones: Finding People Under Dense Vegetation with DINOv3",
+            "date_modified": "2026-10-24T09:07:06.000Z",
+            "date_published": "2026-10-22T11:07:28.000Z",
+            "author": {
+                "name": "canberkandemir",
+                "url": "https://github.com/canberkandemir"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88951683?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>2nd place (0.8017, 2nd of 89 entries), UPAR 2027 Challenge Track 1, pedestrian attribute recognition. Fine-tuned DINOv3, DINOv2 and C-RADIOv4 ensembles with suspect-label masking, int8 weights, 5-minute GPU budget.</div>",
             "url": "https://github.com/nguyennhan2006/WACV_UPAR_track1",
             "title": "nguyennhan2006/WACV_UPAR_track1: 2nd place (0.8017, 2nd of 89 entries), UPAR 2027 Challenge Track 1, pedestrian attribute recognition. Fine-tuned DINOv3, DINOv2 and C-RADIOv4 ensembles with suspect-label masking, int8 weights, 5-minute GPU budget.",
-            "date_modified": "2026-10-24T03:23:28.000Z",
+            "date_modified": "2026-10-24T05:43:24.000Z",
             "date_published": "2026-10-24T03:23:17.000Z",
             "author": {
                 "name": "nguyennhan2006",
@@ -39,14 +138,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
-            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
-            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
-            "date_modified": "2026-10-24T03:05:41.000Z",
-            "date_published": "2026-09-12T23:00:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)</div>",
+            "url": "https://github.com/meiiie/tgmt-de12-video-image-search",
+            "title": "meiiie/tgmt-de12-video-image-search: Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)",
+            "date_modified": "2026-10-24T05:19:33.000Z",
+            "date_published": "2026-10-23T13:21:28.000Z",
             "author": {
-                "name": "PINTO0309",
-                "url": "https://github.com/PINTO0309"
+                "name": "meiiie",
+                "url": "https://github.com/meiiie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/203743432?u=3f33cdbe5dfe5b7d4e1babcd9e7acf21b77696a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Frozen DINOv3-L + PMT-L trained from scratch on COCONut-L: weights, reproducible training, native whole-image inference and evaluation.</div>",
+            "url": "https://github.com/Alcohol1322/pmt-dinov3-coconut-l",
+            "title": "Alcohol1322/pmt-dinov3-coconut-l: Frozen DINOv3-L + PMT-L trained from scratch on COCONut-L: weights, reproducible training, native whole-image inference and evaluation.",
+            "date_modified": "2026-10-24T04:56:37.000Z",
+            "date_published": "2026-10-23T13:01:43.000Z",
+            "author": {
+                "name": "Alcohol1322",
+                "url": "https://github.com/Alcohol1322"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199460020?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Face spoofing detection project for classifying real and presentation-attack face images across six classes. Uses DINOv3, ConvNeXt, FSFM, dual-view preprocessing, TTA, ensemble fusion, and dataset cleaning with DINOv3 embeddings.</div>",
+            "url": "https://github.com/Ditt-A/Face-Spoofing-Detection",
+            "title": "Ditt-A/Face-Spoofing-Detection: Face spoofing detection project for classifying real and presentation-attack face images across six classes. Uses DINOv3, ConvNeXt, FSFM, dual-view preprocessing, TTA, ensemble fusion, and dataset cleaning with DINOv3 embeddings.",
+            "date_modified": "2026-10-24T03:51:36.000Z",
+            "date_published": "2026-05-09T11:50:58.000Z",
+            "author": {
+                "name": "Ditt-A",
+                "url": "https://github.com/Ditt-A"
             }
         },
         {
@@ -64,22 +185,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59510520?u=162a4bfa06c0a4b680f798b88fde6c387ff1895d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Frozen DINOv3 features for Martian terrain segmentation on AI4Mars: notebook, results and figures</div>",
             "url": "https://github.com/gonzaquis29/DinoV3-AI4Mars",
             "title": "gonzaquis29/DinoV3-AI4Mars: Frozen DINOv3 features for Martian terrain segmentation on AI4Mars: notebook, results and figures",
-            "date_modified": "2026-10-24T01:53:32.000Z",
+            "date_modified": "2026-10-24T05:36:14.000Z",
             "date_published": "2026-10-23T21:31:32.000Z",
             "author": {
                 "name": "gonzaquis29",
                 "url": "https://github.com/gonzaquis29"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)</div>",
-            "url": "https://github.com/meiiie/tgmt-de12-video-image-search",
-            "title": "meiiie/tgmt-de12-video-image-search: Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)",
-            "date_modified": "2026-10-24T00:17:09.000Z",
-            "date_published": "2026-10-23T13:21:28.000Z",
-            "author": {
-                "name": "meiiie",
-                "url": "https://github.com/meiiie"
             }
         },
         {
@@ -105,124 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177523676?u=a6335f82aa567da11b1ef174652d6879be6daa40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RSNA knee MRI (Kaggle): 12 abnormalities, AUROC 0.942 public / 0.928 private. Only 58 of 4,407 studies had image labels, so labels came from reports in 9 languages via LLMs + MedGemma, refined by OOF teachers. ConvNeXt, DINOv3, SwinV2, MRI-CORE and MedImageInsight ensembles read up to 96 sagittal, coronal, axial slices; trained on H100/H200s.</div>",
-            "url": "https://github.com/mamounyosef/knee-abnormality-detection",
-            "title": "mamounyosef/knee-abnormality-detection: RSNA knee MRI (Kaggle): 12 abnormalities, AUROC 0.942 public / 0.928 private. Only 58 of 4,407 studies had image labels, so labels came from reports in 9 languages via LLMs + MedGemma, refined by OOF teachers. ConvNeXt, DINOv3, SwinV2, MRI-CORE and MedImageInsight ensembles read up to 96 sagittal, coronal, axial slices; trained on H100/H200s.",
-            "date_modified": "2026-10-23T20:00:32.000Z",
-            "date_published": "2026-08-12T16:44:00.000Z",
-            "author": {
-                "name": "mamounyosef",
-                "url": "https://github.com/mamounyosef"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).</div>",
-            "url": "https://github.com/wlejon/brovisionml",
-            "title": "wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).",
-            "date_modified": "2026-10-23T18:09:19.000Z",
-            "date_published": "2026-05-31T17:50:51.000Z",
-            "author": {
-                "name": "wlejon",
-                "url": "https://github.com/wlejon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182646617?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hdminh279/tsvit-dinov3-backup",
-            "title": "hdminh279/tsvit-dinov3-backup",
-            "date_modified": "2026-10-23T15:12:11.000Z",
-            "date_published": "2026-10-17T14:08:17.000Z",
-            "author": {
-                "name": "hdminh279",
-                "url": "https://github.com/hdminh279"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>",
-            "url": "https://github.com/Trudes808/Dinov3-WhaleID",
-            "title": "Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task",
-            "date_modified": "2026-10-23T14:21:46.000Z",
-            "date_published": "2025-12-19T00:23:18.000Z",
-            "author": {
-                "name": "Trudes808",
-                "url": "https://github.com/Trudes808"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/203743432?u=3f33cdbe5dfe5b7d4e1babcd9e7acf21b77696a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Frozen DINOv3-L + PMT-L trained from scratch on COCONut-L: weights, reproducible training, native whole-image inference and evaluation.</div>",
-            "url": "https://github.com/Alcohol1322/pmt-dinov3-coconut-l",
-            "title": "Alcohol1322/pmt-dinov3-coconut-l: Frozen DINOv3-L + PMT-L trained from scratch on COCONut-L: weights, reproducible training, native whole-image inference and evaluation.",
-            "date_modified": "2026-10-23T13:11:55.000Z",
-            "date_published": "2026-10-23T13:01:43.000Z",
-            "author": {
-                "name": "Alcohol1322",
-                "url": "https://github.com/Alcohol1322"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124426080?u=a1ef9731e29aa1d05514d3f416d202dc4c245db1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local node-based computer-vision inference workbench: YOLO, RF-DETR, DINOv3, Grounding DINO, SAM 1/2/3, feature change detection, Public Hub experiments</div>",
             "url": "https://github.com/avinash064/vision-inference-studio",
             "title": "avinash064/vision-inference-studio: Local node-based computer-vision inference workbench: YOLO, RF-DETR, DINOv3, Grounding DINO, SAM 1/2/3, feature change detection, Public Hub experiments",
-            "date_modified": "2026-10-23T16:03:24.000Z",
+            "date_modified": "2026-10-24T05:36:27.000Z",
             "date_published": "2026-10-16T07:18:15.000Z",
             "author": {
                 "name": "avinash064",
                 "url": "https://github.com/avinash064"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237911695?u=adc438616b8824d6ccc43d67b9bb81c54f6f127a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered railway component identification using 2D image-to-3D reference retrieval, comparing DINOv3, SigLIP, and C-RADIOv4 with open-set recognition and visual defect screening.</div>",
-            "url": "https://github.com/purvivagarwal/2D-image-to-3D",
-            "title": "purvivagarwal/2D-image-to-3D: AI-powered railway component identification using 2D image-to-3D reference retrieval, comparing DINOv3, SigLIP, and C-RADIOv4 with open-set recognition and visual defect screening.",
-            "date_modified": "2026-10-23T17:03:01.000Z",
-            "date_published": "2026-10-23T10:19:26.000Z",
-            "author": {
-                "name": "purvivagarwal",
-                "url": "https://github.com/purvivagarwal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222131206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[DEIMv2] Real Time Object Detection Meets DINOv3 </div>",
-            "url": "https://github.com/Intellindust-AI-Lab/DEIMv2",
-            "title": "Intellindust-AI-Lab/DEIMv2: [DEIMv2] Real Time Object Detection Meets DINOv3 ",
-            "date_modified": "2026-10-23T10:47:20.000Z",
-            "date_published": "2025-09-19T02:27:19.000Z",
-            "author": {
-                "name": "Intellindust-AI-Lab",
-                "url": "https://github.com/Intellindust-AI-Lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119148605?u=a8e4d9dd15152ad259054a49218c4f0a15b8521e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A medical imaging machine learning project for detecting 12 knee abnormalities from MRI studies using DINOv3 feature extraction and supervised classification. Explores model comparison, cross-validation, class imbalance, threshold optimization, and performance evaluation using the RSNA Knee Abnormality Detection Kaggle competition.</div>",
-            "url": "https://github.com/harishmaduraimani/rsna-knee_abnormality_detection",
-            "title": "harishmaduraimani/rsna-knee_abnormality_detection: A medical imaging machine learning project for detecting 12 knee abnormalities from MRI studies using DINOv3 feature extraction and supervised classification. Explores model comparison, cross-validation, class imbalance, threshold optimization, and performance evaluation using the RSNA Knee Abnormality Detection Kaggle competition.",
-            "date_modified": "2026-10-23T10:14:32.000Z",
-            "date_published": "2026-10-23T10:09:42.000Z",
-            "author": {
-                "name": "harishmaduraimani",
-                "url": "https://github.com/harishmaduraimani"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
-            "url": "https://github.com/ganzijie1/dongzhou",
-            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
-            "date_modified": "2026-10-23T08:28:37.000Z",
-            "date_published": "2026-08-13T05:30:19.000Z",
-            "author": {
-                "name": "ganzijie1",
-                "url": "https://github.com/ganzijie1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/282931392?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Thay thế hai Encoder của TF-C bằng DINOv3</div>",
-            "url": "https://github.com/vuvandat109/TF-C-DINOv3",
-            "title": "vuvandat109/TF-C-DINOv3: Thay thế hai Encoder của TF-C bằng DINOv3",
-            "date_modified": "2026-10-23T06:26:10.000Z",
-            "date_published": "2026-10-18T06:34:09.000Z",
-            "author": {
-                "name": "vuvandat109",
-                "url": "https://github.com/vuvandat109"
             }
         }
     ]
