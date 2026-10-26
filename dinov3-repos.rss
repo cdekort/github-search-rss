@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-10-25T03:33:14.466Z</updated>
+    <updated>2026-10-26T03:35:46.929Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[davidackerman/mars_ctx_explorer: Drag-to-select similarity search over Mars CTX / Murray Lab mosaic imagery (DINOv3 + FAISS)]]></title>
+        <id>https://github.com/davidackerman/mars_ctx_explorer</id>
+        <link href="https://github.com/davidackerman/mars_ctx_explorer"/>
+        <updated>2026-10-26T03:35:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19193291?v=4" width="64" height="64" alt=""/><br/><div>Drag-to-select similarity search over Mars CTX / Murray Lab mosaic imagery (DINOv3 + FAISS)</div>]]></content>
+        <author>
+            <name>davidackerman</name>
+            <email>davidackerman@noreply.github.com</email>
+            <uri>https://github.com/davidackerman</uri>
+        </author>
+        <published>2026-09-23T23:50:48.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-10-25T03:28:56.000Z</updated>
+        <updated>2026-10-26T03:31:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -19,6 +32,84 @@
             <uri>https://github.com/tomgrizz</uri>
         </author>
         <published>2026-08-25T14:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
+        <id>https://github.com/ganzijie1/dongzhou</id>
+        <link href="https://github.com/ganzijie1/dongzhou"/>
+        <updated>2026-10-26T02:06:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
+        <author>
+            <name>ganzijie1</name>
+            <email>ganzijie1@noreply.github.com</email>
+            <uri>https://github.com/ganzijie1</uri>
+        </author>
+        <published>2026-08-13T05:30:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RafaelSterzinger/adaptive-cut: Official code for "Where to Cut? Adaptive Thresholds for Density-Ratio Few-Shot Segmentation" — training-free FSS with frozen DINOv3 features.]]></title>
+        <id>https://github.com/RafaelSterzinger/adaptive-cut</id>
+        <link href="https://github.com/RafaelSterzinger/adaptive-cut"/>
+        <updated>2026-10-25T22:11:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39410800?u=87c8a5bd6e70433fe6ce6066ad402e64cab5b598&v=4" width="64" height="64" alt=""/><br/><div>Official code for "Where to Cut? Adaptive Thresholds for Density-Ratio Few-Shot Segmentation" — training-free FSS with frozen DINOv3 features.</div>]]></content>
+        <author>
+            <name>RafaelSterzinger</name>
+            <email>RafaelSterzinger@noreply.github.com</email>
+            <uri>https://github.com/RafaelSterzinger</uri>
+        </author>
+        <published>2026-09-02T13:03:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nguyenphuc210/SOFTSModel-DINOv3]]></title>
+        <id>https://github.com/nguyenphuc210/SOFTSModel-DINOv3</id>
+        <link href="https://github.com/nguyenphuc210/SOFTSModel-DINOv3"/>
+        <updated>2026-10-25T14:06:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180861202?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>nguyenphuc210</name>
+            <email>nguyenphuc210@noreply.github.com</email>
+            <uri>https://github.com/nguyenphuc210</uri>
+        </author>
+        <published>2026-10-18T07:36:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nguyenphuc210/hanoi-pm25-softs-dinov3]]></title>
+        <id>https://github.com/nguyenphuc210/hanoi-pm25-softs-dinov3</id>
+        <link href="https://github.com/nguyenphuc210/hanoi-pm25-softs-dinov3"/>
+        <updated>2026-10-25T08:32:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180861202?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>nguyenphuc210</name>
+            <email>nguyenphuc210@noreply.github.com</email>
+            <uri>https://github.com/nguyenphuc210</uri>
+        </author>
+        <published>2026-10-25T07:13:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnWanHin/Dinov3Lite-Pspnet-Voc21: 24/10/2026]]></title>
+        <id>https://github.com/UnWanHin/Dinov3Lite-Pspnet-Voc21</id>
+        <link href="https://github.com/UnWanHin/Dinov3Lite-Pspnet-Voc21"/>
+        <updated>2026-10-25T14:06:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/232299543?u=631d6646cdf95dc695f9a2d84676d39f45d8d29a&v=4" width="64" height="64" alt=""/><br/><div>24/10/2026</div>]]></content>
+        <author>
+            <name>UnWanHin</name>
+            <email>UnWanHin@noreply.github.com</email>
+            <uri>https://github.com/UnWanHin</uri>
+        </author>
+        <published>2026-10-25T06:16:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tushar-Samal/Housecorr3D-v2: Training-free 3D semantic correspondence: per-view feature matching and a DINOv2/DINOv3/SigLIP2/TIPSv2 backbone comparison on HouseCorr3D. Deep Learning Lab, University of Freiburg.]]></title>
+        <id>https://github.com/Tushar-Samal/Housecorr3D-v2</id>
+        <link href="https://github.com/Tushar-Samal/Housecorr3D-v2"/>
+        <updated>2026-10-25T05:36:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/126678966?v=4" width="64" height="64" alt=""/><br/><div>Training-free 3D semantic correspondence: per-view feature matching and a DINOv2/DINOv3/SigLIP2/TIPSv2 backbone comparison on HouseCorr3D. Deep Learning Lab, University of Freiburg.</div>]]></content>
+        <author>
+            <name>Tushar-Samal</name>
+            <email>Tushar-Samal@noreply.github.com</email>
+            <uri>https://github.com/Tushar-Samal</uri>
+        </author>
+        <published>2026-06-23T12:21:21.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[PedroMarinhoDev/ComfyUI-SceneCut: Find every cut in a video, fix the ones a frame off, pick the scenes you want and export them as clips, natively in ComfyUI: OmniShotCut detection, DINOv3 validation, frame-exact.]]></title>
@@ -32,19 +123,6 @@
             <uri>https://github.com/PedroMarinhoDev</uri>
         </author>
         <published>2026-10-16T16:06:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
-        <id>https://github.com/ganzijie1/dongzhou</id>
-        <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-10-24T23:01:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
-        <author>
-            <name>ganzijie1</name>
-            <email>ganzijie1@noreply.github.com</email>
-            <uri>https://github.com/ganzijie1</uri>
-        </author>
-        <published>2026-08-13T05:30:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[devcabo/artemis-v3: ARTEMIS V3 · iluminação pública conferida poste a poste, com IA (mira no poste + DINOv3). Projeto desenvolvido para a EDP.]]></title>
@@ -63,7 +141,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-10-24T19:28:16.000Z</updated>
+        <updated>2026-10-26T03:34:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -102,7 +180,7 @@
         <title type="html"><![CDATA[PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.]]></title>
         <id>https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation</id>
         <link href="https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation"/>
-        <updated>2026-10-24T14:28:35.000Z</updated>
+        <updated>2026-10-25T12:33:48.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="64" height="64" alt=""/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>]]></content>
         <author>
             <name>PINTO0309</name>
@@ -151,19 +229,6 @@
         <published>2026-10-22T11:07:28.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[nguyennhan2006/WACV_UPAR_track1: 2nd place (0.8017, 2nd of 89 entries), UPAR 2027 Challenge Track 1, pedestrian attribute recognition. Fine-tuned DINOv3, DINOv2 and C-RADIOv4 ensembles with suspect-label masking, int8 weights, 5-minute GPU budget.]]></title>
-        <id>https://github.com/nguyennhan2006/WACV_UPAR_track1</id>
-        <link href="https://github.com/nguyennhan2006/WACV_UPAR_track1"/>
-        <updated>2026-10-24T05:43:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88951683?v=4" width="64" height="64" alt=""/><br/><div>2nd place (0.8017, 2nd of 89 entries), UPAR 2027 Challenge Track 1, pedestrian attribute recognition. Fine-tuned DINOv3, DINOv2 and C-RADIOv4 ensembles with suspect-label masking, int8 weights, 5-minute GPU budget.</div>]]></content>
-        <author>
-            <name>nguyennhan2006</name>
-            <email>nguyennhan2006@noreply.github.com</email>
-            <uri>https://github.com/nguyennhan2006</uri>
-        </author>
-        <published>2026-10-24T03:23:17.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[meiiie/tgmt-de12-video-image-search: Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)]]></title>
         <id>https://github.com/meiiie/tgmt-de12-video-image-search</id>
         <link href="https://github.com/meiiie/tgmt-de12-video-image-search"/>
@@ -201,70 +266,5 @@
             <uri>https://github.com/Ditt-A</uri>
         </author>
         <published>2026-05-09T11:50:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-10-24T02:47:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gonzaquis29/DinoV3-AI4Mars: Frozen DINOv3 features for Martian terrain segmentation on AI4Mars: notebook, results and figures]]></title>
-        <id>https://github.com/gonzaquis29/DinoV3-AI4Mars</id>
-        <link href="https://github.com/gonzaquis29/DinoV3-AI4Mars"/>
-        <updated>2026-10-24T05:36:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59510520?u=162a4bfa06c0a4b680f798b88fde6c387ff1895d&v=4" width="64" height="64" alt=""/><br/><div>Frozen DINOv3 features for Martian terrain segmentation on AI4Mars: notebook, results and figures</div>]]></content>
-        <author>
-            <name>gonzaquis29</name>
-            <email>gonzaquis29@noreply.github.com</email>
-            <uri>https://github.com/gonzaquis29</uri>
-        </author>
-        <published>2026-10-23T21:31:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[meiiie/tgmt-de7-illegal-parking: Đề 7 - Phát hiện và cảnh báo ô tô dừng đỗ trái phép (SAM 3.1 + DINOv3)]]></title>
-        <id>https://github.com/meiiie/tgmt-de7-illegal-parking</id>
-        <link href="https://github.com/meiiie/tgmt-de7-illegal-parking"/>
-        <updated>2026-10-24T00:17:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4" width="64" height="64" alt=""/><br/><div>Đề 7 - Phát hiện và cảnh báo ô tô dừng đỗ trái phép (SAM 3.1 + DINOv3)</div>]]></content>
-        <author>
-            <name>meiiie</name>
-            <email>meiiie@noreply.github.com</email>
-            <uri>https://github.com/meiiie</uri>
-        </author>
-        <published>2026-10-23T13:21:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[meiiie/tgmt-de14-helmet-violation: Đề 14 - Phát hiện người đi xe máy không đội mũ bảo hiểm (SAM 3.1 + DINOv3)]]></title>
-        <id>https://github.com/meiiie/tgmt-de14-helmet-violation</id>
-        <link href="https://github.com/meiiie/tgmt-de14-helmet-violation"/>
-        <updated>2026-10-23T21:37:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4" width="64" height="64" alt=""/><br/><div>Đề 14 - Phát hiện người đi xe máy không đội mũ bảo hiểm (SAM 3.1 + DINOv3)</div>]]></content>
-        <author>
-            <name>meiiie</name>
-            <email>meiiie@noreply.github.com</email>
-            <uri>https://github.com/meiiie</uri>
-        </author>
-        <published>2026-10-23T13:21:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[avinash064/vision-inference-studio: Local node-based computer-vision inference workbench: YOLO, RF-DETR, DINOv3, Grounding DINO, SAM 1/2/3, feature change detection, Public Hub experiments]]></title>
-        <id>https://github.com/avinash064/vision-inference-studio</id>
-        <link href="https://github.com/avinash064/vision-inference-studio"/>
-        <updated>2026-10-24T05:36:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/124426080?u=a1ef9731e29aa1d05514d3f416d202dc4c245db1&v=4" width="64" height="64" alt=""/><br/><div>Local node-based computer-vision inference workbench: YOLO, RF-DETR, DINOv3, Grounding DINO, SAM 1/2/3, feature change detection, Public Hub experiments</div>]]></content>
-        <author>
-            <name>avinash064</name>
-            <email>avinash064@noreply.github.com</email>
-            <uri>https://github.com/avinash064</uri>
-        </author>
-        <published>2026-10-16T07:18:15.000Z</published>
     </entry>
 </feed>
