@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-10-27T04:00:44.361Z</updated>
+    <updated>2026-10-28T04:25:53.775Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-10-27T03:53:24.000Z</updated>
+        <updated>2026-10-28T04:23:43.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -21,17 +21,173 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BurnyCoder/end-to-end-block-sparse-featurizers: From-scratch output-KL training of block-sparse DINOv3 vision featurizers with matched controls and reproducible evaluation]]></title>
+        <title type="html"><![CDATA[saikatdutta/dinov3seg: dinov3.seg: Open-vocabulary semantic segmentation with DINOv3]]></title>
+        <id>https://github.com/saikatdutta/dinov3seg</id>
+        <link href="https://github.com/saikatdutta/dinov3seg"/>
+        <updated>2026-10-27T23:49:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12423799?u=2e6dfe5cd73469a5470f19850fb5187620cdd6b4&v=4" width="64" height="64" alt=""/><br/><div>dinov3.seg: Open-vocabulary semantic segmentation with DINOv3</div>]]></content>
+        <author>
+            <name>saikatdutta</name>
+            <email>saikatdutta@noreply.github.com</email>
+            <uri>https://github.com/saikatdutta</uri>
+        </author>
+        <published>2026-10-13T10:32:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.]]></title>
         <id>https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers</id>
         <link href="https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers"/>
-        <updated>2026-10-27T03:21:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4" width="64" height="64" alt=""/><br/><div>From-scratch output-KL training of block-sparse DINOv3 vision featurizers with matched controls and reproducible evaluation</div>]]></content>
+        <updated>2026-10-28T00:58:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4" width="64" height="64" alt=""/><br/><div>Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.</div>]]></content>
         <author>
             <name>BurnyCoder</name>
             <email>BurnyCoder@noreply.github.com</email>
             <uri>https://github.com/BurnyCoder</uri>
         </author>
         <published>2026-10-27T00:30:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vuvandat109/TF-C-DINOv3: Thay thế hai Encoder của TF-C bằng DINOv3]]></title>
+        <id>https://github.com/vuvandat109/TF-C-DINOv3</id>
+        <link href="https://github.com/vuvandat109/TF-C-DINOv3"/>
+        <updated>2026-10-27T19:51:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/282931392?v=4" width="64" height="64" alt=""/><br/><div>Thay thế hai Encoder của TF-C bằng DINOv3</div>]]></content>
+        <author>
+            <name>vuvandat109</name>
+            <email>vuvandat109@noreply.github.com</email>
+            <uri>https://github.com/vuvandat109</uri>
+        </author>
+        <published>2026-10-18T06:34:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kaashyapmurali/disaster-lens: Building-level disaster damage assessment from before/after satellite imagery (xBD): Mask R-CNN + DINOv3 ViT]]></title>
+        <id>https://github.com/kaashyapmurali/disaster-lens</id>
+        <link href="https://github.com/kaashyapmurali/disaster-lens"/>
+        <updated>2026-10-27T17:12:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241854893?u=352dff6da6796818253ae70c38d8d4895b0d562c&v=4" width="64" height="64" alt=""/><br/><div>Building-level disaster damage assessment from before/after satellite imagery (xBD): Mask R-CNN + DINOv3 ViT</div>]]></content>
+        <author>
+            <name>kaashyapmurali</name>
+            <email>kaashyapmurali@noreply.github.com</email>
+            <uri>https://github.com/kaashyapmurali</uri>
+        </author>
+        <published>2026-10-26T08:59:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[meiiie/tgmt-de12-video-image-search: Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)]]></title>
+        <id>https://github.com/meiiie/tgmt-de12-video-image-search</id>
+        <link href="https://github.com/meiiie/tgmt-de12-video-image-search"/>
+        <updated>2026-10-27T14:59:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4" width="64" height="64" alt=""/><br/><div>Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)</div>]]></content>
+        <author>
+            <name>meiiie</name>
+            <email>meiiie@noreply.github.com</email>
+            <uri>https://github.com/meiiie</uri>
+        </author>
+        <published>2026-10-23T13:21:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[meiiie/tgmt-de14-helmet-violation: Đề 14 - Phát hiện người đi xe máy không đội mũ bảo hiểm (SAM 3.1 + DINOv3)]]></title>
+        <id>https://github.com/meiiie/tgmt-de14-helmet-violation</id>
+        <link href="https://github.com/meiiie/tgmt-de14-helmet-violation"/>
+        <updated>2026-10-27T14:03:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4" width="64" height="64" alt=""/><br/><div>Đề 14 - Phát hiện người đi xe máy không đội mũ bảo hiểm (SAM 3.1 + DINOv3)</div>]]></content>
+        <author>
+            <name>meiiie</name>
+            <email>meiiie@noreply.github.com</email>
+            <uri>https://github.com/meiiie</uri>
+        </author>
+        <published>2026-10-23T13:21:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZisIsNotZis/dino.py: DINOv2 and DINOv3 vision features on ggml — no PyTorch at inference.]]></title>
+        <id>https://github.com/ZisIsNotZis/dino.py</id>
+        <link href="https://github.com/ZisIsNotZis/dino.py"/>
+        <updated>2026-10-27T13:15:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6444018?v=4" width="64" height="64" alt=""/><br/><div>DINOv2 and DINOv3 vision features on ggml — no PyTorch at inference.</div>]]></content>
+        <author>
+            <name>ZisIsNotZis</name>
+            <email>ZisIsNotZis@noreply.github.com</email>
+            <uri>https://github.com/ZisIsNotZis</uri>
+        </author>
+        <published>2026-09-30T06:49:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZisIsNotZis/dinoseg: Click a few pixels to segment a whole batch: interactive segmentation on frozen DINOv3 features for industrial machine vision.]]></title>
+        <id>https://github.com/ZisIsNotZis/dinoseg</id>
+        <link href="https://github.com/ZisIsNotZis/dinoseg"/>
+        <updated>2026-10-27T13:15:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6444018?v=4" width="64" height="64" alt=""/><br/><div>Click a few pixels to segment a whole batch: interactive segmentation on frozen DINOv3 features for industrial machine vision.</div>]]></content>
+        <author>
+            <name>ZisIsNotZis</name>
+            <email>ZisIsNotZis@noreply.github.com</email>
+            <uri>https://github.com/ZisIsNotZis</uri>
+        </author>
+        <published>2026-09-30T07:21:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
+        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
+        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
+        <updated>2026-10-27T12:17:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JeonHaneul</name>
+            <email>JeonHaneul@noreply.github.com</email>
+            <uri>https://github.com/JeonHaneul</uri>
+        </author>
+        <published>2026-07-15T08:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GustavMH/DINOv3-ConvNext: Distilling DINOv3 ConvNext models on sattelite data]]></title>
+        <id>https://github.com/GustavMH/DINOv3-ConvNext</id>
+        <link href="https://github.com/GustavMH/DINOv3-ConvNext"/>
+        <updated>2026-10-27T10:24:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45123074?v=4" width="64" height="64" alt=""/><br/><div>Distilling DINOv3 ConvNext models on sattelite data</div>]]></content>
+        <author>
+            <name>GustavMH</name>
+            <email>GustavMH@noreply.github.com</email>
+            <uri>https://github.com/GustavMH</uri>
+        </author>
+        <published>2026-10-27T10:22:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[veliunusdu/DINOv3]]></title>
+        <id>https://github.com/veliunusdu/DINOv3</id>
+        <link href="https://github.com/veliunusdu/DINOv3"/>
+        <updated>2026-10-27T14:34:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/123100980?u=a0a31fa38ea181de5d0c01ed426b3c60f73df587&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>veliunusdu</name>
+            <email>veliunusdu@noreply.github.com</email>
+            <uri>https://github.com/veliunusdu</uri>
+        </author>
+        <published>2026-10-10T07:56:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qinhy/Ternary-DINOv3]]></title>
+        <id>https://github.com/qinhy/Ternary-DINOv3</id>
+        <link href="https://github.com/qinhy/Ternary-DINOv3"/>
+        <updated>2026-10-27T06:33:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>qinhy</name>
+            <email>qinhy@noreply.github.com</email>
+            <uri>https://github.com/qinhy</uri>
+        </author>
+        <published>2026-07-21T05:15:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OagileNokane/DINOv3-project]]></title>
+        <id>https://github.com/OagileNokane/DINOv3-project</id>
+        <link href="https://github.com/OagileNokane/DINOv3-project"/>
+        <updated>2026-10-27T06:16:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/212911892?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>OagileNokane</name>
+            <email>OagileNokane@noreply.github.com</email>
+            <uri>https://github.com/OagileNokane</uri>
+        </author>
+        <published>2026-10-27T05:37:46.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
@@ -73,19 +229,6 @@
         <published>2026-10-27T03:06:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[meiiie/tgmt-de14-helmet-violation: Đề 14 - Phát hiện người đi xe máy không đội mũ bảo hiểm (SAM 3.1 + DINOv3)]]></title>
-        <id>https://github.com/meiiie/tgmt-de14-helmet-violation</id>
-        <link href="https://github.com/meiiie/tgmt-de14-helmet-violation"/>
-        <updated>2026-10-27T01:46:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4" width="64" height="64" alt=""/><br/><div>Đề 14 - Phát hiện người đi xe máy không đội mũ bảo hiểm (SAM 3.1 + DINOv3)</div>]]></content>
-        <author>
-            <name>meiiie</name>
-            <email>meiiie@noreply.github.com</email>
-            <uri>https://github.com/meiiie</uri>
-        </author>
-        <published>2026-10-23T13:21:34.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mar-Ding/TinyVLA-LIBERO: TinyVLA: a 0.1B-class vision-language-action policy for LIBERO (TinyBERT-4 + DINOv3 + TurboVLA fusion), 95.80% success - source and results release]]></title>
         <id>https://github.com/Mar-Ding/TinyVLA-LIBERO</id>
         <link href="https://github.com/Mar-Ding/TinyVLA-LIBERO"/>
@@ -112,19 +255,6 @@
         <published>2026-10-26T23:21:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[meiiie/tgmt-de12-video-image-search: Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)]]></title>
-        <id>https://github.com/meiiie/tgmt-de12-video-image-search</id>
-        <link href="https://github.com/meiiie/tgmt-de12-video-image-search"/>
-        <updated>2026-10-26T22:54:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4" width="64" height="64" alt=""/><br/><div>Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)</div>]]></content>
-        <author>
-            <name>meiiie</name>
-            <email>meiiie@noreply.github.com</email>
-            <uri>https://github.com/meiiie</uri>
-        </author>
-        <published>2026-10-23T13:21:28.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).]]></title>
         <id>https://github.com/wlejon/brovisionml</id>
         <link href="https://github.com/wlejon/brovisionml"/>
@@ -136,135 +266,5 @@
             <uri>https://github.com/wlejon</uri>
         </author>
         <published>2026-05-31T17:50:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[m2b3/dinov3-in1k-probes: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).]]></title>
-        <id>https://github.com/m2b3/dinov3-in1k-probes</id>
-        <link href="https://github.com/m2b3/dinov3-in1k-probes"/>
-        <updated>2026-10-26T21:39:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121910956?v=4" width="64" height="64" alt=""/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>]]></content>
-        <author>
-            <name>m2b3</name>
-            <email>m2b3@noreply.github.com</email>
-            <uri>https://github.com/m2b3</uri>
-        </author>
-        <published>2025-11-16T20:03:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KangaOnGit/Pedestrian_Attribute_Recognition-UPAR2027: PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted ROI-MoE achieved 64.4% Challenge Average on the hidden test set.]]></title>
-        <id>https://github.com/KangaOnGit/Pedestrian_Attribute_Recognition-UPAR2027</id>
-        <link href="https://github.com/KangaOnGit/Pedestrian_Attribute_Recognition-UPAR2027"/>
-        <updated>2026-10-26T21:13:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/171163677?u=c212ad46d993557cef050db4b0835e6487456a3e&v=4" width="64" height="64" alt=""/><br/><div>PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted ROI-MoE achieved 64.4% Challenge Average on the hidden test set.</div>]]></content>
-        <author>
-            <name>KangaOnGit</name>
-            <email>KangaOnGit@noreply.github.com</email>
-            <uri>https://github.com/KangaOnGit</uri>
-        </author>
-        <published>2026-09-23T21:32:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[leo-whe/ranch-water-detection: Stock pond and round water-tank detection for Hamilton County ranches from NAIP and high-resolution imagery: U-Net / YOLO baselines, DINOv3-sat ViT-L self-supervised models, county multi-year inventory and reports]]></title>
-        <id>https://github.com/leo-whe/ranch-water-detection</id>
-        <link href="https://github.com/leo-whe/ranch-water-detection"/>
-        <updated>2026-10-26T18:20:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113047126?v=4" width="64" height="64" alt=""/><br/><div>Stock pond and round water-tank detection for Hamilton County ranches from NAIP and high-resolution imagery: U-Net / YOLO baselines, DINOv3-sat ViT-L self-supervised models, county multi-year inventory and reports</div>]]></content>
-        <author>
-            <name>leo-whe</name>
-            <email>leo-whe@noreply.github.com</email>
-            <uri>https://github.com/leo-whe</uri>
-        </author>
-        <published>2026-10-26T18:12:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VU-TRUONG-AI/CA-TCC-vs-DINOv3]]></title>
-        <id>https://github.com/VU-TRUONG-AI/CA-TCC-vs-DINOv3</id>
-        <link href="https://github.com/VU-TRUONG-AI/CA-TCC-vs-DINOv3"/>
-        <updated>2026-10-26T16:57:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/158178649?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>VU-TRUONG-AI</name>
-            <email>VU-TRUONG-AI@noreply.github.com</email>
-            <uri>https://github.com/VU-TRUONG-AI</uri>
-        </author>
-        <published>2026-10-18T10:26:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model]]></title>
-        <id>https://github.com/neelkumar01/gestalt-distillation</id>
-        <link href="https://github.com/neelkumar01/gestalt-distillation"/>
-        <updated>2026-10-26T16:42:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4" width="64" height="64" alt=""/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>]]></content>
-        <author>
-            <name>neelkumar01</name>
-            <email>neelkumar01@noreply.github.com</email>
-            <uri>https://github.com/neelkumar01</uri>
-        </author>
-        <published>2026-10-26T16:41:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zacharydenton/dinov3-hrx: DINOv3 image embeddings and patch features on AMD Strix Halo. Built with Rust, HRX and Loom.]]></title>
-        <id>https://github.com/zacharydenton/dinov3-hrx</id>
-        <link href="https://github.com/zacharydenton/dinov3-hrx"/>
-        <updated>2026-10-26T15:33:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/310773?u=7b21a2b1b4a5237c0b979f9b8b0097cc26b369dc&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 image embeddings and patch features on AMD Strix Halo. Built with Rust, HRX and Loom.</div>]]></content>
-        <author>
-            <name>zacharydenton</name>
-            <email>zacharydenton@noreply.github.com</email>
-            <uri>https://github.com/zacharydenton</uri>
-        </author>
-        <published>2026-09-04T13:22:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kaashyapmurali/disaster-lens: Building-level disaster damage assessment from before/after satellite imagery (xBD): Mask R-CNN + DINOv3 ViT]]></title>
-        <id>https://github.com/kaashyapmurali/disaster-lens</id>
-        <link href="https://github.com/kaashyapmurali/disaster-lens"/>
-        <updated>2026-10-26T14:16:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241854893?u=352dff6da6796818253ae70c38d8d4895b0d562c&v=4" width="64" height="64" alt=""/><br/><div>Building-level disaster damage assessment from before/after satellite imagery (xBD): Mask R-CNN + DINOv3 ViT</div>]]></content>
-        <author>
-            <name>kaashyapmurali</name>
-            <email>kaashyapmurali@noreply.github.com</email>
-            <uri>https://github.com/kaashyapmurali</uri>
-        </author>
-        <published>2026-10-26T08:59:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[thinkiamparanoid2/prototype-aggregation-cl: Which prototype aggregation rules resist collapse in continual crop-disease learning: HDC vs NCM, RanPAC-style, Sign/Median-NCM on DINOv3 features]]></title>
-        <id>https://github.com/thinkiamparanoid2/prototype-aggregation-cl</id>
-        <link href="https://github.com/thinkiamparanoid2/prototype-aggregation-cl"/>
-        <updated>2026-10-27T01:27:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/155559441?v=4" width="64" height="64" alt=""/><br/><div>Which prototype aggregation rules resist collapse in continual crop-disease learning: HDC vs NCM, RanPAC-style, Sign/Median-NCM on DINOv3 features</div>]]></content>
-        <author>
-            <name>thinkiamparanoid2</name>
-            <email>thinkiamparanoid2@noreply.github.com</email>
-            <uri>https://github.com/thinkiamparanoid2</uri>
-        </author>
-        <published>2026-10-26T11:12:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[getmonsky/SP-DINO-Net: Spatial–Spectral and Polar-Frequency Enhanced DINOv3 Network (SP-DINO-Net), a network for UAV-to-Satellite Cross-View Geo-Localization.]]></title>
-        <id>https://github.com/getmonsky/SP-DINO-Net</id>
-        <link href="https://github.com/getmonsky/SP-DINO-Net"/>
-        <updated>2026-10-26T14:03:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/348338569?v=4" width="64" height="64" alt=""/><br/><div>Spatial–Spectral and Polar-Frequency Enhanced DINOv3 Network (SP-DINO-Net), a network for UAV-to-Satellite Cross-View Geo-Localization.</div>]]></content>
-        <author>
-            <name>getmonsky</name>
-            <email>getmonsky@noreply.github.com</email>
-            <uri>https://github.com/getmonsky</uri>
-        </author>
-        <published>2026-10-26T14:03:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
-        <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
-        <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-10-26T12:20:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JeonHaneul</name>
-            <email>JeonHaneul@noreply.github.com</email>
-            <uri>https://github.com/JeonHaneul</uri>
-        </author>
-        <published>2026-07-15T08:27:58.000Z</published>
     </entry>
 </feed>
