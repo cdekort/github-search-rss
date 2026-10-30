@@ -9,11 +9,165 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-10-29T04:38:50.000Z",
+            "date_modified": "2026-10-30T04:41:26.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108638916?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>",
+            "url": "https://github.com/Ram21275/tesseract-pose-speedplus",
+            "title": "Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features",
+            "date_modified": "2026-10-30T03:55:58.000Z",
+            "date_published": "2026-10-08T17:33:06.000Z",
+            "author": {
+                "name": "Ram21275",
+                "url": "https://github.com/Ram21275"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84469550?u=15e7b61e70dcbe37516d34bd7fa42541d098005e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hotspots em usinas solares por imagens térmicas de drone, invariante à câmera: DINOv3 congelado + regressão logística com assimilação de dados (viés VarBC, ganho de Kalman, QC de rótulos). Câmera nova: AUROC 0,836 → 0,927 e recall 5% → 57%.</div>",
+            "url": "https://github.com/renatospessotto/thermal-pv-hotspots-assimilation",
+            "title": "renatospessotto/thermal-pv-hotspots-assimilation: Hotspots em usinas solares por imagens térmicas de drone, invariante à câmera: DINOv3 congelado + regressão logística com assimilação de dados (viés VarBC, ganho de Kalman, QC de rótulos). Câmera nova: AUROC 0,836 → 0,927 e recall 5% → 57%.",
+            "date_modified": "2026-10-30T02:05:52.000Z",
+            "date_published": "2026-10-30T02:05:09.000Z",
+            "author": {
+                "name": "renatospessotto",
+                "url": "https://github.com/renatospessotto"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>",
+            "url": "https://github.com/xocialize/mlx-trellis2-swift",
+            "title": "xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.",
+            "date_modified": "2026-10-30T00:44:07.000Z",
+            "date_published": "2026-07-14T18:36:41.000Z",
+            "author": {
+                "name": "xocialize",
+                "url": "https://github.com/xocialize"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227476378?u=2d21af30af3abc7f2595157028a13d6146c7ddb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MathavanKanesh/Evaluating-DinoV3-model",
+            "title": "MathavanKanesh/Evaluating-DinoV3-model",
+            "date_modified": "2026-10-29T23:55:15.000Z",
+            "date_published": "2026-09-05T18:56:56.000Z",
+            "author": {
+                "name": "MathavanKanesh",
+                "url": "https://github.com/MathavanKanesh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41234756?u=1040994becfdf37f04c66156a1c22ae6ab4de703&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 segmentation using few shot mask annotation training data</div>",
+            "url": "https://github.com/alexrvandam/DINOMask",
+            "title": "alexrvandam/DINOMask: DINOv3 segmentation using few shot mask annotation training data",
+            "date_modified": "2026-10-29T22:48:37.000Z",
+            "date_published": "2026-10-29T22:48:36.000Z",
+            "author": {
+                "name": "alexrvandam",
+                "url": "https://github.com/alexrvandam"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182852785?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/maihwng/wildfire-spread-dinov3-utae",
+            "title": "maihwng/wildfire-spread-dinov3-utae",
+            "date_modified": "2026-10-29T22:38:08.000Z",
+            "date_published": "2026-10-18T12:24:03.000Z",
+            "author": {
+                "name": "maihwng",
+                "url": "https://github.com/maihwng"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54370193?u=2a0dc1487f52c6037267c45fa69667f75c9f430c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 visual search on SiMa Modalix, with validated precompiled model packages</div>",
+            "url": "https://github.com/Priyakarna13/dinov3-modalix",
+            "title": "Priyakarna13/dinov3-modalix: DINOv3 visual search on SiMa Modalix, with validated precompiled model packages",
+            "date_modified": "2026-10-29T22:30:59.000Z",
+            "date_published": "2026-10-29T22:22:59.000Z",
+            "author": {
+                "name": "Priyakarna13",
+                "url": "https://github.com/Priyakarna13"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94128424?u=6e5ef4cef552cd5beb9c9c224ac8d5b8ff4e8106&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Frozen DINOv3 features and a 10-band distilled student for crop mapping on Sentinel-2 time series (PASTIS).</div>",
+            "url": "https://github.com/FasterThanC/4d-DINOv3",
+            "title": "FasterThanC/4d-DINOv3: Frozen DINOv3 features and a 10-band distilled student for crop mapping on Sentinel-2 time series (PASTIS).",
+            "date_modified": "2026-10-29T22:24:49.000Z",
+            "date_published": "2026-10-29T22:14:49.000Z",
+            "author": {
+                "name": "FasterThanC",
+                "url": "https://github.com/FasterThanC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208653570?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Integrating DINOv3 ViT-S/16 into CA-TCC for fitness video representation learning.</div>",
+            "url": "https://github.com/Hming6789/CA-TCC-DINOv3-Fitness",
+            "title": "Hming6789/CA-TCC-DINOv3-Fitness: Integrating DINOv3 ViT-S/16 into CA-TCC for fitness video representation learning.",
+            "date_modified": "2026-10-29T17:18:41.000Z",
+            "date_published": "2026-10-17T16:51:17.000Z",
+            "author": {
+                "name": "Hming6789",
+                "url": "https://github.com/Hming6789"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170651859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/aduakhavipqua/dinov3-backbone-integration",
+            "title": "aduakhavipqua/dinov3-backbone-integration",
+            "date_modified": "2026-10-29T15:54:06.000Z",
+            "date_published": "2026-10-18T11:18:06.000Z",
+            "author": {
+                "name": "aduakhavipqua",
+                "url": "https://github.com/aduakhavipqua"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167221930?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/kassari65/dinov3_utae",
+            "title": "kassari65/dinov3_utae",
+            "date_modified": "2026-10-29T15:19:18.000Z",
+            "date_published": "2026-10-18T12:02:29.000Z",
+            "author": {
+                "name": "kassari65",
+                "url": "https://github.com/kassari65"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237172579?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 on Snapdragon 855/845 (Adreno 640/630): optimized ncnn Vulkan, Docker API, bilingual docs, real-device accuracy, latency and energy measurements</div>",
+            "url": "https://github.com/q1820926174-cpu/dinov3-snapdragon-855",
+            "title": "q1820926174-cpu/dinov3-snapdragon-855: DINOv3 on Snapdragon 855/845 (Adreno 640/630): optimized ncnn Vulkan, Docker API, bilingual docs, real-device accuracy, latency and energy measurements",
+            "date_modified": "2026-10-29T15:09:08.000Z",
+            "date_published": "2026-10-29T08:48:51.000Z",
+            "author": {
+                "name": "q1820926174-cpu",
+                "url": "https://github.com/q1820926174-cpu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199730860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official PyTorch implementation of CESDNet for remote sensing semantic segmentation with optical-only inference.</div>",
+            "url": "https://github.com/Yanxz526/CESDNet",
+            "title": "Yanxz526/CESDNet: Official PyTorch implementation of CESDNet for remote sensing semantic segmentation with optical-only inference.",
+            "date_modified": "2026-10-29T07:38:27.000Z",
+            "date_published": "2026-07-06T00:48:12.000Z",
+            "author": {
+                "name": "Yanxz526",
+                "url": "https://github.com/Yanxz526"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117935968?u=e2e27ea3768e0c9ecb08905e371feb9c52642571&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Real-time thermal-to-daylight synthesis for drone imagery using LoRA-tuned DINOv3, gated attention, rectified flow, and uncertainty maps.</div>",
+            "url": "https://github.com/NotArsenic/DAWN",
+            "title": "NotArsenic/DAWN: Real-time thermal-to-daylight synthesis for drone imagery using LoRA-tuned DINOv3, gated attention, rectified flow, and uncertainty maps.",
+            "date_modified": "2026-10-29T07:02:03.000Z",
+            "date_published": "2026-06-21T14:31:49.000Z",
+            "author": {
+                "name": "NotArsenic",
+                "url": "https://github.com/NotArsenic"
             }
         },
         {
@@ -61,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182852785?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/maihwng/wildfire-spread-dinov3-utae",
-            "title": "maihwng/wildfire-spread-dinov3-utae",
-            "date_modified": "2026-10-28T20:08:08.000Z",
-            "date_published": "2026-10-18T12:24:03.000Z",
-            "author": {
-                "name": "maihwng",
-                "url": "https://github.com/maihwng"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182862350?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/nguyenlinhs/utae_dinov3",
             "title": "nguyenlinhs/utae_dinov3",
@@ -80,149 +223,6 @@
             "author": {
                 "name": "nguyenlinhs",
                 "url": "https://github.com/nguyenlinhs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108638916?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>",
-            "url": "https://github.com/Ram21275/tesseract-pose-speedplus",
-            "title": "Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features",
-            "date_modified": "2026-10-28T19:06:50.000Z",
-            "date_published": "2026-10-08T17:33:06.000Z",
-            "author": {
-                "name": "Ram21275",
-                "url": "https://github.com/Ram21275"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182877831?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/PhanTu2005/SLARDA-DINOv3",
-            "title": "PhanTu2005/SLARDA-DINOv3",
-            "date_modified": "2026-10-28T22:57:17.000Z",
-            "date_published": "2026-10-28T16:12:21.000Z",
-            "author": {
-                "name": "PhanTu2005",
-                "url": "https://github.com/PhanTu2005"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/232299543?u=631d6646cdf95dc695f9a2d84676d39f45d8d29a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>24/10/2026</div>",
-            "url": "https://github.com/UnWanHin/Dinov3Lite-Pspnet-Voc21",
-            "title": "UnWanHin/Dinov3Lite-Pspnet-Voc21: 24/10/2026",
-            "date_modified": "2026-10-28T14:29:43.000Z",
-            "date_published": "2026-10-25T06:16:54.000Z",
-            "author": {
-                "name": "UnWanHin",
-                "url": "https://github.com/UnWanHin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123100980?u=a0a31fa38ea181de5d0c01ed426b3c60f73df587&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/veliunusdu/DINOv3",
-            "title": "veliunusdu/DINOv3",
-            "date_modified": "2026-10-28T14:04:36.000Z",
-            "date_published": "2026-10-10T07:56:29.000Z",
-            "author": {
-                "name": "veliunusdu",
-                "url": "https://github.com/veliunusdu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104282235?u=5a500d42b44dcacb40a1f8c10c92420cb8b00b32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Do new vision foundation models actually help on medical imaging? SAM 3.1 vs DINOv3 vs PraNet on polyp segmentation — plus the prompt-engineering trick that closes most of the gap.</div>",
-            "url": "https://github.com/tylergibbs1/gutcheck",
-            "title": "tylergibbs1/gutcheck: Do new vision foundation models actually help on medical imaging? SAM 3.1 vs DINOv3 vs PraNet on polyp segmentation — plus the prompt-engineering trick that closes most of the gap.",
-            "date_modified": "2026-10-28T13:52:37.000Z",
-            "date_published": "2026-04-19T00:11:14.000Z",
-            "author": {
-                "name": "tylergibbs1",
-                "url": "https://github.com/tylergibbs1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39410800?u=87c8a5bd6e70433fe6ce6066ad402e64cab5b598&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official code for \"Where to Cut? Adaptive Thresholds for Density-Ratio Few-Shot Segmentation\" — training-free FSS with frozen DINOv3 features.</div>",
-            "url": "https://github.com/RafaelSterzinger/adaptive-cut",
-            "title": "RafaelSterzinger/adaptive-cut: Official code for \"Where to Cut? Adaptive Thresholds for Density-Ratio Few-Shot Segmentation\" — training-free FSS with frozen DINOv3 features.",
-            "date_modified": "2026-10-28T10:25:31.000Z",
-            "date_published": "2026-09-02T13:03:48.000Z",
-            "author": {
-                "name": "RafaelSterzinger",
-                "url": "https://github.com/RafaelSterzinger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.</div>",
-            "url": "https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers",
-            "title": "BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.",
-            "date_modified": "2026-10-28T00:58:30.000Z",
-            "date_published": "2026-10-27T00:30:50.000Z",
-            "author": {
-                "name": "BurnyCoder",
-                "url": "https://github.com/BurnyCoder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/282931392?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Thay thế hai Encoder của TF-C bằng DINOv3</div>",
-            "url": "https://github.com/vuvandat109/TF-C-DINOv3",
-            "title": "vuvandat109/TF-C-DINOv3: Thay thế hai Encoder của TF-C bằng DINOv3",
-            "date_modified": "2026-10-27T19:51:25.000Z",
-            "date_published": "2026-10-18T06:34:09.000Z",
-            "author": {
-                "name": "vuvandat109",
-                "url": "https://github.com/vuvandat109"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241854893?u=352dff6da6796818253ae70c38d8d4895b0d562c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Building-level disaster damage assessment from before/after satellite imagery (xBD): Mask R-CNN + DINOv3 ViT</div>",
-            "url": "https://github.com/kaashyapmurali/disaster-lens",
-            "title": "kaashyapmurali/disaster-lens: Building-level disaster damage assessment from before/after satellite imagery (xBD): Mask R-CNN + DINOv3 ViT",
-            "date_modified": "2026-10-27T17:12:41.000Z",
-            "date_published": "2026-10-26T08:59:19.000Z",
-            "author": {
-                "name": "kaashyapmurali",
-                "url": "https://github.com/kaashyapmurali"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)</div>",
-            "url": "https://github.com/meiiie/tgmt-de12-video-image-search",
-            "title": "meiiie/tgmt-de12-video-image-search: Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)",
-            "date_modified": "2026-10-27T14:59:23.000Z",
-            "date_published": "2026-10-23T13:21:28.000Z",
-            "author": {
-                "name": "meiiie",
-                "url": "https://github.com/meiiie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Đề 14 - Phát hiện người đi xe máy không đội mũ bảo hiểm (SAM 3.1 + DINOv3)</div>",
-            "url": "https://github.com/meiiie/tgmt-de14-helmet-violation",
-            "title": "meiiie/tgmt-de14-helmet-violation: Đề 14 - Phát hiện người đi xe máy không đội mũ bảo hiểm (SAM 3.1 + DINOv3)",
-            "date_modified": "2026-10-27T14:03:39.000Z",
-            "date_published": "2026-10-23T13:21:34.000Z",
-            "author": {
-                "name": "meiiie",
-                "url": "https://github.com/meiiie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6444018?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv2 and DINOv3 vision features on ggml — no PyTorch at inference.</div>",
-            "url": "https://github.com/ZisIsNotZis/dino.py",
-            "title": "ZisIsNotZis/dino.py: DINOv2 and DINOv3 vision features on ggml — no PyTorch at inference.",
-            "date_modified": "2026-10-27T13:15:29.000Z",
-            "date_published": "2026-09-30T06:49:21.000Z",
-            "author": {
-                "name": "ZisIsNotZis",
-                "url": "https://github.com/ZisIsNotZis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6444018?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Click a few pixels to segment a whole batch: interactive segmentation on frozen DINOv3 features for industrial machine vision.</div>",
-            "url": "https://github.com/ZisIsNotZis/dinoseg",
-            "title": "ZisIsNotZis/dinoseg: Click a few pixels to segment a whole batch: interactive segmentation on frozen DINOv3 features for industrial machine vision.",
-            "date_modified": "2026-10-27T13:15:22.000Z",
-            "date_published": "2026-09-30T07:21:06.000Z",
-            "author": {
-                "name": "ZisIsNotZis",
-                "url": "https://github.com/ZisIsNotZis"
             }
         }
     ]
