@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-10-31T04:27:41.454Z</updated>
+    <updated>2026-11-01T04:46:53.269Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
         <link href="https://github.com/tomgrizz/ganaraska-live"/>
-        <updated>2026-10-31T04:27:28.000Z</updated>
+        <updated>2026-11-01T04:39:33.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4" width="64" height="64" alt=""/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>]]></content>
         <author>
             <name>tomgrizz</name>
@@ -21,23 +21,88 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VU-TRUONG-AI/CA-TCC-vs-DINOv3]]></title>
-        <id>https://github.com/VU-TRUONG-AI/CA-TCC-vs-DINOv3</id>
-        <link href="https://github.com/VU-TRUONG-AI/CA-TCC-vs-DINOv3"/>
-        <updated>2026-10-31T03:52:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/158178649?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features]]></title>
+        <id>https://github.com/Ram21275/tesseract-pose-speedplus</id>
+        <link href="https://github.com/Ram21275/tesseract-pose-speedplus"/>
+        <updated>2026-11-01T01:52:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108638916?v=4" width="64" height="64" alt=""/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>]]></content>
         <author>
-            <name>VU-TRUONG-AI</name>
-            <email>VU-TRUONG-AI@noreply.github.com</email>
-            <uri>https://github.com/VU-TRUONG-AI</uri>
+            <name>Ram21275</name>
+            <email>Ram21275@noreply.github.com</email>
+            <uri>https://github.com/Ram21275</uri>
         </author>
-        <published>2026-10-18T10:26:16.000Z</published>
+        <published>2026-10-08T17:33:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[weertman/deepstarnoodles-inference: Self-contained Docker and Python runtime for StarSeg, DINOv3 Hydra, and GRU arm tracing]]></title>
+        <id>https://github.com/weertman/deepstarnoodles-inference</id>
+        <link href="https://github.com/weertman/deepstarnoodles-inference"/>
+        <updated>2026-10-31T15:47:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86493327?v=4" width="64" height="64" alt=""/><br/><div>Self-contained Docker and Python runtime for StarSeg, DINOv3 Hydra, and GRU arm tracing</div>]]></content>
+        <author>
+            <name>weertman</name>
+            <email>weertman@noreply.github.com</email>
+            <uri>https://github.com/weertman</uri>
+        </author>
+        <published>2026-10-28T21:30:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NnTien1802/TF-C-DINOv3]]></title>
+        <id>https://github.com/NnTien1802/TF-C-DINOv3</id>
+        <link href="https://github.com/NnTien1802/TF-C-DINOv3"/>
+        <updated>2026-10-31T12:41:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/182861615?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>NnTien1802</name>
+            <email>NnTien1802@noreply.github.com</email>
+            <uri>https://github.com/NnTien1802</uri>
+        </author>
+        <published>2026-10-18T11:06:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zh0416/PV-DINOV3]]></title>
+        <id>https://github.com/Zh0416/PV-DINOV3</id>
+        <link href="https://github.com/Zh0416/PV-DINOV3"/>
+        <updated>2026-10-31T22:14:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225827372?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Zh0416</name>
+            <email>Zh0416@noreply.github.com</email>
+            <uri>https://github.com/Zh0416</uri>
+        </author>
+        <published>2026-10-23T05:52:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mducki/CoTMix-DinoV3-HAR]]></title>
+        <id>https://github.com/Mducki/CoTMix-DinoV3-HAR</id>
+        <link href="https://github.com/Mducki/CoTMix-DinoV3-HAR"/>
+        <updated>2026-10-31T11:09:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/154432558?u=790b24d5a829e048879f5cf1e0df340eba9b91f8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Mducki</name>
+            <email>Mducki@noreply.github.com</email>
+            <uri>https://github.com/Mducki</uri>
+        </author>
+        <published>2026-10-18T12:43:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiVincenzo11/BlurDoRA-IML: Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.]]></title>
+        <id>https://github.com/DiVincenzo11/BlurDoRA-IML</id>
+        <link href="https://github.com/DiVincenzo11/BlurDoRA-IML"/>
+        <updated>2026-10-31T10:43:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/304723767?u=689e10067cdbeb1c0507ea7cd5f5d5642e7bebe9&v=4" width="64" height="64" alt=""/><br/><div>Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.</div>]]></content>
+        <author>
+            <name>DiVincenzo11</name>
+            <email>DiVincenzo11@noreply.github.com</email>
+            <uri>https://github.com/DiVincenzo11</uri>
+        </author>
+        <published>2026-09-23T10:28:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hming6789/CA-TCC-DINOv3-Fitness: Integrating DINOv3 ViT-S/16 into CA-TCC for fitness video representation learning.]]></title>
         <id>https://github.com/Hming6789/CA-TCC-DINOv3-Fitness</id>
         <link href="https://github.com/Hming6789/CA-TCC-DINOv3-Fitness"/>
-        <updated>2026-10-31T02:21:49.000Z</updated>
+        <updated>2026-10-31T10:01:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/208653570?v=4" width="64" height="64" alt=""/><br/><div>Integrating DINOv3 ViT-S/16 into CA-TCC for fitness video representation learning.</div>]]></content>
         <author>
             <name>Hming6789</name>
@@ -47,17 +112,30 @@
         <published>2026-10-17T16:51:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mducki/CoTMix-DinoV3-HAR]]></title>
-        <id>https://github.com/Mducki/CoTMix-DinoV3-HAR</id>
-        <link href="https://github.com/Mducki/CoTMix-DinoV3-HAR"/>
-        <updated>2026-10-31T01:59:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/154432558?u=790b24d5a829e048879f5cf1e0df340eba9b91f8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[giangpvg/unireplknet-dinov3]]></title>
+        <id>https://github.com/giangpvg/unireplknet-dinov3</id>
+        <link href="https://github.com/giangpvg/unireplknet-dinov3"/>
+        <updated>2026-11-01T01:13:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165980610?u=b4c763a9a550f580442b51189c4d2ed3a93cfb8d&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>Mducki</name>
-            <email>Mducki@noreply.github.com</email>
-            <uri>https://github.com/Mducki</uri>
+            <name>giangpvg</name>
+            <email>giangpvg@noreply.github.com</email>
+            <uri>https://github.com/giangpvg</uri>
         </author>
-        <published>2026-10-18T12:43:22.000Z</published>
+        <published>2026-10-31T04:38:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VU-TRUONG-AI/CA-TCC-vs-DINOv3]]></title>
+        <id>https://github.com/VU-TRUONG-AI/CA-TCC-vs-DINOv3</id>
+        <link href="https://github.com/VU-TRUONG-AI/CA-TCC-vs-DINOv3"/>
+        <updated>2026-10-31T07:39:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/158178649?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>VU-TRUONG-AI</name>
+            <email>VU-TRUONG-AI@noreply.github.com</email>
+            <uri>https://github.com/VU-TRUONG-AI</uri>
+        </author>
+        <published>2026-10-18T10:26:16.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[fatihaydost/plantseg-dinov3-lora: Leakage-aware evaluation of DINOv3 + LoRA for plant disease segmentation on PlantSeg]]></title>
@@ -138,23 +216,10 @@
         <published>2026-10-09T11:53:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features]]></title>
-        <id>https://github.com/Ram21275/tesseract-pose-speedplus</id>
-        <link href="https://github.com/Ram21275/tesseract-pose-speedplus"/>
-        <updated>2026-10-30T10:07:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108638916?v=4" width="64" height="64" alt=""/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>]]></content>
-        <author>
-            <name>Ram21275</name>
-            <email>Ram21275@noreply.github.com</email>
-            <uri>https://github.com/Ram21275</uri>
-        </author>
-        <published>2026-10-08T17:33:06.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[doingkite/dino-mot17: DINOv3 point matching experiment on MOT17 pedestrian video]]></title>
         <id>https://github.com/doingkite/dino-mot17</id>
         <link href="https://github.com/doingkite/dino-mot17"/>
-        <updated>2026-10-30T23:47:39.000Z</updated>
+        <updated>2026-11-01T01:00:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/155817735?u=135c4cd6364ffd4750198c040b960e1dd7e757ec&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 point matching experiment on MOT17 pedestrian video</div>]]></content>
         <author>
             <name>doingkite</name>
@@ -201,70 +266,5 @@
             <uri>https://github.com/alexrvandam</uri>
         </author>
         <published>2026-10-29T22:48:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[maihwng/wildfire-spread-dinov3-utae]]></title>
-        <id>https://github.com/maihwng/wildfire-spread-dinov3-utae</id>
-        <link href="https://github.com/maihwng/wildfire-spread-dinov3-utae"/>
-        <updated>2026-10-29T22:38:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/182852785?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>maihwng</name>
-            <email>maihwng@noreply.github.com</email>
-            <uri>https://github.com/maihwng</uri>
-        </author>
-        <published>2026-10-18T12:24:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FasterThanC/4d-DINOv3: Frozen DINOv3 features and a 10-band distilled student for crop mapping on Sentinel-2 time series (PASTIS).]]></title>
-        <id>https://github.com/FasterThanC/4d-DINOv3</id>
-        <link href="https://github.com/FasterThanC/4d-DINOv3"/>
-        <updated>2026-10-30T07:19:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94128424?u=6e5ef4cef552cd5beb9c9c224ac8d5b8ff4e8106&v=4" width="64" height="64" alt=""/><br/><div>Frozen DINOv3 features and a 10-band distilled student for crop mapping on Sentinel-2 time series (PASTIS).</div>]]></content>
-        <author>
-            <name>FasterThanC</name>
-            <email>FasterThanC@noreply.github.com</email>
-            <uri>https://github.com/FasterThanC</uri>
-        </author>
-        <published>2026-10-29T22:14:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-10-30T09:21:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kassari65/dinov3_utae]]></title>
-        <id>https://github.com/kassari65/dinov3_utae</id>
-        <link href="https://github.com/kassari65/dinov3_utae"/>
-        <updated>2026-10-29T15:19:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/167221930?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>kassari65</name>
-            <email>kassari65@noreply.github.com</email>
-            <uri>https://github.com/kassari65</uri>
-        </author>
-        <published>2026-10-18T12:02:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[q1820926174-cpu/dinov3-snapdragon-855: DINOv3 on Snapdragon 855/845 (Adreno 640/630): optimized ncnn Vulkan, Docker API, bilingual docs, real-device accuracy, latency and energy measurements]]></title>
-        <id>https://github.com/q1820926174-cpu/dinov3-snapdragon-855</id>
-        <link href="https://github.com/q1820926174-cpu/dinov3-snapdragon-855"/>
-        <updated>2026-10-29T15:09:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/237172579?v=4" width="64" height="64" alt=""/><br/><div>DINOv3 on Snapdragon 855/845 (Adreno 640/630): optimized ncnn Vulkan, Docker API, bilingual docs, real-device accuracy, latency and energy measurements</div>]]></content>
-        <author>
-            <name>q1820926174-cpu</name>
-            <email>q1820926174-cpu@noreply.github.com</email>
-            <uri>https://github.com/q1820926174-cpu</uri>
-        </author>
-        <published>2026-10-29T08:48:51.000Z</published>
     </entry>
 </feed>
