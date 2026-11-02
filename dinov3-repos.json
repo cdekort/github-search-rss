@@ -9,11 +9,121 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-11-01T04:39:33.000Z",
+            "date_modified": "2026-11-02T04:42:40.000Z",
             "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
                 "name": "tomgrizz",
                 "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/211655416?u=01ba4a34f6df4cfe782d1efaf5dc56782fd1a240&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>사진과 외형 조건으로 유기견 입양 공고를 찾는 멀티모달 검색. 고정된 DINOv3에 CLIP 텍스트를 가볍게 정렬하고 한국·대만·PetFinder 공고로 평가 / Photo-and-attribute retrieval for shelter dog listings with frozen DINOv3 and domain-aligned CLIP text</div>",
+            "url": "https://github.com/YuMinBee/meongtamjeong",
+            "title": "YuMinBee/meongtamjeong: 사진과 외형 조건으로 유기견 입양 공고를 찾는 멀티모달 검색. 고정된 DINOv3에 CLIP 텍스트를 가볍게 정렬하고 한국·대만·PetFinder 공고로 평가 / Photo-and-attribute retrieval for shelter dog listings with frozen DINOv3 and domain-aligned CLIP text",
+            "date_modified": "2026-11-02T02:08:01.000Z",
+            "date_published": "2025-08-28T06:16:23.000Z",
+            "author": {
+                "name": "YuMinBee",
+                "url": "https://github.com/YuMinBee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
+            "url": "https://github.com/Pbatch/CameraChessWeb",
+            "title": "Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess",
+            "date_modified": "2026-11-01T21:50:11.000Z",
+            "date_published": "2023-06-28T23:07:09.000Z",
+            "author": {
+                "name": "Pbatch",
+                "url": "https://github.com/Pbatch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69691780?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fabric defect classification using Roboflow DINOv3 and PyTorch ResNet18.</div>",
+            "url": "https://github.com/taru09/fabric-defect-classification",
+            "title": "taru09/fabric-defect-classification: Fabric defect classification using Roboflow DINOv3 and PyTorch ResNet18.",
+            "date_modified": "2026-11-01T21:29:34.000Z",
+            "date_published": "2026-11-01T20:10:22.000Z",
+            "author": {
+                "name": "taru09",
+                "url": "https://github.com/taru09"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260610871?u=90f7211f2fac740c884f5fe938d57dba92335f6c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Distill SAM 3 into your own semantic segmentation model: automatic pseudo-labels for drone, phone and swisstopo orthophoto images, rule-based refinement, uncertainty routing, a human-in-the-loop review UI and EoMT + DINOv3 training. Data stays local.</div>",
+            "url": "https://github.com/AIhdproduction/Flurseg",
+            "title": "AIhdproduction/Flurseg: Distill SAM 3 into your own semantic segmentation model: automatic pseudo-labels for drone, phone and swisstopo orthophoto images, rule-based refinement, uncertainty routing, a human-in-the-loop review UI and EoMT + DINOv3 training. Data stays local.",
+            "date_modified": "2026-11-01T23:09:31.000Z",
+            "date_published": "2026-10-31T14:23:08.000Z",
+            "author": {
+                "name": "AIhdproduction",
+                "url": "https://github.com/AIhdproduction"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195325534?u=f97649447865d4f3603cb2ad5ce449c08967c12b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Real-time traffic cone detection with RT-DETRv4-S (HGNetv2 backbone with DINOv3 distillation), trained on the FSOCO dataset and deployed as a TensorRT FP16 engine. It runs at about 142 FPS on an RTX 5060 Laptop GPU.</div>",
+            "url": "https://github.com/BhuvaneshWadhwani/realtime-cone-detection",
+            "title": "BhuvaneshWadhwani/realtime-cone-detection: Real-time traffic cone detection with RT-DETRv4-S (HGNetv2 backbone with DINOv3 distillation), trained on the FSOCO dataset and deployed as a TensorRT FP16 engine. It runs at about 142 FPS on an RTX 5060 Laptop GPU.",
+            "date_modified": "2026-11-01T19:23:09.000Z",
+            "date_published": "2026-11-01T18:52:15.000Z",
+            "author": {
+                "name": "BhuvaneshWadhwani",
+                "url": "https://github.com/BhuvaneshWadhwani"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76399389?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Active-perception next-best-view planning for an eye-in-hand UR5e: from one reference image, find and move to the matching camera viewpoint. DINOv3+SIFT, CLIP, ORB+RANSAC and ZNCC search in PyBullet with reachability checks and CuRobo motion planning, plus ROS 2 deployment on the real robot.</div>",
+            "url": "https://github.com/S-SAMRINA/Find_the_viewpoint",
+            "title": "S-SAMRINA/Find_the_viewpoint: Active-perception next-best-view planning for an eye-in-hand UR5e: from one reference image, find and move to the matching camera viewpoint. DINOv3+SIFT, CLIP, ORB+RANSAC and ZNCC search in PyBullet with reachability checks and CuRobo motion planning, plus ROS 2 deployment on the real robot.",
+            "date_modified": "2026-11-01T19:05:20.000Z",
+            "date_published": "2026-11-01T18:56:47.000Z",
+            "author": {
+                "name": "S-SAMRINA",
+                "url": "https://github.com/S-SAMRINA"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/236241415?u=02999d24e60de3303d0fb2325cf883413330caaf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Machine-learning palaeography of the Voynich manuscript: do Lisa Fagin Davis's five scribes show in 7,096 handwritten letters k embedded with DINOv3?</div>",
+            "url": "https://github.com/LaineyLouiseWard/voynich-glyph-embeddings",
+            "title": "LaineyLouiseWard/voynich-glyph-embeddings: Machine-learning palaeography of the Voynich manuscript: do Lisa Fagin Davis's five scribes show in 7,096 handwritten letters k embedded with DINOv3?",
+            "date_modified": "2026-11-01T19:07:48.000Z",
+            "date_published": "2026-11-01T15:54:09.000Z",
+            "author": {
+                "name": "LaineyLouiseWard",
+                "url": "https://github.com/LaineyLouiseWard"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180861202?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nguyenphuc210/hanoi-pm25-softs-dinov3",
+            "title": "nguyenphuc210/hanoi-pm25-softs-dinov3",
+            "date_modified": "2026-11-01T18:31:15.000Z",
+            "date_published": "2026-10-25T07:13:27.000Z",
+            "author": {
+                "name": "nguyenphuc210",
+                "url": "https://github.com/nguyenphuc210"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
+            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
+            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
+            "date_modified": "2026-11-02T03:24:41.000Z",
+            "date_published": "2026-09-12T23:00:51.000Z",
+            "author": {
+                "name": "PINTO0309",
+                "url": "https://github.com/PINTO0309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).</div>",
+            "url": "https://github.com/wlejon/brovisionml",
+            "title": "wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).",
+            "date_modified": "2026-11-01T13:54:34.000Z",
+            "date_published": "2026-05-31T17:50:51.000Z",
+            "author": {
+                "name": "wlejon",
+                "url": "https://github.com/wlejon"
             }
         },
         {
@@ -113,116 +223,6 @@
             "author": {
                 "name": "VU-TRUONG-AI",
                 "url": "https://github.com/VU-TRUONG-AI"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93138685?u=4c465122e194535c784cfc29b55c21a1f8cbc9b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Leakage-aware evaluation of DINOv3 + LoRA for plant disease segmentation on PlantSeg</div>",
-            "url": "https://github.com/fatihaydost/plantseg-dinov3-lora",
-            "title": "fatihaydost/plantseg-dinov3-lora: Leakage-aware evaluation of DINOv3 + LoRA for plant disease segmentation on PlantSeg",
-            "date_modified": "2026-10-30T22:45:38.000Z",
-            "date_published": "2026-10-30T21:47:47.000Z",
-            "author": {
-                "name": "fatihaydost",
-                "url": "https://github.com/fatihaydost"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182861663?u=0f295498b155f09a8ad129d75e053ec01445609b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/leetaan05/Slarda_DinoV3",
-            "title": "leetaan05/Slarda_DinoV3",
-            "date_modified": "2026-10-30T18:33:18.000Z",
-            "date_published": "2026-10-18T13:51:32.000Z",
-            "author": {
-                "name": "leetaan05",
-                "url": "https://github.com/leetaan05"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170651859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/aduakhavipqua/dinov3-backbone-integration",
-            "title": "aduakhavipqua/dinov3-backbone-integration",
-            "date_modified": "2026-10-30T15:20:58.000Z",
-            "date_published": "2026-10-18T11:18:06.000Z",
-            "author": {
-                "name": "aduakhavipqua",
-                "url": "https://github.com/aduakhavipqua"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>",
-            "url": "https://github.com/xocialize/mlx-trellis2-swift",
-            "title": "xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.",
-            "date_modified": "2026-10-30T14:59:53.000Z",
-            "date_published": "2026-07-14T18:36:41.000Z",
-            "author": {
-                "name": "xocialize",
-                "url": "https://github.com/xocialize"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73821490?u=0fb4629b8c73c859046e686922e5117406765c42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fine-tuned checkpoint of DINOV3 on the AI-GenBench benchmark (<a href=\"https://ieeexplore.ieee.org/document/11228377\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://ieeexplore.ieee.org/document/11228377</a>)</div>",
-            "url": "https://github.com/SerafinoPandolfini/AI-GenBench-DINOV3-Checkpoint",
-            "title": "SerafinoPandolfini/AI-GenBench-DINOV3-Checkpoint: A fine-tuned checkpoint of DINOV3 on the AI-GenBench benchmark (https://ieeexplore.ieee.org/document/11228377)",
-            "date_modified": "2026-10-30T14:49:42.000Z",
-            "date_published": "2026-10-30T14:30:32.000Z",
-            "author": {
-                "name": "SerafinoPandolfini",
-                "url": "https://github.com/SerafinoPandolfini"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50440725?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/DDDionysus/dinov3-adversarial-robustness",
-            "title": "DDDionysus/dinov3-adversarial-robustness",
-            "date_modified": "2026-10-30T11:15:45.000Z",
-            "date_published": "2026-10-09T11:53:03.000Z",
-            "author": {
-                "name": "DDDionysus",
-                "url": "https://github.com/DDDionysus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155817735?u=135c4cd6364ffd4750198c040b960e1dd7e757ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 point matching experiment on MOT17 pedestrian video</div>",
-            "url": "https://github.com/doingkite/dino-mot17",
-            "title": "doingkite/dino-mot17: DINOv3 point matching experiment on MOT17 pedestrian video",
-            "date_modified": "2026-11-01T01:00:50.000Z",
-            "date_published": "2026-10-30T08:54:22.000Z",
-            "author": {
-                "name": "doingkite",
-                "url": "https://github.com/doingkite"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84469550?u=15e7b61e70dcbe37516d34bd7fa42541d098005e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hotspots em usinas solares por imagens térmicas de drone, invariante à câmera: DINOv3 congelado + regressão logística com assimilação de dados (viés VarBC, ganho de Kalman, QC de rótulos). Câmera nova: AUROC 0,836 → 0,927 e recall 5% → 57%.</div>",
-            "url": "https://github.com/renatospessotto/thermal-pv-hotspots-assimilation",
-            "title": "renatospessotto/thermal-pv-hotspots-assimilation: Hotspots em usinas solares por imagens térmicas de drone, invariante à câmera: DINOv3 congelado + regressão logística com assimilação de dados (viés VarBC, ganho de Kalman, QC de rótulos). Câmera nova: AUROC 0,836 → 0,927 e recall 5% → 57%.",
-            "date_modified": "2026-10-30T02:05:52.000Z",
-            "date_published": "2026-10-30T02:05:09.000Z",
-            "author": {
-                "name": "renatospessotto",
-                "url": "https://github.com/renatospessotto"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227476378?u=2d21af30af3abc7f2595157028a13d6146c7ddb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MathavanKanesh/Evaluating-DinoV3-model",
-            "title": "MathavanKanesh/Evaluating-DinoV3-model",
-            "date_modified": "2026-10-29T23:55:15.000Z",
-            "date_published": "2026-09-05T18:56:56.000Z",
-            "author": {
-                "name": "MathavanKanesh",
-                "url": "https://github.com/MathavanKanesh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41234756?u=1040994becfdf37f04c66156a1c22ae6ab4de703&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 segmentation using few shot mask annotation training data</div>",
-            "url": "https://github.com/alexrvandam/DINOMask",
-            "title": "alexrvandam/DINOMask: DINOv3 segmentation using few shot mask annotation training data",
-            "date_modified": "2026-10-29T22:48:37.000Z",
-            "date_published": "2026-10-29T22:48:36.000Z",
-            "author": {
-                "name": "alexrvandam",
-                "url": "https://github.com/alexrvandam"
             }
         }
     ]
