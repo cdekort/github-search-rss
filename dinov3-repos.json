@@ -6,14 +6,179 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
+            "title": "JeonHaneul/2D-PDM_DINOv3",
+            "date_modified": "2026-11-06T03:48:34.000Z",
+            "date_published": "2026-07-15T08:27:58.000Z",
+            "author": {
+                "name": "JeonHaneul",
+                "url": "https://github.com/JeonHaneul"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
+            "url": "https://github.com/Pbatch/CameraChessWeb",
+            "title": "Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess",
+            "date_modified": "2026-11-06T03:02:52.000Z",
+            "date_published": "2023-06-28T23:07:09.000Z",
+            "author": {
+                "name": "Pbatch",
+                "url": "https://github.com/Pbatch"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
             "url": "https://github.com/SomethingObvious/JWSTDetector",
             "title": "SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
-            "date_modified": "2026-11-05T05:02:05.000Z",
+            "date_modified": "2026-11-06T01:47:41.000Z",
             "date_published": "2026-01-03T07:48:06.000Z",
             "author": {
                 "name": "SomethingObvious",
                 "url": "https://github.com/SomethingObvious"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218811466?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Validação manual das tags do DINOv3 no acervo do MAC USP</div>",
+            "url": "https://github.com/danmartsarr/validacao-tags-mac",
+            "title": "danmartsarr/validacao-tags-mac: Validação manual das tags do DINOv3 no acervo do MAC USP",
+            "date_modified": "2026-11-05T23:55:51.000Z",
+            "date_published": "2026-11-03T18:34:17.000Z",
+            "author": {
+                "name": "danmartsarr",
+                "url": "https://github.com/danmartsarr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87390273?u=a40aa7cc9ebc13f638f6f131c80bdc66e19490f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"</div>",
+            "url": "https://github.com/MehdiGolkarAmoli/Sen2DINOv3",
+            "title": "MehdiGolkarAmoli/Sen2DINOv3: This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"",
+            "date_modified": "2026-11-06T02:00:50.000Z",
+            "date_published": "2026-11-04T14:15:37.000Z",
+            "author": {
+                "name": "MehdiGolkarAmoli",
+                "url": "https://github.com/MehdiGolkarAmoli"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50117500?u=d42fd8c4bbd1bc27fa640fc2dd85843adc06a027&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Poster figures, data and notes for “Build or Adapt? Tests of Foundation Models on Survey Tiles”: do wider image windows help a frozen DINOv3 on cluster richness and tidal features? Includes single-object adapter vs AION-1 results.</div>",
+            "url": "https://github.com/anaennis/build-or-adapt-poster",
+            "title": "anaennis/build-or-adapt-poster: Poster figures, data and notes for “Build or Adapt? Tests of Foundation Models on Survey Tiles”: do wider image windows help a frozen DINOv3 on cluster richness and tidal features? Includes single-object adapter vs AION-1 results.",
+            "date_modified": "2026-11-05T18:20:04.000Z",
+            "date_published": "2026-11-02T20:54:24.000Z",
+            "author": {
+                "name": "anaennis",
+                "url": "https://github.com/anaennis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260610871?u=90f7211f2fac740c884f5fe938d57dba92335f6c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Distill SAM 3 into your own semantic segmentation model: automatic pseudo-labels for drone, phone and swisstopo orthophoto images, rule-based refinement, uncertainty routing, a human-in-the-loop review UI and EoMT + DINOv3 training. Data stays local.</div>",
+            "url": "https://github.com/AIhdproduction/Flurseg",
+            "title": "AIhdproduction/Flurseg: Distill SAM 3 into your own semantic segmentation model: automatic pseudo-labels for drone, phone and swisstopo orthophoto images, rule-based refinement, uncertainty routing, a human-in-the-loop review UI and EoMT + DINOv3 training. Data stays local.",
+            "date_modified": "2026-11-05T17:48:05.000Z",
+            "date_published": "2026-10-31T14:23:08.000Z",
+            "author": {
+                "name": "AIhdproduction",
+                "url": "https://github.com/AIhdproduction"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Flutter Edge AI application demonstrating on-device, zero-shot multimodal object segmentation and real-time tracking. Combines Gemma 4 w/ EdgeTAM &amp; DINOv3</div>",
+            "url": "https://github.com/IoT-gamer/flutter_dinov3_zero_shot_demo",
+            "title": "IoT-gamer/flutter_dinov3_zero_shot_demo: A Flutter Edge AI application demonstrating on-device, zero-shot multimodal object segmentation and real-time tracking. Combines Gemma 4 w/ EdgeTAM & DINOv3",
+            "date_modified": "2026-11-05T16:56:28.000Z",
+            "date_published": "2026-11-02T17:02:32.000Z",
+            "author": {
+                "name": "IoT-gamer",
+                "url": "https://github.com/IoT-gamer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/350216845?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation and reproducibility assets for “A Patch in a Static Image Can Explain Part of the Future.”</div>",
+            "url": "https://github.com/zixiongwang-ai/PMTT-physics",
+            "title": "zixiongwang-ai/PMTT-physics: Official implementation and reproducibility assets for “A Patch in a Static Image Can Explain Part of the Future.”",
+            "date_modified": "2026-11-05T21:22:29.000Z",
+            "date_published": "2026-11-03T12:16:09.000Z",
+            "author": {
+                "name": "zixiongwang-ai",
+                "url": "https://github.com/zixiongwang-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/350216845?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation and reproducibility assets for \"A Patch is More Than a Token\" (PMTT).</div>",
+            "url": "https://github.com/zixiongwang-ai/PMTT",
+            "title": "zixiongwang-ai/PMTT: Official implementation and reproducibility assets for \"A Patch is More Than a Token\" (PMTT).",
+            "date_modified": "2026-11-05T16:49:13.000Z",
+            "date_published": "2026-10-30T11:39:12.000Z",
+            "author": {
+                "name": "zixiongwang-ai",
+                "url": "https://github.com/zixiongwang-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
+            "url": "https://github.com/lightly-ai/lightly-train",
+            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
+            "date_modified": "2026-11-05T16:37:02.000Z",
+            "date_published": "2025-04-10T08:23:51.000Z",
+            "author": {
+                "name": "lightly-ai",
+                "url": "https://github.com/lightly-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89779033?u=1d55409778f9b60926446540bbee0aae7f180d0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fine-tuning DINOv3 for 13-class land-cover segmentation on IGN's FLAIR#1 aerial imagery. BitFit+, LoRA and frozen probes vs a U-Net baseline.</div>",
+            "url": "https://github.com/PetitMalo/remote-sensing-semantic-segmentation",
+            "title": "PetitMalo/remote-sensing-semantic-segmentation: Fine-tuning DINOv3 for 13-class land-cover segmentation on IGN's FLAIR#1 aerial imagery. BitFit+, LoRA and frozen probes vs a U-Net baseline.",
+            "date_modified": "2026-11-05T09:52:18.000Z",
+            "date_published": "2026-10-14T15:05:59.000Z",
+            "author": {
+                "name": "PetitMalo",
+                "url": "https://github.com/PetitMalo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>few shots test of dinov3 seg</div>",
+            "url": "https://github.com/qinhy/dinov3_proto_seg",
+            "title": "qinhy/dinov3_proto_seg: few shots test of dinov3 seg",
+            "date_modified": "2026-11-05T09:48:43.000Z",
+            "date_published": "2025-10-02T07:17:35.000Z",
+            "author": {
+                "name": "qinhy",
+                "url": "https://github.com/qinhy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180901742?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MinhTai-0403/RareCLIP-DINOv3",
+            "title": "MinhTai-0403/RareCLIP-DINOv3",
+            "date_modified": "2026-11-05T07:21:18.000Z",
+            "date_published": "2026-11-05T07:21:13.000Z",
+            "author": {
+                "name": "MinhTai-0403",
+                "url": "https://github.com/MinhTai-0403"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
+            "url": "https://github.com/ganzijie1/dongzhou",
+            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
+            "date_modified": "2026-11-05T07:16:55.000Z",
+            "date_published": "2026-08-13T05:30:19.000Z",
+            "author": {
+                "name": "ganzijie1",
+                "url": "https://github.com/ganzijie1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175228600?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/hbruls/DINOv3",
+            "title": "hbruls/DINOv3",
+            "date_modified": "2026-11-05T06:20:12.000Z",
+            "date_published": "2026-11-05T06:19:19.000Z",
+            "author": {
+                "name": "hbruls",
+                "url": "https://github.com/hbruls"
             }
         },
         {
@@ -28,21 +193,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
-            "url": "https://github.com/Pbatch/CameraChessWeb",
-            "title": "Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess",
-            "date_modified": "2026-11-05T01:37:33.000Z",
-            "date_published": "2023-06-28T23:07:09.000Z",
-            "author": {
-                "name": "Pbatch",
-                "url": "https://github.com/Pbatch"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142958317?u=c6373cd544f4f62ad0c22f8204ccfbd6dd407c44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Road extraction for Indonesia: SAM3 + OpenStreetMap pseudo-labels to fine-tune DINOv3-SAT; road graph, width, OSM conflation</div>",
             "url": "https://github.com/RaffiSatya/road-detection-sam3-dinov3",
             "title": "RaffiSatya/road-detection-sam3-dinov3: Road extraction for Indonesia: SAM3 + OpenStreetMap pseudo-labels to fine-tune DINOv3-SAT; road graph, width, OSM conflation",
-            "date_modified": "2026-11-05T01:07:23.000Z",
+            "date_modified": "2026-11-05T09:48:56.000Z",
             "date_published": "2026-11-05T01:06:43.000Z",
             "author": {
                 "name": "RaffiSatya",
@@ -69,160 +223,6 @@
             "author": {
                 "name": "lhl",
                 "url": "https://github.com/lhl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180333412?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>42 configurations (11 frozen, 31 fine-tuned) of vision foundation models for 11-class Arctic tundra vegetation mapping from drone orthomosaics. Tile context, mean-field smoothing, LoRA and GNN controls.</div>",
-            "url": "https://github.com/Lmague/benchmark-memoire",
-            "title": "Lmague/benchmark-memoire: 42 configurations (11 frozen, 31 fine-tuned) of vision foundation models for 11-class Arctic tundra vegetation mapping from drone orthomosaics. Tile context, mean-field smoothing, LoRA and GNN controls.",
-            "date_modified": "2026-11-04T20:25:02.000Z",
-            "date_published": "2026-06-02T05:37:29.000Z",
-            "author": {
-                "name": "Lmague",
-                "url": "https://github.com/Lmague"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87390273?u=a40aa7cc9ebc13f638f6f131c80bdc66e19490f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"</div>",
-            "url": "https://github.com/MehdiGolkarAmoli/Sen2DINOv3",
-            "title": "MehdiGolkarAmoli/Sen2DINOv3: This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"",
-            "date_modified": "2026-11-04T19:52:17.000Z",
-            "date_published": "2026-11-04T14:15:37.000Z",
-            "author": {
-                "name": "MehdiGolkarAmoli",
-                "url": "https://github.com/MehdiGolkarAmoli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
-            "url": "https://github.com/tomgrizz/ganaraska-live",
-            "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-11-04T16:41:38.000Z",
-            "date_published": "2026-08-25T14:33:27.000Z",
-            "author": {
-                "name": "tomgrizz",
-                "url": "https://github.com/tomgrizz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40530587?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multilingual (ZH/EN/JA) web workbench for local single-image-to-3D reconstruction (ComfyUI + BiRefNet + DINOv3 + 524K Gaussian Splats -&gt; 384³ GLB)</div>",
-            "url": "https://github.com/ywzry/idol-3d-studio",
-            "title": "ywzry/idol-3d-studio: Multilingual (ZH/EN/JA) web workbench for local single-image-to-3D reconstruction (ComfyUI + BiRefNet + DINOv3 + 524K Gaussian Splats -> 384³ GLB)",
-            "date_modified": "2026-11-04T16:24:26.000Z",
-            "date_published": "2026-11-04T16:16:28.000Z",
-            "author": {
-                "name": "ywzry",
-                "url": "https://github.com/ywzry"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45123074?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Distilling DINOv3 ConvNext models on sattelite data</div>",
-            "url": "https://github.com/GustavMH/DINOv3-ConvNext",
-            "title": "GustavMH/DINOv3-ConvNext: Distilling DINOv3 ConvNext models on sattelite data",
-            "date_modified": "2026-11-04T16:11:05.000Z",
-            "date_published": "2026-10-27T10:22:04.000Z",
-            "author": {
-                "name": "GustavMH",
-                "url": "https://github.com/GustavMH"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Flutter Edge AI application demonstrating on-device, zero-shot multimodal object segmentation and real-time tracking. Combines Gemma 4 w/ EdgeTAM &amp; DINOv3</div>",
-            "url": "https://github.com/IoT-gamer/flutter_dinov3_zero_shot_demo",
-            "title": "IoT-gamer/flutter_dinov3_zero_shot_demo: A Flutter Edge AI application demonstrating on-device, zero-shot multimodal object segmentation and real-time tracking. Combines Gemma 4 w/ EdgeTAM & DINOv3",
-            "date_modified": "2026-11-05T05:05:46.000Z",
-            "date_published": "2026-11-02T17:02:32.000Z",
-            "author": {
-                "name": "IoT-gamer",
-                "url": "https://github.com/IoT-gamer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/236241415?u=02999d24e60de3303d0fb2325cf883413330caaf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Machine-learning palaeography of the Voynich manuscript: do Lisa Fagin Davis's five scribes show in 7,096 handwritten letters k embedded with DINOv3?</div>",
-            "url": "https://github.com/LaineyLouiseWard/voynich-glyph-embeddings",
-            "title": "LaineyLouiseWard/voynich-glyph-embeddings: Machine-learning palaeography of the Voynich manuscript: do Lisa Fagin Davis's five scribes show in 7,096 handwritten letters k embedded with DINOv3?",
-            "date_modified": "2026-11-04T12:51:58.000Z",
-            "date_published": "2026-11-01T15:54:09.000Z",
-            "author": {
-                "name": "LaineyLouiseWard",
-                "url": "https://github.com/LaineyLouiseWard"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30579166?u=d735f4cd252ae80f4cbfa1c6de2bd318cf2b89d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[NeurIPS-REO 2026 Oral] Shortcut learning in geospatial foundation models for cross-disaster damage assessment.</div>",
-            "url": "https://github.com/alishibli97/gfm-shortcut-learning",
-            "title": "alishibli97/gfm-shortcut-learning: [NeurIPS-REO 2026 Oral] Shortcut learning in geospatial foundation models for cross-disaster damage assessment.",
-            "date_modified": "2026-11-04T11:14:13.000Z",
-            "date_published": "2026-10-05T08:19:00.000Z",
-            "author": {
-                "name": "alishibli97",
-                "url": "https://github.com/alishibli97"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108638916?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>",
-            "url": "https://github.com/Ram21275/tesseract-pose-speedplus",
-            "title": "Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features",
-            "date_modified": "2026-11-04T11:07:34.000Z",
-            "date_published": "2026-10-08T17:33:06.000Z",
-            "author": {
-                "name": "Ram21275",
-                "url": "https://github.com/Ram21275"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136749920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.</div>",
-            "url": "https://github.com/InsightML/crop-counter",
-            "title": "InsightML/crop-counter: Crop emergence counting from proximal RGB — frozen DINOv3 ConvNeXt backbone, pyramid decoder, point heatmap.",
-            "date_modified": "2026-11-04T09:56:33.000Z",
-            "date_published": "2026-08-18T18:07:16.000Z",
-            "author": {
-                "name": "InsightML",
-                "url": "https://github.com/InsightML"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126430401?u=746f37d427daefa05132a1ea6a7fd9c33194aa32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OtoEvi: Local Evidence-Guided Otoendoscopic Report Generation with Clause Coverage Learning. PyTorch implementation, reproducible configs and evaluation.</div>",
-            "url": "https://github.com/lululualululu/OtoEvi",
-            "title": "lululualululu/OtoEvi: OtoEvi: Local Evidence-Guided Otoendoscopic Report Generation with Clause Coverage Learning. PyTorch implementation, reproducible configs and evaluation.",
-            "date_modified": "2026-11-04T06:02:37.000Z",
-            "date_published": "2026-11-03T13:53:28.000Z",
-            "author": {
-                "name": "lululualululu",
-                "url": "https://github.com/lululualululu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237911695?u=adc438616b8824d6ccc43d67b9bb81c54f6f127a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RailwayAI is a computer vision research project for 2D-to-3D railway component identification and visual defect detection. It uses DINOv3, SigLIP, and C-RADIOv4 to compare image embeddings against a procedurally generated library of 500 3D components, with FAISS-based similarity retrieval and open-set recognition.</div>",
-            "url": "https://github.com/purvivagarwal/2D-image-to-3D",
-            "title": "purvivagarwal/2D-image-to-3D: RailwayAI is a computer vision research project for 2D-to-3D railway component identification and visual defect detection. It uses DINOv3, SigLIP, and C-RADIOv4 to compare image embeddings against a procedurally generated library of 500 3D components, with FAISS-based similarity retrieval and open-set recognition.",
-            "date_modified": "2026-11-04T04:41:19.000Z",
-            "date_published": "2026-11-04T04:40:34.000Z",
-            "author": {
-                "name": "purvivagarwal",
-                "url": "https://github.com/purvivagarwal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>",
-            "url": "https://github.com/xocialize/mlx-trellis2-swift",
-            "title": "xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.",
-            "date_modified": "2026-11-04T02:42:00.000Z",
-            "date_published": "2026-07-14T18:36:41.000Z",
-            "author": {
-                "name": "xocialize",
-                "url": "https://github.com/xocialize"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335386306?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3での特徴量取得</div>",
-            "url": "https://github.com/seina-kosaki/dinov3_project",
-            "title": "seina-kosaki/dinov3_project: dinov3での特徴量取得",
-            "date_modified": "2026-11-04T17:39:19.000Z",
-            "date_published": "2026-11-04T02:28:06.000Z",
-            "author": {
-                "name": "seina-kosaki",
-                "url": "https://github.com/seina-kosaki"
             }
         }
     ]
