@@ -2,16 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-11-06T05:28:36.977Z</updated>
+    <updated>2026-11-07T04:57:09.421Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles]]></title>
+        <id>https://github.com/SomethingObvious/JWSTDetector</id>
+        <link href="https://github.com/SomethingObvious/JWSTDetector"/>
+        <updated>2026-11-07T00:34:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4" width="64" height="64" alt=""/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>]]></content>
+        <author>
+            <name>SomethingObvious</name>
+            <email>SomethingObvious@noreply.github.com</email>
+            <uri>https://github.com/SomethingObvious</uri>
+        </author>
+        <published>2026-01-03T07:48:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.]]></title>
+        <id>https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers</id>
+        <link href="https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers"/>
+        <updated>2026-11-06T23:56:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4" width="64" height="64" alt=""/><br/><div>Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.</div>]]></content>
+        <author>
+            <name>BurnyCoder</name>
+            <email>BurnyCoder@noreply.github.com</email>
+            <uri>https://github.com/BurnyCoder</uri>
+        </author>
+        <published>2026-10-27T00:30:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonam525/FarmSAM: Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).]]></title>
+        <id>https://github.com/Sonam525/FarmSAM</id>
+        <link href="https://github.com/Sonam525/FarmSAM"/>
+        <updated>2026-11-06T19:55:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149631650?u=f3c37eed93aa20ed0f7b8f11833db0043b1ae9a2&v=4" width="64" height="64" alt=""/><br/><div>Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).</div>]]></content>
+        <author>
+            <name>Sonam525</name>
+            <email>Sonam525@noreply.github.com</email>
+            <uri>https://github.com/Sonam525</uri>
+        </author>
+        <published>2026-06-08T19:31:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[michalprusek/Exemplar: Few-shot biomedical segmentation that fits in seconds: a closed-form readout of frozen DINOv3 features and classical priors, updated exactly with each new mask. ISBI 2027 reference implementation.]]></title>
+        <id>https://github.com/michalprusek/Exemplar</id>
+        <link href="https://github.com/michalprusek/Exemplar"/>
+        <updated>2026-11-06T17:30:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4" width="64" height="64" alt=""/><br/><div>Few-shot biomedical segmentation that fits in seconds: a closed-form readout of frozen DINOv3 features and classical priors, updated exactly with each new mask. ISBI 2027 reference implementation.</div>]]></content>
+        <author>
+            <name>michalprusek</name>
+            <email>michalprusek@noreply.github.com</email>
+            <uri>https://github.com/michalprusek</uri>
+        </author>
+        <published>2026-07-22T14:40:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
+        <id>https://github.com/ganzijie1/dongzhou</id>
+        <link href="https://github.com/ganzijie1/dongzhou"/>
+        <updated>2026-11-06T17:01:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
+        <author>
+            <name>ganzijie1</name>
+            <email>ganzijie1@noreply.github.com</email>
+            <uri>https://github.com/ganzijie1</uri>
+        </author>
+        <published>2026-08-13T05:30:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mturkoglu23/TUSEB-oral-cancer: Foundation-model-guided ConvNeXt classification of oral lesions in clinical images (DINOv3 distillation, SupCon, cRW) - code for the JIIM manuscript]]></title>
+        <id>https://github.com/mturkoglu23/TUSEB-oral-cancer</id>
+        <link href="https://github.com/mturkoglu23/TUSEB-oral-cancer"/>
+        <updated>2026-11-06T12:58:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54291142?v=4" width="64" height="64" alt=""/><br/><div>Foundation-model-guided ConvNeXt classification of oral lesions in clinical images (DINOv3 distillation, SupCon, cRW) - code for the JIIM manuscript</div>]]></content>
+        <author>
+            <name>mturkoglu23</name>
+            <email>mturkoglu23@noreply.github.com</email>
+            <uri>https://github.com/mturkoglu23</uri>
+        </author>
+        <published>2026-11-06T12:58:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging: Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.]]></title>
+        <id>https://github.com/FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging</id>
+        <link href="https://github.com/FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging"/>
+        <updated>2026-11-06T10:32:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111402088?u=544d6a75e7e37ccf45c4214071de399943b1f769&v=4" width="64" height="64" alt=""/><br/><div>Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.</div>]]></content>
+        <author>
+            <name>FaramarzAboutalebi</name>
+            <email>FaramarzAboutalebi@noreply.github.com</email>
+            <uri>https://github.com/FaramarzAboutalebi</uri>
+        </author>
+        <published>2026-11-06T10:18:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JeonHaneul/2D-PDM_DINOv3]]></title>
         <id>https://github.com/JeonHaneul/2D-PDM_DINOv3</id>
         <link href="https://github.com/JeonHaneul/2D-PDM_DINOv3"/>
-        <updated>2026-11-06T03:48:34.000Z</updated>
+        <updated>2026-11-06T09:53:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76903862?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>JeonHaneul</name>
@@ -19,6 +110,19 @@
             <uri>https://github.com/JeonHaneul</uri>
         </author>
         <published>2026-07-15T08:27:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aman-Saxena05/Concrete-inspection: Concrete defect segmentation for an inspection robot: DINOv3 ViT-L teacher fine-tuned on S2DS (0.81 test mIoU), with a MobileNetV3 distillation and int8 export path targeting Raspberry Pi.]]></title>
+        <id>https://github.com/Aman-Saxena05/Concrete-inspection</id>
+        <link href="https://github.com/Aman-Saxena05/Concrete-inspection"/>
+        <updated>2026-11-06T09:29:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51737606?v=4" width="64" height="64" alt=""/><br/><div>Concrete defect segmentation for an inspection robot: DINOv3 ViT-L teacher fine-tuned on S2DS (0.81 test mIoU), with a MobileNetV3 distillation and int8 export path targeting Raspberry Pi.</div>]]></content>
+        <author>
+            <name>Aman-Saxena05</name>
+            <email>Aman-Saxena05@noreply.github.com</email>
+            <uri>https://github.com/Aman-Saxena05</uri>
+        </author>
+        <published>2026-11-06T09:23:33.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess]]></title>
@@ -32,19 +136,6 @@
             <uri>https://github.com/Pbatch</uri>
         </author>
         <published>2023-06-28T23:07:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles]]></title>
-        <id>https://github.com/SomethingObvious/JWSTDetector</id>
-        <link href="https://github.com/SomethingObvious/JWSTDetector"/>
-        <updated>2026-11-06T01:47:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4" width="64" height="64" alt=""/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>]]></content>
-        <author>
-            <name>SomethingObvious</name>
-            <email>SomethingObvious@noreply.github.com</email>
-            <uri>https://github.com/SomethingObvious</uri>
-        </author>
-        <published>2026-01-03T07:48:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[danmartsarr/validacao-tags-mac: Validação manual das tags do DINOv3 no acervo do MAC USP]]></title>
@@ -141,7 +232,7 @@
         <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
         <id>https://github.com/lightly-ai/lightly-train</id>
         <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-11-05T16:37:02.000Z</updated>
+        <updated>2026-11-06T15:19:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
         <author>
             <name>lightly-ai</name>
@@ -175,96 +266,5 @@
             <uri>https://github.com/qinhy</uri>
         </author>
         <published>2025-10-02T07:17:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MinhTai-0403/RareCLIP-DINOv3]]></title>
-        <id>https://github.com/MinhTai-0403/RareCLIP-DINOv3</id>
-        <link href="https://github.com/MinhTai-0403/RareCLIP-DINOv3"/>
-        <updated>2026-11-05T07:21:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180901742?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>MinhTai-0403</name>
-            <email>MinhTai-0403@noreply.github.com</email>
-            <uri>https://github.com/MinhTai-0403</uri>
-        </author>
-        <published>2026-11-05T07:21:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
-        <id>https://github.com/ganzijie1/dongzhou</id>
-        <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-11-05T07:16:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
-        <author>
-            <name>ganzijie1</name>
-            <email>ganzijie1@noreply.github.com</email>
-            <uri>https://github.com/ganzijie1</uri>
-        </author>
-        <published>2026-08-13T05:30:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hbruls/DINOv3]]></title>
-        <id>https://github.com/hbruls/DINOv3</id>
-        <link href="https://github.com/hbruls/DINOv3"/>
-        <updated>2026-11-05T06:20:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/175228600?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>hbruls</name>
-            <email>hbruls@noreply.github.com</email>
-            <uri>https://github.com/hbruls</uri>
-        </author>
-        <published>2026-11-05T06:19:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.]]></title>
-        <id>https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers</id>
-        <link href="https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers"/>
-        <updated>2026-11-05T04:38:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4" width="64" height="64" alt=""/><br/><div>Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.</div>]]></content>
-        <author>
-            <name>BurnyCoder</name>
-            <email>BurnyCoder@noreply.github.com</email>
-            <uri>https://github.com/BurnyCoder</uri>
-        </author>
-        <published>2026-10-27T00:30:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RaffiSatya/road-detection-sam3-dinov3: Road extraction for Indonesia: SAM3 + OpenStreetMap pseudo-labels to fine-tune DINOv3-SAT; road graph, width, OSM conflation]]></title>
-        <id>https://github.com/RaffiSatya/road-detection-sam3-dinov3</id>
-        <link href="https://github.com/RaffiSatya/road-detection-sam3-dinov3"/>
-        <updated>2026-11-05T09:48:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/142958317?u=c6373cd544f4f62ad0c22f8204ccfbd6dd407c44&v=4" width="64" height="64" alt=""/><br/><div>Road extraction for Indonesia: SAM3 + OpenStreetMap pseudo-labels to fine-tune DINOv3-SAT; road graph, width, OSM conflation</div>]]></content>
-        <author>
-            <name>RaffiSatya</name>
-            <email>RaffiSatya@noreply.github.com</email>
-            <uri>https://github.com/RaffiSatya</uri>
-        </author>
-        <published>2026-11-05T01:06:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jacklky/reality-studio: Reality Studio: make any physical space editable. Photograph your room, then change it with real products, using Meta SAM 3.1, DINOv3, Muse Spark, Muse Image and Muse Voice.]]></title>
-        <id>https://github.com/jacklky/reality-studio</id>
-        <link href="https://github.com/jacklky/reality-studio"/>
-        <updated>2026-11-04T22:34:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76564268?v=4" width="64" height="64" alt=""/><br/><div>Reality Studio: make any physical space editable. Photograph your room, then change it with real products, using Meta SAM 3.1, DINOv3, Muse Spark, Muse Image and Muse Voice.</div>]]></content>
-        <author>
-            <name>jacklky</name>
-            <email>jacklky@noreply.github.com</email>
-            <uri>https://github.com/jacklky</uri>
-        </author>
-        <published>2026-11-04T22:34:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lhl/crumbs: Searchable food and travel memory from your own photos and location history, with local open Meta models (Muse Glimmer, DINOv3). Meta Global AI Developer Hackathon 2026.]]></title>
-        <id>https://github.com/lhl/crumbs</id>
-        <link href="https://github.com/lhl/crumbs"/>
-        <updated>2026-11-04T21:08:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2581?v=4" width="64" height="64" alt=""/><br/><div>Searchable food and travel memory from your own photos and location history, with local open Meta models (Muse Glimmer, DINOv3). Meta Global AI Developer Hackathon 2026.</div>]]></content>
-        <author>
-            <name>lhl</name>
-            <email>lhl@noreply.github.com</email>
-            <uri>https://github.com/lhl</uri>
-        </author>
-        <published>2026-11-04T20:42:42.000Z</published>
     </entry>
 </feed>

@@ -6,14 +6,102 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
+            "url": "https://github.com/SomethingObvious/JWSTDetector",
+            "title": "SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
+            "date_modified": "2026-11-07T00:34:20.000Z",
+            "date_published": "2026-01-03T07:48:06.000Z",
+            "author": {
+                "name": "SomethingObvious",
+                "url": "https://github.com/SomethingObvious"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.</div>",
+            "url": "https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers",
+            "title": "BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.",
+            "date_modified": "2026-11-06T23:56:17.000Z",
+            "date_published": "2026-10-27T00:30:50.000Z",
+            "author": {
+                "name": "BurnyCoder",
+                "url": "https://github.com/BurnyCoder"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149631650?u=f3c37eed93aa20ed0f7b8f11833db0043b1ae9a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).</div>",
+            "url": "https://github.com/Sonam525/FarmSAM",
+            "title": "Sonam525/FarmSAM: Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).",
+            "date_modified": "2026-11-06T19:55:23.000Z",
+            "date_published": "2026-06-08T19:31:17.000Z",
+            "author": {
+                "name": "Sonam525",
+                "url": "https://github.com/Sonam525"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical segmentation that fits in seconds: a closed-form readout of frozen DINOv3 features and classical priors, updated exactly with each new mask. ISBI 2027 reference implementation.</div>",
+            "url": "https://github.com/michalprusek/Exemplar",
+            "title": "michalprusek/Exemplar: Few-shot biomedical segmentation that fits in seconds: a closed-form readout of frozen DINOv3 features and classical priors, updated exactly with each new mask. ISBI 2027 reference implementation.",
+            "date_modified": "2026-11-06T17:30:38.000Z",
+            "date_published": "2026-07-22T14:40:53.000Z",
+            "author": {
+                "name": "michalprusek",
+                "url": "https://github.com/michalprusek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
+            "url": "https://github.com/ganzijie1/dongzhou",
+            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
+            "date_modified": "2026-11-06T17:01:36.000Z",
+            "date_published": "2026-08-13T05:30:19.000Z",
+            "author": {
+                "name": "ganzijie1",
+                "url": "https://github.com/ganzijie1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54291142?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Foundation-model-guided ConvNeXt classification of oral lesions in clinical images (DINOv3 distillation, SupCon, cRW) - code for the JIIM manuscript</div>",
+            "url": "https://github.com/mturkoglu23/TUSEB-oral-cancer",
+            "title": "mturkoglu23/TUSEB-oral-cancer: Foundation-model-guided ConvNeXt classification of oral lesions in clinical images (DINOv3 distillation, SupCon, cRW) - code for the JIIM manuscript",
+            "date_modified": "2026-11-06T12:58:48.000Z",
+            "date_published": "2026-11-06T12:58:36.000Z",
+            "author": {
+                "name": "mturkoglu23",
+                "url": "https://github.com/mturkoglu23"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111402088?u=544d6a75e7e37ccf45c4214071de399943b1f769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.</div>",
+            "url": "https://github.com/FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging",
+            "title": "FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging: Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.",
+            "date_modified": "2026-11-06T10:32:38.000Z",
+            "date_published": "2026-11-06T10:18:51.000Z",
+            "author": {
+                "name": "FaramarzAboutalebi",
+                "url": "https://github.com/FaramarzAboutalebi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
             "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-11-06T03:48:34.000Z",
+            "date_modified": "2026-11-06T09:53:29.000Z",
             "date_published": "2026-07-15T08:27:58.000Z",
             "author": {
                 "name": "JeonHaneul",
                 "url": "https://github.com/JeonHaneul"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51737606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Concrete defect segmentation for an inspection robot: DINOv3 ViT-L teacher fine-tuned on S2DS (0.81 test mIoU), with a MobileNetV3 distillation and int8 export path targeting Raspberry Pi.</div>",
+            "url": "https://github.com/Aman-Saxena05/Concrete-inspection",
+            "title": "Aman-Saxena05/Concrete-inspection: Concrete defect segmentation for an inspection robot: DINOv3 ViT-L teacher fine-tuned on S2DS (0.81 test mIoU), with a MobileNetV3 distillation and int8 export path targeting Raspberry Pi.",
+            "date_modified": "2026-11-06T09:29:36.000Z",
+            "date_published": "2026-11-06T09:23:33.000Z",
+            "author": {
+                "name": "Aman-Saxena05",
+                "url": "https://github.com/Aman-Saxena05"
             }
         },
         {
@@ -25,17 +113,6 @@
             "author": {
                 "name": "Pbatch",
                 "url": "https://github.com/Pbatch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
-            "url": "https://github.com/SomethingObvious/JWSTDetector",
-            "title": "SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
-            "date_modified": "2026-11-06T01:47:41.000Z",
-            "date_published": "2026-01-03T07:48:06.000Z",
-            "author": {
-                "name": "SomethingObvious",
-                "url": "https://github.com/SomethingObvious"
             }
         },
         {
@@ -119,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
             "url": "https://github.com/lightly-ai/lightly-train",
             "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-11-05T16:37:02.000Z",
+            "date_modified": "2026-11-06T15:19:15.000Z",
             "date_published": "2025-04-10T08:23:51.000Z",
             "author": {
                 "name": "lightly-ai",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "qinhy",
                 "url": "https://github.com/qinhy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180901742?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MinhTai-0403/RareCLIP-DINOv3",
-            "title": "MinhTai-0403/RareCLIP-DINOv3",
-            "date_modified": "2026-11-05T07:21:18.000Z",
-            "date_published": "2026-11-05T07:21:13.000Z",
-            "author": {
-                "name": "MinhTai-0403",
-                "url": "https://github.com/MinhTai-0403"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
-            "url": "https://github.com/ganzijie1/dongzhou",
-            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
-            "date_modified": "2026-11-05T07:16:55.000Z",
-            "date_published": "2026-08-13T05:30:19.000Z",
-            "author": {
-                "name": "ganzijie1",
-                "url": "https://github.com/ganzijie1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175228600?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hbruls/DINOv3",
-            "title": "hbruls/DINOv3",
-            "date_modified": "2026-11-05T06:20:12.000Z",
-            "date_published": "2026-11-05T06:19:19.000Z",
-            "author": {
-                "name": "hbruls",
-                "url": "https://github.com/hbruls"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.</div>",
-            "url": "https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers",
-            "title": "BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.",
-            "date_modified": "2026-11-05T04:38:17.000Z",
-            "date_published": "2026-10-27T00:30:50.000Z",
-            "author": {
-                "name": "BurnyCoder",
-                "url": "https://github.com/BurnyCoder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142958317?u=c6373cd544f4f62ad0c22f8204ccfbd6dd407c44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Road extraction for Indonesia: SAM3 + OpenStreetMap pseudo-labels to fine-tune DINOv3-SAT; road graph, width, OSM conflation</div>",
-            "url": "https://github.com/RaffiSatya/road-detection-sam3-dinov3",
-            "title": "RaffiSatya/road-detection-sam3-dinov3: Road extraction for Indonesia: SAM3 + OpenStreetMap pseudo-labels to fine-tune DINOv3-SAT; road graph, width, OSM conflation",
-            "date_modified": "2026-11-05T09:48:56.000Z",
-            "date_published": "2026-11-05T01:06:43.000Z",
-            "author": {
-                "name": "RaffiSatya",
-                "url": "https://github.com/RaffiSatya"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76564268?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reality Studio: make any physical space editable. Photograph your room, then change it with real products, using Meta SAM 3.1, DINOv3, Muse Spark, Muse Image and Muse Voice.</div>",
-            "url": "https://github.com/jacklky/reality-studio",
-            "title": "jacklky/reality-studio: Reality Studio: make any physical space editable. Photograph your room, then change it with real products, using Meta SAM 3.1, DINOv3, Muse Spark, Muse Image and Muse Voice.",
-            "date_modified": "2026-11-04T22:34:51.000Z",
-            "date_published": "2026-11-04T22:34:21.000Z",
-            "author": {
-                "name": "jacklky",
-                "url": "https://github.com/jacklky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2581?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Searchable food and travel memory from your own photos and location history, with local open Meta models (Muse Glimmer, DINOv3). Meta Global AI Developer Hackathon 2026.</div>",
-            "url": "https://github.com/lhl/crumbs",
-            "title": "lhl/crumbs: Searchable food and travel memory from your own photos and location history, with local open Meta models (Muse Glimmer, DINOv3). Meta Global AI Developer Hackathon 2026.",
-            "date_modified": "2026-11-04T21:08:32.000Z",
-            "date_published": "2026-11-04T20:42:42.000Z",
-            "author": {
-                "name": "lhl",
-                "url": "https://github.com/lhl"
             }
         }
     ]
