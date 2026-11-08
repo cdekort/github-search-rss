@@ -2,16 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-11-07T04:57:09.421Z</updated>
+    <updated>2026-11-08T04:51:02.439Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[PeymanAudioML/dinov3-diffraction: Frozen DINOv3 features for Bragg-spot detection in simulated electron diffraction patterns]]></title>
+        <id>https://github.com/PeymanAudioML/dinov3-diffraction</id>
+        <link href="https://github.com/PeymanAudioML/dinov3-diffraction"/>
+        <updated>2026-11-08T04:40:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/148311448?v=4" width="64" height="64" alt=""/><br/><div>Frozen DINOv3 features for Bragg-spot detection in simulated electron diffraction patterns</div>]]></content>
+        <author>
+            <name>PeymanAudioML</name>
+            <email>PeymanAudioML@noreply.github.com</email>
+            <uri>https://github.com/PeymanAudioML</uri>
+        </author>
+        <published>2026-11-07T21:42:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess]]></title>
+        <id>https://github.com/Pbatch/CameraChessWeb</id>
+        <link href="https://github.com/Pbatch/CameraChessWeb"/>
+        <updated>2026-11-08T02:58:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4" width="64" height="64" alt=""/><br/><div>Record a chess game live and upload the PGN to Lichess</div>]]></content>
+        <author>
+            <name>Pbatch</name>
+            <email>Pbatch@noreply.github.com</email>
+            <uri>https://github.com/Pbatch</uri>
+        </author>
+        <published>2023-06-28T23:07:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航]]></title>
+        <id>https://github.com/little51/dinov3-course</id>
+        <link href="https://github.com/little51/dinov3-course"/>
+        <updated>2026-11-08T03:03:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7981353?v=4" width="64" height="64" alt=""/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>]]></content>
+        <author>
+            <name>little51</name>
+            <email>little51@noreply.github.com</email>
+            <uri>https://github.com/little51</uri>
+        </author>
+        <published>2026-05-03T12:40:56.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles]]></title>
         <id>https://github.com/SomethingObvious/JWSTDetector</id>
         <link href="https://github.com/SomethingObvious/JWSTDetector"/>
-        <updated>2026-11-07T00:34:20.000Z</updated>
+        <updated>2026-11-07T21:49:53.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4" width="64" height="64" alt=""/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>]]></content>
         <author>
             <name>SomethingObvious</name>
@@ -19,6 +58,84 @@
             <uri>https://github.com/SomethingObvious</uri>
         </author>
         <published>2026-01-03T07:48:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
+        <id>https://github.com/lightly-ai/lightly-train</id>
+        <link href="https://github.com/lightly-ai/lightly-train"/>
+        <updated>2026-11-07T20:08:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
+        <author>
+            <name>lightly-ai</name>
+            <email>lightly-ai@noreply.github.com</email>
+            <uri>https://github.com/lightly-ai</uri>
+        </author>
+        <published>2025-04-10T08:23:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FasterThanC/4d-DINOv3: Frozen DINOv3 features and a 10-band distilled student for crop mapping on Sentinel-2 time series (PASTIS).]]></title>
+        <id>https://github.com/FasterThanC/4d-DINOv3</id>
+        <link href="https://github.com/FasterThanC/4d-DINOv3"/>
+        <updated>2026-11-07T16:58:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94128424?u=6e5ef4cef552cd5beb9c9c224ac8d5b8ff4e8106&v=4" width="64" height="64" alt=""/><br/><div>Frozen DINOv3 features and a 10-band distilled student for crop mapping on Sentinel-2 time series (PASTIS).</div>]]></content>
+        <author>
+            <name>FasterThanC</name>
+            <email>FasterThanC@noreply.github.com</email>
+            <uri>https://github.com/FasterThanC</uri>
+        </author>
+        <published>2026-10-29T22:14:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhaoxu-doctor/DINOv3-MSFNet: DINOv3-MSFNet: A Multi-Scale Feature Fusion Network for Land Cover Classification in Mountainous Forest Ecosystems]]></title>
+        <id>https://github.com/zhaoxu-doctor/DINOv3-MSFNet</id>
+        <link href="https://github.com/zhaoxu-doctor/DINOv3-MSFNet"/>
+        <updated>2026-11-07T11:09:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/306050564?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-MSFNet: A Multi-Scale Feature Fusion Network for Land Cover Classification in Mountainous Forest Ecosystems</div>]]></content>
+        <author>
+            <name>zhaoxu-doctor</name>
+            <email>zhaoxu-doctor@noreply.github.com</email>
+            <uri>https://github.com/zhaoxu-doctor</uri>
+        </author>
+        <published>2026-07-20T11:33:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ferrxuS/FYP: Shipping container defect segmentation with continual learning on a DINOv3 foundation model]]></title>
+        <id>https://github.com/ferrxuS/FYP</id>
+        <link href="https://github.com/ferrxuS/FYP"/>
+        <updated>2026-11-07T10:53:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/153167829?v=4" width="64" height="64" alt=""/><br/><div>Shipping container defect segmentation with continual learning on a DINOv3 foundation model</div>]]></content>
+        <author>
+            <name>ferrxuS</name>
+            <email>ferrxuS@noreply.github.com</email>
+            <uri>https://github.com/ferrxuS</uri>
+        </author>
+        <published>2026-11-07T10:42:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archaic-Atom/Template-Matching-DINOv3: Termplate matching method based on dinov3]]></title>
+        <id>https://github.com/Archaic-Atom/Template-Matching-DINOv3</id>
+        <link href="https://github.com/Archaic-Atom/Template-Matching-DINOv3"/>
+        <updated>2026-11-07T10:20:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84303047?v=4" width="64" height="64" alt=""/><br/><div>Termplate matching method based on dinov3</div>]]></content>
+        <author>
+            <name>Archaic-Atom</name>
+            <email>Archaic-Atom@noreply.github.com</email>
+            <uri>https://github.com/Archaic-Atom</uri>
+        </author>
+        <published>2026-02-10T07:59:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
+        <id>https://github.com/ganzijie1/dongzhou</id>
+        <link href="https://github.com/ganzijie1/dongzhou"/>
+        <updated>2026-11-07T08:03:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
+        <author>
+            <name>ganzijie1</name>
+            <email>ganzijie1@noreply.github.com</email>
+            <uri>https://github.com/ganzijie1</uri>
+        </author>
+        <published>2026-08-13T05:30:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.]]></title>
@@ -60,19 +177,6 @@
         <published>2026-07-22T14:40:53.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
-        <id>https://github.com/ganzijie1/dongzhou</id>
-        <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-11-06T17:01:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
-        <author>
-            <name>ganzijie1</name>
-            <email>ganzijie1@noreply.github.com</email>
-            <uri>https://github.com/ganzijie1</uri>
-        </author>
-        <published>2026-08-13T05:30:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[mturkoglu23/TUSEB-oral-cancer: Foundation-model-guided ConvNeXt classification of oral lesions in clinical images (DINOv3 distillation, SupCon, cRW) - code for the JIIM manuscript]]></title>
         <id>https://github.com/mturkoglu23/TUSEB-oral-cancer</id>
         <link href="https://github.com/mturkoglu23/TUSEB-oral-cancer"/>
@@ -84,6 +188,19 @@
             <uri>https://github.com/mturkoglu23</uri>
         </author>
         <published>2026-11-06T12:58:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[labviaunb/dualview: DualView: CNN + DINOv3 ViT (LoRA) for retinal artery/vein segmentation that generalizes across fundus datasets. Code, released weights and the evaluation protocol of the paper.]]></title>
+        <id>https://github.com/labviaunb/dualview</id>
+        <link href="https://github.com/labviaunb/dualview"/>
+        <updated>2026-11-08T02:29:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/223523245?v=4" width="64" height="64" alt=""/><br/><div>DualView: CNN + DINOv3 ViT (LoRA) for retinal artery/vein segmentation that generalizes across fundus datasets. Code, released weights and the evaluation protocol of the paper.</div>]]></content>
+        <author>
+            <name>labviaunb</name>
+            <email>labviaunb@noreply.github.com</email>
+            <uri>https://github.com/labviaunb</uri>
+        </author>
+        <published>2026-11-05T12:12:18.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging: Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.]]></title>
@@ -125,19 +242,6 @@
         <published>2026-11-06T09:23:33.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess]]></title>
-        <id>https://github.com/Pbatch/CameraChessWeb</id>
-        <link href="https://github.com/Pbatch/CameraChessWeb"/>
-        <updated>2026-11-06T03:02:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4" width="64" height="64" alt=""/><br/><div>Record a chess game live and upload the PGN to Lichess</div>]]></content>
-        <author>
-            <name>Pbatch</name>
-            <email>Pbatch@noreply.github.com</email>
-            <uri>https://github.com/Pbatch</uri>
-        </author>
-        <published>2023-06-28T23:07:09.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[danmartsarr/validacao-tags-mac: Validação manual das tags do DINOv3 no acervo do MAC USP]]></title>
         <id>https://github.com/danmartsarr/validacao-tags-mac</id>
         <link href="https://github.com/danmartsarr/validacao-tags-mac"/>
@@ -154,7 +258,7 @@
         <title type="html"><![CDATA[MehdiGolkarAmoli/Sen2DINOv3: This Repository related to article of "S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery"]]></title>
         <id>https://github.com/MehdiGolkarAmoli/Sen2DINOv3</id>
         <link href="https://github.com/MehdiGolkarAmoli/Sen2DINOv3"/>
-        <updated>2026-11-06T02:00:50.000Z</updated>
+        <updated>2026-11-07T10:37:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87390273?u=a40aa7cc9ebc13f638f6f131c80bdc66e19490f2&v=4" width="64" height="64" alt=""/><br/><div>This Repository related to article of "S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery"</div>]]></content>
         <author>
             <name>MehdiGolkarAmoli</name>
@@ -162,109 +266,5 @@
             <uri>https://github.com/MehdiGolkarAmoli</uri>
         </author>
         <published>2026-11-04T14:15:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[anaennis/build-or-adapt-poster: Poster figures, data and notes for “Build or Adapt? Tests of Foundation Models on Survey Tiles”: do wider image windows help a frozen DINOv3 on cluster richness and tidal features? Includes single-object adapter vs AION-1 results.]]></title>
-        <id>https://github.com/anaennis/build-or-adapt-poster</id>
-        <link href="https://github.com/anaennis/build-or-adapt-poster"/>
-        <updated>2026-11-05T18:20:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50117500?u=d42fd8c4bbd1bc27fa640fc2dd85843adc06a027&v=4" width="64" height="64" alt=""/><br/><div>Poster figures, data and notes for “Build or Adapt? Tests of Foundation Models on Survey Tiles”: do wider image windows help a frozen DINOv3 on cluster richness and tidal features? Includes single-object adapter vs AION-1 results.</div>]]></content>
-        <author>
-            <name>anaennis</name>
-            <email>anaennis@noreply.github.com</email>
-            <uri>https://github.com/anaennis</uri>
-        </author>
-        <published>2026-11-02T20:54:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIhdproduction/Flurseg: Distill SAM 3 into your own semantic segmentation model: automatic pseudo-labels for drone, phone and swisstopo orthophoto images, rule-based refinement, uncertainty routing, a human-in-the-loop review UI and EoMT + DINOv3 training. Data stays local.]]></title>
-        <id>https://github.com/AIhdproduction/Flurseg</id>
-        <link href="https://github.com/AIhdproduction/Flurseg"/>
-        <updated>2026-11-05T17:48:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/260610871?u=90f7211f2fac740c884f5fe938d57dba92335f6c&v=4" width="64" height="64" alt=""/><br/><div>Distill SAM 3 into your own semantic segmentation model: automatic pseudo-labels for drone, phone and swisstopo orthophoto images, rule-based refinement, uncertainty routing, a human-in-the-loop review UI and EoMT + DINOv3 training. Data stays local.</div>]]></content>
-        <author>
-            <name>AIhdproduction</name>
-            <email>AIhdproduction@noreply.github.com</email>
-            <uri>https://github.com/AIhdproduction</uri>
-        </author>
-        <published>2026-10-31T14:23:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT-gamer/flutter_dinov3_zero_shot_demo: A Flutter Edge AI application demonstrating on-device, zero-shot multimodal object segmentation and real-time tracking. Combines Gemma 4 w/ EdgeTAM & DINOv3]]></title>
-        <id>https://github.com/IoT-gamer/flutter_dinov3_zero_shot_demo</id>
-        <link href="https://github.com/IoT-gamer/flutter_dinov3_zero_shot_demo"/>
-        <updated>2026-11-05T16:56:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115783156?u=fc9a93ecb024efaaef15bc6f8b33a367f302366e&v=4" width="64" height="64" alt=""/><br/><div>A Flutter Edge AI application demonstrating on-device, zero-shot multimodal object segmentation and real-time tracking. Combines Gemma 4 w/ EdgeTAM &amp; DINOv3</div>]]></content>
-        <author>
-            <name>IoT-gamer</name>
-            <email>IoT-gamer@noreply.github.com</email>
-            <uri>https://github.com/IoT-gamer</uri>
-        </author>
-        <published>2026-11-02T17:02:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zixiongwang-ai/PMTT-physics: Official implementation and reproducibility assets for “A Patch in a Static Image Can Explain Part of the Future.”]]></title>
-        <id>https://github.com/zixiongwang-ai/PMTT-physics</id>
-        <link href="https://github.com/zixiongwang-ai/PMTT-physics"/>
-        <updated>2026-11-05T21:22:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/350216845?v=4" width="64" height="64" alt=""/><br/><div>Official implementation and reproducibility assets for “A Patch in a Static Image Can Explain Part of the Future.”</div>]]></content>
-        <author>
-            <name>zixiongwang-ai</name>
-            <email>zixiongwang-ai@noreply.github.com</email>
-            <uri>https://github.com/zixiongwang-ai</uri>
-        </author>
-        <published>2026-11-03T12:16:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zixiongwang-ai/PMTT: Official implementation and reproducibility assets for "A Patch is More Than a Token" (PMTT).]]></title>
-        <id>https://github.com/zixiongwang-ai/PMTT</id>
-        <link href="https://github.com/zixiongwang-ai/PMTT"/>
-        <updated>2026-11-05T16:49:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/350216845?v=4" width="64" height="64" alt=""/><br/><div>Official implementation and reproducibility assets for "A Patch is More Than a Token" (PMTT).</div>]]></content>
-        <author>
-            <name>zixiongwang-ai</name>
-            <email>zixiongwang-ai@noreply.github.com</email>
-            <uri>https://github.com/zixiongwang-ai</uri>
-        </author>
-        <published>2026-10-30T11:39:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.]]></title>
-        <id>https://github.com/lightly-ai/lightly-train</id>
-        <link href="https://github.com/lightly-ai/lightly-train"/>
-        <updated>2026-11-06T15:19:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50146475?v=4" width="64" height="64" alt=""/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>]]></content>
-        <author>
-            <name>lightly-ai</name>
-            <email>lightly-ai@noreply.github.com</email>
-            <uri>https://github.com/lightly-ai</uri>
-        </author>
-        <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PetitMalo/remote-sensing-semantic-segmentation: Fine-tuning DINOv3 for 13-class land-cover segmentation on IGN's FLAIR#1 aerial imagery. BitFit+, LoRA and frozen probes vs a U-Net baseline.]]></title>
-        <id>https://github.com/PetitMalo/remote-sensing-semantic-segmentation</id>
-        <link href="https://github.com/PetitMalo/remote-sensing-semantic-segmentation"/>
-        <updated>2026-11-05T09:52:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89779033?u=1d55409778f9b60926446540bbee0aae7f180d0b&v=4" width="64" height="64" alt=""/><br/><div>Fine-tuning DINOv3 for 13-class land-cover segmentation on IGN's FLAIR#1 aerial imagery. BitFit+, LoRA and frozen probes vs a U-Net baseline.</div>]]></content>
-        <author>
-            <name>PetitMalo</name>
-            <email>PetitMalo@noreply.github.com</email>
-            <uri>https://github.com/PetitMalo</uri>
-        </author>
-        <published>2026-10-14T15:05:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qinhy/dinov3_proto_seg: few shots test of dinov3 seg]]></title>
-        <id>https://github.com/qinhy/dinov3_proto_seg</id>
-        <link href="https://github.com/qinhy/dinov3_proto_seg"/>
-        <updated>2026-11-05T09:48:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3102538?u=87ac15760bbc6db8a8fb03f55ebcd028a044bae5&v=4" width="64" height="64" alt=""/><br/><div>few shots test of dinov3 seg</div>]]></content>
-        <author>
-            <name>qinhy</name>
-            <email>qinhy@noreply.github.com</email>
-            <uri>https://github.com/qinhy</uri>
-        </author>
-        <published>2025-10-02T07:17:35.000Z</published>
     </entry>
 </feed>
