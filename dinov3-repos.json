@@ -6,6 +6,171 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>",
+            "url": "https://github.com/neelkumar01/gestalt-distillation",
+            "title": "neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model",
+            "date_modified": "2026-11-09T04:11:09.000Z",
+            "date_published": "2026-10-26T16:41:57.000Z",
+            "author": {
+                "name": "neelkumar01",
+                "url": "https://github.com/neelkumar01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。(独立副本, 原 DINOv3-CARNet-Doo)</div>",
+            "url": "https://github.com/notsong/DINOv3-Seg-Doo",
+            "title": "notsong/DINOv3-Seg-Doo: 基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。(独立副本, 原 DINOv3-CARNet-Doo)",
+            "date_modified": "2026-11-09T03:45:59.000Z",
+            "date_published": "2026-09-06T05:23:52.000Z",
+            "author": {
+                "name": "notsong",
+                "url": "https://github.com/notsong"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199730860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Yanxz526/CESDNet",
+            "title": "Yanxz526/CESDNet",
+            "date_modified": "2026-11-09T02:23:20.000Z",
+            "date_published": "2026-07-06T00:48:12.000Z",
+            "author": {
+                "name": "Yanxz526",
+                "url": "https://github.com/Yanxz526"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183895585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)</div>",
+            "url": "https://github.com/nuummm/csiro-image2biomass",
+            "title": "nuummm/csiro-image2biomass: Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)",
+            "date_modified": "2026-11-09T01:27:54.000Z",
+            "date_published": "2026-11-09T01:21:51.000Z",
+            "author": {
+                "name": "nuummm",
+                "url": "https://github.com/nuummm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
+            "url": "https://github.com/SomethingObvious/JWSTDetector",
+            "title": "SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
+            "date_modified": "2026-11-09T01:19:10.000Z",
+            "date_published": "2026-01-03T07:48:06.000Z",
+            "author": {
+                "name": "SomethingObvious",
+                "url": "https://github.com/SomethingObvious"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97982453?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Transferability of DINOv3 representations under extreme domain shift: linear probing and LoRA on histopathology, satellite, and underwater images (MVA Master's course project)</div>",
+            "url": "https://github.com/GloireLINVANI/dinov3-transferability",
+            "title": "GloireLINVANI/dinov3-transferability: Transferability of DINOv3 representations under extreme domain shift: linear probing and LoRA on histopathology, satellite, and underwater images (MVA Master's course project)",
+            "date_modified": "2026-11-09T01:00:26.000Z",
+            "date_published": "2026-11-08T22:00:57.000Z",
+            "author": {
+                "name": "GloireLINVANI",
+                "url": "https://github.com/GloireLINVANI"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86493327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-contained Docker and Python runtime for StarSeg, DINOv3 Hydra, and GRU arm tracing</div>",
+            "url": "https://github.com/weertman/deepstarnoodles-inference",
+            "title": "weertman/deepstarnoodles-inference: Self-contained Docker and Python runtime for StarSeg, DINOv3 Hydra, and GRU arm tracing",
+            "date_modified": "2026-11-08T21:11:34.000Z",
+            "date_published": "2026-10-28T21:30:36.000Z",
+            "author": {
+                "name": "weertman",
+                "url": "https://github.com/weertman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45123074?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Distilling DINOv3 ConvNext models on sattelite data</div>",
+            "url": "https://github.com/GustavMH/DINOv3-ConvNext",
+            "title": "GustavMH/DINOv3-ConvNext: Distilling DINOv3 ConvNext models on sattelite data",
+            "date_modified": "2026-11-08T19:37:37.000Z",
+            "date_published": "2026-10-27T10:22:04.000Z",
+            "author": {
+                "name": "GustavMH",
+                "url": "https://github.com/GustavMH"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180861202?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nguyenphuc210/hanoi-pm25-softs-dinov3",
+            "title": "nguyenphuc210/hanoi-pm25-softs-dinov3",
+            "date_modified": "2026-11-08T19:04:09.000Z",
+            "date_published": "2026-10-25T07:13:27.000Z",
+            "author": {
+                "name": "nguyenphuc210",
+                "url": "https://github.com/nguyenphuc210"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
+            "url": "https://github.com/Pbatch/CameraChessWeb",
+            "title": "Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess",
+            "date_modified": "2026-11-08T18:05:38.000Z",
+            "date_published": "2023-06-28T23:07:09.000Z",
+            "author": {
+                "name": "Pbatch",
+                "url": "https://github.com/Pbatch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168630235?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>United classification of urban block morphology: morphometric and DINOv3 descriptions balanced 50:50, whitened PCA, rule-based K, K-means</div>",
+            "url": "https://github.com/cdml-lab/urban-block-morphology-united",
+            "title": "cdml-lab/urban-block-morphology-united: United classification of urban block morphology: morphometric and DINOv3 descriptions balanced 50:50, whitened PCA, rule-based K, K-means",
+            "date_modified": "2026-11-08T15:20:18.000Z",
+            "date_published": "2026-11-08T15:20:07.000Z",
+            "author": {
+                "name": "cdml-lab",
+                "url": "https://github.com/cdml-lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168630235?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-supervised image classification of urban blocks: DINOv3 block embeddings, component-structure measures, whitened PCA, rule-based K, K-means</div>",
+            "url": "https://github.com/cdml-lab/urban-block-morphology-ssl",
+            "title": "cdml-lab/urban-block-morphology-ssl: Self-supervised image classification of urban blocks: DINOv3 block embeddings, component-structure measures, whitened PCA, rule-based K, K-means",
+            "date_modified": "2026-11-08T15:20:07.000Z",
+            "date_published": "2026-11-08T15:19:56.000Z",
+            "author": {
+                "name": "cdml-lab",
+                "url": "https://github.com/cdml-lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
+            "url": "https://github.com/little51/dinov3-course",
+            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
+            "date_modified": "2026-11-08T11:40:54.000Z",
+            "date_published": "2026-05-03T12:40:56.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180929994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic segmentation on PASCAL VOC using DINOv3 + PSPNet</div>",
+            "url": "https://github.com/wenboyaoo/dinov3-pspnet-segmentation",
+            "title": "wenboyaoo/dinov3-pspnet-segmentation: Semantic segmentation on PASCAL VOC using DINOv3 + PSPNet",
+            "date_modified": "2026-11-08T17:35:18.000Z",
+            "date_published": "2025-10-18T10:03:14.000Z",
+            "author": {
+                "name": "wenboyaoo",
+                "url": "https://github.com/wenboyaoo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87390273?u=a40aa7cc9ebc13f638f6f131c80bdc66e19490f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"</div>",
+            "url": "https://github.com/MehdiGolkarAmoli/Sen2DINOv3",
+            "title": "MehdiGolkarAmoli/Sen2DINOv3: This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"",
+            "date_modified": "2026-11-08T06:14:50.000Z",
+            "date_published": "2026-11-04T14:15:37.000Z",
+            "author": {
+                "name": "MehdiGolkarAmoli",
+                "url": "https://github.com/MehdiGolkarAmoli"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148311448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Frozen DINOv3 features for Bragg-spot detection in simulated electron diffraction patterns</div>",
             "url": "https://github.com/PeymanAudioML/dinov3-diffraction",
             "title": "PeymanAudioML/dinov3-diffraction: Frozen DINOv3 features for Bragg-spot detection in simulated electron diffraction patterns",
@@ -14,39 +179,6 @@
             "author": {
                 "name": "PeymanAudioML",
                 "url": "https://github.com/PeymanAudioML"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
-            "url": "https://github.com/Pbatch/CameraChessWeb",
-            "title": "Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess",
-            "date_modified": "2026-11-08T02:58:36.000Z",
-            "date_published": "2023-06-28T23:07:09.000Z",
-            "author": {
-                "name": "Pbatch",
-                "url": "https://github.com/Pbatch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
-            "url": "https://github.com/little51/dinov3-course",
-            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-11-08T03:03:43.000Z",
-            "date_published": "2026-05-03T12:40:56.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
-            "url": "https://github.com/SomethingObvious/JWSTDetector",
-            "title": "SomethingObvious/JWSTDetector: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
-            "date_modified": "2026-11-07T21:49:53.000Z",
-            "date_published": "2026-01-03T07:48:06.000Z",
-            "author": {
-                "name": "SomethingObvious",
-                "url": "https://github.com/SomethingObvious"
             }
         },
         {
@@ -91,138 +223,6 @@
             "author": {
                 "name": "ferrxuS",
                 "url": "https://github.com/ferrxuS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84303047?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Termplate matching method based on dinov3</div>",
-            "url": "https://github.com/Archaic-Atom/Template-Matching-DINOv3",
-            "title": "Archaic-Atom/Template-Matching-DINOv3: Termplate matching method based on dinov3",
-            "date_modified": "2026-11-07T10:20:45.000Z",
-            "date_published": "2026-02-10T07:59:11.000Z",
-            "author": {
-                "name": "Archaic-Atom",
-                "url": "https://github.com/Archaic-Atom"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
-            "url": "https://github.com/ganzijie1/dongzhou",
-            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
-            "date_modified": "2026-11-07T08:03:38.000Z",
-            "date_published": "2026-08-13T05:30:19.000Z",
-            "author": {
-                "name": "ganzijie1",
-                "url": "https://github.com/ganzijie1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.</div>",
-            "url": "https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers",
-            "title": "BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.",
-            "date_modified": "2026-11-06T23:56:17.000Z",
-            "date_published": "2026-10-27T00:30:50.000Z",
-            "author": {
-                "name": "BurnyCoder",
-                "url": "https://github.com/BurnyCoder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149631650?u=f3c37eed93aa20ed0f7b8f11833db0043b1ae9a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).</div>",
-            "url": "https://github.com/Sonam525/FarmSAM",
-            "title": "Sonam525/FarmSAM: Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).",
-            "date_modified": "2026-11-06T19:55:23.000Z",
-            "date_published": "2026-06-08T19:31:17.000Z",
-            "author": {
-                "name": "Sonam525",
-                "url": "https://github.com/Sonam525"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148945207?u=d2107877defc5ff88500c48ec82e9824014a964c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot biomedical segmentation that fits in seconds: a closed-form readout of frozen DINOv3 features and classical priors, updated exactly with each new mask. ISBI 2027 reference implementation.</div>",
-            "url": "https://github.com/michalprusek/Exemplar",
-            "title": "michalprusek/Exemplar: Few-shot biomedical segmentation that fits in seconds: a closed-form readout of frozen DINOv3 features and classical priors, updated exactly with each new mask. ISBI 2027 reference implementation.",
-            "date_modified": "2026-11-06T17:30:38.000Z",
-            "date_published": "2026-07-22T14:40:53.000Z",
-            "author": {
-                "name": "michalprusek",
-                "url": "https://github.com/michalprusek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54291142?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Foundation-model-guided ConvNeXt classification of oral lesions in clinical images (DINOv3 distillation, SupCon, cRW) - code for the JIIM manuscript</div>",
-            "url": "https://github.com/mturkoglu23/TUSEB-oral-cancer",
-            "title": "mturkoglu23/TUSEB-oral-cancer: Foundation-model-guided ConvNeXt classification of oral lesions in clinical images (DINOv3 distillation, SupCon, cRW) - code for the JIIM manuscript",
-            "date_modified": "2026-11-06T12:58:48.000Z",
-            "date_published": "2026-11-06T12:58:36.000Z",
-            "author": {
-                "name": "mturkoglu23",
-                "url": "https://github.com/mturkoglu23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223523245?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DualView: CNN + DINOv3 ViT (LoRA) for retinal artery/vein segmentation that generalizes across fundus datasets. Code, released weights and the evaluation protocol of the paper.</div>",
-            "url": "https://github.com/labviaunb/dualview",
-            "title": "labviaunb/dualview: DualView: CNN + DINOv3 ViT (LoRA) for retinal artery/vein segmentation that generalizes across fundus datasets. Code, released weights and the evaluation protocol of the paper.",
-            "date_modified": "2026-11-08T02:29:47.000Z",
-            "date_published": "2026-11-05T12:12:18.000Z",
-            "author": {
-                "name": "labviaunb",
-                "url": "https://github.com/labviaunb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111402088?u=544d6a75e7e37ccf45c4214071de399943b1f769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.</div>",
-            "url": "https://github.com/FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging",
-            "title": "FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging: Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.",
-            "date_modified": "2026-11-06T10:32:38.000Z",
-            "date_published": "2026-11-06T10:18:51.000Z",
-            "author": {
-                "name": "FaramarzAboutalebi",
-                "url": "https://github.com/FaramarzAboutalebi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76903862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JeonHaneul/2D-PDM_DINOv3",
-            "title": "JeonHaneul/2D-PDM_DINOv3",
-            "date_modified": "2026-11-06T09:53:29.000Z",
-            "date_published": "2026-07-15T08:27:58.000Z",
-            "author": {
-                "name": "JeonHaneul",
-                "url": "https://github.com/JeonHaneul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51737606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Concrete defect segmentation for an inspection robot: DINOv3 ViT-L teacher fine-tuned on S2DS (0.81 test mIoU), with a MobileNetV3 distillation and int8 export path targeting Raspberry Pi.</div>",
-            "url": "https://github.com/Aman-Saxena05/Concrete-inspection",
-            "title": "Aman-Saxena05/Concrete-inspection: Concrete defect segmentation for an inspection robot: DINOv3 ViT-L teacher fine-tuned on S2DS (0.81 test mIoU), with a MobileNetV3 distillation and int8 export path targeting Raspberry Pi.",
-            "date_modified": "2026-11-06T09:29:36.000Z",
-            "date_published": "2026-11-06T09:23:33.000Z",
-            "author": {
-                "name": "Aman-Saxena05",
-                "url": "https://github.com/Aman-Saxena05"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218811466?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Validação manual das tags do DINOv3 no acervo do MAC USP</div>",
-            "url": "https://github.com/danmartsarr/validacao-tags-mac",
-            "title": "danmartsarr/validacao-tags-mac: Validação manual das tags do DINOv3 no acervo do MAC USP",
-            "date_modified": "2026-11-05T23:55:51.000Z",
-            "date_published": "2026-11-03T18:34:17.000Z",
-            "author": {
-                "name": "danmartsarr",
-                "url": "https://github.com/danmartsarr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87390273?u=a40aa7cc9ebc13f638f6f131c80bdc66e19490f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"</div>",
-            "url": "https://github.com/MehdiGolkarAmoli/Sen2DINOv3",
-            "title": "MehdiGolkarAmoli/Sen2DINOv3: This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"",
-            "date_modified": "2026-11-07T10:37:55.000Z",
-            "date_published": "2026-11-04T14:15:37.000Z",
-            "author": {
-                "name": "MehdiGolkarAmoli",
-                "url": "https://github.com/MehdiGolkarAmoli"
             }
         }
     ]
