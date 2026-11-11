@@ -6,10 +6,21 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194391759?u=32c3b4eab3bb27c42b741a7f45a1ec4e9d963288&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>1st Place Data Mining Competition at DATASCAPE 2026 for package condition classification with adaptive preprocessing and LoRA-adapted dual-backbone DINOv3 feature fusion</div>",
+            "url": "https://github.com/ElFariss/datascape-2026",
+            "title": "ElFariss/datascape-2026: 1st Place Data Mining Competition at DATASCAPE 2026 for package condition classification with adaptive preprocessing and LoRA-adapted dual-backbone DINOv3 feature fusion",
+            "date_modified": "2026-11-11T04:59:27.000Z",
+            "date_published": "2026-11-11T03:34:21.000Z",
+            "author": {
+                "name": "ElFariss",
+                "url": "https://github.com/ElFariss"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
             "url": "https://github.com/ganzijie1/dongzhou",
             "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
-            "date_modified": "2026-11-10T05:52:12.000Z",
+            "date_modified": "2026-11-11T03:51:48.000Z",
             "date_published": "2026-08-13T05:30:19.000Z",
             "author": {
                 "name": "ganzijie1",
@@ -17,14 +28,157 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>",
+            "url": "https://github.com/neelkumar01/gestalt-distillation",
+            "title": "neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model",
+            "date_modified": "2026-11-11T04:34:34.000Z",
+            "date_published": "2026-10-26T16:41:57.000Z",
+            "author": {
+                "name": "neelkumar01",
+                "url": "https://github.com/neelkumar01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84469550?u=15e7b61e70dcbe37516d34bd7fa42541d098005e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hotspots em usinas solares por imagens térmicas de drone, invariante à câmera: DINOv3 congelado + regressão logística com assimilação de dados (viés VarBC, ganho de Kalman, QC de rótulos). Câmera nova: AUROC 0,836 → 0,927 e recall 5% → 57%.</div>",
+            "url": "https://github.com/renatospessotto/thermal-pv-hotspots-assimilation",
+            "title": "renatospessotto/thermal-pv-hotspots-assimilation: Hotspots em usinas solares por imagens térmicas de drone, invariante à câmera: DINOv3 congelado + regressão logística com assimilação de dados (viés VarBC, ganho de Kalman, QC de rótulos). Câmera nova: AUROC 0,836 → 0,927 e recall 5% → 57%.",
+            "date_modified": "2026-11-11T04:30:33.000Z",
+            "date_published": "2026-10-30T02:05:09.000Z",
+            "author": {
+                "name": "renatospessotto",
+                "url": "https://github.com/renatospessotto"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43590151?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CAD-based Novel Object Segmentation with SAM2 + DINOv3</div>",
             "url": "https://github.com/JZhao12/cnosv2",
             "title": "JZhao12/cnosv2: CAD-based Novel Object Segmentation with SAM2 + DINOv3",
-            "date_modified": "2026-11-10T04:08:23.000Z",
+            "date_modified": "2026-11-11T03:34:09.000Z",
             "date_published": "2026-11-03T12:28:40.000Z",
             "author": {
                 "name": "JZhao12",
                 "url": "https://github.com/JZhao12"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
+            "url": "https://github.com/Pbatch/CameraChessWeb",
+            "title": "Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess",
+            "date_modified": "2026-11-11T03:27:22.000Z",
+            "date_published": "2023-06-28T23:07:09.000Z",
+            "author": {
+                "name": "Pbatch",
+                "url": "https://github.com/Pbatch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>",
+            "url": "https://github.com/kleinicke/fastforks",
+            "title": "kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup",
+            "date_modified": "2026-11-11T03:11:55.000Z",
+            "date_published": "2026-11-03T17:21:42.000Z",
+            "author": {
+                "name": "kleinicke",
+                "url": "https://github.com/kleinicke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70748340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-B/16を凍結した特徴抽出器として利用し、Mask2Formerで建物セグメンテーションを学習するための環境構築・学習用パッケージです。WHU Building DatasetとWaterloo Building Datasetを対象に、1024×1024と512×512の画像を拡大・縮小せず、原寸のまま混在させて学習します。</div>",
+            "url": "https://github.com/Yuji-Kobayashi-orbitalnet/dinov3-mask2former-buildings",
+            "title": "Yuji-Kobayashi-orbitalnet/dinov3-mask2former-buildings: DINOv3-B/16を凍結した特徴抽出器として利用し、Mask2Formerで建物セグメンテーションを学習するための環境構築・学習用パッケージです。WHU Building DatasetとWaterloo Building Datasetを対象に、1024×1024と512×512の画像を拡大・縮小せず、原寸のまま混在させて学習します。",
+            "date_modified": "2026-11-11T02:36:00.000Z",
+            "date_published": "2026-11-11T01:10:45.000Z",
+            "author": {
+                "name": "Yuji-Kobayashi-orbitalnet",
+                "url": "https://github.com/Yuji-Kobayashi-orbitalnet"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335386306?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3での特徴量取得</div>",
+            "url": "https://github.com/seina-kosaki/dinov3_project",
+            "title": "seina-kosaki/dinov3_project: dinov3での特徴量取得",
+            "date_modified": "2026-11-11T00:50:37.000Z",
+            "date_published": "2026-11-04T02:28:06.000Z",
+            "author": {
+                "name": "seina-kosaki",
+                "url": "https://github.com/seina-kosaki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
+            "url": "https://github.com/SomethingObvious/jwst-peculiar",
+            "title": "SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
+            "date_modified": "2026-11-10T22:31:21.000Z",
+            "date_published": "2026-01-03T07:48:06.000Z",
+            "author": {
+                "name": "SomethingObvious",
+                "url": "https://github.com/SomethingObvious"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50117500?u=d42fd8c4bbd1bc27fa640fc2dd85843adc06a027&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploratory tests of whether DINOv3, frozen or LoRA-adapted, can stand in for AION-1 on Legacy Survey imaging. Findings and negative results.</div>",
+            "url": "https://github.com/anaennis/adapt-test",
+            "title": "anaennis/adapt-test: Exploratory tests of whether DINOv3, frozen or LoRA-adapted, can stand in for AION-1 on Legacy Survey imaging. Findings and negative results.",
+            "date_modified": "2026-11-10T22:07:47.000Z",
+            "date_published": "2026-11-10T20:23:58.000Z",
+            "author": {
+                "name": "anaennis",
+                "url": "https://github.com/anaennis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>",
+            "url": "https://github.com/YoussefAboelwafa/M2Retinexformer",
+            "title": "YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ",
+            "date_modified": "2026-11-10T21:31:12.000Z",
+            "date_published": "2026-01-04T14:18:52.000Z",
+            "author": {
+                "name": "YoussefAboelwafa",
+                "url": "https://github.com/YoussefAboelwafa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22428774?u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.</div>",
+            "url": "https://github.com/turhancan97/krasnal-id",
+            "title": "turhancan97/krasnal-id: Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.",
+            "date_modified": "2026-11-10T15:33:23.000Z",
+            "date_published": "2026-08-19T17:20:15.000Z",
+            "author": {
+                "name": "turhancan97",
+                "url": "https://github.com/turhancan97"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84303047?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Termplate matching method based on dinov3</div>",
+            "url": "https://github.com/Archaic-Atom/Template-Matching-DINOv3",
+            "title": "Archaic-Atom/Template-Matching-DINOv3: Termplate matching method based on dinov3",
+            "date_modified": "2026-11-10T14:28:39.000Z",
+            "date_published": "2026-02-10T07:59:11.000Z",
+            "author": {
+                "name": "Archaic-Atom",
+                "url": "https://github.com/Archaic-Atom"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225827372?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot photovoltaic segmentation with DINOv3-SAT</div>",
+            "url": "https://github.com/Zh0416/PV-DINOV3SAT",
+            "title": "Zh0416/PV-DINOV3SAT: Few-shot photovoltaic segmentation with DINOv3-SAT",
+            "date_modified": "2026-11-10T19:29:17.000Z",
+            "date_published": "2026-11-04T08:49:34.000Z",
+            "author": {
+                "name": "Zh0416",
+                "url": "https://github.com/Zh0416"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49147218?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 weights (Meta, DINOv3 License) - mirror with downloader</div>",
+            "url": "https://github.com/SchockTop/dinov3-weights",
+            "title": "SchockTop/dinov3-weights: DINOv3 weights (Meta, DINOv3 License) - mirror with downloader",
+            "date_modified": "2026-11-10T19:29:07.000Z",
+            "date_published": "2026-11-10T13:26:00.000Z",
+            "author": {
+                "name": "SchockTop",
+                "url": "https://github.com/SchockTop"
             }
         },
         {
@@ -36,28 +190,6 @@
             "author": {
                 "name": "Stevens2606",
                 "url": "https://github.com/Stevens2606"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
-            "url": "https://github.com/Pbatch/CameraChessWeb",
-            "title": "Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess",
-            "date_modified": "2026-11-10T05:38:21.000Z",
-            "date_published": "2023-06-28T23:07:09.000Z",
-            "author": {
-                "name": "Pbatch",
-                "url": "https://github.com/Pbatch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
-            "url": "https://github.com/SomethingObvious/jwst-peculiar",
-            "title": "SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
-            "date_modified": "2026-11-10T00:45:26.000Z",
-            "date_published": "2026-01-03T07:48:06.000Z",
-            "author": {
-                "name": "SomethingObvious",
-                "url": "https://github.com/SomethingObvious"
             }
         },
         {
@@ -83,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22428774?u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.</div>",
-            "url": "https://github.com/turhancan97/krasnal-id",
-            "title": "turhancan97/krasnal-id: Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.",
-            "date_modified": "2026-11-09T23:10:10.000Z",
-            "date_published": "2026-08-19T17:20:15.000Z",
-            "author": {
-                "name": "turhancan97",
-                "url": "https://github.com/turhancan97"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121240366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modular, reproducible pipeline that tests whether biological images can be grouped by species without training labels. It extracts features using foundation models, runs multiple unsupervised clustering methods, and evaluates clustering quality using ground-truth species labels. It also helps to annotate the clusters using BioCLIP-2</div>",
             "url": "https://github.com/sahmedAdnan/biocluster",
             "title": "sahmedAdnan/biocluster: A modular, reproducible pipeline that tests whether biological images can be grouped by species without training labels. It extracts features using foundation models, runs multiple unsupervised clustering methods, and evaluates clustering quality using ground-truth species labels. It also helps to annotate the clusters using BioCLIP-2",
@@ -102,127 +223,6 @@
             "author": {
                 "name": "sahmedAdnan",
                 "url": "https://github.com/sahmedAdnan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142410707?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/FrankMOWJ/dinov3-seg-atom",
-            "title": "FrankMOWJ/dinov3-seg-atom",
-            "date_modified": "2026-11-10T03:14:56.000Z",
-            "date_published": "2026-11-09T18:50:02.000Z",
-            "author": {
-                "name": "FrankMOWJ",
-                "url": "https://github.com/FrankMOWJ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>",
-            "url": "https://github.com/neelkumar01/gestalt-distillation",
-            "title": "neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model",
-            "date_modified": "2026-11-09T18:48:42.000Z",
-            "date_published": "2026-10-26T16:41:57.000Z",
-            "author": {
-                "name": "neelkumar01",
-                "url": "https://github.com/neelkumar01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88944384?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TRELLIS.2 as a Gaea plugin: a textured 3D mesh (GLB) of the object in one picture, on MES Mesh 0.1. Built with DINOv3.</div>",
-            "url": "https://github.com/xocialize-code/gaea-plugin-trellis2",
-            "title": "xocialize-code/gaea-plugin-trellis2: TRELLIS.2 as a Gaea plugin: a textured 3D mesh (GLB) of the object in one picture, on MES Mesh 0.1. Built with DINOv3.",
-            "date_modified": "2026-11-09T18:02:30.000Z",
-            "date_published": "2026-11-09T18:02:18.000Z",
-            "author": {
-                "name": "xocialize-code",
-                "url": "https://github.com/xocialize-code"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>",
-            "url": "https://github.com/xocialize/mlx-trellis2-swift",
-            "title": "xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.",
-            "date_modified": "2026-11-09T17:49:55.000Z",
-            "date_published": "2026-07-14T18:36:41.000Z",
-            "author": {
-                "name": "xocialize",
-                "url": "https://github.com/xocialize"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/348338569?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spatial–Spectral and Polar-Frequency Enhanced DINOv3 Network (SP-DINO-Net), a network for UAV-to-Satellite Cross-View Geo-Localization.</div>",
-            "url": "https://github.com/getmonsky/SP-DINO-Net",
-            "title": "getmonsky/SP-DINO-Net: Spatial–Spectral and Polar-Frequency Enhanced DINOv3 Network (SP-DINO-Net), a network for UAV-to-Satellite Cross-View Geo-Localization.",
-            "date_modified": "2026-11-09T17:39:15.000Z",
-            "date_published": "2026-10-26T14:03:05.000Z",
-            "author": {
-                "name": "getmonsky",
-                "url": "https://github.com/getmonsky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108638916?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>",
-            "url": "https://github.com/Ram21275/tesseract-pose-speedplus",
-            "title": "Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features",
-            "date_modified": "2026-11-09T12:29:38.000Z",
-            "date_published": "2026-10-08T17:33:06.000Z",
-            "author": {
-                "name": "Ram21275",
-                "url": "https://github.com/Ram21275"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63138752?u=efa47c2524fc2a348d13882259d7733d113d8c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。(独立副本, 原 DINOv3-CARNet-Doo)</div>",
-            "url": "https://github.com/notsong/DINOv3-Seg-Doo",
-            "title": "notsong/DINOv3-Seg-Doo: 基于DINOv3的多注意力残差UNet语义分割。CBAM增强多尺度特征融合 + 残差解码器 + 边界头辅助监督。支持两阶段训练、TTA滑窗推理、ONNX导出。(独立副本, 原 DINOv3-CARNet-Doo)",
-            "date_modified": "2026-11-09T10:45:31.000Z",
-            "date_published": "2026-09-06T05:23:52.000Z",
-            "author": {
-                "name": "notsong",
-                "url": "https://github.com/notsong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126349043?u=bad80619f37f51036dd8975643e7efbe84383129&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VisionGuard is a class-agnostic visual anomaly detection model trained using only anomaly-free images. Built with DINOv3.</div>",
-            "url": "https://github.com/rohithgowdax/VisionGuard",
-            "title": "rohithgowdax/VisionGuard: VisionGuard is a class-agnostic visual anomaly detection model trained using only anomaly-free images. Built with DINOv3.",
-            "date_modified": "2026-11-09T06:33:36.000Z",
-            "date_published": "2026-10-26T12:39:21.000Z",
-            "author": {
-                "name": "rohithgowdax",
-                "url": "https://github.com/rohithgowdax"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86493327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-contained Docker and Python runtime for StarSeg, DINOv3 Hydra, and GRU arm tracing</div>",
-            "url": "https://github.com/weertman/deepstarnoodles-inference",
-            "title": "weertman/deepstarnoodles-inference: Self-contained Docker and Python runtime for StarSeg, DINOv3 Hydra, and GRU arm tracing",
-            "date_modified": "2026-11-09T05:49:45.000Z",
-            "date_published": "2026-10-28T21:30:36.000Z",
-            "author": {
-                "name": "weertman",
-                "url": "https://github.com/weertman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).</div>",
-            "url": "https://github.com/wlejon/brovisionml",
-            "title": "wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).",
-            "date_modified": "2026-11-09T05:04:41.000Z",
-            "date_published": "2026-05-31T17:50:51.000Z",
-            "author": {
-                "name": "wlejon",
-                "url": "https://github.com/wlejon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199730860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Yanxz526/CESDNet",
-            "title": "Yanxz526/CESDNet",
-            "date_modified": "2026-11-09T02:23:20.000Z",
-            "date_published": "2026-07-06T00:48:12.000Z",
-            "author": {
-                "name": "Yanxz526",
-                "url": "https://github.com/Yanxz526"
             }
         }
     ]
