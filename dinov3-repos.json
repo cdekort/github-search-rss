@@ -6,6 +6,160 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
+            "url": "https://github.com/tomgrizz/ganaraska-live",
+            "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
+            "date_modified": "2026-11-12T05:40:11.000Z",
+            "date_published": "2026-08-25T14:33:27.000Z",
+            "author": {
+                "name": "tomgrizz",
+                "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
+            "url": "https://github.com/ganzijie1/dongzhou",
+            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
+            "date_modified": "2026-11-12T05:36:10.000Z",
+            "date_published": "2026-08-13T05:30:19.000Z",
+            "author": {
+                "name": "ganzijie1",
+                "url": "https://github.com/ganzijie1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/354702103?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ship reference similarity review: 20 annotated validation frames</div>",
+            "url": "https://github.com/tech-STG/dinov3-ship-review",
+            "title": "tech-STG/dinov3-ship-review: DINOv3 ship reference similarity review: 20 annotated validation frames",
+            "date_modified": "2026-11-12T05:16:44.000Z",
+            "date_published": "2026-11-12T04:14:04.000Z",
+            "author": {
+                "name": "tech-STG",
+                "url": "https://github.com/tech-STG"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36347290?u=010768c57e3e4b551246a7bc399c442ffd7a8e92&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Car-part segmentation on VehicleSeg10K: YOLO26x-seg, RF-DETR Seg 2XL, DINOv3 + decoder and SAM 3 zero-shot, trained and scored with one shared evaluation (mIoU, mAP, part F1, left/right confusion, speed, VRAM). Best: DINOv3 at 91.5 mIoU.</div>",
+            "url": "https://github.com/AlbertRG99/VehiclePartsSegmentatorFTModels",
+            "title": "AlbertRG99/VehiclePartsSegmentatorFTModels: Car-part segmentation on VehicleSeg10K: YOLO26x-seg, RF-DETR Seg 2XL, DINOv3 + decoder and SAM 3 zero-shot, trained and scored with one shared evaluation (mIoU, mAP, part F1, left/right confusion, speed, VRAM). Best: DINOv3 at 91.5 mIoU.",
+            "date_modified": "2026-11-12T04:48:22.000Z",
+            "date_published": "2026-11-12T03:31:39.000Z",
+            "author": {
+                "name": "AlbertRG99",
+                "url": "https://github.com/AlbertRG99"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
+            "url": "https://github.com/Pbatch/ChessCam",
+            "title": "Pbatch/ChessCam: Record a chess game live and upload the PGN to Lichess",
+            "date_modified": "2026-11-12T02:47:31.000Z",
+            "date_published": "2023-06-28T23:07:09.000Z",
+            "author": {
+                "name": "Pbatch",
+                "url": "https://github.com/Pbatch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>",
+            "url": "https://github.com/neelkumar01/gestalt-distillation",
+            "title": "neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model",
+            "date_modified": "2026-11-11T18:55:10.000Z",
+            "date_published": "2026-10-26T16:41:57.000Z",
+            "author": {
+                "name": "neelkumar01",
+                "url": "https://github.com/neelkumar01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225827372?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot photovoltaic segmentation with DINOv3-SAT</div>",
+            "url": "https://github.com/Zh0416/PV-DINOV3SAT",
+            "title": "Zh0416/PV-DINOV3SAT: Few-shot photovoltaic segmentation with DINOv3-SAT",
+            "date_modified": "2026-11-11T22:31:52.000Z",
+            "date_published": "2026-11-04T08:49:34.000Z",
+            "author": {
+                "name": "Zh0416",
+                "url": "https://github.com/Zh0416"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60733358?u=afb0c3b67218b5881e6da579b0c887d0f270a9ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/agouletas/HT2026_DINOv3_LuSNAR_SegDepth",
+            "title": "agouletas/HT2026_DINOv3_LuSNAR_SegDepth",
+            "date_modified": "2026-11-11T15:41:44.000Z",
+            "date_published": "2026-11-11T15:41:36.000Z",
+            "author": {
+                "name": "agouletas",
+                "url": "https://github.com/agouletas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>",
+            "url": "https://github.com/kleinicke/fastforks",
+            "title": "kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup",
+            "date_modified": "2026-11-11T16:18:56.000Z",
+            "date_published": "2026-11-03T17:21:42.000Z",
+            "author": {
+                "name": "kleinicke",
+                "url": "https://github.com/kleinicke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153312583?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-shot reference object detection with DINOv2/DINOv3 (TEKNOFEST 2026 Aviation AI)</div>",
+            "url": "https://github.com/hidroksit/dino-zeroshot-reference-detection",
+            "title": "hidroksit/dino-zeroshot-reference-detection: Zero-shot reference object detection with DINOv2/DINOv3 (TEKNOFEST 2026 Aviation AI)",
+            "date_modified": "2026-11-11T22:43:25.000Z",
+            "date_published": "2026-11-11T11:38:09.000Z",
+            "author": {
+                "name": "hidroksit",
+                "url": "https://github.com/hidroksit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126430401?u=746f37d427daefa05132a1ea6a7fd9c33194aa32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OtoEvi: Local Evidence-Guided Otoendoscopic Report Generation with Clause Coverage Learning. PyTorch implementation, reproducible configs and evaluation.</div>",
+            "url": "https://github.com/lululualululu/OtoEvi",
+            "title": "lululualululu/OtoEvi: OtoEvi: Local Evidence-Guided Otoendoscopic Report Generation with Clause Coverage Learning. PyTorch implementation, reproducible configs and evaluation.",
+            "date_modified": "2026-11-11T10:34:58.000Z",
+            "date_published": "2026-11-03T13:53:28.000Z",
+            "author": {
+                "name": "lululualululu",
+                "url": "https://github.com/lululualululu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219306014?u=0c7203990bfd738ebb26483602301b4795624a2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Risonia: visual cluster conditioning and reliability-weighted supervision for 3D self-supervised learning. CVPR 2027 submission in preparation.</div>",
+            "url": "https://github.com/zbole/Risonia",
+            "title": "zbole/Risonia: Risonia: visual cluster conditioning and reliability-weighted supervision for 3D self-supervised learning. CVPR 2027 submission in preparation.",
+            "date_modified": "2026-11-11T09:40:35.000Z",
+            "date_published": "2026-11-11T08:23:07.000Z",
+            "author": {
+                "name": "zbole",
+                "url": "https://github.com/zbole"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87390273?u=a40aa7cc9ebc13f638f6f131c80bdc66e19490f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"</div>",
+            "url": "https://github.com/MehdiGolkarAmoli/Sen2DINOv3",
+            "title": "MehdiGolkarAmoli/Sen2DINOv3: This Repository related to article of \"S12OpenBuilding: Global Building Footprint Mapping via Sen2DINOv3, a Parameter Efficient Adaptation of DINOv3 to Sentinel-2 Imagery\"",
+            "date_modified": "2026-11-11T20:51:32.000Z",
+            "date_published": "2026-11-04T14:15:37.000Z",
+            "author": {
+                "name": "MehdiGolkarAmoli",
+                "url": "https://github.com/MehdiGolkarAmoli"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121910956?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).</div>",
+            "url": "https://github.com/m2b3/dinov3-in1k-probes",
+            "title": "m2b3/dinov3-in1k-probes: Pretrained ImageNet-1k linear classification heads for DINOv3 ViT (S/S+/B/L/H+).",
+            "date_modified": "2026-11-11T05:29:09.000Z",
+            "date_published": "2025-11-16T20:03:12.000Z",
+            "author": {
+                "name": "m2b3",
+                "url": "https://github.com/m2b3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194391759?u=32c3b4eab3bb27c42b741a7f45a1ec4e9d963288&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>1st Place Data Mining Competition at DATASCAPE 2026 for package condition classification with adaptive preprocessing and LoRA-adapted dual-backbone DINOv3 feature fusion</div>",
             "url": "https://github.com/ElFariss/datascape-2026",
             "title": "ElFariss/datascape-2026: 1st Place Data Mining Competition at DATASCAPE 2026 for package condition classification with adaptive preprocessing and LoRA-adapted dual-backbone DINOv3 feature fusion",
@@ -14,28 +168,6 @@
             "author": {
                 "name": "ElFariss",
                 "url": "https://github.com/ElFariss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
-            "url": "https://github.com/ganzijie1/dongzhou",
-            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
-            "date_modified": "2026-11-11T03:51:48.000Z",
-            "date_published": "2026-08-13T05:30:19.000Z",
-            "author": {
-                "name": "ganzijie1",
-                "url": "https://github.com/ganzijie1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>",
-            "url": "https://github.com/neelkumar01/gestalt-distillation",
-            "title": "neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model",
-            "date_modified": "2026-11-11T04:34:34.000Z",
-            "date_published": "2026-10-26T16:41:57.000Z",
-            "author": {
-                "name": "neelkumar01",
-                "url": "https://github.com/neelkumar01"
             }
         },
         {
@@ -61,32 +193,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
-            "url": "https://github.com/Pbatch/CameraChessWeb",
-            "title": "Pbatch/CameraChessWeb: Record a chess game live and upload the PGN to Lichess",
-            "date_modified": "2026-11-11T03:27:22.000Z",
-            "date_published": "2023-06-28T23:07:09.000Z",
-            "author": {
-                "name": "Pbatch",
-                "url": "https://github.com/Pbatch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>",
-            "url": "https://github.com/kleinicke/fastforks",
-            "title": "kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup",
-            "date_modified": "2026-11-11T03:11:55.000Z",
-            "date_published": "2026-11-03T17:21:42.000Z",
-            "author": {
-                "name": "kleinicke",
-                "url": "https://github.com/kleinicke"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70748340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-B/16を凍結した特徴抽出器として利用し、Mask2Formerで建物セグメンテーションを学習するための環境構築・学習用パッケージです。WHU Building DatasetとWaterloo Building Datasetを対象に、1024×1024と512×512の画像を拡大・縮小せず、原寸のまま混在させて学習します。</div>",
             "url": "https://github.com/Yuji-Kobayashi-orbitalnet/dinov3-mask2former-buildings",
             "title": "Yuji-Kobayashi-orbitalnet/dinov3-mask2former-buildings: DINOv3-B/16を凍結した特徴抽出器として利用し、Mask2Formerで建物セグメンテーションを学習するための環境構築・学習用パッケージです。WHU Building DatasetとWaterloo Building Datasetを対象に、1024×1024と512×512の画像を拡大・縮小せず、原寸のまま混在させて学習します。",
-            "date_modified": "2026-11-11T02:36:00.000Z",
+            "date_modified": "2026-11-11T22:43:33.000Z",
             "date_published": "2026-11-11T01:10:45.000Z",
             "author": {
                 "name": "Yuji-Kobayashi-orbitalnet",
@@ -97,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335386306?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dinov3での特徴量取得</div>",
             "url": "https://github.com/seina-kosaki/dinov3_project",
             "title": "seina-kosaki/dinov3_project: dinov3での特徴量取得",
-            "date_modified": "2026-11-11T00:50:37.000Z",
+            "date_modified": "2026-11-11T20:26:05.000Z",
             "date_published": "2026-11-04T02:28:06.000Z",
             "author": {
                 "name": "seina-kosaki",
@@ -113,116 +223,6 @@
             "author": {
                 "name": "SomethingObvious",
                 "url": "https://github.com/SomethingObvious"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50117500?u=d42fd8c4bbd1bc27fa640fc2dd85843adc06a027&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploratory tests of whether DINOv3, frozen or LoRA-adapted, can stand in for AION-1 on Legacy Survey imaging. Findings and negative results.</div>",
-            "url": "https://github.com/anaennis/adapt-test",
-            "title": "anaennis/adapt-test: Exploratory tests of whether DINOv3, frozen or LoRA-adapted, can stand in for AION-1 on Legacy Survey imaging. Findings and negative results.",
-            "date_modified": "2026-11-10T22:07:47.000Z",
-            "date_published": "2026-11-10T20:23:58.000Z",
-            "author": {
-                "name": "anaennis",
-                "url": "https://github.com/anaennis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96186143?u=7234a5d3cb195d4cbf86146b974393631a50d251&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. </div>",
-            "url": "https://github.com/YoussefAboelwafa/M2Retinexformer",
-            "title": "YoussefAboelwafa/M2Retinexformer: M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement [IEEE ICIP 2026] is a novel framework that extends Retinexformer by incorporating depth cues, luminance priors, and semantic features within a progressive refinement pipeline. ",
-            "date_modified": "2026-11-10T21:31:12.000Z",
-            "date_published": "2026-01-04T14:18:52.000Z",
-            "author": {
-                "name": "YoussefAboelwafa",
-                "url": "https://github.com/YoussefAboelwafa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22428774?u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.</div>",
-            "url": "https://github.com/turhancan97/krasnal-id",
-            "title": "turhancan97/krasnal-id: Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.",
-            "date_modified": "2026-11-10T15:33:23.000Z",
-            "date_published": "2026-08-19T17:20:15.000Z",
-            "author": {
-                "name": "turhancan97",
-                "url": "https://github.com/turhancan97"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84303047?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Termplate matching method based on dinov3</div>",
-            "url": "https://github.com/Archaic-Atom/Template-Matching-DINOv3",
-            "title": "Archaic-Atom/Template-Matching-DINOv3: Termplate matching method based on dinov3",
-            "date_modified": "2026-11-10T14:28:39.000Z",
-            "date_published": "2026-02-10T07:59:11.000Z",
-            "author": {
-                "name": "Archaic-Atom",
-                "url": "https://github.com/Archaic-Atom"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225827372?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few-shot photovoltaic segmentation with DINOv3-SAT</div>",
-            "url": "https://github.com/Zh0416/PV-DINOV3SAT",
-            "title": "Zh0416/PV-DINOV3SAT: Few-shot photovoltaic segmentation with DINOv3-SAT",
-            "date_modified": "2026-11-10T19:29:17.000Z",
-            "date_published": "2026-11-04T08:49:34.000Z",
-            "author": {
-                "name": "Zh0416",
-                "url": "https://github.com/Zh0416"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49147218?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 weights (Meta, DINOv3 License) - mirror with downloader</div>",
-            "url": "https://github.com/SchockTop/dinov3-weights",
-            "title": "SchockTop/dinov3-weights: DINOv3 weights (Meta, DINOv3 License) - mirror with downloader",
-            "date_modified": "2026-11-10T19:29:07.000Z",
-            "date_published": "2026-11-10T13:26:00.000Z",
-            "author": {
-                "name": "SchockTop",
-                "url": "https://github.com/SchockTop"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207490526?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Project Kecerdasan Buatan Kelompok 5 (TAP-1): generalisasi lintas negara DINOv3 untuk deteksi penyakit dan estimasi keparahan daun kopi, benchmark multi-dataset.</div>",
-            "url": "https://github.com/Stevens2606/coffee-leaf-dinov3-benchmark",
-            "title": "Stevens2606/coffee-leaf-dinov3-benchmark: Project Kecerdasan Buatan Kelompok 5 (TAP-1): generalisasi lintas negara DINOv3 untuk deteksi penyakit dan estimasi keparahan daun kopi, benchmark multi-dataset.",
-            "date_modified": "2026-11-10T03:10:43.000Z",
-            "date_published": "2026-11-10T02:34:55.000Z",
-            "author": {
-                "name": "Stevens2606",
-                "url": "https://github.com/Stevens2606"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8931462?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/aws-samples/sample-dinov3-torchneuron-finetune",
-            "title": "aws-samples/sample-dinov3-torchneuron-finetune",
-            "date_modified": "2026-11-09T23:59:43.000Z",
-            "date_published": "2026-11-09T23:38:21.000Z",
-            "author": {
-                "name": "aws-samples",
-                "url": "https://github.com/aws-samples"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89087014?u=84a938d69a3172e8077766aa849f47740a0b239b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Curb mapping from 5 cm aerial imagery at the 10 cm PCRS tolerance: frozen foundation models (DINOv3, DOFA, AnySat) vs a fine-tuned U-Net, with map quality control, on open Bordeaux data.</div>",
-            "url": "https://github.com/BiswarupMukherjee1/curb-mapping-foundation-models",
-            "title": "BiswarupMukherjee1/curb-mapping-foundation-models: Curb mapping from 5 cm aerial imagery at the 10 cm PCRS tolerance: frozen foundation models (DINOv3, DOFA, AnySat) vs a fine-tuned U-Net, with map quality control, on open Bordeaux data.",
-            "date_modified": "2026-11-10T02:13:22.000Z",
-            "date_published": "2026-11-09T23:13:06.000Z",
-            "author": {
-                "name": "BiswarupMukherjee1",
-                "url": "https://github.com/BiswarupMukherjee1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121240366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modular, reproducible pipeline that tests whether biological images can be grouped by species without training labels. It extracts features using foundation models, runs multiple unsupervised clustering methods, and evaluates clustering quality using ground-truth species labels. It also helps to annotate the clusters using BioCLIP-2</div>",
-            "url": "https://github.com/sahmedAdnan/biocluster",
-            "title": "sahmedAdnan/biocluster: A modular, reproducible pipeline that tests whether biological images can be grouped by species without training labels. It extracts features using foundation models, runs multiple unsupervised clustering methods, and evaluates clustering quality using ground-truth species labels. It also helps to annotate the clusters using BioCLIP-2",
-            "date_modified": "2026-11-09T22:19:58.000Z",
-            "date_published": "2026-10-04T00:03:29.000Z",
-            "author": {
-                "name": "sahmedAdnan",
-                "url": "https://github.com/sahmedAdnan"
             }
         }
     ]
