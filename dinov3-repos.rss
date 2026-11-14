@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-11-13T05:27:32.298Z</updated>
+    <updated>2026-11-14T05:17:17.790Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -21,17 +21,30 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AnsteinHuynh/wd-tagger-trainer: Parameter-efficient WD-tagger training: OFTv2 adapters + two-tower ensemble (DINOv3 + SigLIP2). 31M trainable params (4.5% of the baseline tagger) reach 74.6% of its macro F1 in one epoch.]]></title>
-        <id>https://github.com/AnsteinHuynh/wd-tagger-trainer</id>
-        <link href="https://github.com/AnsteinHuynh/wd-tagger-trainer"/>
-        <updated>2026-11-13T04:40:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53374922?u=3ed149c933483326f46149055b270091e2fb8836&v=4" width="64" height="64" alt=""/><br/><div>Parameter-efficient WD-tagger training: OFTv2 adapters + two-tower ensemble (DINOv3 + SigLIP2). 31M trainable params (4.5% of the baseline tagger) reach 74.6% of its macro F1 in one epoch.</div>]]></content>
+        <title type="html"><![CDATA[neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model]]></title>
+        <id>https://github.com/neelkumar01/gestalt-distillation</id>
+        <link href="https://github.com/neelkumar01/gestalt-distillation"/>
+        <updated>2026-11-11T18:55:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4" width="64" height="64" alt=""/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>]]></content>
         <author>
-            <name>AnsteinHuynh</name>
-            <email>AnsteinHuynh@noreply.github.com</email>
-            <uri>https://github.com/AnsteinHuynh</uri>
+            <name>neelkumar01</name>
+            <email>neelkumar01@noreply.github.com</email>
+            <uri>https://github.com/neelkumar01</uri>
         </author>
-        <published>2026-11-13T04:39:52.000Z</published>
+        <published>2026-10-26T16:41:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup]]></title>
+        <id>https://github.com/kleinicke/fastforks</id>
+        <link href="https://github.com/kleinicke/fastforks"/>
+        <updated>2026-11-14T05:09:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4" width="64" height="64" alt=""/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>]]></content>
+        <author>
+            <name>kleinicke</name>
+            <email>kleinicke@noreply.github.com</email>
+            <uri>https://github.com/kleinicke</uri>
+        </author>
+        <published>2026-11-03T17:21:42.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
@@ -47,17 +60,56 @@
         <published>2026-08-13T05:30:19.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KatherineeeFan/rodent-behavior-classification: DINOv3-based rodent behavior classification for pain research, with sliding-window inference and a desktop tool for reviewing and correcting predictions.]]></title>
-        <id>https://github.com/KatherineeeFan/rodent-behavior-classification</id>
-        <link href="https://github.com/KatherineeeFan/rodent-behavior-classification"/>
-        <updated>2026-11-13T00:40:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/144812044?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based rodent behavior classification for pain research, with sliding-window inference and a desktop tool for reviewing and correcting predictions.</div>]]></content>
+        <title type="html"><![CDATA[SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles]]></title>
+        <id>https://github.com/SomethingObvious/jwst-peculiar</id>
+        <link href="https://github.com/SomethingObvious/jwst-peculiar"/>
+        <updated>2026-11-12T10:32:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4" width="64" height="64" alt=""/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>]]></content>
         <author>
-            <name>KatherineeeFan</name>
-            <email>KatherineeeFan@noreply.github.com</email>
-            <uri>https://github.com/KatherineeeFan</uri>
+            <name>SomethingObvious</name>
+            <email>SomethingObvious@noreply.github.com</email>
+            <uri>https://github.com/SomethingObvious</uri>
         </author>
-        <published>2026-11-12T23:44:30.000Z</published>
+        <published>2026-01-03T07:48:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[stellasdeutsch-dev/polyp-segmentation-benchmark: How much of the reported progress in polyp segmentation survives a strict, reproducible protocol? U-Net, pretrained U-Net and a frozen DINOv3 head on the PraNet benchmark, with quality next to cost.]]></title>
+        <id>https://github.com/stellasdeutsch-dev/polyp-segmentation-benchmark</id>
+        <link href="https://github.com/stellasdeutsch-dev/polyp-segmentation-benchmark"/>
+        <updated>2026-11-13T23:49:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/250615458?v=4" width="64" height="64" alt=""/><br/><div>How much of the reported progress in polyp segmentation survives a strict, reproducible protocol? U-Net, pretrained U-Net and a frozen DINOv3 head on the PraNet benchmark, with quality next to cost.</div>]]></content>
+        <author>
+            <name>stellasdeutsch-dev</name>
+            <email>stellasdeutsch-dev@noreply.github.com</email>
+            <uri>https://github.com/stellasdeutsch-dev</uri>
+        </author>
+        <published>2026-11-13T23:48:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging: Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.]]></title>
+        <id>https://github.com/FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging</id>
+        <link href="https://github.com/FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging"/>
+        <updated>2026-11-06T10:32:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111402088?u=544d6a75e7e37ccf45c4214071de399943b1f769&v=4" width="64" height="64" alt=""/><br/><div>Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.</div>]]></content>
+        <author>
+            <name>FaramarzAboutalebi</name>
+            <email>FaramarzAboutalebi@noreply.github.com</email>
+            <uri>https://github.com/FaramarzAboutalebi</uri>
+        </author>
+        <published>2026-11-06T10:18:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tbtl2106/CCA_Net-Pedestrian-Attribute-Recognition: PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted CCA_Net achieved 75.01% Challenge Average on the hidden test set.]]></title>
+        <id>https://github.com/tbtl2106/CCA_Net-Pedestrian-Attribute-Recognition</id>
+        <link href="https://github.com/tbtl2106/CCA_Net-Pedestrian-Attribute-Recognition"/>
+        <updated>2026-11-13T22:35:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/107790607?v=4" width="64" height="64" alt=""/><br/><div>PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted CCA_Net achieved 75.01% Challenge Average on the hidden test set.</div>]]></content>
+        <author>
+            <name>tbtl2106</name>
+            <email>tbtl2106@noreply.github.com</email>
+            <uri>https://github.com/tbtl2106</uri>
+        </author>
+        <published>2026-11-13T15:15:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
@@ -73,6 +125,97 @@
         <published>2025-12-19T00:23:18.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[flyaurelien/kinesia: Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.]]></title>
+        <id>https://github.com/flyaurelien/kinesia</id>
+        <link href="https://github.com/flyaurelien/kinesia"/>
+        <updated>2026-11-09T16:30:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215951859?v=4" width="64" height="64" alt=""/><br/><div>Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.</div>]]></content>
+        <author>
+            <name>flyaurelien</name>
+            <email>flyaurelien@noreply.github.com</email>
+            <uri>https://github.com/flyaurelien</uri>
+        </author>
+        <published>2026-10-08T12:38:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mayin0902/csiro-image2biomass-silver: Kaggle Silver Medal solution for CSIRO Image2Biomass Prediction with DINOv3 dual-view regression and GBDT ensemble.]]></title>
+        <id>https://github.com/mayin0902/csiro-image2biomass-silver</id>
+        <link href="https://github.com/mayin0902/csiro-image2biomass-silver"/>
+        <updated>2026-11-12T14:47:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121883629?u=75698369f8754f4233abef85f958b179dfb6d87a&v=4" width="64" height="64" alt=""/><br/><div>Kaggle Silver Medal solution for CSIRO Image2Biomass Prediction with DINOv3 dual-view regression and GBDT ensemble.</div>]]></content>
+        <author>
+            <name>mayin0902</name>
+            <email>mayin0902@noreply.github.com</email>
+            <uri>https://github.com/mayin0902</uri>
+        </author>
+        <published>2026-05-11T03:02:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KangaOnGit/CCA_Net-Pedestrian-Attribute-Recognition: PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted CCA_Net achieved 75.01% Challenge Average on the hidden test set.]]></title>
+        <id>https://github.com/KangaOnGit/CCA_Net-Pedestrian-Attribute-Recognition</id>
+        <link href="https://github.com/KangaOnGit/CCA_Net-Pedestrian-Attribute-Recognition"/>
+        <updated>2026-11-06T03:46:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/171163677?u=c212ad46d993557cef050db4b0835e6487456a3e&v=4" width="64" height="64" alt=""/><br/><div>PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted CCA_Net achieved 75.01% Challenge Average on the hidden test set.</div>]]></content>
+        <author>
+            <name>KangaOnGit</name>
+            <email>KangaOnGit@noreply.github.com</email>
+            <uri>https://github.com/KangaOnGit</uri>
+        </author>
+        <published>2026-09-23T21:32:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnsteinHuynh/wd-tagger-trainer: Parameter-efficient WD-tagger training: OFTv2 adapters + two-tower ensemble (DINOv3 + SigLIP2). 31M trainable params (4.5% of the baseline tagger) reach 74.6% of its macro F1 in one epoch.]]></title>
+        <id>https://github.com/AnsteinHuynh/wd-tagger-trainer</id>
+        <link href="https://github.com/AnsteinHuynh/wd-tagger-trainer"/>
+        <updated>2026-11-13T04:40:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53374922?u=3ed149c933483326f46149055b270091e2fb8836&v=4" width="64" height="64" alt=""/><br/><div>Parameter-efficient WD-tagger training: OFTv2 adapters + two-tower ensemble (DINOv3 + SigLIP2). 31M trainable params (4.5% of the baseline tagger) reach 74.6% of its macro F1 in one epoch.</div>]]></content>
+        <author>
+            <name>AnsteinHuynh</name>
+            <email>AnsteinHuynh@noreply.github.com</email>
+            <uri>https://github.com/AnsteinHuynh</uri>
+        </author>
+        <published>2026-11-13T04:39:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nguyenlean96/dinov3-cli]]></title>
+        <id>https://github.com/nguyenlean96/dinov3-cli</id>
+        <link href="https://github.com/nguyenlean96/dinov3-cli"/>
+        <updated>2026-11-13T12:26:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65287357?u=570cdc7c29f63b2873ade16b89a0ed119c1b19d5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>nguyenlean96</name>
+            <email>nguyenlean96@noreply.github.com</email>
+            <uri>https://github.com/nguyenlean96</uri>
+        </author>
+        <published>2026-05-14T03:22:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kkubuck/HFGF-DINOv3: [Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.]]></title>
+        <id>https://github.com/Kkubuck/HFGF-DINOv3</id>
+        <link href="https://github.com/Kkubuck/HFGF-DINOv3"/>
+        <updated>2026-10-23T05:07:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/98447471?u=f7be839d25c591f1cf492e562a60f59f586e6eec&v=4" width="64" height="64" alt=""/><br/><div>[Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.</div>]]></content>
+        <author>
+            <name>Kkubuck</name>
+            <email>Kkubuck@noreply.github.com</email>
+            <uri>https://github.com/Kkubuck</uri>
+        </author>
+        <published>2026-10-20T14:32:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KatherineeeFan/rodent-behavior-classification: DINOv3-based rodent behavior classification for pain research, with sliding-window inference and a desktop tool for reviewing and correcting predictions.]]></title>
+        <id>https://github.com/KatherineeeFan/rodent-behavior-classification</id>
+        <link href="https://github.com/KatherineeeFan/rodent-behavior-classification"/>
+        <updated>2026-11-13T00:40:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/144812044?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-based rodent behavior classification for pain research, with sliding-window inference and a desktop tool for reviewing and correcting predictions.</div>]]></content>
+        <author>
+            <name>KatherineeeFan</name>
+            <email>KatherineeeFan@noreply.github.com</email>
+            <uri>https://github.com/KatherineeeFan</uri>
+        </author>
+        <published>2026-11-12T23:44:30.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[mosscoder/go2-survey: This project focuses on developing a Unitree Go2 robot as a platform for environmental monitoring. Specifically, we conduct inference with DINOv3 vision encoder on a NVIDIA Jetson embedded device. A core feature of this project is the ability to precisely geotag captured images by synchronizing them with RTK (Real-Time Kinematic) GPS data.]]></title>
         <id>https://github.com/mosscoder/go2-survey</id>
         <link href="https://github.com/mosscoder/go2-survey"/>
@@ -84,19 +227,6 @@
             <uri>https://github.com/mosscoder</uri>
         </author>
         <published>2025-06-02T19:36:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup]]></title>
-        <id>https://github.com/kleinicke/fastforks</id>
-        <link href="https://github.com/kleinicke/fastforks"/>
-        <updated>2026-11-12T19:57:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4" width="64" height="64" alt=""/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>]]></content>
-        <author>
-            <name>kleinicke</name>
-            <email>kleinicke@noreply.github.com</email>
-            <uri>https://github.com/kleinicke</uri>
-        </author>
-        <published>2026-11-03T17:21:42.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[tech-STG/dinov3-ship-review: DINOv3 ship reference similarity review: 20 annotated validation frames]]></title>
@@ -136,135 +266,5 @@
             <uri>https://github.com/lightly-ai</uri>
         </author>
         <published>2025-04-10T08:23:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mayin0902/csiro-image2biomass-silver: Kaggle Silver Medal solution for CSIRO Image2Biomass Prediction with DINOv3 dual-view regression and GBDT ensemble.]]></title>
-        <id>https://github.com/mayin0902/csiro-image2biomass-silver</id>
-        <link href="https://github.com/mayin0902/csiro-image2biomass-silver"/>
-        <updated>2026-11-12T14:47:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121883629?u=75698369f8754f4233abef85f958b179dfb6d87a&v=4" width="64" height="64" alt=""/><br/><div>Kaggle Silver Medal solution for CSIRO Image2Biomass Prediction with DINOv3 dual-view regression and GBDT ensemble.</div>]]></content>
-        <author>
-            <name>mayin0902</name>
-            <email>mayin0902@noreply.github.com</email>
-            <uri>https://github.com/mayin0902</uri>
-        </author>
-        <published>2026-05-11T03:02:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth]]></title>
-        <id>https://github.com/1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth</id>
-        <link href="https://github.com/1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth"/>
-        <updated>2026-11-12T19:02:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241505715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>1MD049-Contemporary-Methods-Course</name>
-            <email>1MD049-Contemporary-Methods-Course@noreply.github.com</email>
-            <uri>https://github.com/1MD049-Contemporary-Methods-Course</uri>
-        </author>
-        <published>2026-11-12T12:18:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[canberkandemir/forest-drones: Finding People Under Dense Vegetation with DINOv3]]></title>
-        <id>https://github.com/canberkandemir/forest-drones</id>
-        <link href="https://github.com/canberkandemir/forest-drones"/>
-        <updated>2026-11-12T11:50:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/207846407?v=4" width="64" height="64" alt=""/><br/><div>Finding People Under Dense Vegetation with DINOv3</div>]]></content>
-        <author>
-            <name>canberkandemir</name>
-            <email>canberkandemir@noreply.github.com</email>
-            <uri>https://github.com/canberkandemir</uri>
-        </author>
-        <published>2026-10-22T11:07:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DiVincenzo11/BlurDoRA-IML: Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.]]></title>
-        <id>https://github.com/DiVincenzo11/BlurDoRA-IML</id>
-        <link href="https://github.com/DiVincenzo11/BlurDoRA-IML"/>
-        <updated>2026-11-12T07:54:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/304723767?u=689e10067cdbeb1c0507ea7cd5f5d5642e7bebe9&v=4" width="64" height="64" alt=""/><br/><div>Code for blur-robust image manipulation localization using DINov3, DoRA,  and residual guidance.</div>]]></content>
-        <author>
-            <name>DiVincenzo11</name>
-            <email>DiVincenzo11@noreply.github.com</email>
-            <uri>https://github.com/DiVincenzo11</uri>
-        </author>
-        <published>2026-09-23T10:28:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlbertRG99/VehiclePartsSegmentatorFTModels: Car-part segmentation on VehicleSeg10K: YOLO26x-seg, RF-DETR Seg 2XL, DINOv3 + decoder and SAM 3 zero-shot, trained and scored with one shared evaluation (mIoU, mAP, part F1, left/right confusion, speed, VRAM). Best: DINOv3 at 91.5 mIoU.]]></title>
-        <id>https://github.com/AlbertRG99/VehiclePartsSegmentatorFTModels</id>
-        <link href="https://github.com/AlbertRG99/VehiclePartsSegmentatorFTModels"/>
-        <updated>2026-11-12T04:48:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36347290?u=010768c57e3e4b551246a7bc399c442ffd7a8e92&v=4" width="64" height="64" alt=""/><br/><div>Car-part segmentation on VehicleSeg10K: YOLO26x-seg, RF-DETR Seg 2XL, DINOv3 + decoder and SAM 3 zero-shot, trained and scored with one shared evaluation (mIoU, mAP, part F1, left/right confusion, speed, VRAM). Best: DINOv3 at 91.5 mIoU.</div>]]></content>
-        <author>
-            <name>AlbertRG99</name>
-            <email>AlbertRG99@noreply.github.com</email>
-            <uri>https://github.com/AlbertRG99</uri>
-        </author>
-        <published>2026-11-12T03:31:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pbatch/ChessCam: Record a chess game live and upload the PGN to Lichess]]></title>
-        <id>https://github.com/Pbatch/ChessCam</id>
-        <link href="https://github.com/Pbatch/ChessCam"/>
-        <updated>2026-11-12T02:47:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4" width="64" height="64" alt=""/><br/><div>Record a chess game live and upload the PGN to Lichess</div>]]></content>
-        <author>
-            <name>Pbatch</name>
-            <email>Pbatch@noreply.github.com</email>
-            <uri>https://github.com/Pbatch</uri>
-        </author>
-        <published>2023-06-28T23:07:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model]]></title>
-        <id>https://github.com/neelkumar01/gestalt-distillation</id>
-        <link href="https://github.com/neelkumar01/gestalt-distillation"/>
-        <updated>2026-11-11T18:55:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4" width="64" height="64" alt=""/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>]]></content>
-        <author>
-            <name>neelkumar01</name>
-            <email>neelkumar01@noreply.github.com</email>
-            <uri>https://github.com/neelkumar01</uri>
-        </author>
-        <published>2026-10-26T16:41:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zh0416/PV-DINOV3SAT: Few-shot photovoltaic segmentation with DINOv3-SAT]]></title>
-        <id>https://github.com/Zh0416/PV-DINOV3SAT</id>
-        <link href="https://github.com/Zh0416/PV-DINOV3SAT"/>
-        <updated>2026-11-11T22:31:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225827372?v=4" width="64" height="64" alt=""/><br/><div>Few-shot photovoltaic segmentation with DINOv3-SAT</div>]]></content>
-        <author>
-            <name>Zh0416</name>
-            <email>Zh0416@noreply.github.com</email>
-            <uri>https://github.com/Zh0416</uri>
-        </author>
-        <published>2026-11-04T08:49:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[agouletas/HT2026_DINOv3_LuSNAR_SegDepth]]></title>
-        <id>https://github.com/agouletas/HT2026_DINOv3_LuSNAR_SegDepth</id>
-        <link href="https://github.com/agouletas/HT2026_DINOv3_LuSNAR_SegDepth"/>
-        <updated>2026-11-11T15:41:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60733358?u=afb0c3b67218b5881e6da579b0c887d0f270a9ca&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>agouletas</name>
-            <email>agouletas@noreply.github.com</email>
-            <uri>https://github.com/agouletas</uri>
-        </author>
-        <published>2026-11-11T15:41:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hidroksit/dino-zeroshot-reference-detection: Zero-shot reference object detection with DINOv2/DINOv3 (TEKNOFEST 2026 Aviation AI)]]></title>
-        <id>https://github.com/hidroksit/dino-zeroshot-reference-detection</id>
-        <link href="https://github.com/hidroksit/dino-zeroshot-reference-detection"/>
-        <updated>2026-11-11T22:43:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/153312583?v=4" width="64" height="64" alt=""/><br/><div>Zero-shot reference object detection with DINOv2/DINOv3 (TEKNOFEST 2026 Aviation AI)</div>]]></content>
-        <author>
-            <name>hidroksit</name>
-            <email>hidroksit@noreply.github.com</email>
-            <uri>https://github.com/hidroksit</uri>
-        </author>
-        <published>2026-11-11T11:38:09.000Z</published>
     </entry>
 </feed>
