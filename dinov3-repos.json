@@ -17,25 +17,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>",
-            "url": "https://github.com/neelkumar01/gestalt-distillation",
-            "title": "neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model",
-            "date_modified": "2026-11-11T18:55:10.000Z",
-            "date_published": "2026-10-26T16:41:57.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>",
+            "url": "https://github.com/xocialize/mlx-trellis2-swift",
+            "title": "xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.",
+            "date_modified": "2026-11-09T17:49:55.000Z",
+            "date_published": "2026-07-14T18:36:41.000Z",
             "author": {
-                "name": "neelkumar01",
-                "url": "https://github.com/neelkumar01"
+                "name": "xocialize",
+                "url": "https://github.com/xocialize"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>",
-            "url": "https://github.com/kleinicke/fastforks",
-            "title": "kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup",
-            "date_modified": "2026-11-14T05:09:01.000Z",
-            "date_published": "2026-11-03T17:21:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/275216056?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of LSA-SSViT for multi-task mammography screening, with the GRAIN adapter and the CUSP training objective.</div>",
+            "url": "https://github.com/3xiaoshayu/LSA-SSViT",
+            "title": "3xiaoshayu/LSA-SSViT: Official implementation of LSA-SSViT for multi-task mammography screening, with the GRAIN adapter and the CUSP training objective.",
+            "date_modified": "2026-11-14T19:16:21.000Z",
+            "date_published": "2026-11-10T00:40:20.000Z",
             "author": {
-                "name": "kleinicke",
-                "url": "https://github.com/kleinicke"
+                "name": "3xiaoshayu",
+                "url": "https://github.com/3xiaoshayu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53374922?u=3ed149c933483326f46149055b270091e2fb8836&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parameter-efficient WD-tagger training: OFTv2 adapters + two-tower ensemble (DINOv3 + SigLIP2). 31M trainable params (4.5% of the baseline tagger) reach 74.6% of its macro F1 in one epoch.</div>",
+            "url": "https://github.com/AnsteinHuynh/wd-tagger-trainer",
+            "title": "AnsteinHuynh/wd-tagger-trainer: Parameter-efficient WD-tagger training: OFTv2 adapters + two-tower ensemble (DINOv3 + SigLIP2). 31M trainable params (4.5% of the baseline tagger) reach 74.6% of its macro F1 in one epoch.",
+            "date_modified": "2026-11-13T04:40:09.000Z",
+            "date_published": "2026-11-13T04:39:52.000Z",
+            "author": {
+                "name": "AnsteinHuynh",
+                "url": "https://github.com/AnsteinHuynh"
             }
         },
         {
@@ -50,14 +61,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
-            "url": "https://github.com/SomethingObvious/jwst-peculiar",
-            "title": "SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
-            "date_modified": "2026-11-12T10:32:16.000Z",
-            "date_published": "2026-01-03T07:48:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>",
+            "url": "https://github.com/kleinicke/fastforks",
+            "title": "kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup",
+            "date_modified": "2026-11-15T01:32:54.000Z",
+            "date_published": "2026-11-03T17:21:42.000Z",
             "author": {
-                "name": "SomethingObvious",
-                "url": "https://github.com/SomethingObvious"
+                "name": "kleinicke",
+                "url": "https://github.com/kleinicke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70748340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-B/16を凍結した特徴抽出器として利用し、Mask2Formerで建物セグメンテーションを学習するための環境構築・学習用パッケージです。WHU Building DatasetとWaterloo Building Datasetを対象に、1024×1024と512×512の画像を拡大・縮小せず、原寸のまま混在させて学習します。</div>",
+            "url": "https://github.com/Yuji-Kobayashi-orbitalnet/dinov3-mask2former-buildings",
+            "title": "Yuji-Kobayashi-orbitalnet/dinov3-mask2former-buildings: DINOv3-B/16を凍結した特徴抽出器として利用し、Mask2Formerで建物セグメンテーションを学習するための環境構築・学習用パッケージです。WHU Building DatasetとWaterloo Building Datasetを対象に、1024×1024と512×512の画像を拡大・縮小せず、原寸のまま混在させて学習します。",
+            "date_modified": "2026-11-11T22:43:33.000Z",
+            "date_published": "2026-11-11T01:10:45.000Z",
+            "author": {
+                "name": "Yuji-Kobayashi-orbitalnet",
+                "url": "https://github.com/Yuji-Kobayashi-orbitalnet"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180191370?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/esraakh299/EdgeAttNet-DINOv3-Filament-Segmentation",
+            "title": "esraakh299/EdgeAttNet-DINOv3-Filament-Segmentation",
+            "date_modified": "2026-11-15T00:50:08.000Z",
+            "date_published": "2026-11-14T23:54:50.000Z",
+            "author": {
+                "name": "esraakh299",
+                "url": "https://github.com/esraakh299"
             }
         },
         {
@@ -69,6 +102,105 @@
             "author": {
                 "name": "stellasdeutsch-dev",
                 "url": "https://github.com/stellasdeutsch-dev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
+            "url": "https://github.com/Pbatch/ChessCam",
+            "title": "Pbatch/ChessCam: Record a chess game live and upload the PGN to Lichess",
+            "date_modified": "2026-11-12T02:47:31.000Z",
+            "date_published": "2023-06-28T23:07:09.000Z",
+            "author": {
+                "name": "Pbatch",
+                "url": "https://github.com/Pbatch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88944384?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HairDeck as a Gaea plugin: hair for an avatar from one character picture (MES mesh.generate_part). Built with DINOv3. Not released yet.</div>",
+            "url": "https://github.com/xocialize-code/gaea-plugin-hairdeck",
+            "title": "xocialize-code/gaea-plugin-hairdeck: HairDeck as a Gaea plugin: hair for an avatar from one character picture (MES mesh.generate_part). Built with DINOv3. Not released yet.",
+            "date_modified": "2026-11-14T17:58:16.000Z",
+            "date_published": "2026-11-14T04:58:08.000Z",
+            "author": {
+                "name": "xocialize-code",
+                "url": "https://github.com/xocialize-code"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218811466?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PhD research: human validation of the tags DINOv3 (dino.txt) assigned to artworks in the MAC USP collection</div>",
+            "url": "https://github.com/danmartsarr/validacao-tags-mac",
+            "title": "danmartsarr/validacao-tags-mac: PhD research: human validation of the tags DINOv3 (dino.txt) assigned to artworks in the MAC USP collection",
+            "date_modified": "2026-11-14T20:32:43.000Z",
+            "date_published": "2026-11-03T18:34:17.000Z",
+            "author": {
+                "name": "danmartsarr",
+                "url": "https://github.com/danmartsarr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218811466?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PhD research: prototype website for the MAC USP collection with a visual-similarity map of the artworks (DINOv3), image search and OCR-transcribed bulletins</div>",
+            "url": "https://github.com/danmartsarr/mac-mockup",
+            "title": "danmartsarr/mac-mockup: PhD research: prototype website for the MAC USP collection with a visual-similarity map of the artworks (DINOv3), image search and OCR-transcribed bulletins",
+            "date_modified": "2026-11-14T20:32:41.000Z",
+            "date_published": "2026-11-14T18:51:34.000Z",
+            "author": {
+                "name": "danmartsarr",
+                "url": "https://github.com/danmartsarr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9141898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/oilst/dinov3-mlx",
+            "title": "oilst/dinov3-mlx",
+            "date_modified": "2026-11-14T16:35:53.000Z",
+            "date_published": "2026-11-09T22:49:54.000Z",
+            "author": {
+                "name": "oilst",
+                "url": "https://github.com/oilst"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126349043?u=bad80619f37f51036dd8975643e7efbe84383129&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VisionGuard is a class-agnostic visual anomaly detection model trained using only anomaly-free images. Built with DINOv3.</div>",
+            "url": "https://github.com/rohithgowdax/VisionGuard",
+            "title": "rohithgowdax/VisionGuard: VisionGuard is a class-agnostic visual anomaly detection model trained using only anomaly-free images. Built with DINOv3.",
+            "date_modified": "2026-11-09T06:33:36.000Z",
+            "date_published": "2026-10-26T12:39:21.000Z",
+            "author": {
+                "name": "rohithgowdax",
+                "url": "https://github.com/rohithgowdax"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227938816?u=ddf766b58541bdd8543fae64a0391b15d5c97a5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gestalt distillation into DinoV3 single image encoder model</div>",
+            "url": "https://github.com/neelkumar01/gestalt-distillation",
+            "title": "neelkumar01/gestalt-distillation: Gestalt distillation into DinoV3 single image encoder model",
+            "date_modified": "2026-11-11T18:55:10.000Z",
+            "date_published": "2026-10-26T16:41:57.000Z",
+            "author": {
+                "name": "neelkumar01",
+                "url": "https://github.com/neelkumar01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299996784?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fire detection model: YOLO26m detector + DINOv3/SigLIP2 classification heads, inference code, configs, and model card.</div>",
+            "url": "https://github.com/Egoist-Wang/fire_detection_model",
+            "title": "Egoist-Wang/fire_detection_model: Fire detection model: YOLO26m detector + DINOv3/SigLIP2 classification heads, inference code, configs, and model card.",
+            "date_modified": "2026-11-14T07:53:33.000Z",
+            "date_published": "2026-11-14T07:45:50.000Z",
+            "author": {
+                "name": "Egoist-Wang",
+                "url": "https://github.com/Egoist-Wang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
+            "url": "https://github.com/SomethingObvious/jwst-peculiar",
+            "title": "SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
+            "date_modified": "2026-11-14T05:53:46.000Z",
+            "date_published": "2026-01-03T07:48:06.000Z",
+            "author": {
+                "name": "SomethingObvious",
+                "url": "https://github.com/SomethingObvious"
             }
         },
         {
@@ -91,138 +223,6 @@
             "author": {
                 "name": "tbtl2106",
                 "url": "https://github.com/tbtl2106"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>",
-            "url": "https://github.com/Trudes808/Dinov3-WhaleID",
-            "title": "Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task",
-            "date_modified": "2026-10-23T14:21:46.000Z",
-            "date_published": "2025-12-19T00:23:18.000Z",
-            "author": {
-                "name": "Trudes808",
-                "url": "https://github.com/Trudes808"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215951859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.</div>",
-            "url": "https://github.com/flyaurelien/kinesia",
-            "title": "flyaurelien/kinesia: Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.",
-            "date_modified": "2026-11-09T16:30:12.000Z",
-            "date_published": "2026-10-08T12:38:06.000Z",
-            "author": {
-                "name": "flyaurelien",
-                "url": "https://github.com/flyaurelien"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121883629?u=75698369f8754f4233abef85f958b179dfb6d87a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Kaggle Silver Medal solution for CSIRO Image2Biomass Prediction with DINOv3 dual-view regression and GBDT ensemble.</div>",
-            "url": "https://github.com/mayin0902/csiro-image2biomass-silver",
-            "title": "mayin0902/csiro-image2biomass-silver: Kaggle Silver Medal solution for CSIRO Image2Biomass Prediction with DINOv3 dual-view regression and GBDT ensemble.",
-            "date_modified": "2026-11-12T14:47:47.000Z",
-            "date_published": "2026-05-11T03:02:23.000Z",
-            "author": {
-                "name": "mayin0902",
-                "url": "https://github.com/mayin0902"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171163677?u=c212ad46d993557cef050db4b0835e6487456a3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted CCA_Net achieved 75.01% Challenge Average on the hidden test set.</div>",
-            "url": "https://github.com/KangaOnGit/CCA_Net-Pedestrian-Attribute-Recognition",
-            "title": "KangaOnGit/CCA_Net-Pedestrian-Attribute-Recognition: PyTorch-based pedestrian attribute recognition for UPAR2027. Features CCA_Net with SigLIP2 and attribute self-attention, DINOv3 image encoders, and ROI Mixture-of-Experts. Supports multi-label training, evaluation, and Docker workflows. The submitted CCA_Net achieved 75.01% Challenge Average on the hidden test set.",
-            "date_modified": "2026-11-06T03:46:30.000Z",
-            "date_published": "2026-09-23T21:32:46.000Z",
-            "author": {
-                "name": "KangaOnGit",
-                "url": "https://github.com/KangaOnGit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53374922?u=3ed149c933483326f46149055b270091e2fb8836&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parameter-efficient WD-tagger training: OFTv2 adapters + two-tower ensemble (DINOv3 + SigLIP2). 31M trainable params (4.5% of the baseline tagger) reach 74.6% of its macro F1 in one epoch.</div>",
-            "url": "https://github.com/AnsteinHuynh/wd-tagger-trainer",
-            "title": "AnsteinHuynh/wd-tagger-trainer: Parameter-efficient WD-tagger training: OFTv2 adapters + two-tower ensemble (DINOv3 + SigLIP2). 31M trainable params (4.5% of the baseline tagger) reach 74.6% of its macro F1 in one epoch.",
-            "date_modified": "2026-11-13T04:40:09.000Z",
-            "date_published": "2026-11-13T04:39:52.000Z",
-            "author": {
-                "name": "AnsteinHuynh",
-                "url": "https://github.com/AnsteinHuynh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65287357?u=570cdc7c29f63b2873ade16b89a0ed119c1b19d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nguyenlean96/dinov3-cli",
-            "title": "nguyenlean96/dinov3-cli",
-            "date_modified": "2026-11-13T12:26:37.000Z",
-            "date_published": "2026-05-14T03:22:36.000Z",
-            "author": {
-                "name": "nguyenlean96",
-                "url": "https://github.com/nguyenlean96"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98447471?u=f7be839d25c591f1cf492e562a60f59f586e6eec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.</div>",
-            "url": "https://github.com/Kkubuck/HFGF-DINOv3",
-            "title": "Kkubuck/HFGF-DINOv3: [Pattern Recognition 2027] Code for HFGF-DINOv3: High-Frequency Guided Fusion and phase-aware loss for camouflaged object detection.",
-            "date_modified": "2026-10-23T05:07:13.000Z",
-            "date_published": "2026-10-20T14:32:20.000Z",
-            "author": {
-                "name": "Kkubuck",
-                "url": "https://github.com/Kkubuck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144812044?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3-based rodent behavior classification for pain research, with sliding-window inference and a desktop tool for reviewing and correcting predictions.</div>",
-            "url": "https://github.com/KatherineeeFan/rodent-behavior-classification",
-            "title": "KatherineeeFan/rodent-behavior-classification: DINOv3-based rodent behavior classification for pain research, with sliding-window inference and a desktop tool for reviewing and correcting predictions.",
-            "date_modified": "2026-11-13T00:40:44.000Z",
-            "date_published": "2026-11-12T23:44:30.000Z",
-            "author": {
-                "name": "KatherineeeFan",
-                "url": "https://github.com/KatherineeeFan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17579844?u=6655553fd6c668316eb5658e3a7d0997f4d80806&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project focuses on developing a Unitree Go2 robot as a platform for environmental monitoring. Specifically, we conduct inference with DINOv3 vision encoder on a NVIDIA Jetson embedded device. A core feature of this project is the ability to precisely geotag captured images by synchronizing them with RTK (Real-Time Kinematic) GPS data.</div>",
-            "url": "https://github.com/mosscoder/go2-survey",
-            "title": "mosscoder/go2-survey: This project focuses on developing a Unitree Go2 robot as a platform for environmental monitoring. Specifically, we conduct inference with DINOv3 vision encoder on a NVIDIA Jetson embedded device. A core feature of this project is the ability to precisely geotag captured images by synchronizing them with RTK (Real-Time Kinematic) GPS data.",
-            "date_modified": "2026-11-12T21:06:58.000Z",
-            "date_published": "2025-06-02T19:36:57.000Z",
-            "author": {
-                "name": "mosscoder",
-                "url": "https://github.com/mosscoder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/354702103?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 ship reference similarity review: 20 annotated validation frames</div>",
-            "url": "https://github.com/tech-STG/dinov3-ship-review",
-            "title": "tech-STG/dinov3-ship-review: DINOv3 ship reference similarity review: 20 annotated validation frames",
-            "date_modified": "2026-11-12T16:17:26.000Z",
-            "date_published": "2026-11-12T04:14:04.000Z",
-            "author": {
-                "name": "tech-STG",
-                "url": "https://github.com/tech-STG"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149631650?u=f3c37eed93aa20ed0f7b8f11833db0043b1ae9a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).</div>",
-            "url": "https://github.com/Sonam525/FarmSAM",
-            "title": "Sonam525/FarmSAM: Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).",
-            "date_modified": "2026-11-12T16:04:00.000Z",
-            "date_published": "2026-06-08T19:31:17.000Z",
-            "author": {
-                "name": "Sonam525",
-                "url": "https://github.com/Sonam525"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50146475?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.</div>",
-            "url": "https://github.com/lightly-ai/lightly-train",
-            "title": "lightly-ai/lightly-train: All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.",
-            "date_modified": "2026-11-12T15:39:07.000Z",
-            "date_published": "2025-04-10T08:23:51.000Z",
-            "author": {
-                "name": "lightly-ai",
-                "url": "https://github.com/lightly-ai"
             }
         }
     ]
