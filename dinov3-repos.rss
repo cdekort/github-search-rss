@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-11-16T05:09:25.298Z</updated>
+    <updated>2026-11-17T06:54:52.757Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -19,6 +19,162 @@
             <uri>https://github.com/tomgrizz</uri>
         </author>
         <published>2026-08-25T14:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
+        <id>https://github.com/Trudes808/Dinov3-WhaleID</id>
+        <link href="https://github.com/Trudes808/Dinov3-WhaleID"/>
+        <updated>2026-10-23T14:21:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>]]></content>
+        <author>
+            <name>Trudes808</name>
+            <email>Trudes808@noreply.github.com</email>
+            <uri>https://github.com/Trudes808</uri>
+        </author>
+        <published>2025-12-19T00:23:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup]]></title>
+        <id>https://github.com/kleinicke/fastforks</id>
+        <link href="https://github.com/kleinicke/fastforks"/>
+        <updated>2026-11-16T08:34:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4" width="64" height="64" alt=""/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>]]></content>
+        <author>
+            <name>kleinicke</name>
+            <email>kleinicke@noreply.github.com</email>
+            <uri>https://github.com/kleinicke</uri>
+        </author>
+        <published>2026-11-03T17:21:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zh0416/pv-multiscene-georsclip-dinov3]]></title>
+        <id>https://github.com/Zh0416/pv-multiscene-georsclip-dinov3</id>
+        <link href="https://github.com/Zh0416/pv-multiscene-georsclip-dinov3"/>
+        <updated>2026-11-16T21:35:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225827372?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Zh0416</name>
+            <email>Zh0416@noreply.github.com</email>
+            <uri>https://github.com/Zh0416</uri>
+        </author>
+        <published>2026-11-16T12:32:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ElikplimSunu/model-shop: Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.]]></title>
+        <id>https://github.com/ElikplimSunu/model-shop</id>
+        <link href="https://github.com/ElikplimSunu/model-shop"/>
+        <updated>2026-11-16T20:09:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42668840?u=976411f1a8ea0cb8fb241689648f6237b44ebb21&v=4" width="64" height="64" alt=""/><br/><div>Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.</div>]]></content>
+        <author>
+            <name>ElikplimSunu</name>
+            <email>ElikplimSunu@noreply.github.com</email>
+            <uri>https://github.com/ElikplimSunu</uri>
+        </author>
+        <published>2026-04-11T04:09:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[riyadhHDA/pixplot-v2: Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.]]></title>
+        <id>https://github.com/riyadhHDA/pixplot-v2</id>
+        <link href="https://github.com/riyadhHDA/pixplot-v2"/>
+        <updated>2026-11-16T22:06:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25872060?u=dfbd2539626cbf40142d7ff1be7eb997e1f6d93e&v=4" width="64" height="64" alt=""/><br/><div>Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.</div>]]></content>
+        <author>
+            <name>riyadhHDA</name>
+            <email>riyadhHDA@noreply.github.com</email>
+            <uri>https://github.com/riyadhHDA</uri>
+        </author>
+        <published>2026-11-15T19:48:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[olliedaly/dino_trm: Does TRM-style recursion help slot-attention object discovery? A controlled null result on frozen DINOv3 features.]]></title>
+        <id>https://github.com/olliedaly/dino_trm</id>
+        <link href="https://github.com/olliedaly/dino_trm"/>
+        <updated>2026-11-16T21:41:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/76729414?u=c4a3bdf4af75c682de0abf2331f14044f8e1d11e&v=4" width="64" height="64" alt=""/><br/><div>Does TRM-style recursion help slot-attention object discovery? A controlled null result on frozen DINOv3 features.</div>]]></content>
+        <author>
+            <name>olliedaly</name>
+            <email>olliedaly@noreply.github.com</email>
+            <uri>https://github.com/olliedaly</uri>
+        </author>
+        <published>2026-05-22T08:01:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging: Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.]]></title>
+        <id>https://github.com/FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging</id>
+        <link href="https://github.com/FaramarzAboutalebi/CAP6411-Adaptive-Token-Merging"/>
+        <updated>2026-11-16T22:13:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/111402088?u=544d6a75e7e37ccf45c4214071de399943b1f769&v=4" width="64" height="64" alt=""/><br/><div>Content-adaptive token merging for brain MRI segmentation using DINOv3 and BraTS.</div>]]></content>
+        <author>
+            <name>FaramarzAboutalebi</name>
+            <email>FaramarzAboutalebi@noreply.github.com</email>
+            <uri>https://github.com/FaramarzAboutalebi</uri>
+        </author>
+        <published>2026-11-06T10:18:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[meiiie/tgmt-de12-video-image-search: Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)]]></title>
+        <id>https://github.com/meiiie/tgmt-de12-video-image-search</id>
+        <link href="https://github.com/meiiie/tgmt-de12-video-image-search"/>
+        <updated>2026-10-31T23:37:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/156531153?u=a9a911a93e736bc4538a828816de469826428d84&v=4" width="64" height="64" alt=""/><br/><div>Đề 12 - Tìm kiếm hình ảnh trong video (SAM 3.1 + DINOv3 + FAISS)</div>]]></content>
+        <author>
+            <name>meiiie</name>
+            <email>meiiie@noreply.github.com</email>
+            <uri>https://github.com/meiiie</uri>
+        </author>
+        <published>2026-10-23T13:21:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth]]></title>
+        <id>https://github.com/1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth</id>
+        <link href="https://github.com/1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth"/>
+        <updated>2026-11-15T23:11:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241505715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>1MD049-Contemporary-Methods-Course</name>
+            <email>1MD049-Contemporary-Methods-Course@noreply.github.com</email>
+            <uri>https://github.com/1MD049-Contemporary-Methods-Course</uri>
+        </author>
+        <published>2026-11-12T12:18:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.]]></title>
+        <id>https://github.com/alifarzadjamali/fashion-compatibility-benchmark</id>
+        <link href="https://github.com/alifarzadjamali/fashion-compatibility-benchmark"/>
+        <updated>2026-10-28T21:47:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225652879?u=fc5a83235c0478f04879414640efe1e01038dbf2&v=4" width="64" height="64" alt=""/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>]]></content>
+        <author>
+            <name>alifarzadjamali</name>
+            <email>alifarzadjamali@noreply.github.com</email>
+            <uri>https://github.com/alifarzadjamali</uri>
+        </author>
+        <published>2026-03-25T17:20:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tianyi-ted/LiLa-WAM-YF10-Baseline: Validated LiLa-WAM YF10 DINOv3-Base+h512 baseline and research configurations]]></title>
+        <id>https://github.com/tianyi-ted/LiLa-WAM-YF10-Baseline</id>
+        <link href="https://github.com/tianyi-ted/LiLa-WAM-YF10-Baseline"/>
+        <updated>2026-11-16T14:03:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/115141068?v=4" width="64" height="64" alt=""/><br/><div>Validated LiLa-WAM YF10 DINOv3-Base+h512 baseline and research configurations</div>]]></content>
+        <author>
+            <name>tianyi-ted</name>
+            <email>tianyi-ted@noreply.github.com</email>
+            <uri>https://github.com/tianyi-ted</uri>
+        </author>
+        <published>2026-09-23T06:25:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-EcoNet/zeroshot_clustering_animal_images: Zero-shot clustering of camera trap animal images with Vision Transformers (DINOv3, t-SNE, HDBSCAN). Code for the IET Computer Vision 2026 paper.]]></title>
+        <id>https://github.com/AI-EcoNet/zeroshot_clustering_animal_images</id>
+        <link href="https://github.com/AI-EcoNet/zeroshot_clustering_animal_images"/>
+        <updated>2026-11-16T12:34:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/215355733?v=4" width="64" height="64" alt=""/><br/><div>Zero-shot clustering of camera trap animal images with Vision Transformers (DINOv3, t-SNE, HDBSCAN). Code for the IET Computer Vision 2026 paper.</div>]]></content>
+        <author>
+            <name>AI-EcoNet</name>
+            <email>AI-EcoNet@noreply.github.com</email>
+            <uri>https://github.com/AI-EcoNet</uri>
+        </author>
+        <published>2026-02-06T10:40:28.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[parallaxmetrology/cloud-organization: Pretrained image embeddings vs 13 cloud-organization metrics on afternoon cloud change over the trade-wind oceans (MODIS Terra to Aqua): a satellite-trained DINOv3 does best, a cloud-trained embedding does not beat the metrics. Frozen protocols, scripts, results, lab book.]]></title>
@@ -73,32 +229,6 @@
         <published>2026-11-15T22:47:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth]]></title>
-        <id>https://github.com/1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth</id>
-        <link href="https://github.com/1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth"/>
-        <updated>2026-11-15T23:11:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241505715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>1MD049-Contemporary-Methods-Course</name>
-            <email>1MD049-Contemporary-Methods-Course@noreply.github.com</email>
-            <uri>https://github.com/1MD049-Contemporary-Methods-Course</uri>
-        </author>
-        <published>2026-11-12T12:18:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[riyadhHDA/pixplot-v2: Exploration visuelle de grands corpus d'œuvres pour l'histoire de l'art (DINOv3, FAISS, e-means, UMAP, MCP)]]></title>
-        <id>https://github.com/riyadhHDA/pixplot-v2</id>
-        <link href="https://github.com/riyadhHDA/pixplot-v2"/>
-        <updated>2026-11-15T19:48:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25872060?u=dfbd2539626cbf40142d7ff1be7eb997e1f6d93e&v=4" width="64" height="64" alt=""/><br/><div>Exploration visuelle de grands corpus d'œuvres pour l'histoire de l'art (DINOv3, FAISS, e-means, UMAP, MCP)</div>]]></content>
-        <author>
-            <name>riyadhHDA</name>
-            <email>riyadhHDA@noreply.github.com</email>
-            <uri>https://github.com/riyadhHDA</uri>
-        </author>
-        <published>2026-11-15T19:48:41.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[oilst/dinov3-mlx]]></title>
         <id>https://github.com/oilst/dinov3-mlx</id>
         <link href="https://github.com/oilst/dinov3-mlx"/>
@@ -136,135 +266,5 @@
             <uri>https://github.com/esraakh299</uri>
         </author>
         <published>2026-11-14T23:54:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
-        <id>https://github.com/ganzijie1/dongzhou</id>
-        <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-11-12T16:23:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
-        <author>
-            <name>ganzijie1</name>
-            <email>ganzijie1@noreply.github.com</email>
-            <uri>https://github.com/ganzijie1</uri>
-        </author>
-        <published>2026-08-13T05:30:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[skywalker114/dinov3-image-classification: Ranked 20th of 393 students in a 20-class image classification competition using DINOv3 and pseudo-label training]]></title>
-        <id>https://github.com/skywalker114/dinov3-image-classification</id>
-        <link href="https://github.com/skywalker114/dinov3-image-classification"/>
-        <updated>2026-11-15T15:40:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/78194748?u=a84f11f0b4d3c92aa1a447c1de4404ca1febeef4&v=4" width="64" height="64" alt=""/><br/><div>Ranked 20th of 393 students in a 20-class image classification competition using DINOv3 and pseudo-label training</div>]]></content>
-        <author>
-            <name>skywalker114</name>
-            <email>skywalker114@noreply.github.com</email>
-            <uri>https://github.com/skywalker114</uri>
-        </author>
-        <published>2026-11-15T15:36:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nii0708/Img2LocJakarta: image to location model with DINOv3 backbone]]></title>
-        <id>https://github.com/nii0708/Img2LocJakarta</id>
-        <link href="https://github.com/nii0708/Img2LocJakarta"/>
-        <updated>2026-08-02T15:35:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73113868?u=a790fdd03333561c2335bb51b85780c6eed2bf23&v=4" width="64" height="64" alt=""/><br/><div>image to location model with DINOv3 backbone</div>]]></content>
-        <author>
-            <name>nii0708</name>
-            <email>nii0708@noreply.github.com</email>
-            <uri>https://github.com/nii0708</uri>
-        </author>
-        <published>2026-08-02T15:33:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ashiq24/soft-equivariance: Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.]]></title>
-        <id>https://github.com/ashiq24/soft-equivariance</id>
-        <link href="https://github.com/ashiq24/soft-equivariance"/>
-        <updated>2026-10-07T06:47:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19257148?u=802b81f25947804d44e73e762349605a60ada804&v=4" width="64" height="64" alt=""/><br/><div>Tunable Soft Equivariance with Guarantees (CVPR 2026) - continuously interpolate between strict equivariance and non-equivariant model.</div>]]></content>
-        <author>
-            <name>ashiq24</name>
-            <email>ashiq24@noreply.github.com</email>
-            <uri>https://github.com/ashiq24</uri>
-        </author>
-        <published>2026-03-07T06:42:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hming6789/CA-TCC-DINOv3-Fitness: Integrating DINOv3 ViT-S/16 into CA-TCC for fitness video representation learning.]]></title>
-        <id>https://github.com/Hming6789/CA-TCC-DINOv3-Fitness</id>
-        <link href="https://github.com/Hming6789/CA-TCC-DINOv3-Fitness"/>
-        <updated>2026-10-31T10:01:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/208653570?v=4" width="64" height="64" alt=""/><br/><div>Integrating DINOv3 ViT-S/16 into CA-TCC for fitness video representation learning.</div>]]></content>
-        <author>
-            <name>Hming6789</name>
-            <email>Hming6789@noreply.github.com</email>
-            <uri>https://github.com/Hming6789</uri>
-        </author>
-        <published>2026-10-17T16:51:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tamizhexe7/SKINSPECTRA_X: SkinSpectra-X is a local research prototype for dermoscopic skin-lesion segmentation. It combines DINOv3 image features with RGB-derived pseudo-spectral estimates and evaluates segmentation, image quality, and uncertainty using public datasets. It is not a diagnostic tool; outputs require clinician review.]]></title>
-        <id>https://github.com/tamizhexe7/SKINSPECTRA_X</id>
-        <link href="https://github.com/tamizhexe7/SKINSPECTRA_X"/>
-        <updated>2026-11-15T08:25:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/312852609?u=5702b88ba4e1a82e0a631db72c650fe91684fb5a&v=4" width="64" height="64" alt=""/><br/><div>SkinSpectra-X is a local research prototype for dermoscopic skin-lesion segmentation. It combines DINOv3 image features with RGB-derived pseudo-spectral estimates and evaluates segmentation, image quality, and uncertainty using public datasets. It is not a diagnostic tool; outputs require clinician review.</div>]]></content>
-        <author>
-            <name>tamizhexe7</name>
-            <email>tamizhexe7@noreply.github.com</email>
-            <uri>https://github.com/tamizhexe7</uri>
-        </author>
-        <published>2026-11-15T08:25:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features]]></title>
-        <id>https://github.com/Ram21275/tesseract-pose-speedplus</id>
-        <link href="https://github.com/Ram21275/tesseract-pose-speedplus"/>
-        <updated>2026-11-09T12:29:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108638916?v=4" width="64" height="64" alt=""/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>]]></content>
-        <author>
-            <name>Ram21275</name>
-            <email>Ram21275@noreply.github.com</email>
-            <uri>https://github.com/Ram21275</uri>
-        </author>
-        <published>2026-10-08T17:33:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xocialize-code/gaea-plugin-trellis2: TRELLIS.2 as a Gaea plugin: a textured 3D mesh (GLB) of the object in one picture, on MES Mesh 0.1. Built with DINOv3.]]></title>
-        <id>https://github.com/xocialize-code/gaea-plugin-trellis2</id>
-        <link href="https://github.com/xocialize-code/gaea-plugin-trellis2"/>
-        <updated>2026-11-09T18:02:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88944384?v=4" width="64" height="64" alt=""/><br/><div>TRELLIS.2 as a Gaea plugin: a textured 3D mesh (GLB) of the object in one picture, on MES Mesh 0.1. Built with DINOv3.</div>]]></content>
-        <author>
-            <name>xocialize-code</name>
-            <email>xocialize-code@noreply.github.com</email>
-            <uri>https://github.com/xocialize-code</uri>
-        </author>
-        <published>2026-11-09T18:02:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sem1122331987/LAD-MIL-DINOv3]]></title>
-        <id>https://github.com/sem1122331987/LAD-MIL-DINOv3</id>
-        <link href="https://github.com/sem1122331987/LAD-MIL-DINOv3"/>
-        <updated>2026-11-15T13:01:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/356851519?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sem1122331987</name>
-            <email>sem1122331987@noreply.github.com</email>
-            <uri>https://github.com/sem1122331987</uri>
-        </author>
-        <published>2026-11-15T05:58:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xocialize/mlx-trellis2-swift: Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.]]></title>
-        <id>https://github.com/xocialize/mlx-trellis2-swift</id>
-        <link href="https://github.com/xocialize/mlx-trellis2-swift"/>
-        <updated>2026-11-09T17:49:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2223231?u=e6937f87fabf1c66761685ed5b77c65e06bed421&v=4" width="64" height="64" alt=""/><br/><div>Verified Swift-MLX re-port of Microsoft TRELLIS.2 — single image → textured 3D mesh (GLB) on Apple Silicon. MLXEngine imageTo3D. Built with DINOv3. Successor to mlx-trellis2-swift-old.</div>]]></content>
-        <author>
-            <name>xocialize</name>
-            <email>xocialize@noreply.github.com</email>
-            <uri>https://github.com/xocialize</uri>
-        </author>
-        <published>2026-07-14T18:36:41.000Z</published>
     </entry>
 </feed>
