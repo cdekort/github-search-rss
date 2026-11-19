@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-11-18T06:15:48.809Z</updated>
+    <updated>2026-11-19T06:16:56.125Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
+        <id>https://github.com/kingwingfly/lets_embed</id>
+        <link href="https://github.com/kingwingfly/lets_embed"/>
+        <updated>2026-10-24T02:47:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
+        <author>
+            <name>kingwingfly</name>
+            <email>kingwingfly@noreply.github.com</email>
+            <uri>https://github.com/kingwingfly</uri>
+        </author>
+        <published>2026-05-17T07:13:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zh0416/pv-2m-dinov3sat-fewshot: Iterative research on pure frozen DINOv3-SAT few-shot (1/3/5-shot) PV segmentation at 2m resolution: solving false negatives and false positives with strict ablations]]></title>
+        <id>https://github.com/Zh0416/pv-2m-dinov3sat-fewshot</id>
+        <link href="https://github.com/Zh0416/pv-2m-dinov3sat-fewshot"/>
+        <updated>2026-11-19T00:21:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225827372?v=4" width="64" height="64" alt=""/><br/><div>Iterative research on pure frozen DINOv3-SAT few-shot (1/3/5-shot) PV segmentation at 2m resolution: solving false negatives and false positives with strict ablations</div>]]></content>
+        <author>
+            <name>Zh0416</name>
+            <email>Zh0416@noreply.github.com</email>
+            <uri>https://github.com/Zh0416</uri>
+        </author>
+        <published>2026-11-19T00:14:16.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)]]></title>
         <id>https://github.com/tomgrizz/ganaraska-live</id>
@@ -21,153 +47,101 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[weertman/deepstarnoodles-inference: Self-contained Docker and Python runtime for StarSeg, DINOv3 Hydra, and GRU arm tracing]]></title>
-        <id>https://github.com/weertman/deepstarnoodles-inference</id>
-        <link href="https://github.com/weertman/deepstarnoodles-inference"/>
-        <updated>2026-11-17T19:58:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/86493327?v=4" width="64" height="64" alt=""/><br/><div>Self-contained Docker and Python runtime for StarSeg, DINOv3 Hydra, and GRU arm tracing</div>]]></content>
-        <author>
-            <name>weertman</name>
-            <email>weertman@noreply.github.com</email>
-            <uri>https://github.com/weertman</uri>
-        </author>
-        <published>2026-10-28T21:30:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ram21275/tesseract-pose-speedplus: Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features]]></title>
-        <id>https://github.com/Ram21275/tesseract-pose-speedplus</id>
-        <link href="https://github.com/Ram21275/tesseract-pose-speedplus"/>
-        <updated>2026-11-09T12:29:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108638916?v=4" width="64" height="64" alt=""/><br/><div>Hierarchical Tesseract SO(3) rotation estimation on SPEED+ with frozen DINOv3 and MoGe-2 features</div>]]></content>
-        <author>
-            <name>Ram21275</name>
-            <email>Ram21275@noreply.github.com</email>
-            <uri>https://github.com/Ram21275</uri>
-        </author>
-        <published>2026-10-08T17:33:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.]]></title>
-        <id>https://github.com/BASE-Laboratory/BraggTrack</id>
-        <link href="https://github.com/BASE-Laboratory/BraggTrack"/>
-        <updated>2026-05-18T08:51:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/255370388?v=4" width="64" height="64" alt=""/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>]]></content>
-        <author>
-            <name>BASE-Laboratory</name>
-            <email>BASE-Laboratory@noreply.github.com</email>
-            <uri>https://github.com/BASE-Laboratory</uri>
-        </author>
-        <published>2026-04-09T12:12:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ElikplimSunu/model-shop: Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.]]></title>
-        <id>https://github.com/ElikplimSunu/model-shop</id>
-        <link href="https://github.com/ElikplimSunu/model-shop"/>
-        <updated>2026-11-16T20:09:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42668840?u=976411f1a8ea0cb8fb241689648f6237b44ebb21&v=4" width="64" height="64" alt=""/><br/><div>Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.</div>]]></content>
-        <author>
-            <name>ElikplimSunu</name>
-            <email>ElikplimSunu@noreply.github.com</email>
-            <uri>https://github.com/ElikplimSunu</uri>
-        </author>
-        <published>2026-04-11T04:09:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth]]></title>
-        <id>https://github.com/1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth</id>
-        <link href="https://github.com/1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth"/>
-        <updated>2026-11-15T23:11:54.000Z</updated>
+        <title type="html"><![CDATA[1MD049-Contemporary-Methods-Course/HT2026_GroupA_DINOv3]]></title>
+        <id>https://github.com/1MD049-Contemporary-Methods-Course/HT2026_GroupA_DINOv3</id>
+        <link href="https://github.com/1MD049-Contemporary-Methods-Course/HT2026_GroupA_DINOv3"/>
+        <updated>2026-11-18T10:06:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241505715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>1MD049-Contemporary-Methods-Course</name>
             <email>1MD049-Contemporary-Methods-Course@noreply.github.com</email>
             <uri>https://github.com/1MD049-Contemporary-Methods-Course</uri>
         </author>
-        <published>2026-11-12T12:18:51.000Z</published>
+        <published>2026-11-18T10:05:29.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rmaphoh/RETFound: Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3]]></title>
-        <id>https://github.com/rmaphoh/RETFound</id>
-        <link href="https://github.com/rmaphoh/RETFound"/>
-        <updated>2026-11-13T20:44:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68285473?u=cd8d3b4e2adf755d26058fdfd3e855b7dcf5ce71&v=4" width="64" height="64" alt=""/><br/><div>Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3</div>]]></content>
+        <title type="html"><![CDATA[Mnlsvt/HT2026_GroupB_DINOv3]]></title>
+        <id>https://github.com/Mnlsvt/HT2026_GroupB_DINOv3</id>
+        <link href="https://github.com/Mnlsvt/HT2026_GroupB_DINOv3"/>
+        <updated>2026-11-18T22:13:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/72461719?u=e10610fe4c1bd8246a88595253686a5c964179ec&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>rmaphoh</name>
-            <email>rmaphoh@noreply.github.com</email>
-            <uri>https://github.com/rmaphoh</uri>
+            <name>Mnlsvt</name>
+            <email>Mnlsvt@noreply.github.com</email>
+            <uri>https://github.com/Mnlsvt</uri>
         </author>
-        <published>2023-01-30T23:38:40.000Z</published>
+        <published>2026-11-18T21:43:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nivedita87/epic-kitchens-dinov3]]></title>
-        <id>https://github.com/Nivedita87/epic-kitchens-dinov3</id>
-        <link href="https://github.com/Nivedita87/epic-kitchens-dinov3"/>
-        <updated>2026-11-18T05:59:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/184004128?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[sergiovillanueva/rgb-ensembles-industrial-uad: Late-fusion ensembles of unsupervised anomaly detectors on AutoVI, a real automotive inspection benchmark. Code of our Electronics 2026 paper.]]></title>
+        <id>https://github.com/sergiovillanueva/rgb-ensembles-industrial-uad</id>
+        <link href="https://github.com/sergiovillanueva/rgb-ensembles-industrial-uad"/>
+        <updated>2026-11-19T00:32:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26794578?u=8d7b58009748e8f556ca5fd8d9831fe1f54265c6&v=4" width="64" height="64" alt=""/><br/><div>Late-fusion ensembles of unsupervised anomaly detectors on AutoVI, a real automotive inspection benchmark. Code of our Electronics 2026 paper.</div>]]></content>
         <author>
-            <name>Nivedita87</name>
-            <email>Nivedita87@noreply.github.com</email>
-            <uri>https://github.com/Nivedita87</uri>
+            <name>sergiovillanueva</name>
+            <email>sergiovillanueva@noreply.github.com</email>
+            <uri>https://github.com/sergiovillanueva</uri>
         </author>
-        <published>2026-11-17T10:58:13.000Z</published>
+        <published>2026-03-04T11:29:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
-        <id>https://github.com/ganzijie1/dongzhou</id>
-        <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-11-12T16:23:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
+        <title type="html"><![CDATA[sergiovillanueva/pc-reg: Logical anomaly detection (missing or misplaced parts) with closed-form spatial regression on DINOv3 features. Code of our Electronics 2026 paper.]]></title>
+        <id>https://github.com/sergiovillanueva/pc-reg</id>
+        <link href="https://github.com/sergiovillanueva/pc-reg"/>
+        <updated>2026-11-18T21:52:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26794578?u=8d7b58009748e8f556ca5fd8d9831fe1f54265c6&v=4" width="64" height="64" alt=""/><br/><div>Logical anomaly detection (missing or misplaced parts) with closed-form spatial regression on DINOv3 features. Code of our Electronics 2026 paper.</div>]]></content>
         <author>
-            <name>ganzijie1</name>
-            <email>ganzijie1@noreply.github.com</email>
-            <uri>https://github.com/ganzijie1</uri>
+            <name>sergiovillanueva</name>
+            <email>sergiovillanueva@noreply.github.com</email>
+            <uri>https://github.com/sergiovillanueva</uri>
         </author>
-        <published>2026-08-13T05:30:19.000Z</published>
+        <published>2026-04-16T08:26:12.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MarcoMosconi/DINOv3_loopclosure]]></title>
-        <id>https://github.com/MarcoMosconi/DINOv3_loopclosure</id>
-        <link href="https://github.com/MarcoMosconi/DINOv3_loopclosure"/>
-        <updated>2026-11-17T13:46:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/128235447?u=6e988fbf65439f7c453819bbea4b560bcfe2e8f4&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[sergiovillanueva/patch-purification-fewshot: Training-free audit that flags defective images in the few-shot reference set of an inspection station. Code of our Electronics 2026 paper.]]></title>
+        <id>https://github.com/sergiovillanueva/patch-purification-fewshot</id>
+        <link href="https://github.com/sergiovillanueva/patch-purification-fewshot"/>
+        <updated>2026-11-18T21:52:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26794578?u=8d7b58009748e8f556ca5fd8d9831fe1f54265c6&v=4" width="64" height="64" alt=""/><br/><div>Training-free audit that flags defective images in the few-shot reference set of an inspection station. Code of our Electronics 2026 paper.</div>]]></content>
         <author>
-            <name>MarcoMosconi</name>
-            <email>MarcoMosconi@noreply.github.com</email>
-            <uri>https://github.com/MarcoMosconi</uri>
+            <name>sergiovillanueva</name>
+            <email>sergiovillanueva@noreply.github.com</email>
+            <uri>https://github.com/sergiovillanueva</uri>
         </author>
-        <published>2026-11-17T09:38:42.000Z</published>
+        <published>2026-04-01T08:09:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[riyadhHDA/pixplot-v2: Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.]]></title>
-        <id>https://github.com/riyadhHDA/pixplot-v2</id>
-        <link href="https://github.com/riyadhHDA/pixplot-v2"/>
-        <updated>2026-11-16T22:06:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25872060?u=dfbd2539626cbf40142d7ff1be7eb997e1f6d93e&v=4" width="64" height="64" alt=""/><br/><div>Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.</div>]]></content>
+        <title type="html"><![CDATA[sergiovillanueva/memory-pollution-ad: Why shared memory banks fail in multi-product anomaly detection, and a training-free router that fixes it. Code of our MAKE 2026 paper.]]></title>
+        <id>https://github.com/sergiovillanueva/memory-pollution-ad</id>
+        <link href="https://github.com/sergiovillanueva/memory-pollution-ad"/>
+        <updated>2026-11-18T21:52:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26794578?u=8d7b58009748e8f556ca5fd8d9831fe1f54265c6&v=4" width="64" height="64" alt=""/><br/><div>Why shared memory banks fail in multi-product anomaly detection, and a training-free router that fixes it. Code of our MAKE 2026 paper.</div>]]></content>
         <author>
-            <name>riyadhHDA</name>
-            <email>riyadhHDA@noreply.github.com</email>
-            <uri>https://github.com/riyadhHDA</uri>
+            <name>sergiovillanueva</name>
+            <email>sergiovillanueva@noreply.github.com</email>
+            <uri>https://github.com/sergiovillanueva</uri>
         </author>
-        <published>2026-11-15T19:48:41.000Z</published>
+        <published>2026-04-01T09:37:32.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vedikagarwal/VPTmed-DINOv3-Powered-Spatial-Reasoning-for-Vision-Language-Models-in-Medical-Imaging: This project was was done as a group of 3 members in the VLM class at Georgia Tech]]></title>
-        <id>https://github.com/vedikagarwal/VPTmed-DINOv3-Powered-Spatial-Reasoning-for-Vision-Language-Models-in-Medical-Imaging</id>
-        <link href="https://github.com/vedikagarwal/VPTmed-DINOv3-Powered-Spatial-Reasoning-for-Vision-Language-Models-in-Medical-Imaging"/>
-        <updated>2026-11-18T05:59:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66936412?u=c177a97e05dfb96e1b6595822aebf809a2ce3e91&v=4" width="64" height="64" alt=""/><br/><div>This project was was done as a group of 3 members in the VLM class at Georgia Tech</div>]]></content>
+        <title type="html"><![CDATA[sergiovillanueva/GaLAD_Gaussian_layered_AD: Few-shot industrial anomaly detection and localization from 1 to 5 good images, with compact Gaussian mixtures on DINOv3 features.]]></title>
+        <id>https://github.com/sergiovillanueva/GaLAD_Gaussian_layered_AD</id>
+        <link href="https://github.com/sergiovillanueva/GaLAD_Gaussian_layered_AD"/>
+        <updated>2026-11-18T21:52:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26794578?u=8d7b58009748e8f556ca5fd8d9831fe1f54265c6&v=4" width="64" height="64" alt=""/><br/><div>Few-shot industrial anomaly detection and localization from 1 to 5 good images, with compact Gaussian mixtures on DINOv3 features.</div>]]></content>
         <author>
-            <name>vedikagarwal</name>
-            <email>vedikagarwal@noreply.github.com</email>
-            <uri>https://github.com/vedikagarwal</uri>
+            <name>sergiovillanueva</name>
+            <email>sergiovillanueva@noreply.github.com</email>
+            <uri>https://github.com/sergiovillanueva</uri>
         </author>
-        <published>2026-11-17T13:46:54.000Z</published>
+        <published>2026-03-04T11:52:07.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.]]></title>
         <id>https://github.com/alifarzadjamali/fashion-compatibility-benchmark</id>
         <link href="https://github.com/alifarzadjamali/fashion-compatibility-benchmark"/>
-        <updated>2026-10-28T21:47:57.000Z</updated>
+        <updated>2026-11-18T19:35:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225652879?u=3a02a9c787f4c670e4790b532e5e013268374a11&v=4" width="64" height="64" alt=""/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>]]></content>
         <author>
             <name>alifarzadjamali</name>
@@ -175,71 +149,6 @@
             <uri>https://github.com/alifarzadjamali</uri>
         </author>
         <published>2026-03-25T17:20:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oilst/dinov3-mlx]]></title>
-        <id>https://github.com/oilst/dinov3-mlx</id>
-        <link href="https://github.com/oilst/dinov3-mlx"/>
-        <updated>2026-11-14T16:35:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9141898?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>oilst</name>
-            <email>oilst@noreply.github.com</email>
-            <uri>https://github.com/oilst</uri>
-        </author>
-        <published>2026-11-09T22:49:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R2Squared/KERAFound: KERAFound: DINOv3 and MAE foundation models for corneal and anterior segment imaging (ViT-L/16) - weights, linear probing and fine-tuning]]></title>
-        <id>https://github.com/R2Squared/KERAFound</id>
-        <link href="https://github.com/R2Squared/KERAFound"/>
-        <updated>2026-11-17T20:18:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/142091446?v=4" width="64" height="64" alt=""/><br/><div>KERAFound: DINOv3 and MAE foundation models for corneal and anterior segment imaging (ViT-L/16) - weights, linear probing and fine-tuning</div>]]></content>
-        <author>
-            <name>R2Squared</name>
-            <email>R2Squared@noreply.github.com</email>
-            <uri>https://github.com/R2Squared</uri>
-        </author>
-        <published>2026-11-17T12:17:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JZhao12/cnosv2: CAD-based Novel Object Segmentation with SAM2 + DINOv3]]></title>
-        <id>https://github.com/JZhao12/cnosv2</id>
-        <link href="https://github.com/JZhao12/cnosv2"/>
-        <updated>2026-11-17T03:31:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43590151?v=4" width="64" height="64" alt=""/><br/><div>CAD-based Novel Object Segmentation with SAM2 + DINOv3</div>]]></content>
-        <author>
-            <name>JZhao12</name>
-            <email>JZhao12@noreply.github.com</email>
-            <uri>https://github.com/JZhao12</uri>
-        </author>
-        <published>2026-11-03T12:28:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pengzhan-debug/visualad_dinov3]]></title>
-        <id>https://github.com/Pengzhan-debug/visualad_dinov3</id>
-        <link href="https://github.com/Pengzhan-debug/visualad_dinov3"/>
-        <updated>2026-11-17T13:46:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/171913593?u=f10c997166113ce6be10b99827957bbfe827bd2e&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Pengzhan-debug</name>
-            <email>Pengzhan-debug@noreply.github.com</email>
-            <uri>https://github.com/Pengzhan-debug</uri>
-        </author>
-        <published>2026-11-17T07:50:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[telfahshorouq377-ship-it/DINO-DiffReg: DINOv3-guided weakly supervised diffusion registration for multimodal medical images.]]></title>
-        <id>https://github.com/telfahshorouq377-ship-it/DINO-DiffReg</id>
-        <link href="https://github.com/telfahshorouq377-ship-it/DINO-DiffReg"/>
-        <updated>2026-11-17T07:18:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/355290726?v=4" width="64" height="64" alt=""/><br/><div>DINOv3-guided weakly supervised diffusion registration for multimodal medical images.</div>]]></content>
-        <author>
-            <name>telfahshorouq377-ship-it</name>
-            <email>telfahshorouq377-ship-it@noreply.github.com</email>
-            <uri>https://github.com/telfahshorouq377-ship-it</uri>
-        </author>
-        <published>2026-11-17T07:18:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
@@ -255,16 +164,107 @@
         <published>2025-12-19T00:23:18.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup]]></title>
-        <id>https://github.com/kleinicke/fastforks</id>
-        <link href="https://github.com/kleinicke/fastforks"/>
-        <updated>2026-11-17T09:07:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4" width="64" height="64" alt=""/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>]]></content>
+        <title type="html"><![CDATA[iakshatkaushik/few-shot-anomaly-views: Few-shot visual anomaly detection: augmented views as nearest-neighbour memory vs. contrastive training, on frozen DINOv2/DINOv3 features.]]></title>
+        <id>https://github.com/iakshatkaushik/few-shot-anomaly-views</id>
+        <link href="https://github.com/iakshatkaushik/few-shot-anomaly-views"/>
+        <updated>2026-11-18T13:26:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180082546?v=4" width="64" height="64" alt=""/><br/><div>Few-shot visual anomaly detection: augmented views as nearest-neighbour memory vs. contrastive training, on frozen DINOv2/DINOv3 features.</div>]]></content>
         <author>
-            <name>kleinicke</name>
-            <email>kleinicke@noreply.github.com</email>
-            <uri>https://github.com/kleinicke</uri>
+            <name>iakshatkaushik</name>
+            <email>iakshatkaushik@noreply.github.com</email>
+            <uri>https://github.com/iakshatkaushik</uri>
         </author>
-        <published>2026-11-03T17:21:42.000Z</published>
+        <published>2026-11-18T08:47:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1MD049-Contemporary-Methods-Course/HT2026_GroupD_DINOv3]]></title>
+        <id>https://github.com/1MD049-Contemporary-Methods-Course/HT2026_GroupD_DINOv3</id>
+        <link href="https://github.com/1MD049-Contemporary-Methods-Course/HT2026_GroupD_DINOv3"/>
+        <updated>2026-11-18T12:34:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/241505715?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>1MD049-Contemporary-Methods-Course</name>
+            <email>1MD049-Contemporary-Methods-Course@noreply.github.com</email>
+            <uri>https://github.com/1MD049-Contemporary-Methods-Course</uri>
+        </author>
+        <published>2026-11-18T12:34:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MarcoMosconi/DINOv3_loopclosure]]></title>
+        <id>https://github.com/MarcoMosconi/DINOv3_loopclosure</id>
+        <link href="https://github.com/MarcoMosconi/DINOv3_loopclosure"/>
+        <updated>2026-11-17T13:46:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/128235447?u=6e988fbf65439f7c453819bbea4b560bcfe2e8f4&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>MarcoMosconi</name>
+            <email>MarcoMosconi@noreply.github.com</email>
+            <uri>https://github.com/MarcoMosconi</uri>
+        </author>
+        <published>2026-11-17T09:38:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
+        <id>https://github.com/ganzijie1/dongzhou</id>
+        <link href="https://github.com/ganzijie1/dongzhou"/>
+        <updated>2026-11-12T16:23:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
+        <author>
+            <name>ganzijie1</name>
+            <email>ganzijie1@noreply.github.com</email>
+            <uri>https://github.com/ganzijie1</uri>
+        </author>
+        <published>2026-08-13T05:30:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonam525/FarmSAM: Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).]]></title>
+        <id>https://github.com/Sonam525/FarmSAM</id>
+        <link href="https://github.com/Sonam525/FarmSAM"/>
+        <updated>2026-11-16T16:11:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/149631650?u=f3c37eed93aa20ed0f7b8f11833db0043b1ae9a2&v=4" width="64" height="64" alt=""/><br/><div>Efficient longitudinal animal-behaviour analysis via SAM3 distillation and DINOv3-Tiny (research / paper code).</div>]]></content>
+        <author>
+            <name>Sonam525</name>
+            <email>Sonam525@noreply.github.com</email>
+            <uri>https://github.com/Sonam525</uri>
+        </author>
+        <published>2026-06-08T19:31:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[talhabw/agentseg: an agentic annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)]]></title>
+        <id>https://github.com/talhabw/agentseg</id>
+        <link href="https://github.com/talhabw/agentseg"/>
+        <updated>2026-11-18T11:58:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56639619?u=5f5d4bc4bfd8fe2690d386e30283e139cbfa7d55&v=4" width="64" height="64" alt=""/><br/><div>an agentic annotation tool for segmentation models, with SAM3 integration and automatic propagation using image encoder models (DINOv3 and Pixio)</div>]]></content>
+        <author>
+            <name>talhabw</name>
+            <email>talhabw@noreply.github.com</email>
+            <uri>https://github.com/talhabw</uri>
+        </author>
+        <published>2025-12-27T19:05:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.]]></title>
+        <id>https://github.com/BASE-Laboratory/BraggTrack</id>
+        <link href="https://github.com/BASE-Laboratory/BraggTrack"/>
+        <updated>2026-05-18T08:51:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/255370388?v=4" width="64" height="64" alt=""/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>]]></content>
+        <author>
+            <name>BASE-Laboratory</name>
+            <email>BASE-Laboratory@noreply.github.com</email>
+            <uri>https://github.com/BASE-Laboratory</uri>
+        </author>
+        <published>2026-04-09T12:12:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[riyadhHDA/pixplot-v2: Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.]]></title>
+        <id>https://github.com/riyadhHDA/pixplot-v2</id>
+        <link href="https://github.com/riyadhHDA/pixplot-v2"/>
+        <updated>2026-11-16T22:06:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25872060?u=dfbd2539626cbf40142d7ff1be7eb997e1f6d93e&v=4" width="64" height="64" alt=""/><br/><div>Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.</div>]]></content>
+        <author>
+            <name>riyadhHDA</name>
+            <email>riyadhHDA@noreply.github.com</email>
+            <uri>https://github.com/riyadhHDA</uri>
+        </author>
+        <published>2026-11-15T19:48:41.000Z</published>
     </entry>
 </feed>
