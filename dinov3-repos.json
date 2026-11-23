@@ -17,58 +17,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105249745?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nuReasoning Challenge 2026 (NeurIPS): reasoning track + combined entry, 7th of 58. Routed MCQ ensemble (GBDT, Qwen-Drive LoRA, SAM 2.1 tracker, DINOv3).</div>",
-            "url": "https://github.com/amanupg/nureasoning-reasoning-2026",
-            "title": "amanupg/nureasoning-reasoning-2026: nuReasoning Challenge 2026 (NeurIPS): reasoning track + combined entry, 7th of 58. Routed MCQ ensemble (GBDT, Qwen-Drive LoRA, SAM 2.1 tracker, DINOv3).",
-            "date_modified": "2026-11-22T04:38:11.000Z",
-            "date_published": "2026-11-22T03:03:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183895585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)</div>",
+            "url": "https://github.com/nuummm/csiro-image2biomass",
+            "title": "nuummm/csiro-image2biomass: Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)",
+            "date_modified": "2026-11-09T01:27:54.000Z",
+            "date_published": "2026-11-09T01:21:51.000Z",
             "author": {
-                "name": "amanupg",
-                "url": "https://github.com/amanupg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42668840?u=976411f1a8ea0cb8fb241689648f6237b44ebb21&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.</div>",
-            "url": "https://github.com/ElikplimSunu/model-shop",
-            "title": "ElikplimSunu/model-shop: Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.",
-            "date_modified": "2026-11-16T20:09:31.000Z",
-            "date_published": "2026-04-11T04:09:55.000Z",
-            "author": {
-                "name": "ElikplimSunu",
-                "url": "https://github.com/ElikplimSunu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/268790335?u=aef97f80136e77756495c4e07be56a80195bb9c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.</div>",
-            "url": "https://github.com/wangsiyu3757-wq/nba-foul-evidence",
-            "title": "wangsiyu3757-wq/nba-foul-evidence: Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.",
-            "date_modified": "2026-11-22T00:04:10.000Z",
-            "date_published": "2026-11-21T23:44:25.000Z",
-            "author": {
-                "name": "wangsiyu3757-wq",
-                "url": "https://github.com/wangsiyu3757-wq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241505715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth",
-            "title": "1MD049-Contemporary-Methods-Course/HT2026_DINOv3_LuSNAR_SegDepth",
-            "date_modified": "2026-11-15T23:11:54.000Z",
-            "date_published": "2026-11-12T12:18:51.000Z",
-            "author": {
-                "name": "1MD049-Contemporary-Methods-Course",
-                "url": "https://github.com/1MD049-Contemporary-Methods-Course"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174132651?u=e4330b29af182b554eb208668446c57822662b3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Resolution-preserving rice leaf disease recognition: tiles at a common leaf scale, frozen DINOv3 features, attention MIL, with a leakage-safe evaluation protocol.</div>",
-            "url": "https://github.com/mirza-ahsan/ricetein",
-            "title": "mirza-ahsan/ricetein: Resolution-preserving rice leaf disease recognition: tiles at a common leaf scale, frozen DINOv3 features, attention MIL, with a leakage-safe evaluation protocol.",
-            "date_modified": "2026-11-21T21:50:25.000Z",
-            "date_published": "2026-09-25T15:53:53.000Z",
-            "author": {
-                "name": "mirza-ahsan",
-                "url": "https://github.com/mirza-ahsan"
+                "name": "nuummm",
+                "url": "https://github.com/nuummm"
             }
         },
         {
@@ -83,124 +39,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6354180?u=957272d4ff8a16eca5bf9e069ade3101af4ebffd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Search Mars CTX imagery of Jezero Crater by example with DINOv3 embeddings, in the browser</div>",
-            "url": "https://github.com/hannah-rae/mars-analog",
-            "title": "hannah-rae/mars-analog: Search Mars CTX imagery of Jezero Crater by example with DINOv3 embeddings, in the browser",
-            "date_modified": "2026-11-20T23:18:38.000Z",
-            "date_published": "2026-11-20T23:18:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
+            "url": "https://github.com/SomethingObvious/jwst-peculiar",
+            "title": "SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
+            "date_modified": "2026-11-21T19:32:56.000Z",
+            "date_published": "2026-01-03T07:48:06.000Z",
             "author": {
-                "name": "hannah-rae",
-                "url": "https://github.com/hannah-rae"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9141898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/oilst/dinov3-mlx",
-            "title": "oilst/dinov3-mlx",
-            "date_modified": "2026-11-14T16:35:53.000Z",
-            "date_published": "2026-11-09T22:49:54.000Z",
-            "author": {
-                "name": "oilst",
-                "url": "https://github.com/oilst"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136064036?u=61ea7b388203d8caa1bc820175a092444e565678&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered Indonesian batik classification using DINOv3 and FAISS similarity search.</div>",
-            "url": "https://github.com/njrilh/Batikara",
-            "title": "njrilh/Batikara: AI-powered Indonesian batik classification using DINOv3 and FAISS similarity search.",
-            "date_modified": "2026-11-21T14:18:31.000Z",
-            "date_published": "2026-11-21T14:12:02.000Z",
-            "author": {
-                "name": "njrilh",
-                "url": "https://github.com/njrilh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.</div>",
-            "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation",
-            "title": "PINTO0309/High-Angle_Robust_Fast_Head_Pose_Estimation: HFHPE: High-Angle Robust Fast Head Pose Estimation. One-pass yaw/pitch/roll head pose (biternion cos/sin + von Mises κ) distilled from a DINOv3 teacher into compact 64px students, robust to extreme angles and heavy occlusion.",
-            "date_modified": "2026-11-21T17:39:19.000Z",
-            "date_published": "2026-09-12T23:00:51.000Z",
-            "author": {
-                "name": "PINTO0309",
-                "url": "https://github.com/PINTO0309"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100008401?u=f1d37dd4d16c979ccdb48fc74cb922d93a340332&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Alligayy/DinoV3",
-            "title": "Alligayy/DinoV3",
-            "date_modified": "2026-11-21T12:07:15.000Z",
-            "date_published": "2026-11-21T12:06:54.000Z",
-            "author": {
-                "name": "Alligayy",
-                "url": "https://github.com/Alligayy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 with burn &amp; Rust</div>",
-            "url": "https://github.com/kingwingfly/burn_dinov3",
-            "title": "kingwingfly/burn_dinov3: DINOv3 with burn & Rust",
-            "date_modified": "2026-05-16T19:23:08.000Z",
-            "date_published": "2026-05-15T18:24:57.000Z",
-            "author": {
-                "name": "kingwingfly",
-                "url": "https://github.com/kingwingfly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
-            "url": "https://github.com/little51/dinov3-course",
-            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-11-21T04:19:37.000Z",
-            "date_published": "2026-05-03T12:40:56.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190471877?u=4bed6001c7fba42c1d33cf82997cd7eb22607272&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Meteorite image classification with DINOv3, surface texture descriptors and ConvNeXtV2. Stage 2 private-test F1: 0.86046.</div>",
-            "url": "https://github.com/LAnthonyJ/LithoLens",
-            "title": "LAnthonyJ/LithoLens: Meteorite image classification with DINOv3, surface texture descriptors and ConvNeXtV2. Stage 2 private-test F1: 0.86046.",
-            "date_modified": "2026-11-21T07:47:37.000Z",
-            "date_published": "2026-06-07T13:29:47.000Z",
-            "author": {
-                "name": "LAnthonyJ",
-                "url": "https://github.com/LAnthonyJ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>",
-            "url": "https://github.com/Trudes808/Dinov3-WhaleID",
-            "title": "Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task",
-            "date_modified": "2026-10-23T14:21:46.000Z",
-            "date_published": "2025-12-19T00:23:18.000Z",
-            "author": {
-                "name": "Trudes808",
-                "url": "https://github.com/Trudes808"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).</div>",
-            "url": "https://github.com/wlejon/brovisionml",
-            "title": "wlejon/brovisionml: Pure C++20 vision-model inference on brotensor from Hugging Face safetensors: SAM segmentation, depth, normals, matting, DINOv3, and ControlNet annotators (OpenPose, HED, lineart, MLSD).",
-            "date_modified": "2026-11-09T05:04:41.000Z",
-            "date_published": "2026-05-31T17:50:51.000Z",
-            "author": {
-                "name": "wlejon",
-                "url": "https://github.com/wlejon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255370388?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>",
-            "url": "https://github.com/BASE-Laboratory/BraggTrack",
-            "title": "BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.",
-            "date_modified": "2026-11-21T21:24:07.000Z",
-            "date_published": "2026-04-09T12:12:24.000Z",
-            "author": {
-                "name": "BASE-Laboratory",
-                "url": "https://github.com/BASE-Laboratory"
+                "name": "SomethingObvious",
+                "url": "https://github.com/SomethingObvious"
             }
         },
         {
@@ -215,14 +61,168 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47250693?u=02d34bb93bf880af6fcc58dde893c92c934420ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DinoDreamer: cellular automata trained on DINOv3. Train and watch them in your browser with WebGPU.</div>",
-            "url": "https://github.com/hammamiomar/dinodreamer",
-            "title": "hammamiomar/dinodreamer: DinoDreamer: cellular automata trained on DINOv3. Train and watch them in your browser with WebGPU.",
-            "date_modified": "2026-11-19T22:44:07.000Z",
-            "date_published": "2026-10-30T00:15:24.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241505715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/1MD049-Contemporary-Methods-Course/HT2026_GroupD_DINOv3",
+            "title": "1MD049-Contemporary-Methods-Course/HT2026_GroupD_DINOv3",
+            "date_modified": "2026-11-22T19:42:27.000Z",
+            "date_published": "2026-11-18T12:34:42.000Z",
             "author": {
-                "name": "hammamiomar",
-                "url": "https://github.com/hammamiomar"
+                "name": "1MD049-Contemporary-Methods-Course",
+                "url": "https://github.com/1MD049-Contemporary-Methods-Course"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21247761?u=09f087e1f0efde91aeef5809d41ea15c7ab7d786&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Real-time monocular 3D object distance estimation combining frozen DINOv3 depth decoders and YOLO11 with pinhole camera back-projection (~30 FPS on Apple Silicon (CPU+MPS)), plus NYU Depth v2 benchmarks against DINOv2 and Depth Anything 3.</div>",
+            "url": "https://github.com/fahimrayhan/dinov3-3d-distance-estimation",
+            "title": "fahimrayhan/dinov3-3d-distance-estimation: Real-time monocular 3D object distance estimation combining frozen DINOv3 depth decoders and YOLO11 with pinhole camera back-projection (~30 FPS on Apple Silicon (CPU+MPS)), plus NYU Depth v2 benchmarks against DINOv2 and Depth Anything 3.",
+            "date_modified": "2026-11-22T21:09:28.000Z",
+            "date_published": "2026-11-22T20:45:42.000Z",
+            "author": {
+                "name": "fahimrayhan",
+                "url": "https://github.com/fahimrayhan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255370388?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>",
+            "url": "https://github.com/BASE-Laboratory/BraggTrack",
+            "title": "BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.",
+            "date_modified": "2026-11-21T21:24:07.000Z",
+            "date_published": "2026-04-09T12:12:24.000Z",
+            "author": {
+                "name": "BASE-Laboratory",
+                "url": "https://github.com/BASE-Laboratory"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
+            "url": "https://github.com/Pbatch/ChessCam",
+            "title": "Pbatch/ChessCam: Record a chess game live and upload the PGN to Lichess",
+            "date_modified": "2026-11-22T11:58:00.000Z",
+            "date_published": "2023-06-28T23:07:09.000Z",
+            "author": {
+                "name": "Pbatch",
+                "url": "https://github.com/Pbatch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>",
+            "url": "https://github.com/Trudes808/Dinov3-WhaleID",
+            "title": "Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task",
+            "date_modified": "2026-10-23T14:21:46.000Z",
+            "date_published": "2025-12-19T00:23:18.000Z",
+            "author": {
+                "name": "Trudes808",
+                "url": "https://github.com/Trudes808"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.</div>",
+            "url": "https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers",
+            "title": "BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.",
+            "date_modified": "2026-11-06T23:56:17.000Z",
+            "date_published": "2026-10-27T00:30:50.000Z",
+            "author": {
+                "name": "BurnyCoder",
+                "url": "https://github.com/BurnyCoder"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72461719?u=e10610fe4c1bd8246a88595253686a5c964179ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Mnlsvt/HT2026_GroupB_DINOv3",
+            "title": "Mnlsvt/HT2026_GroupB_DINOv3",
+            "date_modified": "2026-11-21T21:12:36.000Z",
+            "date_published": "2026-11-18T21:43:17.000Z",
+            "author": {
+                "name": "Mnlsvt",
+                "url": "https://github.com/Mnlsvt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9141898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/oilst/dinov3-mlx",
+            "title": "oilst/dinov3-mlx",
+            "date_modified": "2026-11-14T16:35:53.000Z",
+            "date_published": "2026-11-09T22:49:54.000Z",
+            "author": {
+                "name": "oilst",
+                "url": "https://github.com/oilst"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215951859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.</div>",
+            "url": "https://github.com/flyaurelien/kinesia",
+            "title": "flyaurelien/kinesia: Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.",
+            "date_modified": "2026-11-20T20:02:18.000Z",
+            "date_published": "2026-10-08T12:38:06.000Z",
+            "author": {
+                "name": "flyaurelien",
+                "url": "https://github.com/flyaurelien"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42668840?u=976411f1a8ea0cb8fb241689648f6237b44ebb21&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.</div>",
+            "url": "https://github.com/ElikplimSunu/model-shop",
+            "title": "ElikplimSunu/model-shop: Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.",
+            "date_modified": "2026-11-16T20:09:31.000Z",
+            "date_published": "2026-04-11T04:09:55.000Z",
+            "author": {
+                "name": "ElikplimSunu",
+                "url": "https://github.com/ElikplimSunu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
+            "url": "https://github.com/little51/dinov3-course",
+            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
+            "date_modified": "2026-11-21T04:19:37.000Z",
+            "date_published": "2026-05-03T12:40:56.000Z",
+            "author": {
+                "name": "little51",
+                "url": "https://github.com/little51"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/189723928?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Amplified Gram Anchoring: Selectively Strengthening Patch Relationships for Dense Visual Representations </div>",
+            "url": "https://github.com/siinwook/Amplified-Gram-Anchoring",
+            "title": "siinwook/Amplified-Gram-Anchoring: Amplified Gram Anchoring: Selectively Strengthening Patch Relationships for Dense Visual Representations ",
+            "date_modified": "2026-11-22T11:33:32.000Z",
+            "date_published": "2026-11-22T08:05:17.000Z",
+            "author": {
+                "name": "siinwook",
+                "url": "https://github.com/siinwook"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>",
+            "url": "https://github.com/kleinicke/fastforks",
+            "title": "kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup",
+            "date_modified": "2026-11-22T09:59:27.000Z",
+            "date_published": "2026-11-03T17:21:42.000Z",
+            "author": {
+                "name": "kleinicke",
+                "url": "https://github.com/kleinicke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105249745?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nuReasoning Challenge 2026 (NeurIPS): reasoning track + combined entry, 7th of 58. Routed MCQ ensemble (GBDT, Qwen-Drive LoRA, SAM 2.1 tracker, DINOv3).</div>",
+            "url": "https://github.com/amanupg/nureasoning-reasoning-2026",
+            "title": "amanupg/nureasoning-reasoning-2026: nuReasoning Challenge 2026 (NeurIPS): reasoning track + combined entry, 7th of 58. Routed MCQ ensemble (GBDT, Qwen-Drive LoRA, SAM 2.1 tracker, DINOv3).",
+            "date_modified": "2026-11-22T04:38:11.000Z",
+            "date_published": "2026-11-22T03:03:44.000Z",
+            "author": {
+                "name": "amanupg",
+                "url": "https://github.com/amanupg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/268790335?u=aef97f80136e77756495c4e07be56a80195bb9c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.</div>",
+            "url": "https://github.com/wangsiyu3757-wq/nba-foul-evidence",
+            "title": "wangsiyu3757-wq/nba-foul-evidence: Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.",
+            "date_modified": "2026-11-22T00:04:10.000Z",
+            "date_published": "2026-11-21T23:44:25.000Z",
+            "author": {
+                "name": "wangsiyu3757-wq",
+                "url": "https://github.com/wangsiyu3757-wq"
             }
         }
     ]
