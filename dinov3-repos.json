@@ -6,36 +6,14 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
-            "url": "https://github.com/tomgrizz/ganaraska-live",
-            "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
-            "date_modified": "2026-11-12T16:19:45.000Z",
-            "date_published": "2026-08-25T14:33:27.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
+            "url": "https://github.com/ganzijie1/dongzhou",
+            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
+            "date_modified": "2026-11-12T16:23:33.000Z",
+            "date_published": "2026-08-13T05:30:19.000Z",
             "author": {
-                "name": "tomgrizz",
-                "url": "https://github.com/tomgrizz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183895585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)</div>",
-            "url": "https://github.com/nuummm/csiro-image2biomass",
-            "title": "nuummm/csiro-image2biomass: Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)",
-            "date_modified": "2026-11-09T01:27:54.000Z",
-            "date_published": "2026-11-09T01:21:51.000Z",
-            "author": {
-                "name": "nuummm",
-                "url": "https://github.com/nuummm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
-            "url": "https://github.com/kingwingfly/lets_embed",
-            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
-            "date_modified": "2026-11-21T03:06:43.000Z",
-            "date_published": "2026-05-17T07:13:23.000Z",
-            "author": {
-                "name": "kingwingfly",
-                "url": "https://github.com/kingwingfly"
+                "name": "ganzijie1",
+                "url": "https://github.com/ganzijie1"
             }
         },
         {
@@ -50,14 +28,124 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183753918?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Replication of \"“Show Me!” The Informativeness of images in firms’ annual reports\" using SigLIP and DINOv3 to classify visuals in corporate annual reports, with statistical analysis in Stata.</div>",
-            "url": "https://github.com/XXBO0011/show-me-replication",
-            "title": "XXBO0011/show-me-replication: Replication of \"“Show Me!” The Informativeness of images in firms’ annual reports\" using SigLIP and DINOv3 to classify visuals in corporate annual reports, with statistical analysis in Stata.",
-            "date_modified": "2026-11-21T23:43:19.000Z",
-            "date_published": "2026-11-20T20:29:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
+            "url": "https://github.com/tomgrizz/ganaraska-live",
+            "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
+            "date_modified": "2026-11-12T16:19:45.000Z",
+            "date_published": "2026-08-25T14:33:27.000Z",
             "author": {
-                "name": "XXBO0011",
-                "url": "https://github.com/XXBO0011"
+                "name": "tomgrizz",
+                "url": "https://github.com/tomgrizz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/268790335?u=aef97f80136e77756495c4e07be56a80195bb9c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.</div>",
+            "url": "https://github.com/wangsiyu3757-wq/nba-foul-evidence",
+            "title": "wangsiyu3757-wq/nba-foul-evidence: Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.",
+            "date_modified": "2026-11-24T05:56:57.000Z",
+            "date_published": "2026-11-21T23:44:25.000Z",
+            "author": {
+                "name": "wangsiyu3757-wq",
+                "url": "https://github.com/wangsiyu3757-wq"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/360487894?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explainable dual-stream hybrid (ConvNeXt V2 + DINOv3) for patient-disjoint cerebral venous sinus thrombosis (CVST) screening from bilateral retinal fundus images.</div>",
+            "url": "https://github.com/rivrtpolyu/cvst-fundus-hybrid",
+            "title": "rivrtpolyu/cvst-fundus-hybrid: Explainable dual-stream hybrid (ConvNeXt V2 + DINOv3) for patient-disjoint cerebral venous sinus thrombosis (CVST) screening from bilateral retinal fundus images.",
+            "date_modified": "2026-11-24T02:04:40.000Z",
+            "date_published": "2026-11-24T02:04:38.000Z",
+            "author": {
+                "name": "rivrtpolyu",
+                "url": "https://github.com/rivrtpolyu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94043316?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of Pairwise Bottleneck Connectivity Loss (PBCL) for Structurally Separable Raft-Aquaculture Mapping — standalone PyTorch loss, 11-loss same-carrier benchmarks, 8-architecture factorials, splits, and verified results.</div>",
+            "url": "https://github.com/XT-Zang/PBCL",
+            "title": "XT-Zang/PBCL: Official implementation of Pairwise Bottleneck Connectivity Loss (PBCL) for Structurally Separable Raft-Aquaculture Mapping — standalone PyTorch loss, 11-loss same-carrier benchmarks, 8-architecture factorials, splits, and verified results.",
+            "date_modified": "2026-11-24T06:39:07.000Z",
+            "date_published": "2026-09-04T08:45:19.000Z",
+            "author": {
+                "name": "XT-Zang",
+                "url": "https://github.com/XT-Zang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>",
+            "url": "https://github.com/kingwingfly/lets_embed",
+            "title": "kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.",
+            "date_modified": "2026-11-21T03:06:43.000Z",
+            "date_published": "2026-05-17T07:13:23.000Z",
+            "author": {
+                "name": "kingwingfly",
+                "url": "https://github.com/kingwingfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168586945?u=98c655e4d8d81842d01598af85d6883d7706764e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Segmentación de Titanes Puros vs Humanos a 1080p: DinoSeg (DINOv3 + rama conv) exportado a ONNX, 88.10 % FG mIoU</div>",
+            "url": "https://github.com/samanthaMora/aot-segmentation",
+            "title": "samanthaMora/aot-segmentation: Segmentación de Titanes Puros vs Humanos a 1080p: DinoSeg (DINOv3 + rama conv) exportado a ONNX, 88.10 % FG mIoU",
+            "date_modified": "2026-11-24T01:29:46.000Z",
+            "date_published": "2026-11-24T01:29:36.000Z",
+            "author": {
+                "name": "samanthaMora",
+                "url": "https://github.com/samanthaMora"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241505715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/1MD049-Contemporary-Methods-Course/HT2026_GroupB_DINOv3",
+            "title": "1MD049-Contemporary-Methods-Course/HT2026_GroupB_DINOv3",
+            "date_modified": "2026-11-23T23:30:19.000Z",
+            "date_published": "2026-11-18T21:43:17.000Z",
+            "author": {
+                "name": "1MD049-Contemporary-Methods-Course",
+                "url": "https://github.com/1MD049-Contemporary-Methods-Course"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=3a02a9c787f4c670e4790b532e5e013268374a11&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
+            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
+            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
+            "date_modified": "2026-11-18T19:35:51.000Z",
+            "date_published": "2026-03-25T17:20:53.000Z",
+            "author": {
+                "name": "alifarzadjamali",
+                "url": "https://github.com/alifarzadjamali"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207490526?u=c75be35bb7d7c69d904e6bfb89f5206e954152f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Project Kecerdasan Buatan Kelompok 5 (TAP-1): generalisasi lintas negara DINOv3 untuk deteksi penyakit dan estimasi keparahan daun kopi, benchmark multi-dataset.</div>",
+            "url": "https://github.com/Stevens2606/coffee-leaf-dinov3-benchmark",
+            "title": "Stevens2606/coffee-leaf-dinov3-benchmark: Project Kecerdasan Buatan Kelompok 5 (TAP-1): generalisasi lintas negara DINOv3 untuk deteksi penyakit dan estimasi keparahan daun kopi, benchmark multi-dataset.",
+            "date_modified": "2026-11-24T02:38:57.000Z",
+            "date_published": "2026-11-10T02:34:55.000Z",
+            "author": {
+                "name": "Stevens2606",
+                "url": "https://github.com/Stevens2606"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25872060?u=dfbd2539626cbf40142d7ff1be7eb997e1f6d93e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.</div>",
+            "url": "https://github.com/riyadhHDA/pixplot-v2",
+            "title": "riyadhHDA/pixplot-v2: Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.",
+            "date_modified": "2026-11-21T20:41:10.000Z",
+            "date_published": "2026-11-15T19:48:41.000Z",
+            "author": {
+                "name": "riyadhHDA",
+                "url": "https://github.com/riyadhHDA"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22428774?u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.</div>",
+            "url": "https://github.com/turhancan97/doppeldwarf-306",
+            "title": "turhancan97/doppeldwarf-306: Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.",
+            "date_modified": "2026-11-24T06:05:57.000Z",
+            "date_published": "2026-08-19T17:20:15.000Z",
+            "author": {
+                "name": "turhancan97",
+                "url": "https://github.com/turhancan97"
             }
         },
         {
@@ -72,7 +160,29 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21247761?u=09f087e1f0efde91aeef5809d41ea15c7ab7d786&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Real-time monocular 3D object distance estimation combining frozen DINOv3 depth decoders and YOLO11 with pinhole camera back-projection (~30 FPS on Apple Silicon (CPU+MPS)), plus NYU Depth v2 benchmarks against DINOv2 and Depth Anything 3.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183895585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)</div>",
+            "url": "https://github.com/nuummm/csiro-image2biomass",
+            "title": "nuummm/csiro-image2biomass: Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)",
+            "date_modified": "2026-11-09T01:27:54.000Z",
+            "date_published": "2026-11-09T01:21:51.000Z",
+            "author": {
+                "name": "nuummm",
+                "url": "https://github.com/nuummm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183753918?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Replication of \"“Show Me!” The Informativeness of images in firms’ annual reports\" using SigLIP and DINOv3 to classify visuals in corporate annual reports, with statistical analysis in Stata.</div>",
+            "url": "https://github.com/XXBO0011/show-me-replication",
+            "title": "XXBO0011/show-me-replication: Replication of \"“Show Me!” The Informativeness of images in firms’ annual reports\" using SigLIP and DINOv3 to classify visuals in corporate annual reports, with statistical analysis in Stata.",
+            "date_modified": "2026-11-21T23:43:19.000Z",
+            "date_published": "2026-11-20T20:29:21.000Z",
+            "author": {
+                "name": "XXBO0011",
+                "url": "https://github.com/XXBO0011"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21247761?u=f220e86f6e372e5a0a506da07db451d7c20cc3dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Real-time monocular 3D object distance estimation combining frozen DINOv3 depth decoders and YOLO11 with pinhole camera back-projection (~30 FPS on Apple Silicon (CPU+MPS)), plus NYU Depth v2 benchmarks against DINOv2 and Depth Anything 3.</div>",
             "url": "https://github.com/fahimrayhan/dinov3-3d-distance-estimation",
             "title": "fahimrayhan/dinov3-3d-distance-estimation: Real-time monocular 3D object distance estimation combining frozen DINOv3 depth decoders and YOLO11 with pinhole camera back-projection (~30 FPS on Apple Silicon (CPU+MPS)), plus NYU Depth v2 benchmarks against DINOv2 and Depth Anything 3.",
             "date_modified": "2026-11-22T21:09:28.000Z",
@@ -113,116 +223,6 @@
             "author": {
                 "name": "Trudes808",
                 "url": "https://github.com/Trudes808"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34103661?u=310720222f6f67093ef8828bc8a37b38e67d13ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.</div>",
-            "url": "https://github.com/BurnyCoder/end-to-end-block-sparse-featurizers",
-            "title": "BurnyCoder/end-to-end-block-sparse-featurizers: Neural network interpretability: Grassmannian block-sparse featurizer to preserve the class probabilities of DINOv3 + Imagenette classifier. The pipeline extracts final patch activations, replaces them with BSF reconstructions, and minimizes KL(original || reconstructed). Only the BSF updates. Combines Goodfire's BSFs with Apollo's end-to-end SAEs.",
-            "date_modified": "2026-11-06T23:56:17.000Z",
-            "date_published": "2026-10-27T00:30:50.000Z",
-            "author": {
-                "name": "BurnyCoder",
-                "url": "https://github.com/BurnyCoder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72461719?u=e10610fe4c1bd8246a88595253686a5c964179ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Mnlsvt/HT2026_GroupB_DINOv3",
-            "title": "Mnlsvt/HT2026_GroupB_DINOv3",
-            "date_modified": "2026-11-21T21:12:36.000Z",
-            "date_published": "2026-11-18T21:43:17.000Z",
-            "author": {
-                "name": "Mnlsvt",
-                "url": "https://github.com/Mnlsvt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9141898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/oilst/dinov3-mlx",
-            "title": "oilst/dinov3-mlx",
-            "date_modified": "2026-11-14T16:35:53.000Z",
-            "date_published": "2026-11-09T22:49:54.000Z",
-            "author": {
-                "name": "oilst",
-                "url": "https://github.com/oilst"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215951859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.</div>",
-            "url": "https://github.com/flyaurelien/kinesia",
-            "title": "flyaurelien/kinesia: Multi-person 3D motion capture from a single video: Meta's SAM 3.1, SAM 3D Body and DINOv3 turned into a video system with tracking, re-identification, physics-aware motion and a web viewer. 93.4 3DPCK on MuPoTS-3D, jitter halved on 3DPW.",
-            "date_modified": "2026-11-20T20:02:18.000Z",
-            "date_published": "2026-10-08T12:38:06.000Z",
-            "author": {
-                "name": "flyaurelien",
-                "url": "https://github.com/flyaurelien"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42668840?u=976411f1a8ea0cb8fb241689648f6237b44ebb21&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.</div>",
-            "url": "https://github.com/ElikplimSunu/model-shop",
-            "title": "ElikplimSunu/model-shop: Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.",
-            "date_modified": "2026-11-16T20:09:31.000Z",
-            "date_published": "2026-04-11T04:09:55.000Z",
-            "author": {
-                "name": "ElikplimSunu",
-                "url": "https://github.com/ElikplimSunu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7981353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航</div>",
-            "url": "https://github.com/little51/dinov3-course",
-            "title": "little51/dinov3-course: 图书《视觉自监督模型DINOv3：原理、训练到部署》学习导航",
-            "date_modified": "2026-11-21T04:19:37.000Z",
-            "date_published": "2026-05-03T12:40:56.000Z",
-            "author": {
-                "name": "little51",
-                "url": "https://github.com/little51"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/189723928?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Amplified Gram Anchoring: Selectively Strengthening Patch Relationships for Dense Visual Representations </div>",
-            "url": "https://github.com/siinwook/Amplified-Gram-Anchoring",
-            "title": "siinwook/Amplified-Gram-Anchoring: Amplified Gram Anchoring: Selectively Strengthening Patch Relationships for Dense Visual Representations ",
-            "date_modified": "2026-11-22T11:33:32.000Z",
-            "date_published": "2026-11-22T08:05:17.000Z",
-            "author": {
-                "name": "siinwook",
-                "url": "https://github.com/siinwook"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>",
-            "url": "https://github.com/kleinicke/fastforks",
-            "title": "kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup",
-            "date_modified": "2026-11-22T09:59:27.000Z",
-            "date_published": "2026-11-03T17:21:42.000Z",
-            "author": {
-                "name": "kleinicke",
-                "url": "https://github.com/kleinicke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105249745?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nuReasoning Challenge 2026 (NeurIPS): reasoning track + combined entry, 7th of 58. Routed MCQ ensemble (GBDT, Qwen-Drive LoRA, SAM 2.1 tracker, DINOv3).</div>",
-            "url": "https://github.com/amanupg/nureasoning-reasoning-2026",
-            "title": "amanupg/nureasoning-reasoning-2026: nuReasoning Challenge 2026 (NeurIPS): reasoning track + combined entry, 7th of 58. Routed MCQ ensemble (GBDT, Qwen-Drive LoRA, SAM 2.1 tracker, DINOv3).",
-            "date_modified": "2026-11-22T04:38:11.000Z",
-            "date_published": "2026-11-22T03:03:44.000Z",
-            "author": {
-                "name": "amanupg",
-                "url": "https://github.com/amanupg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/268790335?u=aef97f80136e77756495c4e07be56a80195bb9c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.</div>",
-            "url": "https://github.com/wangsiyu3757-wq/nba-foul-evidence",
-            "title": "wangsiyu3757-wq/nba-foul-evidence: Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.",
-            "date_modified": "2026-11-22T00:04:10.000Z",
-            "date_published": "2026-11-21T23:44:25.000Z",
-            "author": {
-                "name": "wangsiyu3757-wq",
-                "url": "https://github.com/wangsiyu3757-wq"
             }
         }
     ]
