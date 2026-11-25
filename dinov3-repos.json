@@ -6,28 +6,6 @@
     "description": "DINOv3 Repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
-            "url": "https://github.com/ganzijie1/dongzhou",
-            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
-            "date_modified": "2026-11-12T16:23:33.000Z",
-            "date_published": "2026-08-13T05:30:19.000Z",
-            "author": {
-                "name": "ganzijie1",
-                "url": "https://github.com/ganzijie1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
-            "url": "https://github.com/SomethingObvious/jwst-peculiar",
-            "title": "SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
-            "date_modified": "2026-11-21T19:32:56.000Z",
-            "date_published": "2026-01-03T07:48:06.000Z",
-            "author": {
-                "name": "SomethingObvious",
-                "url": "https://github.com/SomethingObvious"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209926562?u=917c0d92dfab9976a7a800bfd803dd03f54b0b88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)</div>",
             "url": "https://github.com/tomgrizz/ganaraska-live",
             "title": "tomgrizz/ganaraska-live: Ganaraska River live fish counter (DINOv3 model on the counter tunnel camera)",
@@ -39,36 +17,69 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/268790335?u=aef97f80136e77756495c4e07be56a80195bb9c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.</div>",
-            "url": "https://github.com/wangsiyu3757-wq/nba-foul-evidence",
-            "title": "wangsiyu3757-wq/nba-foul-evidence: Recovering physical evidence for NBA foul calls from broadcast video: decoupled tracking with DINOv3 ReID (1–2 → 40–55 tracks/frame), court-based filtering, and L2M-aligned contact events. Master's thesis, UTS.",
-            "date_modified": "2026-11-24T05:56:57.000Z",
-            "date_published": "2026-11-21T23:44:25.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357640340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Evaluation tools and model configurations for underwater object detection with DINOv3, YOLOv11s, and RT-DETR.</div>",
+            "url": "https://github.com/11king925/underwater-detection-eval",
+            "title": "11king925/underwater-detection-eval: Evaluation tools and model configurations for underwater object detection with DINOv3, YOLOv11s, and RT-DETR.",
+            "date_modified": "2026-11-25T07:12:56.000Z",
+            "date_published": "2026-11-24T12:13:04.000Z",
             "author": {
-                "name": "wangsiyu3757-wq",
-                "url": "https://github.com/wangsiyu3757-wq"
+                "name": "11king925",
+                "url": "https://github.com/11king925"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/360487894?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explainable dual-stream hybrid (ConvNeXt V2 + DINOv3) for patient-disjoint cerebral venous sinus thrombosis (CVST) screening from bilateral retinal fundus images.</div>",
-            "url": "https://github.com/rivrtpolyu/cvst-fundus-hybrid",
-            "title": "rivrtpolyu/cvst-fundus-hybrid: Explainable dual-stream hybrid (ConvNeXt V2 + DINOv3) for patient-disjoint cerebral venous sinus thrombosis (CVST) screening from bilateral retinal fundus images.",
-            "date_modified": "2026-11-24T02:04:40.000Z",
-            "date_published": "2026-11-24T02:04:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143953441?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Ahui626/DINOV3-YOLOV12",
+            "title": "Ahui626/DINOV3-YOLOV12",
+            "date_modified": "2026-11-25T04:36:11.000Z",
+            "date_published": "2026-11-25T04:30:08.000Z",
             "author": {
-                "name": "rivrtpolyu",
-                "url": "https://github.com/rivrtpolyu"
+                "name": "Ahui626",
+                "url": "https://github.com/Ahui626"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94043316?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official implementation of Pairwise Bottleneck Connectivity Loss (PBCL) for Structurally Separable Raft-Aquaculture Mapping — standalone PyTorch loss, 11-loss same-carrier benchmarks, 8-architecture factorials, splits, and verified results.</div>",
-            "url": "https://github.com/XT-Zang/PBCL",
-            "title": "XT-Zang/PBCL: Official implementation of Pairwise Bottleneck Connectivity Loss (PBCL) for Structurally Separable Raft-Aquaculture Mapping — standalone PyTorch loss, 11-loss same-carrier benchmarks, 8-architecture factorials, splits, and verified results.",
-            "date_modified": "2026-11-24T06:39:07.000Z",
-            "date_published": "2026-09-04T08:45:19.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C++20 vision-model inference on brotensor (CPU, CUDA, Metal, Vulkan): SAM, Depth-Anything-V2, DSINE, BiRefNet, OWLv2, DINOv3, StyleGAN3, and ControlNet annotators.</div>",
+            "url": "https://github.com/wlejon/brovisionml",
+            "title": "wlejon/brovisionml: Pure C++20 vision-model inference on brotensor (CPU, CUDA, Metal, Vulkan): SAM, Depth-Anything-V2, DSINE, BiRefNet, OWLv2, DINOv3, StyleGAN3, and ControlNet annotators.",
+            "date_modified": "2026-11-25T04:21:55.000Z",
+            "date_published": "2026-05-31T17:50:51.000Z",
             "author": {
-                "name": "XT-Zang",
-                "url": "https://github.com/XT-Zang"
+                "name": "wlejon",
+                "url": "https://github.com/wlejon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9896958?u=d73d9aa78745ea4f8095cfe10983022ecc397cb2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DINOv3 experiments with a Colab GPU runtime via SSH tunnel</div>",
+            "url": "https://github.com/nutboltu/chinee-apple-cv-benchmark",
+            "title": "nutboltu/chinee-apple-cv-benchmark: DINOv3 experiments with a Colab GPU runtime via SSH tunnel",
+            "date_modified": "2026-10-14T14:36:43.000Z",
+            "date_published": "2026-06-14T02:10:11.000Z",
+            "author": {
+                "name": "nutboltu",
+                "url": "https://github.com/nutboltu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121278558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Oblique aerial building extraction with SUAM structural-unit mapping, RMMF multi-view fusion, DINOv3 and Mask2Former.</div>",
+            "url": "https://github.com/Chenzz-L/multiview-building-segmentation",
+            "title": "Chenzz-L/multiview-building-segmentation: Oblique aerial building extraction with SUAM structural-unit mapping, RMMF multi-view fusion, DINOv3 and Mask2Former.",
+            "date_modified": "2026-11-25T05:47:30.000Z",
+            "date_published": "2026-11-25T03:24:29.000Z",
+            "author": {
+                "name": "Chenzz-L",
+                "url": "https://github.com/Chenzz-L"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>",
+            "url": "https://github.com/Trudes808/Dinov3-WhaleID",
+            "title": "Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task",
+            "date_modified": "2026-10-23T14:21:46.000Z",
+            "date_published": "2025-12-19T00:23:18.000Z",
+            "author": {
+                "name": "Trudes808",
+                "url": "https://github.com/Trudes808"
             }
         },
         {
@@ -83,47 +94,58 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168586945?u=98c655e4d8d81842d01598af85d6883d7706764e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Segmentación de Titanes Puros vs Humanos a 1080p: DinoSeg (DINOv3 + rama conv) exportado a ONNX, 88.10 % FG mIoU</div>",
-            "url": "https://github.com/samanthaMora/aot-segmentation",
-            "title": "samanthaMora/aot-segmentation: Segmentación de Titanes Puros vs Humanos a 1080p: DinoSeg (DINOv3 + rama conv) exportado a ONNX, 88.10 % FG mIoU",
-            "date_modified": "2026-11-24T01:29:46.000Z",
-            "date_published": "2026-11-24T01:29:36.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>",
+            "url": "https://github.com/kleinicke/fastforks",
+            "title": "kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup",
+            "date_modified": "2026-11-22T09:59:27.000Z",
+            "date_published": "2026-11-03T17:21:42.000Z",
             "author": {
-                "name": "samanthaMora",
-                "url": "https://github.com/samanthaMora"
+                "name": "kleinicke",
+                "url": "https://github.com/kleinicke"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241505715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/1MD049-Contemporary-Methods-Course/HT2026_GroupB_DINOv3",
-            "title": "1MD049-Contemporary-Methods-Course/HT2026_GroupB_DINOv3",
-            "date_modified": "2026-11-23T23:30:19.000Z",
-            "date_published": "2026-11-18T21:43:17.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/217632269?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sumit-parihar/Disease_Detection_DINOv3",
+            "title": "sumit-parihar/Disease_Detection_DINOv3",
+            "date_modified": "2026-11-25T00:09:01.000Z",
+            "date_published": "2026-11-24T22:33:05.000Z",
             "author": {
-                "name": "1MD049-Contemporary-Methods-Course",
-                "url": "https://github.com/1MD049-Contemporary-Methods-Course"
+                "name": "sumit-parihar",
+                "url": "https://github.com/sumit-parihar"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=3a02a9c787f4c670e4790b532e5e013268374a11&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
-            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
-            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
-            "date_modified": "2026-11-18T19:35:51.000Z",
-            "date_published": "2026-03-25T17:20:53.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>",
+            "url": "https://github.com/SomethingObvious/jwst-peculiar",
+            "title": "SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles",
+            "date_modified": "2026-11-21T19:32:56.000Z",
+            "date_published": "2026-01-03T07:48:06.000Z",
             "author": {
-                "name": "alifarzadjamali",
-                "url": "https://github.com/alifarzadjamali"
+                "name": "SomethingObvious",
+                "url": "https://github.com/SomethingObvious"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207490526?u=c75be35bb7d7c69d904e6bfb89f5206e954152f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Project Kecerdasan Buatan Kelompok 5 (TAP-1): generalisasi lintas negara DINOv3 untuk deteksi penyakit dan estimasi keparahan daun kopi, benchmark multi-dataset.</div>",
-            "url": "https://github.com/Stevens2606/coffee-leaf-dinov3-benchmark",
-            "title": "Stevens2606/coffee-leaf-dinov3-benchmark: Project Kecerdasan Buatan Kelompok 5 (TAP-1): generalisasi lintas negara DINOv3 untuk deteksi penyakit dan estimasi keparahan daun kopi, benchmark multi-dataset.",
-            "date_modified": "2026-11-24T02:38:57.000Z",
-            "date_published": "2026-11-10T02:34:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49652542?u=2129756eaf121d38c0cfc1fbea5ae4e953620f34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/dheeraj9932/dinov3_exploration",
+            "title": "dheeraj9932/dinov3_exploration",
+            "date_modified": "2026-11-25T00:09:03.000Z",
+            "date_published": "2026-11-24T16:50:14.000Z",
             "author": {
-                "name": "Stevens2606",
-                "url": "https://github.com/Stevens2606"
+                "name": "dheeraj9932",
+                "url": "https://github.com/dheeraj9932"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22428774?u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.</div>",
+            "url": "https://github.com/turhancan97/doppeldwarf-306",
+            "title": "turhancan97/doppeldwarf-306: Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.",
+            "date_modified": "2026-11-24T20:09:27.000Z",
+            "date_published": "2026-08-19T17:20:15.000Z",
+            "author": {
+                "name": "turhancan97",
+                "url": "https://github.com/turhancan97"
             }
         },
         {
@@ -138,91 +160,69 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22428774?u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.</div>",
-            "url": "https://github.com/turhancan97/doppeldwarf-306",
-            "title": "turhancan97/doppeldwarf-306: Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.",
-            "date_modified": "2026-11-24T06:05:57.000Z",
-            "date_published": "2026-08-19T17:20:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44175667?u=632091d4af84f1c0b8986a217d0da1024350e2d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Monte Carlo Token Pruning (MCTP): per-token impact maps for pruning pretrained ViTs (DINOv3, SigLIP 2) at any depth, with sink-token protection, test-time registers and off-box mass.</div>",
+            "url": "https://github.com/Julian-Wyatt/MCTP",
+            "title": "Julian-Wyatt/MCTP: Monte Carlo Token Pruning (MCTP): per-token impact maps for pruning pretrained ViTs (DINOv3, SigLIP 2) at any depth, with sink-token protection, test-time registers and off-box mass.",
+            "date_modified": "2026-11-24T09:55:16.000Z",
+            "date_published": "2026-11-20T09:55:45.000Z",
             "author": {
-                "name": "turhancan97",
-                "url": "https://github.com/turhancan97"
+                "name": "Julian-Wyatt",
+                "url": "https://github.com/Julian-Wyatt"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241505715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/1MD049-Contemporary-Methods-Course/HT2026_GroupD_DINOv3",
-            "title": "1MD049-Contemporary-Methods-Course/HT2026_GroupD_DINOv3",
-            "date_modified": "2026-11-22T19:42:27.000Z",
-            "date_published": "2026-11-18T12:34:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199305574?u=4e1ec405cd8a4d9b988d8d2121977b3a49d1f4cd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sarahnada7/AI-Generated-Image-Detection-with-DINOv3",
+            "title": "sarahnada7/AI-Generated-Image-Detection-with-DINOv3",
+            "date_modified": "2026-11-24T18:21:30.000Z",
+            "date_published": "2026-11-24T18:17:01.000Z",
             "author": {
-                "name": "1MD049-Contemporary-Methods-Course",
-                "url": "https://github.com/1MD049-Contemporary-Methods-Course"
+                "name": "sarahnada7",
+                "url": "https://github.com/sarahnada7"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183895585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)</div>",
-            "url": "https://github.com/nuummm/csiro-image2biomass",
-            "title": "nuummm/csiro-image2biomass: Pasture biomass regression from images with frozen DINOv3 embeddings, grouped CV and additive constraints (Kaggle CSIRO)",
-            "date_modified": "2026-11-09T01:27:54.000Z",
-            "date_published": "2026-11-09T01:21:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>",
+            "url": "https://github.com/ganzijie1/dongzhou",
+            "title": "ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO",
+            "date_modified": "2026-11-12T16:23:33.000Z",
+            "date_published": "2026-08-13T05:30:19.000Z",
             "author": {
-                "name": "nuummm",
-                "url": "https://github.com/nuummm"
+                "name": "ganzijie1",
+                "url": "https://github.com/ganzijie1"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183753918?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Replication of \"“Show Me!” The Informativeness of images in firms’ annual reports\" using SigLIP and DINOv3 to classify visuals in corporate annual reports, with statistical analysis in Stata.</div>",
-            "url": "https://github.com/XXBO0011/show-me-replication",
-            "title": "XXBO0011/show-me-replication: Replication of \"“Show Me!” The Informativeness of images in firms’ annual reports\" using SigLIP and DINOv3 to classify visuals in corporate annual reports, with statistical analysis in Stata.",
-            "date_modified": "2026-11-21T23:43:19.000Z",
-            "date_published": "2026-11-20T20:29:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89032007?u=552dc7d34460d9b2167763c1836e0521186fb762&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Prdeblog/DINOv3-Dry-Matter",
+            "title": "Prdeblog/DINOv3-Dry-Matter",
+            "date_modified": "2026-11-25T00:09:12.000Z",
+            "date_published": "2026-11-24T14:35:52.000Z",
             "author": {
-                "name": "XXBO0011",
-                "url": "https://github.com/XXBO0011"
+                "name": "Prdeblog",
+                "url": "https://github.com/Prdeblog"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21247761?u=f220e86f6e372e5a0a506da07db451d7c20cc3dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Real-time monocular 3D object distance estimation combining frozen DINOv3 depth decoders and YOLO11 with pinhole camera back-projection (~30 FPS on Apple Silicon (CPU+MPS)), plus NYU Depth v2 benchmarks against DINOv2 and Depth Anything 3.</div>",
-            "url": "https://github.com/fahimrayhan/dinov3-3d-distance-estimation",
-            "title": "fahimrayhan/dinov3-3d-distance-estimation: Real-time monocular 3D object distance estimation combining frozen DINOv3 depth decoders and YOLO11 with pinhole camera back-projection (~30 FPS on Apple Silicon (CPU+MPS)), plus NYU Depth v2 benchmarks against DINOv2 and Depth Anything 3.",
-            "date_modified": "2026-11-22T21:09:28.000Z",
-            "date_published": "2026-11-22T20:45:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225652879?u=3a02a9c787f4c670e4790b532e5e013268374a11&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>",
+            "url": "https://github.com/alifarzadjamali/fashion-compatibility-benchmark",
+            "title": "alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.",
+            "date_modified": "2026-11-18T19:35:51.000Z",
+            "date_published": "2026-03-25T17:20:53.000Z",
             "author": {
-                "name": "fahimrayhan",
-                "url": "https://github.com/fahimrayhan"
+                "name": "alifarzadjamali",
+                "url": "https://github.com/alifarzadjamali"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255370388?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.</div>",
-            "url": "https://github.com/BASE-Laboratory/BraggTrack",
-            "title": "BASE-Laboratory/BraggTrack: Semantic 4D grain tracking and failure prediction for operando synchrotron and neutron diffraction using foundation vision models.",
-            "date_modified": "2026-11-21T21:24:07.000Z",
-            "date_published": "2026-04-09T12:12:24.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/189723928?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Amplified Gram Anchoring: Selectively Strengthening Patch Relationships for Dense Visual Representations </div>",
+            "url": "https://github.com/siinwook/Amplified-Gram-Anchoring",
+            "title": "siinwook/Amplified-Gram-Anchoring: Amplified Gram Anchoring: Selectively Strengthening Patch Relationships for Dense Visual Representations ",
+            "date_modified": "2026-11-23T10:35:10.000Z",
+            "date_published": "2026-11-22T08:05:17.000Z",
             "author": {
-                "name": "BASE-Laboratory",
-                "url": "https://github.com/BASE-Laboratory"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37177749?u=b2bc66322a8e149c188e2278240aa1c00f9937b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Record a chess game live and upload the PGN to Lichess</div>",
-            "url": "https://github.com/Pbatch/ChessCam",
-            "title": "Pbatch/ChessCam: Record a chess game live and upload the PGN to Lichess",
-            "date_modified": "2026-11-22T11:58:00.000Z",
-            "date_published": "2023-06-28T23:07:09.000Z",
-            "author": {
-                "name": "Pbatch",
-                "url": "https://github.com/Pbatch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53022797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>",
-            "url": "https://github.com/Trudes808/Dinov3-WhaleID",
-            "title": "Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task",
-            "date_modified": "2026-10-23T14:21:46.000Z",
-            "date_published": "2025-12-19T00:23:18.000Z",
-            "author": {
-                "name": "Trudes808",
-                "url": "https://github.com/Trudes808"
+                "name": "siinwook",
+                "url": "https://github.com/siinwook"
             }
         }
     ]
