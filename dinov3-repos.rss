@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-11-25T07:21:00.141Z</updated>
+    <updated>2026-11-26T07:09:38.929Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -21,43 +21,30 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11king925/underwater-detection-eval: Evaluation tools and model configurations for underwater object detection with DINOv3, YOLOv11s, and RT-DETR.]]></title>
-        <id>https://github.com/11king925/underwater-detection-eval</id>
-        <link href="https://github.com/11king925/underwater-detection-eval"/>
-        <updated>2026-11-25T07:12:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/357640340?v=4" width="64" height="64" alt=""/><br/><div>Evaluation tools and model configurations for underwater object detection with DINOv3, YOLOv11s, and RT-DETR.</div>]]></content>
+        <title type="html"><![CDATA[ChengShiest/RevFlow: Official PyTorch implementation of "Generation as Reverse Encoding" (RevFlow)]]></title>
+        <id>https://github.com/ChengShiest/RevFlow</id>
+        <link href="https://github.com/ChengShiest/RevFlow"/>
+        <updated>2026-11-26T05:44:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51861543?u=6d2cd6ff22acbc1fb03bbc088993e7b4e6a642dc&v=4" width="64" height="64" alt=""/><br/><div>Official PyTorch implementation of "Generation as Reverse Encoding" (RevFlow)</div>]]></content>
         <author>
-            <name>11king925</name>
-            <email>11king925@noreply.github.com</email>
-            <uri>https://github.com/11king925</uri>
+            <name>ChengShiest</name>
+            <email>ChengShiest@noreply.github.com</email>
+            <uri>https://github.com/ChengShiest</uri>
         </author>
-        <published>2026-11-24T12:13:04.000Z</published>
+        <published>2026-11-23T00:50:55.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ahui626/DINOV3-YOLOV12]]></title>
-        <id>https://github.com/Ahui626/DINOV3-YOLOV12</id>
-        <link href="https://github.com/Ahui626/DINOV3-YOLOV12"/>
-        <updated>2026-11-25T04:36:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143953441?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[hammamiomar/dinodreamer: DinoDreamer: cellular automata trained on DINOv3. Train and watch them in your browser with WebGPU.]]></title>
+        <id>https://github.com/hammamiomar/dinodreamer</id>
+        <link href="https://github.com/hammamiomar/dinodreamer"/>
+        <updated>2026-11-25T22:20:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47250693?u=02d34bb93bf880af6fcc58dde893c92c934420ff&v=4" width="64" height="64" alt=""/><br/><div>DinoDreamer: cellular automata trained on DINOv3. Train and watch them in your browser with WebGPU.</div>]]></content>
         <author>
-            <name>Ahui626</name>
-            <email>Ahui626@noreply.github.com</email>
-            <uri>https://github.com/Ahui626</uri>
+            <name>hammamiomar</name>
+            <email>hammamiomar@noreply.github.com</email>
+            <uri>https://github.com/hammamiomar</uri>
         </author>
-        <published>2026-11-25T04:30:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wlejon/brovisionml: Pure C++20 vision-model inference on brotensor (CPU, CUDA, Metal, Vulkan): SAM, Depth-Anything-V2, DSINE, BiRefNet, OWLv2, DINOv3, StyleGAN3, and ControlNet annotators.]]></title>
-        <id>https://github.com/wlejon/brovisionml</id>
-        <link href="https://github.com/wlejon/brovisionml"/>
-        <updated>2026-11-25T04:21:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4" width="64" height="64" alt=""/><br/><div>Pure C++20 vision-model inference on brotensor (CPU, CUDA, Metal, Vulkan): SAM, Depth-Anything-V2, DSINE, BiRefNet, OWLv2, DINOv3, StyleGAN3, and ControlNet annotators.</div>]]></content>
-        <author>
-            <name>wlejon</name>
-            <email>wlejon@noreply.github.com</email>
-            <uri>https://github.com/wlejon</uri>
-        </author>
-        <published>2026-05-31T17:50:51.000Z</published>
+        <published>2026-10-30T00:15:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[nutboltu/chinee-apple-cv-benchmark: DINOv3 experiments with a Colab GPU runtime via SSH tunnel]]></title>
@@ -73,17 +60,30 @@
         <published>2026-06-14T02:10:11.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chenzz-L/multiview-building-segmentation: Oblique aerial building extraction with SUAM structural-unit mapping, RMMF multi-view fusion, DINOv3 and Mask2Former.]]></title>
-        <id>https://github.com/Chenzz-L/multiview-building-segmentation</id>
-        <link href="https://github.com/Chenzz-L/multiview-building-segmentation"/>
-        <updated>2026-11-25T05:47:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121278558?v=4" width="64" height="64" alt=""/><br/><div>Oblique aerial building extraction with SUAM structural-unit mapping, RMMF multi-view fusion, DINOv3 and Mask2Former.</div>]]></content>
+        <title type="html"><![CDATA[Lmague/uav-vegetation-vfm: 42 configurations (11 frozen, 31 fine-tuned) of vision foundation models for 11-class Arctic tundra vegetation mapping from drone orthomosaics. Tile context, mean-field smoothing, LoRA and GNN controls.]]></title>
+        <id>https://github.com/Lmague/uav-vegetation-vfm</id>
+        <link href="https://github.com/Lmague/uav-vegetation-vfm"/>
+        <updated>2026-11-25T23:24:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180333412?v=4" width="64" height="64" alt=""/><br/><div>42 configurations (11 frozen, 31 fine-tuned) of vision foundation models for 11-class Arctic tundra vegetation mapping from drone orthomosaics. Tile context, mean-field smoothing, LoRA and GNN controls.</div>]]></content>
         <author>
-            <name>Chenzz-L</name>
-            <email>Chenzz-L@noreply.github.com</email>
-            <uri>https://github.com/Chenzz-L</uri>
+            <name>Lmague</name>
+            <email>Lmague@noreply.github.com</email>
+            <uri>https://github.com/Lmague</uri>
         </author>
-        <published>2026-11-25T03:24:29.000Z</published>
+        <published>2026-06-02T05:37:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kshitijrajsharma/dinov3-continual-vhr: Continual Pretraining of DINO V3 in Aerial and Satellite VHR ]]></title>
+        <id>https://github.com/kshitijrajsharma/dinov3-continual-vhr</id>
+        <link href="https://github.com/kshitijrajsharma/dinov3-continual-vhr"/>
+        <updated>2026-11-25T17:50:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36752999?u=5f103a26d0dd3a7b00cdcf22199e5aee6f69de0b&v=4" width="64" height="64" alt=""/><br/><div>Continual Pretraining of DINO V3 in Aerial and Satellite VHR </div>]]></content>
+        <author>
+            <name>kshitijrajsharma</name>
+            <email>kshitijrajsharma@noreply.github.com</email>
+            <uri>https://github.com/kshitijrajsharma</uri>
+        </author>
+        <published>2026-11-25T17:49:27.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
@@ -112,10 +112,23 @@
         <published>2026-05-17T07:13:23.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[xocialize-code/gaea-plugin-hairdeck: HairDeck as a Gaea plugin: hair for an avatar from one character picture (MES mesh.generate_part). Built with DINOv3. Not released yet.]]></title>
+        <id>https://github.com/xocialize-code/gaea-plugin-hairdeck</id>
+        <link href="https://github.com/xocialize-code/gaea-plugin-hairdeck"/>
+        <updated>2026-11-14T17:58:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88944384?v=4" width="64" height="64" alt=""/><br/><div>HairDeck as a Gaea plugin: hair for an avatar from one character picture (MES mesh.generate_part). Built with DINOv3. Not released yet.</div>]]></content>
+        <author>
+            <name>xocialize-code</name>
+            <email>xocialize-code@noreply.github.com</email>
+            <uri>https://github.com/xocialize-code</uri>
+        </author>
+        <published>2026-11-14T04:58:08.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup]]></title>
         <id>https://github.com/kleinicke/fastforks</id>
         <link href="https://github.com/kleinicke/fastforks"/>
-        <updated>2026-11-22T09:59:27.000Z</updated>
+        <updated>2026-11-25T13:38:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4" width="64" height="64" alt=""/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>]]></content>
         <author>
             <name>kleinicke</name>
@@ -123,6 +136,71 @@
             <uri>https://github.com/kleinicke</uri>
         </author>
         <published>2026-11-03T17:21:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[riyadhHDA/pixplot-v2: Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.]]></title>
+        <id>https://github.com/riyadhHDA/pixplot-v2</id>
+        <link href="https://github.com/riyadhHDA/pixplot-v2"/>
+        <updated>2026-11-21T20:41:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25872060?u=dfbd2539626cbf40142d7ff1be7eb997e1f6d93e&v=4" width="64" height="64" alt=""/><br/><div>Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.</div>]]></content>
+        <author>
+            <name>riyadhHDA</name>
+            <email>riyadhHDA@noreply.github.com</email>
+            <uri>https://github.com/riyadhHDA</uri>
+        </author>
+        <published>2026-11-15T19:48:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wlejon/brovisionml: Pure C++20 vision-model inference on brotensor (CPU, CUDA, Metal, Vulkan): SAM, Depth-Anything-V2, DSINE, BiRefNet, OWLv2, DINOv3, StyleGAN3, and ControlNet annotators.]]></title>
+        <id>https://github.com/wlejon/brovisionml</id>
+        <link href="https://github.com/wlejon/brovisionml"/>
+        <updated>2026-11-25T04:21:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4" width="64" height="64" alt=""/><br/><div>Pure C++20 vision-model inference on brotensor (CPU, CUDA, Metal, Vulkan): SAM, Depth-Anything-V2, DSINE, BiRefNet, OWLv2, DINOv3, StyleGAN3, and ControlNet annotators.</div>]]></content>
+        <author>
+            <name>wlejon</name>
+            <email>wlejon@noreply.github.com</email>
+            <uri>https://github.com/wlejon</uri>
+        </author>
+        <published>2026-05-31T17:50:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11king925/underwater-detection-eval: Evaluation tools and model configurations for underwater object detection with DINOv3, YOLOv11s, and RT-DETR.]]></title>
+        <id>https://github.com/11king925/underwater-detection-eval</id>
+        <link href="https://github.com/11king925/underwater-detection-eval"/>
+        <updated>2026-11-25T07:12:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/357640340?v=4" width="64" height="64" alt=""/><br/><div>Evaluation tools and model configurations for underwater object detection with DINOv3, YOLOv11s, and RT-DETR.</div>]]></content>
+        <author>
+            <name>11king925</name>
+            <email>11king925@noreply.github.com</email>
+            <uri>https://github.com/11king925</uri>
+        </author>
+        <published>2026-11-24T12:13:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ahui626/DINOV3-YOLOV12]]></title>
+        <id>https://github.com/Ahui626/DINOV3-YOLOV12</id>
+        <link href="https://github.com/Ahui626/DINOV3-YOLOV12"/>
+        <updated>2026-11-25T17:44:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143953441?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Ahui626</name>
+            <email>Ahui626@noreply.github.com</email>
+            <uri>https://github.com/Ahui626</uri>
+        </author>
+        <published>2026-11-25T04:30:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chenzz-L/multiview-building-segmentation: Oblique aerial building extraction with SUAM structural-unit mapping, RMMF multi-view fusion, DINOv3 and Mask2Former.]]></title>
+        <id>https://github.com/Chenzz-L/multiview-building-segmentation</id>
+        <link href="https://github.com/Chenzz-L/multiview-building-segmentation"/>
+        <updated>2026-11-25T05:47:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121278558?v=4" width="64" height="64" alt=""/><br/><div>Oblique aerial building extraction with SUAM structural-unit mapping, RMMF multi-view fusion, DINOv3 and Mask2Former.</div>]]></content>
+        <author>
+            <name>Chenzz-L</name>
+            <email>Chenzz-L@noreply.github.com</email>
+            <uri>https://github.com/Chenzz-L</uri>
+        </author>
+        <published>2026-11-25T03:24:29.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[sumit-parihar/Disease_Detection_DINOv3]]></title>
@@ -177,19 +255,6 @@
         <published>2026-08-19T17:20:15.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[riyadhHDA/pixplot-v2: Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.]]></title>
-        <id>https://github.com/riyadhHDA/pixplot-v2</id>
-        <link href="https://github.com/riyadhHDA/pixplot-v2"/>
-        <updated>2026-11-21T20:41:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25872060?u=dfbd2539626cbf40142d7ff1be7eb997e1f6d93e&v=4" width="64" height="64" alt=""/><br/><div>Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.</div>]]></content>
-        <author>
-            <name>riyadhHDA</name>
-            <email>riyadhHDA@noreply.github.com</email>
-            <uri>https://github.com/riyadhHDA</uri>
-        </author>
-        <published>2026-11-15T19:48:41.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Julian-Wyatt/MCTP: Monte Carlo Token Pruning (MCTP): per-token impact maps for pruning pretrained ViTs (DINOv3, SigLIP 2) at any depth, with sink-token protection, test-time registers and off-box mass.]]></title>
         <id>https://github.com/Julian-Wyatt/MCTP</id>
         <link href="https://github.com/Julian-Wyatt/MCTP"/>
@@ -201,70 +266,5 @@
             <uri>https://github.com/Julian-Wyatt</uri>
         </author>
         <published>2026-11-20T09:55:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sarahnada7/AI-Generated-Image-Detection-with-DINOv3]]></title>
-        <id>https://github.com/sarahnada7/AI-Generated-Image-Detection-with-DINOv3</id>
-        <link href="https://github.com/sarahnada7/AI-Generated-Image-Detection-with-DINOv3"/>
-        <updated>2026-11-24T18:21:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/199305574?u=4e1ec405cd8a4d9b988d8d2121977b3a49d1f4cd&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sarahnada7</name>
-            <email>sarahnada7@noreply.github.com</email>
-            <uri>https://github.com/sarahnada7</uri>
-        </author>
-        <published>2026-11-24T18:17:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ganzijie1/dongzhou: 《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO]]></title>
-        <id>https://github.com/ganzijie1/dongzhou</id>
-        <link href="https://github.com/ganzijie1/dongzhou"/>
-        <updated>2026-11-12T16:23:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/280989074?u=9725121ceb374f5ef2bbb6493f649be50fa12a8b&v=4" width="64" height="64" alt=""/><br/><div>《东周英杰传》仓库，预计划100+关卡，剧情参考东周列国志和国语左传，地图标注采用dinov3精确标注，ai行动也引入HAPPO</div>]]></content>
-        <author>
-            <name>ganzijie1</name>
-            <email>ganzijie1@noreply.github.com</email>
-            <uri>https://github.com/ganzijie1</uri>
-        </author>
-        <published>2026-08-13T05:30:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prdeblog/DINOv3-Dry-Matter]]></title>
-        <id>https://github.com/Prdeblog/DINOv3-Dry-Matter</id>
-        <link href="https://github.com/Prdeblog/DINOv3-Dry-Matter"/>
-        <updated>2026-11-25T00:09:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/89032007?u=552dc7d34460d9b2167763c1836e0521186fb762&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Prdeblog</name>
-            <email>Prdeblog@noreply.github.com</email>
-            <uri>https://github.com/Prdeblog</uri>
-        </author>
-        <published>2026-11-24T14:35:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.]]></title>
-        <id>https://github.com/alifarzadjamali/fashion-compatibility-benchmark</id>
-        <link href="https://github.com/alifarzadjamali/fashion-compatibility-benchmark"/>
-        <updated>2026-11-18T19:35:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225652879?u=3a02a9c787f4c670e4790b532e5e013268374a11&v=4" width="64" height="64" alt=""/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>]]></content>
-        <author>
-            <name>alifarzadjamali</name>
-            <email>alifarzadjamali@noreply.github.com</email>
-            <uri>https://github.com/alifarzadjamali</uri>
-        </author>
-        <published>2026-03-25T17:20:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[siinwook/Amplified-Gram-Anchoring: Amplified Gram Anchoring: Selectively Strengthening Patch Relationships for Dense Visual Representations ]]></title>
-        <id>https://github.com/siinwook/Amplified-Gram-Anchoring</id>
-        <link href="https://github.com/siinwook/Amplified-Gram-Anchoring"/>
-        <updated>2026-11-23T10:35:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/189723928?v=4" width="64" height="64" alt=""/><br/><div>Amplified Gram Anchoring: Selectively Strengthening Patch Relationships for Dense Visual Representations </div>]]></content>
-        <author>
-            <name>siinwook</name>
-            <email>siinwook@noreply.github.com</email>
-            <uri>https://github.com/siinwook</uri>
-        </author>
-        <published>2026-11-22T08:05:17.000Z</published>
     </entry>
 </feed>
