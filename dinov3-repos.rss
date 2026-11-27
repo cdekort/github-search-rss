@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-11-26T07:09:38.929Z</updated>
+    <updated>2026-11-27T07:05:19.838Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -21,23 +21,10 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChengShiest/RevFlow: Official PyTorch implementation of "Generation as Reverse Encoding" (RevFlow)]]></title>
-        <id>https://github.com/ChengShiest/RevFlow</id>
-        <link href="https://github.com/ChengShiest/RevFlow"/>
-        <updated>2026-11-26T05:44:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51861543?u=6d2cd6ff22acbc1fb03bbc088993e7b4e6a642dc&v=4" width="64" height="64" alt=""/><br/><div>Official PyTorch implementation of "Generation as Reverse Encoding" (RevFlow)</div>]]></content>
-        <author>
-            <name>ChengShiest</name>
-            <email>ChengShiest@noreply.github.com</email>
-            <uri>https://github.com/ChengShiest</uri>
-        </author>
-        <published>2026-11-23T00:50:55.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[hammamiomar/dinodreamer: DinoDreamer: cellular automata trained on DINOv3. Train and watch them in your browser with WebGPU.]]></title>
         <id>https://github.com/hammamiomar/dinodreamer</id>
         <link href="https://github.com/hammamiomar/dinodreamer"/>
-        <updated>2026-11-25T22:20:33.000Z</updated>
+        <updated>2026-11-26T20:48:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47250693?u=02d34bb93bf880af6fcc58dde893c92c934420ff&v=4" width="64" height="64" alt=""/><br/><div>DinoDreamer: cellular automata trained on DINOv3. Train and watch them in your browser with WebGPU.</div>]]></content>
         <author>
             <name>hammamiomar</name>
@@ -45,6 +32,162 @@
             <uri>https://github.com/hammamiomar</uri>
         </author>
         <published>2026-10-30T00:15:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vedantichavan/fruit-crowd-detection: Crowd detection and counting across different fruit categories using YOLO, CSRNet and DINOv3.]]></title>
+        <id>https://github.com/vedantichavan/fruit-crowd-detection</id>
+        <link href="https://github.com/vedantichavan/fruit-crowd-detection"/>
+        <updated>2026-11-26T23:58:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/169764605?v=4" width="64" height="64" alt=""/><br/><div>Crowd detection and counting across different fruit categories using YOLO, CSRNet and DINOv3.</div>]]></content>
+        <author>
+            <name>vedantichavan</name>
+            <email>vedantichavan@noreply.github.com</email>
+            <uri>https://github.com/vedantichavan</uri>
+        </author>
+        <published>2026-11-26T23:58:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles]]></title>
+        <id>https://github.com/SomethingObvious/jwst-peculiar</id>
+        <link href="https://github.com/SomethingObvious/jwst-peculiar"/>
+        <updated>2026-11-21T19:32:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4" width="64" height="64" alt=""/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>]]></content>
+        <author>
+            <name>SomethingObvious</name>
+            <email>SomethingObvious@noreply.github.com</email>
+            <uri>https://github.com/SomethingObvious</uri>
+        </author>
+        <published>2026-01-03T07:48:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bovi-analytics/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)]]></title>
+        <id>https://github.com/Bovi-analytics/PEFT-Fine-tuning-cows</id>
+        <link href="https://github.com/Bovi-analytics/PEFT-Fine-tuning-cows"/>
+        <updated>2026-10-08T12:35:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11755055?v=4" width="64" height="64" alt=""/><br/><div>Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)</div>]]></content>
+        <author>
+            <name>Bovi-analytics</name>
+            <email>Bovi-analytics@noreply.github.com</email>
+            <uri>https://github.com/Bovi-analytics</uri>
+        </author>
+        <published>2026-02-02T14:04:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kiranbabuthatha/wild-fish-zeroshot-clustering: Master's thesis codebase (OVGU Magdeburg & SCHUFI, Univ. of Rostock) for zero-shot clustering of wild marine and brackish fish images using frozen Vision Transformers (DINOv3, BioCLIP 2), dimensionality reduction (openTSNE, UMAP), projection quality metrics, and cross-dataset Baltic Sea analysis.]]></title>
+        <id>https://github.com/kiranbabuthatha/wild-fish-zeroshot-clustering</id>
+        <link href="https://github.com/kiranbabuthatha/wild-fish-zeroshot-clustering"/>
+        <updated>2026-11-26T17:25:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75785469?u=ed39a902a97a4c8c71615b4a0111e4d2363df279&v=4" width="64" height="64" alt=""/><br/><div>Master's thesis codebase (OVGU Magdeburg &amp; SCHUFI, Univ. of Rostock) for zero-shot clustering of wild marine and brackish fish images using frozen Vision Transformers (DINOv3, BioCLIP 2), dimensionality reduction (openTSNE, UMAP), projection quality metrics, and cross-dataset Baltic Sea analysis.</div>]]></content>
+        <author>
+            <name>kiranbabuthatha</name>
+            <email>kiranbabuthatha@noreply.github.com</email>
+            <uri>https://github.com/kiranbabuthatha</uri>
+        </author>
+        <published>2026-11-26T07:53:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lewislew666/Tesla-FSD-V15-Deployment-Attempt: Tesla FSD V15 Deployment Attempt — an independent, offline recreation of Reality View using real KITTI stereo footage, DINOv3 and conditional diffusion.]]></title>
+        <id>https://github.com/lewislew666/Tesla-FSD-V15-Deployment-Attempt</id>
+        <link href="https://github.com/lewislew666/Tesla-FSD-V15-Deployment-Attempt"/>
+        <updated>2026-11-27T02:55:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/290115286?u=bd6031d4d6c28bc50cf12171d90f5a6d674cb818&v=4" width="64" height="64" alt=""/><br/><div>Tesla FSD V15 Deployment Attempt — an independent, offline recreation of Reality View using real KITTI stereo footage, DINOv3 and conditional diffusion.</div>]]></content>
+        <author>
+            <name>lewislew666</name>
+            <email>lewislew666@noreply.github.com</email>
+            <uri>https://github.com/lewislew666</uri>
+        </author>
+        <published>2026-11-26T07:41:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[franciscogfsm/ShelfOS: Every shelf. In sight. Shelf intelligence from ceiling cameras: right product, how full, and a to-do list for the store staff.]]></title>
+        <id>https://github.com/franciscogfsm/ShelfOS</id>
+        <link href="https://github.com/franciscogfsm/ShelfOS"/>
+        <updated>2026-11-26T13:02:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/147647438?u=581dbfcd9e0c0334a967a67cd59e927c0e3ecc49&v=4" width="64" height="64" alt=""/><br/><div>Every shelf. In sight. Shelf intelligence from ceiling cameras: right product, how full, and a to-do list for the store staff.</div>]]></content>
+        <author>
+            <name>franciscogfsm</name>
+            <email>franciscogfsm@noreply.github.com</email>
+            <uri>https://github.com/franciscogfsm</uri>
+        </author>
+        <published>2026-10-10T11:47:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dontpanic-v/DINOv3-Rice-leaf-classifier: Rice leaf disease classification using DINOv3 ViT-Huge+ transfer learning]]></title>
+        <id>https://github.com/dontpanic-v/DINOv3-Rice-leaf-classifier</id>
+        <link href="https://github.com/dontpanic-v/DINOv3-Rice-leaf-classifier"/>
+        <updated>2026-11-26T11:45:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/178766753?u=4ca07d928af4333f4d356bb1ae116e61322df9da&v=4" width="64" height="64" alt=""/><br/><div>Rice leaf disease classification using DINOv3 ViT-Huge+ transfer learning</div>]]></content>
+        <author>
+            <name>dontpanic-v</name>
+            <email>dontpanic-v@noreply.github.com</email>
+            <uri>https://github.com/dontpanic-v</uri>
+        </author>
+        <published>2026-11-26T11:45:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dontpanic-v/CSIRO-image2biomass: Pasture biomass prediction from field photographs using DINOv3]]></title>
+        <id>https://github.com/dontpanic-v/CSIRO-image2biomass</id>
+        <link href="https://github.com/dontpanic-v/CSIRO-image2biomass"/>
+        <updated>2026-11-26T11:45:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/178766753?u=4ca07d928af4333f4d356bb1ae116e61322df9da&v=4" width="64" height="64" alt=""/><br/><div>Pasture biomass prediction from field photographs using DINOv3</div>]]></content>
+        <author>
+            <name>dontpanic-v</name>
+            <email>dontpanic-v@noreply.github.com</email>
+            <uri>https://github.com/dontpanic-v</uri>
+        </author>
+        <published>2026-11-26T11:45:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaadQAbbasi/cbm-vs-direct-skincon: Ethics in AI (UniBo): Concept Bottleneck Model vs direct model on frozen DINOv3 features, SkinCon / Fitzpatrick17k]]></title>
+        <id>https://github.com/SaadQAbbasi/cbm-vs-direct-skincon</id>
+        <link href="https://github.com/SaadQAbbasi/cbm-vs-direct-skincon"/>
+        <updated>2026-11-26T12:18:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/130866505?u=89a31579691e1563bea40cbbc9ecd007629e37e5&v=4" width="64" height="64" alt=""/><br/><div>Ethics in AI (UniBo): Concept Bottleneck Model vs direct model on frozen DINOv3 features, SkinCon / Fitzpatrick17k</div>]]></content>
+        <author>
+            <name>SaadQAbbasi</name>
+            <email>SaadQAbbasi@noreply.github.com</email>
+            <uri>https://github.com/SaadQAbbasi</uri>
+        </author>
+        <published>2026-10-25T13:49:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ElFariss/datascape-2026: 1st Place Data Mining Competition at DATASCAPE 2026 for package condition classification with adaptive preprocessing and LoRA-adapted dual-backbone DINOv3 feature fusion]]></title>
+        <id>https://github.com/ElFariss/datascape-2026</id>
+        <link href="https://github.com/ElFariss/datascape-2026"/>
+        <updated>2026-11-11T04:59:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/194391759?u=32c3b4eab3bb27c42b741a7f45a1ec4e9d963288&v=4" width="64" height="64" alt=""/><br/><div>1st Place Data Mining Competition at DATASCAPE 2026 for package condition classification with adaptive preprocessing and LoRA-adapted dual-backbone DINOv3 feature fusion</div>]]></content>
+        <author>
+            <name>ElFariss</name>
+            <email>ElFariss@noreply.github.com</email>
+            <uri>https://github.com/ElFariss</uri>
+        </author>
+        <published>2026-11-11T03:34:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LAnthonyJ/meteorite-classification-model: Meteorite image classification with DINOv3, surface texture descriptors and ConvNeXtV2. Stage 2 private-test F1: 0.86046.]]></title>
+        <id>https://github.com/LAnthonyJ/meteorite-classification-model</id>
+        <link href="https://github.com/LAnthonyJ/meteorite-classification-model"/>
+        <updated>2026-11-26T11:51:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/190471877?u=4bed6001c7fba42c1d33cf82997cd7eb22607272&v=4" width="64" height="64" alt=""/><br/><div>Meteorite image classification with DINOv3, surface texture descriptors and ConvNeXtV2. Stage 2 private-test F1: 0.86046.</div>]]></content>
+        <author>
+            <name>LAnthonyJ</name>
+            <email>LAnthonyJ@noreply.github.com</email>
+            <uri>https://github.com/LAnthonyJ</uri>
+        </author>
+        <published>2026-06-07T13:29:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChengShiest/RevFlow: Official PyTorch implementation of "Generation as Reverse Encoding" (RevFlow)]]></title>
+        <id>https://github.com/ChengShiest/RevFlow</id>
+        <link href="https://github.com/ChengShiest/RevFlow"/>
+        <updated>2026-11-27T06:03:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51861543?u=6d2cd6ff22acbc1fb03bbc088993e7b4e6a642dc&v=4" width="64" height="64" alt=""/><br/><div>Official PyTorch implementation of "Generation as Reverse Encoding" (RevFlow)</div>]]></content>
+        <author>
+            <name>ChengShiest</name>
+            <email>ChengShiest@noreply.github.com</email>
+            <uri>https://github.com/ChengShiest</uri>
+        </author>
+        <published>2026-11-23T00:50:55.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[nutboltu/chinee-apple-cv-benchmark: DINOv3 experiments with a Colab GPU runtime via SSH tunnel]]></title>
@@ -76,7 +219,7 @@
         <title type="html"><![CDATA[kshitijrajsharma/dinov3-continual-vhr: Continual Pretraining of DINO V3 in Aerial and Satellite VHR ]]></title>
         <id>https://github.com/kshitijrajsharma/dinov3-continual-vhr</id>
         <link href="https://github.com/kshitijrajsharma/dinov3-continual-vhr"/>
-        <updated>2026-11-25T17:50:01.000Z</updated>
+        <updated>2026-11-26T09:57:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36752999?u=5f103a26d0dd3a7b00cdcf22199e5aee6f69de0b&v=4" width="64" height="64" alt=""/><br/><div>Continual Pretraining of DINO V3 in Aerial and Satellite VHR </div>]]></content>
         <author>
             <name>kshitijrajsharma</name>
@@ -123,148 +266,5 @@
             <uri>https://github.com/xocialize-code</uri>
         </author>
         <published>2026-11-14T04:58:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kleinicke/fastforks: Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup]]></title>
-        <id>https://github.com/kleinicke/fastforks</id>
-        <link href="https://github.com/kleinicke/fastforks"/>
-        <updated>2026-11-25T13:38:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10370975?u=9fa31ebfc067622eaedce426f1f6845009039492&v=4" width="64" height="64" alt=""/><br/><div>Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup</div>]]></content>
-        <author>
-            <name>kleinicke</name>
-            <email>kleinicke@noreply.github.com</email>
-            <uri>https://github.com/kleinicke</uri>
-        </author>
-        <published>2026-11-03T17:21:42.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[riyadhHDA/pixplot-v2: Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.]]></title>
-        <id>https://github.com/riyadhHDA/pixplot-v2</id>
-        <link href="https://github.com/riyadhHDA/pixplot-v2"/>
-        <updated>2026-11-21T20:41:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25872060?u=dfbd2539626cbf40142d7ff1be7eb997e1f6d93e&v=4" width="64" height="64" alt=""/><br/><div>Visual exploration of large art corpora for art history — DINOv3, SigLIP 2, e-means, UMAP, FAISS, MCP. Maps 80,716 WikiArt works on one PC. By Riyadh HADJBA, art history student, University of Strasbourg.</div>]]></content>
-        <author>
-            <name>riyadhHDA</name>
-            <email>riyadhHDA@noreply.github.com</email>
-            <uri>https://github.com/riyadhHDA</uri>
-        </author>
-        <published>2026-11-15T19:48:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wlejon/brovisionml: Pure C++20 vision-model inference on brotensor (CPU, CUDA, Metal, Vulkan): SAM, Depth-Anything-V2, DSINE, BiRefNet, OWLv2, DINOv3, StyleGAN3, and ControlNet annotators.]]></title>
-        <id>https://github.com/wlejon/brovisionml</id>
-        <link href="https://github.com/wlejon/brovisionml"/>
-        <updated>2026-11-25T04:21:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/921636?u=3a8733f95c925185a5af007bacc2f51bed8b0bd5&v=4" width="64" height="64" alt=""/><br/><div>Pure C++20 vision-model inference on brotensor (CPU, CUDA, Metal, Vulkan): SAM, Depth-Anything-V2, DSINE, BiRefNet, OWLv2, DINOv3, StyleGAN3, and ControlNet annotators.</div>]]></content>
-        <author>
-            <name>wlejon</name>
-            <email>wlejon@noreply.github.com</email>
-            <uri>https://github.com/wlejon</uri>
-        </author>
-        <published>2026-05-31T17:50:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11king925/underwater-detection-eval: Evaluation tools and model configurations for underwater object detection with DINOv3, YOLOv11s, and RT-DETR.]]></title>
-        <id>https://github.com/11king925/underwater-detection-eval</id>
-        <link href="https://github.com/11king925/underwater-detection-eval"/>
-        <updated>2026-11-25T07:12:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/357640340?v=4" width="64" height="64" alt=""/><br/><div>Evaluation tools and model configurations for underwater object detection with DINOv3, YOLOv11s, and RT-DETR.</div>]]></content>
-        <author>
-            <name>11king925</name>
-            <email>11king925@noreply.github.com</email>
-            <uri>https://github.com/11king925</uri>
-        </author>
-        <published>2026-11-24T12:13:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ahui626/DINOV3-YOLOV12]]></title>
-        <id>https://github.com/Ahui626/DINOV3-YOLOV12</id>
-        <link href="https://github.com/Ahui626/DINOV3-YOLOV12"/>
-        <updated>2026-11-25T17:44:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143953441?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Ahui626</name>
-            <email>Ahui626@noreply.github.com</email>
-            <uri>https://github.com/Ahui626</uri>
-        </author>
-        <published>2026-11-25T04:30:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chenzz-L/multiview-building-segmentation: Oblique aerial building extraction with SUAM structural-unit mapping, RMMF multi-view fusion, DINOv3 and Mask2Former.]]></title>
-        <id>https://github.com/Chenzz-L/multiview-building-segmentation</id>
-        <link href="https://github.com/Chenzz-L/multiview-building-segmentation"/>
-        <updated>2026-11-25T05:47:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121278558?v=4" width="64" height="64" alt=""/><br/><div>Oblique aerial building extraction with SUAM structural-unit mapping, RMMF multi-view fusion, DINOv3 and Mask2Former.</div>]]></content>
-        <author>
-            <name>Chenzz-L</name>
-            <email>Chenzz-L@noreply.github.com</email>
-            <uri>https://github.com/Chenzz-L</uri>
-        </author>
-        <published>2026-11-25T03:24:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sumit-parihar/Disease_Detection_DINOv3]]></title>
-        <id>https://github.com/sumit-parihar/Disease_Detection_DINOv3</id>
-        <link href="https://github.com/sumit-parihar/Disease_Detection_DINOv3"/>
-        <updated>2026-11-25T00:09:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/217632269?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sumit-parihar</name>
-            <email>sumit-parihar@noreply.github.com</email>
-            <uri>https://github.com/sumit-parihar</uri>
-        </author>
-        <published>2026-11-24T22:33:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles]]></title>
-        <id>https://github.com/SomethingObvious/jwst-peculiar</id>
-        <link href="https://github.com/SomethingObvious/jwst-peculiar"/>
-        <updated>2026-11-21T19:32:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4" width="64" height="64" alt=""/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>]]></content>
-        <author>
-            <name>SomethingObvious</name>
-            <email>SomethingObvious@noreply.github.com</email>
-            <uri>https://github.com/SomethingObvious</uri>
-        </author>
-        <published>2026-01-03T07:48:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dheeraj9932/dinov3_exploration]]></title>
-        <id>https://github.com/dheeraj9932/dinov3_exploration</id>
-        <link href="https://github.com/dheeraj9932/dinov3_exploration"/>
-        <updated>2026-11-25T00:09:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49652542?u=2129756eaf121d38c0cfc1fbea5ae4e953620f34&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>dheeraj9932</name>
-            <email>dheeraj9932@noreply.github.com</email>
-            <uri>https://github.com/dheeraj9932</uri>
-        </author>
-        <published>2026-11-24T16:50:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[turhancan97/doppeldwarf-306: Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.]]></title>
-        <id>https://github.com/turhancan97/doppeldwarf-306</id>
-        <link href="https://github.com/turhancan97/doppeldwarf-306"/>
-        <updated>2026-11-24T20:09:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22428774?u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4" width="64" height="64" alt=""/><br/><div>Doppeldwarf-306: identifying Wrocław's near-identical bronze dwarf statues from a photograph. 13 frozen backbones in 7 pretraining paradigms, accuracy vs. candidate-pool size, location as a weight rather than a filter, learned re-ranking and open-set rejection, with statue-level intervals and an on-device browser demo.</div>]]></content>
-        <author>
-            <name>turhancan97</name>
-            <email>turhancan97@noreply.github.com</email>
-            <uri>https://github.com/turhancan97</uri>
-        </author>
-        <published>2026-08-19T17:20:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julian-Wyatt/MCTP: Monte Carlo Token Pruning (MCTP): per-token impact maps for pruning pretrained ViTs (DINOv3, SigLIP 2) at any depth, with sink-token protection, test-time registers and off-box mass.]]></title>
-        <id>https://github.com/Julian-Wyatt/MCTP</id>
-        <link href="https://github.com/Julian-Wyatt/MCTP"/>
-        <updated>2026-11-24T09:55:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44175667?u=632091d4af84f1c0b8986a217d0da1024350e2d4&v=4" width="64" height="64" alt=""/><br/><div>Monte Carlo Token Pruning (MCTP): per-token impact maps for pruning pretrained ViTs (DINOv3, SigLIP 2) at any depth, with sink-token protection, test-time registers and off-box mass.</div>]]></content>
-        <author>
-            <name>Julian-Wyatt</name>
-            <email>Julian-Wyatt@noreply.github.com</email>
-            <uri>https://github.com/Julian-Wyatt</uri>
-        </author>
-        <published>2026-11-20T09:55:45.000Z</published>
     </entry>
 </feed>
