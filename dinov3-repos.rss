@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdekort.github.io/github-search-rss/dinov3-repos.rss</id>
     <title>DINOv3 Repositories</title>
-    <updated>2026-11-27T07:05:19.838Z</updated>
+    <updated>2026-11-28T06:39:03.567Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://cdekort.github.io/github-search-rss/dinov3-repos.rss"/>
     <subtitle>DINOv3 Repositories on GitHub</subtitle>
@@ -21,10 +21,166 @@
         <published>2026-08-25T14:33:27.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tushar20250/cheque-flask-api: Flask REST API that finds a signature on a cheque with Gemma 4 and verifies it as genuine or forged with DINOv3.]]></title>
+        <id>https://github.com/Tushar20250/cheque-flask-api</id>
+        <link href="https://github.com/Tushar20250/cheque-flask-api"/>
+        <updated>2026-11-28T05:45:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/217893148?v=4" width="64" height="64" alt=""/><br/><div>Flask REST API that finds a signature on a cheque with Gemma 4 and verifies it as genuine or forged with DINOv3.</div>]]></content>
+        <author>
+            <name>Tushar20250</name>
+            <email>Tushar20250@noreply.github.com</email>
+            <uri>https://github.com/Tushar20250</uri>
+        </author>
+        <published>2026-11-28T05:43:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles]]></title>
+        <id>https://github.com/SomethingObvious/jwst-peculiar</id>
+        <link href="https://github.com/SomethingObvious/jwst-peculiar"/>
+        <updated>2026-11-21T19:32:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4" width="64" height="64" alt=""/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>]]></content>
+        <author>
+            <name>SomethingObvious</name>
+            <email>SomethingObvious@noreply.github.com</email>
+            <uri>https://github.com/SomethingObvious</uri>
+        </author>
+        <published>2026-01-03T07:48:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wangyam1/GeoRecViT: GeoRecViT: Heterogeneous Recursive ViT with SAM 3 and DINOv3-SAT for Remote Sensing Segmentation]]></title>
+        <id>https://github.com/wangyam1/GeoRecViT</id>
+        <link href="https://github.com/wangyam1/GeoRecViT"/>
+        <updated>2026-11-28T00:24:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/240330551?u=bcbcd548c7b70016e4fe7e7c88a00f94f3244c86&v=4" width="64" height="64" alt=""/><br/><div>GeoRecViT: Heterogeneous Recursive ViT with SAM 3 and DINOv3-SAT for Remote Sensing Segmentation</div>]]></content>
+        <author>
+            <name>wangyam1</name>
+            <email>wangyam1@noreply.github.com</email>
+            <uri>https://github.com/wangyam1</uri>
+        </author>
+        <published>2026-11-27T10:28:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lmague/uav-vegetation-vfm: 42 configurations (11 frozen, 31 fine-tuned) of vision foundation models for 11-class Arctic tundra vegetation mapping from drone orthomosaics. Tile context, mean-field smoothing, LoRA and GNN controls.]]></title>
+        <id>https://github.com/Lmague/uav-vegetation-vfm</id>
+        <link href="https://github.com/Lmague/uav-vegetation-vfm"/>
+        <updated>2026-11-25T23:24:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180333412?v=4" width="64" height="64" alt=""/><br/><div>42 configurations (11 frozen, 31 fine-tuned) of vision foundation models for 11-class Arctic tundra vegetation mapping from drone orthomosaics. Tile context, mean-field smoothing, LoRA and GNN controls.</div>]]></content>
+        <author>
+            <name>Lmague</name>
+            <email>Lmague@noreply.github.com</email>
+            <uri>https://github.com/Lmague</uri>
+        </author>
+        <published>2026-06-02T05:37:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[marekvasko/HandID: Person identification from the dorsal side of the hand (PyTorch Lightning, Hydra, MLflow, DINOv3)]]></title>
+        <id>https://github.com/marekvasko/HandID</id>
+        <link href="https://github.com/marekvasko/HandID"/>
+        <updated>2026-11-27T23:53:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43761668?u=28f67e6c849c1e2e572ea8e71f38110cc6f4f712&v=4" width="64" height="64" alt=""/><br/><div>Person identification from the dorsal side of the hand (PyTorch Lightning, Hydra, MLflow, DINOv3)</div>]]></content>
+        <author>
+            <name>marekvasko</name>
+            <email>marekvasko@noreply.github.com</email>
+            <uri>https://github.com/marekvasko</uri>
+        </author>
+        <published>2026-11-27T19:36:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
+        <id>https://github.com/Trudes808/Dinov3-WhaleID</id>
+        <link href="https://github.com/Trudes808/Dinov3-WhaleID"/>
+        <updated>2026-10-23T14:21:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>]]></content>
+        <author>
+            <name>Trudes808</name>
+            <email>Trudes808@noreply.github.com</email>
+            <uri>https://github.com/Trudes808</uri>
+        </author>
+        <published>2025-12-19T00:23:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ElikplimSunu/model-shop: Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.]]></title>
+        <id>https://github.com/ElikplimSunu/model-shop</id>
+        <link href="https://github.com/ElikplimSunu/model-shop"/>
+        <updated>2026-11-16T20:09:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/42668840?u=976411f1a8ea0cb8fb241689648f6237b44ebb21&v=4" width="64" height="64" alt=""/><br/><div>Turn a photo or a short description into a 3D model you can turn, inspect and download. Open models (TRELLIS.2 with Meta DINOv3) on your own Modal GPU.</div>]]></content>
+        <author>
+            <name>ElikplimSunu</name>
+            <email>ElikplimSunu@noreply.github.com</email>
+            <uri>https://github.com/ElikplimSunu</uri>
+        </author>
+        <published>2026-04-11T04:09:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
+        <id>https://github.com/kingwingfly/lets_embed</id>
+        <link href="https://github.com/kingwingfly/lets_embed"/>
+        <updated>2026-11-21T03:06:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
+        <author>
+            <name>kingwingfly</name>
+            <email>kingwingfly@noreply.github.com</email>
+            <uri>https://github.com/kingwingfly</uri>
+        </author>
+        <published>2026-05-17T07:13:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zkang-CN/UBDINO: Official PyTorch implementation of UBDINO for frequency-guided multimodal urban boundary mapping.]]></title>
+        <id>https://github.com/zkang-CN/UBDINO</id>
+        <link href="https://github.com/zkang-CN/UBDINO"/>
+        <updated>2026-11-28T00:24:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/173328136?u=5716cd24da272353f2adf95e0a821169212033c7&v=4" width="64" height="64" alt=""/><br/><div>Official PyTorch implementation of UBDINO for frequency-guided multimodal urban boundary mapping.</div>]]></content>
+        <author>
+            <name>zkang-CN</name>
+            <email>zkang-CN@noreply.github.com</email>
+            <uri>https://github.com/zkang-CN</uri>
+        </author>
+        <published>2026-08-01T10:02:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ai-by-sourav/dinov3-retail-reid: Person re-identification for retail footfall & repeat-customer analytics: DINOv3 ViT-B/16 fine-tuned with triplet loss + EMA teacher-student (cross-view consistency), a rule-based matching engine, and an optional age/gender head.]]></title>
+        <id>https://github.com/ai-by-sourav/dinov3-retail-reid</id>
+        <link href="https://github.com/ai-by-sourav/dinov3-retail-reid"/>
+        <updated>2026-11-27T19:57:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/102985398?v=4" width="64" height="64" alt=""/><br/><div>Person re-identification for retail footfall &amp; repeat-customer analytics: DINOv3 ViT-B/16 fine-tuned with triplet loss + EMA teacher-student (cross-view consistency), a rule-based matching engine, and an optional age/gender head.</div>]]></content>
+        <author>
+            <name>ai-by-sourav</name>
+            <email>ai-by-sourav@noreply.github.com</email>
+            <uri>https://github.com/ai-by-sourav</uri>
+        </author>
+        <published>2026-11-27T19:54:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zixiong-wang/PMTT: Official implementation and reproducibility assets for "A Patch is More Than a Token" (PMTT).]]></title>
+        <id>https://github.com/zixiong-wang/PMTT</id>
+        <link href="https://github.com/zixiong-wang/PMTT"/>
+        <updated>2026-11-05T16:49:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/350216845?v=4" width="64" height="64" alt=""/><br/><div>Official implementation and reproducibility assets for "A Patch is More Than a Token" (PMTT).</div>]]></content>
+        <author>
+            <name>zixiong-wang</name>
+            <email>zixiong-wang@noreply.github.com</email>
+            <uri>https://github.com/zixiong-wang</uri>
+        </author>
+        <published>2026-10-30T11:39:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alifarzadjamali/fashion-compatibility-benchmark: Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.]]></title>
+        <id>https://github.com/alifarzadjamali/fashion-compatibility-benchmark</id>
+        <link href="https://github.com/alifarzadjamali/fashion-compatibility-benchmark"/>
+        <updated>2026-11-27T15:50:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/225652879?u=3a02a9c787f4c670e4790b532e5e013268374a11&v=4" width="64" height="64" alt=""/><br/><div>Controlled benchmark of frozen visual representations for outfit compatibility across Polyvore, IQON3000 and human-grounded A100, with robustness, calibration and efficiency analysis.</div>]]></content>
+        <author>
+            <name>alifarzadjamali</name>
+            <email>alifarzadjamali@noreply.github.com</email>
+            <uri>https://github.com/alifarzadjamali</uri>
+        </author>
+        <published>2026-03-25T17:20:53.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[hammamiomar/dinodreamer: DinoDreamer: cellular automata trained on DINOv3. Train and watch them in your browser with WebGPU.]]></title>
         <id>https://github.com/hammamiomar/dinodreamer</id>
         <link href="https://github.com/hammamiomar/dinodreamer"/>
-        <updated>2026-11-26T20:48:38.000Z</updated>
+        <updated>2026-11-27T11:57:36.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47250693?u=02d34bb93bf880af6fcc58dde893c92c934420ff&v=4" width="64" height="64" alt=""/><br/><div>DinoDreamer: cellular automata trained on DINOv3. Train and watch them in your browser with WebGPU.</div>]]></content>
         <author>
             <name>hammamiomar</name>
@@ -45,19 +201,6 @@
             <uri>https://github.com/vedantichavan</uri>
         </author>
         <published>2026-11-26T23:58:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SomethingObvious/jwst-peculiar: Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles]]></title>
-        <id>https://github.com/SomethingObvious/jwst-peculiar</id>
-        <link href="https://github.com/SomethingObvious/jwst-peculiar"/>
-        <updated>2026-11-21T19:32:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46831531?u=5ab9981b2dd76955cedb0d17615de26c9e138a8b&v=4" width="64" height="64" alt=""/><br/><div>Unsupervised anomaly detection for James Webb Space Telescope images, with DINOv3 features and a web viewer for the ranked tiles</div>]]></content>
-        <author>
-            <name>SomethingObvious</name>
-            <email>SomethingObvious@noreply.github.com</email>
-            <uri>https://github.com/SomethingObvious</uri>
-        </author>
-        <published>2026-01-03T07:48:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bovi-analytics/PEFT-Fine-tuning-cows: Exploring the power of PEFT by systematically comparing three approaches for nine-class dairy cow behavior classification: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters)]]></title>
@@ -89,7 +232,7 @@
         <title type="html"><![CDATA[lewislew666/Tesla-FSD-V15-Deployment-Attempt: Tesla FSD V15 Deployment Attempt — an independent, offline recreation of Reality View using real KITTI stereo footage, DINOv3 and conditional diffusion.]]></title>
         <id>https://github.com/lewislew666/Tesla-FSD-V15-Deployment-Attempt</id>
         <link href="https://github.com/lewislew666/Tesla-FSD-V15-Deployment-Attempt"/>
-        <updated>2026-11-27T02:55:35.000Z</updated>
+        <updated>2026-11-27T07:20:12.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/290115286?u=bd6031d4d6c28bc50cf12171d90f5a6d674cb818&v=4" width="64" height="64" alt=""/><br/><div>Tesla FSD V15 Deployment Attempt — an independent, offline recreation of Reality View using real KITTI stereo footage, DINOv3 and conditional diffusion.</div>]]></content>
         <author>
             <name>lewislew666</name>
@@ -123,148 +266,5 @@
             <uri>https://github.com/dontpanic-v</uri>
         </author>
         <published>2026-11-26T11:45:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dontpanic-v/CSIRO-image2biomass: Pasture biomass prediction from field photographs using DINOv3]]></title>
-        <id>https://github.com/dontpanic-v/CSIRO-image2biomass</id>
-        <link href="https://github.com/dontpanic-v/CSIRO-image2biomass"/>
-        <updated>2026-11-26T11:45:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/178766753?u=4ca07d928af4333f4d356bb1ae116e61322df9da&v=4" width="64" height="64" alt=""/><br/><div>Pasture biomass prediction from field photographs using DINOv3</div>]]></content>
-        <author>
-            <name>dontpanic-v</name>
-            <email>dontpanic-v@noreply.github.com</email>
-            <uri>https://github.com/dontpanic-v</uri>
-        </author>
-        <published>2026-11-26T11:45:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaadQAbbasi/cbm-vs-direct-skincon: Ethics in AI (UniBo): Concept Bottleneck Model vs direct model on frozen DINOv3 features, SkinCon / Fitzpatrick17k]]></title>
-        <id>https://github.com/SaadQAbbasi/cbm-vs-direct-skincon</id>
-        <link href="https://github.com/SaadQAbbasi/cbm-vs-direct-skincon"/>
-        <updated>2026-11-26T12:18:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/130866505?u=89a31579691e1563bea40cbbc9ecd007629e37e5&v=4" width="64" height="64" alt=""/><br/><div>Ethics in AI (UniBo): Concept Bottleneck Model vs direct model on frozen DINOv3 features, SkinCon / Fitzpatrick17k</div>]]></content>
-        <author>
-            <name>SaadQAbbasi</name>
-            <email>SaadQAbbasi@noreply.github.com</email>
-            <uri>https://github.com/SaadQAbbasi</uri>
-        </author>
-        <published>2026-10-25T13:49:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ElFariss/datascape-2026: 1st Place Data Mining Competition at DATASCAPE 2026 for package condition classification with adaptive preprocessing and LoRA-adapted dual-backbone DINOv3 feature fusion]]></title>
-        <id>https://github.com/ElFariss/datascape-2026</id>
-        <link href="https://github.com/ElFariss/datascape-2026"/>
-        <updated>2026-11-11T04:59:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/194391759?u=32c3b4eab3bb27c42b741a7f45a1ec4e9d963288&v=4" width="64" height="64" alt=""/><br/><div>1st Place Data Mining Competition at DATASCAPE 2026 for package condition classification with adaptive preprocessing and LoRA-adapted dual-backbone DINOv3 feature fusion</div>]]></content>
-        <author>
-            <name>ElFariss</name>
-            <email>ElFariss@noreply.github.com</email>
-            <uri>https://github.com/ElFariss</uri>
-        </author>
-        <published>2026-11-11T03:34:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAnthonyJ/meteorite-classification-model: Meteorite image classification with DINOv3, surface texture descriptors and ConvNeXtV2. Stage 2 private-test F1: 0.86046.]]></title>
-        <id>https://github.com/LAnthonyJ/meteorite-classification-model</id>
-        <link href="https://github.com/LAnthonyJ/meteorite-classification-model"/>
-        <updated>2026-11-26T11:51:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/190471877?u=4bed6001c7fba42c1d33cf82997cd7eb22607272&v=4" width="64" height="64" alt=""/><br/><div>Meteorite image classification with DINOv3, surface texture descriptors and ConvNeXtV2. Stage 2 private-test F1: 0.86046.</div>]]></content>
-        <author>
-            <name>LAnthonyJ</name>
-            <email>LAnthonyJ@noreply.github.com</email>
-            <uri>https://github.com/LAnthonyJ</uri>
-        </author>
-        <published>2026-06-07T13:29:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChengShiest/RevFlow: Official PyTorch implementation of "Generation as Reverse Encoding" (RevFlow)]]></title>
-        <id>https://github.com/ChengShiest/RevFlow</id>
-        <link href="https://github.com/ChengShiest/RevFlow"/>
-        <updated>2026-11-27T06:03:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/51861543?u=6d2cd6ff22acbc1fb03bbc088993e7b4e6a642dc&v=4" width="64" height="64" alt=""/><br/><div>Official PyTorch implementation of "Generation as Reverse Encoding" (RevFlow)</div>]]></content>
-        <author>
-            <name>ChengShiest</name>
-            <email>ChengShiest@noreply.github.com</email>
-            <uri>https://github.com/ChengShiest</uri>
-        </author>
-        <published>2026-11-23T00:50:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nutboltu/chinee-apple-cv-benchmark: DINOv3 experiments with a Colab GPU runtime via SSH tunnel]]></title>
-        <id>https://github.com/nutboltu/chinee-apple-cv-benchmark</id>
-        <link href="https://github.com/nutboltu/chinee-apple-cv-benchmark"/>
-        <updated>2026-10-14T14:36:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9896958?u=d73d9aa78745ea4f8095cfe10983022ecc397cb2&v=4" width="64" height="64" alt=""/><br/><div>DINOv3 experiments with a Colab GPU runtime via SSH tunnel</div>]]></content>
-        <author>
-            <name>nutboltu</name>
-            <email>nutboltu@noreply.github.com</email>
-            <uri>https://github.com/nutboltu</uri>
-        </author>
-        <published>2026-06-14T02:10:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lmague/uav-vegetation-vfm: 42 configurations (11 frozen, 31 fine-tuned) of vision foundation models for 11-class Arctic tundra vegetation mapping from drone orthomosaics. Tile context, mean-field smoothing, LoRA and GNN controls.]]></title>
-        <id>https://github.com/Lmague/uav-vegetation-vfm</id>
-        <link href="https://github.com/Lmague/uav-vegetation-vfm"/>
-        <updated>2026-11-25T23:24:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/180333412?v=4" width="64" height="64" alt=""/><br/><div>42 configurations (11 frozen, 31 fine-tuned) of vision foundation models for 11-class Arctic tundra vegetation mapping from drone orthomosaics. Tile context, mean-field smoothing, LoRA and GNN controls.</div>]]></content>
-        <author>
-            <name>Lmague</name>
-            <email>Lmague@noreply.github.com</email>
-            <uri>https://github.com/Lmague</uri>
-        </author>
-        <published>2026-06-02T05:37:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kshitijrajsharma/dinov3-continual-vhr: Continual Pretraining of DINO V3 in Aerial and Satellite VHR ]]></title>
-        <id>https://github.com/kshitijrajsharma/dinov3-continual-vhr</id>
-        <link href="https://github.com/kshitijrajsharma/dinov3-continual-vhr"/>
-        <updated>2026-11-26T09:57:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36752999?u=5f103a26d0dd3a7b00cdcf22199e5aee6f69de0b&v=4" width="64" height="64" alt=""/><br/><div>Continual Pretraining of DINO V3 in Aerial and Satellite VHR </div>]]></content>
-        <author>
-            <name>kshitijrajsharma</name>
-            <email>kshitijrajsharma@noreply.github.com</email>
-            <uri>https://github.com/kshitijrajsharma</uri>
-        </author>
-        <published>2026-11-25T17:49:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trudes808/Dinov3-WhaleID: Applying dinov3 to whale identification to help with tedious counting and labeling task]]></title>
-        <id>https://github.com/Trudes808/Dinov3-WhaleID</id>
-        <link href="https://github.com/Trudes808/Dinov3-WhaleID"/>
-        <updated>2026-10-23T14:21:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53022797?v=4" width="64" height="64" alt=""/><br/><div>Applying dinov3 to whale identification to help with tedious counting and labeling task</div>]]></content>
-        <author>
-            <name>Trudes808</name>
-            <email>Trudes808@noreply.github.com</email>
-            <uri>https://github.com/Trudes808</uri>
-        </author>
-        <published>2025-12-19T00:23:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kingwingfly/lets_embed: A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.]]></title>
-        <id>https://github.com/kingwingfly/lets_embed</id>
-        <link href="https://github.com/kingwingfly/lets_embed"/>
-        <updated>2026-11-21T03:06:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38573173?u=c782ae0c30b0c5d4b01eda58230ea90a5d9a9287&v=4" width="64" height="64" alt=""/><br/><div>A full stack, machine-learning-based, distributed-inference-based image-viewer with Rust, onnx, otel, leptos, pingora, GCP and cloudflare.</div>]]></content>
-        <author>
-            <name>kingwingfly</name>
-            <email>kingwingfly@noreply.github.com</email>
-            <uri>https://github.com/kingwingfly</uri>
-        </author>
-        <published>2026-05-17T07:13:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xocialize-code/gaea-plugin-hairdeck: HairDeck as a Gaea plugin: hair for an avatar from one character picture (MES mesh.generate_part). Built with DINOv3. Not released yet.]]></title>
-        <id>https://github.com/xocialize-code/gaea-plugin-hairdeck</id>
-        <link href="https://github.com/xocialize-code/gaea-plugin-hairdeck"/>
-        <updated>2026-11-14T17:58:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88944384?v=4" width="64" height="64" alt=""/><br/><div>HairDeck as a Gaea plugin: hair for an avatar from one character picture (MES mesh.generate_part). Built with DINOv3. Not released yet.</div>]]></content>
-        <author>
-            <name>xocialize-code</name>
-            <email>xocialize-code@noreply.github.com</email>
-            <uri>https://github.com/xocialize-code</uri>
-        </author>
-        <published>2026-11-14T04:58:08.000Z</published>
     </entry>
 </feed>
